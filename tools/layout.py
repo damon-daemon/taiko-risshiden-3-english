@@ -849,3 +849,30 @@ def apply(files, only=None):
         assert (tag, lo, hi) not in FREE or not any(files[tag][o:o + hi - lo]), 'layout code %08x: not free' % lo
         files[tag][o:o + hi - lo] = c.ljust(hi - lo, b'\0')
     return n
+# long names cut with "." where a name column has a fixed width (67 full names are over 86 px, the widest
+# 114; the Special Tale's hero "Yanada Masakatsu" ran into the Clan column of the People list)
+CODE += [
+    ('PROG', 0x80031c5c, 0x80031c64, [('jal', FITNAME), ('addiu', 'a1', 'zero', 86)]),     # People: clan at 106
+    ('PROG', 0x800337e8, 0x800337f0, [('jal', FITNAME), ('addiu', 'a1', 'zero', 92)]),     # people of a house
+    ('PROG', 0x8003bc48, 0x8003bc50, [('jal', FITNAME), ('addiu', 'a1', 'zero', 94)]),     # faction members
+    ('BATTLE', 0x8013dfc4, 0x8013dfcc, [('jal', FITNAME), ('addiu', 'a1', 'zero', 102)]),  # unit detail header,
+    ('BATTLE', 0x8013e17c, 0x8013e184, [('jal', FITNAME), ('addiu', 'a1', 'zero', 102)]),  # both variants
+]
+# castle renaming (MAPPOINT 0x800fd148, the lord's command 0x800fd4b0): the name entry starts with the castle's
+# current name, strcpy'd into the static 9-byte buffer 0x80150f4c (max 8 letters). 51 English castle names are
+# longer ("Bitchu-Takamatsu" = 16): the field now starts empty for those. s1 is free until 0x800fd2dc.
+CODE += [
+    ('MAPPOINT', 0x800fd180, 0x800fd1c0, [
+        ('lui', 's1', 0x8015), ('jal', 0x8002f164), ('addiu', 's1', 's1', 0x0f4c),
+        ('addu', 'a0', 's2', 'zero'), ('jal', 0x80056264), ('addu', 'a1', 'zero', 'zero'),   # name, no suffix
+        ('addu', 'a1', 'v0', 'zero'), ('jal', 0x800868b4), ('addu', 'a0', 's1', 'zero'),     # strcpy
+        ('lbu', 't0', 8, 's1'), ('sb', 'zero', 8, 's1'),
+        ('beqz', 't0', 'fits'), ('addu', 'a0', 's1', 'zero'),
+        ('sb', 'zero', 0, 's1'),                                                         # too long: empty
+        'fits:',
+        ('jal', 0x800785b0), ('nop',)]),
+    # its "a castle with that name already exists" check (20 @1470) compared the typed name with the records'
+    # Japanese names (0x80056238): now with the English one (getter, no suffix; a renamed castle as stored)
+    ('MAPPOINT', 0x800fd2e8, 0x800fd2f4, [
+        ('addu', 'a0', 's1', 'zero'), ('jal', 0x80056264), ('addu', 'a1', 'zero', 'zero')]),
+]

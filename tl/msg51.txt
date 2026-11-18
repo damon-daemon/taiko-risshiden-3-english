@@ -181,7 +181,7 @@ It is the fruit of your talent and effort, Lord {a6d0000}.
 @194
 I am your strategist now, but do you mean to replace me?
 @300
-\_\_\_\_\_- Kitanoshō Home -
+\_\_\_\_\_- Kitanoshō: Home -
 @325
 Oh, what is this faint heart? Lord Katsuie will scold you.
 @327
@@ -267,7 +267,7 @@ Is that... wrong?
 @420
 In the stillness before the battle, {a6d0000} and Sae passed the time together, just the two of them.
 @430
-\_\_\_\_\_\_- Kitanoshō Home -
+\_\_\_\_\_\_- Kitanoshō: Home -
 @431
 Lord {a6d0000}, I hear you are moving to Azuchi.
 @432
@@ -291,7 +291,7 @@ What a glib fellow.
 @442
 Oh my, hee hee...
 @450
-\_\_\_\_\_\_- Azuchi Home -
+\_\_\_\_\_\_- Azuchi: Home -
 @451
 So this is my new home... It gives me a fresh feeling somehow.
 @452

@@ -54,6 +54,13 @@ Gambling board (tavern -> Gambling; BG.DAT palette 0x9cc000, 320 x 240 at 0x9cc2
   written as Bet / Roll / Held at the same places; the counter 枚 is dropped (the program draws
   "Dealer" over it in the dealer's panel).
 
+Factions screen portraits (Triangle -> People -> Factions; code 0x8003c4b8..; RGRP.DAT 0x1fe000: 336 x 152 at
+  8 bpp, VRAM (480, 0), palette = KEEP.DAT 0x800 (VRAM row 486))
+  Seven 84 x 76 portraits, 4 per row: 木下 丹羽 林 佐久間 / 柴田 明智 羽柴 派, each with a vertical tag over
+  its top-left corner (cols 0-18, rows 0-53; border 0xec, ink 0xe3, shadow 0x0d; 4-px frame 0xbd).
+  The tag is erased (frame back to 0xbd, the picture filled from its neighbours) and a horizontal
+  plaque in the same style with the family name sits at the bottom left. No code changes.
+
 usage: python3 tools/gfx.py [preview.png]      (the redrawn sheet, 4x; needs pillow)
 """
 import os, sys
@@ -438,14 +445,71 @@ def gamble(data):
     return bytes(d)
 
 
+FAC_PIX, FAC_W = 0x1fe000, 336
+FAC_TAG = (19, 54)                  # the Japanese tag: cols 0-18 (border 17, shadow 18), rows 0-53
+FAC_FRAME, FAC_BORDER, FAC_SHADOW, FAC_INK = 0xbd, 0xec, 0x0d, 0xe3
+FAC_NAMES = ['Kinoshita', 'Niwa', 'Hayashi', 'Sakuma', 'Shibata', 'Akechi', 'Hashiba']
+FAC_Y = 59                          # top of the English plaque (16 rows + 1 shadow row = the portrait's last row)
+
+
+def factions(data):
+    """RGRP.DAT with the English faction portraits (vertical tag -> plaque at the bottom left)."""
+    d = bytearray(data)
+    tw, th = FAC_TAG
+    for p, name in enumerate(FAC_NAMES):
+        ox, oy = 84 * (p & 3), 76 * (p >> 2)
+
+        def at(x, y):
+            return FAC_PIX + (oy + y) * FAC_W + ox + x
+        assert all(d[at(x, 52)] == FAC_BORDER for x in range(3, 16)), p
+        fill = [d[at(x, y)] for y in range(2, 51) for x in range(2, 16)
+                if d[at(x, y)] not in (FAC_BORDER, FAC_SHADOW, FAC_INK)]
+        # 1. erase the tag: the 4-px frame back to its colour, the picture filled from its neighbours
+        hole = set()
+        for y in range(th):
+            for x in range(tw):
+                if x < 4 or y < 4:
+                    d[at(x, y)] = FAC_FRAME
+                else:
+                    hole.add((x, y))
+        while hole:
+            done = {}
+            for x, y in hole:
+                c = [(x + a, y + b) for a in (-1, 0, 1) for b in (-1, 0, 1)
+                     if (a or b) and x + a >= 4 and y + b >= 4 and (x + a, y + b) not in hole]
+                if c:
+                    done[x, y] = d[at(*c[(x * 7 + y * 13) % len(c)])]
+            assert done
+            for (x, y), v in done.items():
+                d[at(x, y)] = v
+            hole -= set(done)
+        # 2. plaque: textured fill, 1-px border with cut corners, shadow right / below, name centred
+        n = text.width(name)
+        w, y0 = n + 10, FAC_Y
+        for y in range(16):
+            for x in range(w):
+                edge = x in (0, w - 1) or y in (0, 15)
+                corner = (x in (0, w - 1)) and (y in (0, 15))
+                if corner:
+                    continue
+                d[at(x, y0 + y)] = FAC_BORDER if edge else fill[(x * 7 + y * 13 + p) % len(fill)]
+        for y in range(1, 17):
+            d[at(w, y0 + y)] = FAC_SHADOW
+        for x in range(1, w):
+            d[at(x, y0 + 16)] = FAC_SHADOW
+        for a, b in _pts(name, 5, y0 + 2):
+            d[at(a, b)] = FAC_INK
+    return bytes(d)
+
+
 def patch(files, clean):
     """files: {name: bytes} of the build; clean(name) -> the original file."""
-    files[RGRP] = sheet(files.get(RGRP) or clean(RGRP))
+    files[RGRP] = factions(sheet(files.get(RGRP) or clean(RGRP)))
     files[KEEP] = buttons(files.get(KEEP) or clean(KEEP))
     files[WGRP] = officer_detail(unit_detail(organisation(files.get(WGRP) or clean(WGRP))))
     files[BGF] = gamble(files.get(BGF) or clean(BGF))
     return len(CELLS) + len(BUTTONS) + len(ORG_BLOCKS) * (len(ORG_LABELS) + len(ORG_BUTTONS)) + len(DET_LABELS) \
-        + len(OFF_LABELS) + len(GAM_LABELS)
+        + len(OFF_LABELS) + len(GAM_LABELS) + len(FAC_NAMES)
 
 
 if __name__ == '__main__':

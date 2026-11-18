@@ -53,6 +53,8 @@ GP_SITES = {
     ('exe', 0x80076274): '0x800cf914', ('exe', 0x80076284): '0x800cf91c',
     ('MAPPOINT.BIN', 0x80125698): '0x800d04d0', ('MAPPOINT.BIN', 0x801256a4): '0x800d04d8',
     ('MAPPOINT.BIN', 0x801256b0): '0x800d04d0', ('MAPPOINT.BIN', 0x801256bc): '0x800d04e0',
+    # Ganmaku's rename (0x80125590): strcmp(default given name, hero's) picks the "Hideyoshi" branch (5 @128)
+    ('MAPPOINT.BIN', 0x801255b8): '0x800d04c8',
 }
 TABLES = (0x800b3a84, 0x800b3ab4)                    # rename tables: 12 pointers
 
@@ -197,6 +199,13 @@ def _gp_sites(data, image, base, off, where):
             continue
         o = addr - base + off
         w, j, nop = struct.unpack_from('<3I', data, o)
+        if j >> 26 != 3:                       # addiu; one other instruction; jal; nop -> lui; addiu; jal; other
+            x, j, nop = struct.unpack_from('<3I', data, o + 4)
+            assert x == 0x00402821 and j >> 26 == 3 and nop == 0, 'gp site %08x' % addr     # move a1, v0
+            reg = [k for k, v in asm.R.items() if v == (w >> 16) & 31][0]
+            code = asm.assemble(addr, [('lui', reg, asm.hi(where[key])), ('addiu', reg, reg, asm.lo(where[key]))])
+            data[o:o + 16] = code + struct.pack('<2I', j, x)
+            continue
         assert w >> 26 == 9 and (w >> 21) & 31 == 28 and j >> 26 == 3 and nop == 0, 'gp site %08x' % addr
         reg = [k for k, v in asm.R.items() if v == (w >> 16) & 31][0]
         code = asm.assemble(addr, [('lui', reg, asm.hi(where[key])), ('nop',), ('addiu', reg, reg, asm.lo(where[key]))])
