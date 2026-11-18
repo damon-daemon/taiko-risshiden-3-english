@@ -1,0 +1,454 @@
+@300
+{a6d0000}, I shall give you Echizen.
+@302
+Do you not understand? I am telling you to take {e730051} as your base and govern Hokuriku.
+@303
+What... How generous your words are, my lord. I, {a6d0000}, humbly accept.
+@304
+You are now master of a province. As a parting gift, I grant you the title of Echizen.
+@307
+The title of Echizen, and a surname besides... Of course Hidenaga may bear that name as well?
+@308
+Of course.{w} Really, do not weep over such a trifle. Hurry and decide on a surname!
+@309
+I will decide\nPlease decide for me\nI wish to take Oda\nKeep my own
+@315
+Hmm, nothing comes to mind. My lord, please give me a good surname.
+@320
+My lord, I would like to take the Oda name...
+@322
+Yes. To bear the same name as my lord, whom I so admire, would be happiness beyond measure.
+@333
+I hoped to share in the good fortune of those two lords, so I chose the name Hashiba!
+@334
+Very well. Do as you like.
+@335
+\_\_\_\_- {e66005f}: Lord's Room -
+@341
+So this is my castle... A fine one.
+@342
+{a6d0000}, {a6d0000}!
+@346
+Come to think of it, Pa is not here.
+@351
+Lord Nobunaga has given me the mission of subduing Hokuriku. I want to hear your views.
+@352
+Hokuriku means the Uesugi forces are waiting there. I fear this is a hard mission...
+@353
+I know it is hard. Why else did I call you here?
+@354
+Lord Hidenaga, there is no need to worry. With our strength, we have nothing to fear!
+@355
+This war cannot be won by force of arms alone.
+@356
+Hanbee, what is your opinion?
+@357
+The Uesugi's strength is not to be taken lightly.
+@358
+As Lord Koroku said, we should crush them in one stroke with an overwhelming force.
+@359
+That would be the surest road to victory.
+@360
+Ha ha ha! Did you hear that, Lord Hidenaga? Lord Hanbee agrees with me.
+@362
+I see. We are to ready our arms first, and then attack.
+@363
+Until His Lordship gives concrete orders, we should build up our strength in Echizen.
+@365
+Lord {a730000}, pardon me.
+@366
+I bring orders from His Lordship. You are to conquer Wakasa.
+@371
+I have been waiting for this! Where to this time?
+@372
+I bring orders from His Lordship. You are to conquer Kaga.
+@374
+I've been itching for this!
+@376
+My lord, pardon me.
+@377
+My lord, orders have come down from His Lordship to conquer Noto.
+@378
+I see. Understood.
+@380
+My lord, there seems to be unrest among the people. If it goes on, a great uprising may break out.
+@381
+Hm. If it goes on, it may hinder the conquest of Hokuriku. Hanbee, have you any good idea?
+@382
+My lord, a Sword Hunt might prove effective...
+@383
+A Sword Hunt?
+@384
+Yes. We take the weapons away from the farmers.
+@385
+It is because people hold weapons that wars begin.
+@386
+Peace and happiness lie in farmers devoting themselves to farming.
+@387
+But would that really quell an uprising?
+@388
+Yes. Please leave it to me.
+@390
+My lord, would you let me do that task?
+@391
+Being of farming stock, I think I can do it better than Lord Hanbee.
+@392
+Leave it to Hanbee\nLeave it to Hidenaga
+@393
+No, I want to leave this to Hanbee. You understand, Hidenaga?
+@394
+Yes. Understood.
+@395
+Then, Hanbee, I am counting on you.
+@396
+I see. Lord Hanbee, are you content with that?
+@397
+Yes. I think Lord Hidenaga is better suited to it than I am.
+@398
+Then, Hidenaga, I leave it to you.
+@399
+The Sword Hunt is finished. I have returned.
+@401
+It seems someone was pulling strings behind this unrest.
+@403
+Most likely the Uesugi's sharpest mind, Naoe Kanetsugu...
+@404
+As an enemy he is a fearsome man, but if we could make him an ally, he would surely prove a great help.
+@405
+I see... A capable man, then. I would like to take him into my service if I can.
+@406
+I see, understood. You must be tired. Go home and rest.
+@407
+My lord, the Sword Hunt is finished.
+@408
+Well done. From your look, it went well.
+@409
+As for this unrest, it seems there was someone behind it.
+@411
+According to Lord Hanbee, it was most likely the Uesugi's sharpest mind, Naoe Kanetsugu.
+@413
+I see. You must be tired. Go home and rest.
+@419
+Pleased to meet you. I am Katō Kiyomasa.
+@420
+I am Fukushima Masanori.
+@427
+Lord {a730000}, pardon me.
+@428
+His Lordship says: "Well done in this campaign. Go on and conquer Etchū as well."
+@430
+My lord, the conquest of Etchū is finished. Next is Echigo at last.
+@431
+The Uesugi's attacks will grow ever fiercer. Please take care.
+@432
+My lord, Lord Naoe Kanetsugu of the Uesugi clan has arrived. What shall we do?
+@433
+Naoe Kanetsugu, the Uesugi's chief minister... By all means, meet him.
+@434
+Understood. Show Lord Naoe in.
+@435
+Our first meeting. I am a retainer of the Uesugi clan, Naoe Kanetsugu.
+@436
+Lord {a660000}, it has been a long time. I am Naoe Kanetsugu.
+@437
+Lord Naoe, let us dispense with stiff greetings. Now, what is your business?
+@438
+Then I shall come to the point. Does the Oda clan have any wish to ally with the Uesugi?
+@439
+Hm... And, Lord Naoe, what are your terms for this alliance?
+@440
+For our part, we would at least like a small gift.
+@441
+Lord {a730000}, we are proposing an alliance. We did not come to swear fealty.
+@442
+Come, come, why mind such details?
+@443
+This way we are spared pointless fighting. Is that not cause for joy?
+@444
+Have you no terms of your own? Then I shall present ours...
+@445
+We will not return Etchū. As for Echigo, Lord Uesugi shall continue to govern it.
+@446
+Lord Naoe, do you accept these terms, for a start?
+@447
+We have no choice.
+@448
+And there is one more condition. Indeed, it is the most important of all...
+@449
+What is it?
+@450
+That you become my retainer, Lord Naoe. If that is granted, I shall never lay a hand on the Uesugi again.
+@451
+Ugh...
+@452
+Your answer!
+@453
+You mean you will attack the Uesugi unless I become your retainer.
+@454
+Just so. I, {a6d0000}, judge you to be worth a whole province, Lord Naoe.
+@455
+Without this, Lord Naoe, so loyal to the Uesugi, would never become my retainer.
+@456
+Very well. I accept those terms.
+@457
+Come, Lord Naoe, today is a day for joy, so drink up.
+@458
+...{w}...{w}...
+@459
+? Lord Naoe, why do you not drink? Perhaps you do not care for sake?
+@460
+Or do you suspect we mean to lull you and make you drink poison?
+@461
+Then you need not worry.
+@462
+Glug,{w} glug,{w} glug...
+@463
+There, how is that?
+@464
+Ha ha... I yield to your forcefulness, Lord {a730000}.
+@465
+Indeed, from now on you are my lord, Lord {a730000}. My lord, I am at your service.
+@467
+Orders have come from His Lordship to conquer all of Hokuriku.
+@468
+Yes, understood.
+@470
+My lord, I have something to tell you...
+@471
+Ah, come in.
+@472
+May I consult you about the Date?
+@473
+His Lordship will most likely order us to conquer Tōhoku next. The greatest obstacle there is the Date.
+@474
+Attacking the Date by force would only waste troops.
+@475
+I think it better to propose an alliance.
+@476
+Very well, I leave it all to you, Hanbee. I am counting on you.
+@480
+Takenaka Hanbee, back from my errand.
+@481
+Well done. How did it go?
+@482
+Well, Lord Date Masamune says he will decide once he has met you, my lord...
+@483
+What, he means to size me up?
+@484
+Then when does he say he will come? Or does he mean me to go to him?
+@485
+No, in fact he has already arrived.
+@486
+What, he is already here! Ha ha...{w} Show him in at once!
+@487
+I have come on behalf of the Date clan.
+@488
+Now, now, Lord Masamune, pray do not trouble yourself so for a humble man like me.
+@489
+Lord {a730000}, one question. What does a country need - or rather, what is most important to it?
+@490
+What matters to a country...{w} It is the people, farmers and townsfolk first of all.
+@491
+Thanks to the crops the farmers grow, we warriors are able to live.
+@492
+Thanks to the townsfolk who move goods, we can obtain all manner of things.
+@493
+Some will say that "the people are the nation's treasure" is a mere pretext for warlords.
+@494
+But that is not so. Only when a man believes in the cause he himself seeks can he move others.
+@495
+In the first place, who would believe in a cause that even he cannot believe?
+@496
+I, {a6d0000}, truly believe that I am kept alive by the people.
+@497
+I see. I like you. The whole Date clan will lend its aid to you, Lord {a730000}, and through you to Lord Oda.
+@498
+To command a man of your calibre, Lord Nobunaga must be a great man indeed.
+@499
+Just so. Lord Nobunaga is a fearsome man, but no one has a hotter heart or a greater soul.
+@500
+One day I shall meet Lord Oda as well. I look forward to it.
+@501
+Heh, today was most enjoyable. But I daresay meeting you on the battlefield, Lord {a730000}, would have been just as enjoyable. Ha ha ha!
+@502
+Now, if you will excuse me.
+@504
+Mm. And how did it go?
+@505
+Yes. The Date clan says they will ally with us.
+@506
+I see. You must be tired. Go home and rest.
+@508
+I have brought a letter from His Lordship.
+@509
+Let me see.
+@510
+Monkey, knowing you, I expect you have already begun to move, but I give the order anew.
+@511
+Conquer Tōhoku. The details I leave entirely to you. I await good news.
+@512
+Ha ha! Lord Nobunaga sees right through me.
+@515
+My lord, now that the Tōhoku conquest is complete, we ought to go and report to His Lordship.
+@516
+Yes, you are right. I shall go at once.
+@520
+Lord {a730000}, please wait here until Lord Nobunaga arrives.
+@521
+So, you've come. Your conquest of Hokuriku and Tōhoku was splendid. I commend you.
+@523
+Well, enough of stiff greetings.
+@524
+The truth is, before long I mean to go up to Kyōto to make my might known throughout Japan.
+@525
+My lord, you seem rather pleased.
+@526
+Ha ha ha... Of course. It will show me once more that I am on the road to unifying the realm.
+@527
+I, Nobunaga, am taking the realm in hand, but enemies remain. Monkey, you too must not let your guard down.
+@529
+And {a6d0000}!
+@530
+I gave Mitsuhide the task of taking Kinki, but he has yet to finish it.
+@531
+With a man like him, it is surely only a matter of time... but this is a good chance.
+@532
+Monkey, you too: vie with Mitsuhide and conquer Kinki.
+@534
+I gave Nagahide the task of taking Shikoku, but he has yet to finish it.
+@536
+Monkey, you too: vie with Nagahide and conquer Shikoku.
+@541
+His Lordship says: "Vie with Lord Niwa Nagahide and conquer Shikoku."
+@545
+My lord...{w}...{w}...{w}...
+@546
+Hanbee, what on earth is the matter?
+@547
+My lord, please steady yourself and hear what I have to say.
+@548
+His Lordship was killed at Honnō-ji in Kyōto by Akechi Mitsuhide.
+@549
+!!!
+@550
+My lord...
+@551
+Hanbee, this joke goes too far. Surely Lord Nobunaga...{w} There is no way Lord Nobunaga could die.
+@552
+Tell me, Hanbee. Tell me it is a lie. A lie...
+@553
+My lord, compose yourself. Only you can avenge our late lord. Prepare to march at once!
+@555
+My lord! Pull yourself together! If you carry on like this, our late lord cannot rest in peace!
+@556
+...Y-yes!
+@557
+Akechi Mitsuhide seems to have entered Shōryūji Castle. Let us strike him down at once!
+@558
+And, my lord, we must also think of what comes after this war.
+@559
+Let us approach the Uesugi and the Date and ask for their cooperation.
+@560
+My lord, leave that task to me.
+@561
+I see. I am counting on you, Kanetsugu.
+@562
+Let us approach the Date and ask for their cooperation.
+@563
+Leave that task to me.
+@564
+My lord, Lord Akechi Mitsuhide has come.
+@565
+What, Lord Akechi? All the way out here, what can his business be?
+@572
+Lord Nobunaga's attitude toward me is harsh. It is as if he enjoys tormenting me...
+@573
+The thing is, Lord Akechi, you are too serious.
+@574
+Unless you enjoy it the way I do, you will never get on with Lord Nobunaga.
+@576
+Lord Nobunaga's wars kill people and destroy everything. Yet amid that, Lord {a730000}, you wage a war that lets people live.
+@578
+What?! Me, employ you, Lord Akechi? Out of the question!
+@582
+Thank you, Lord {a730000}!
+@583
+That aside, will Lord Nobunaga permit this?
+@590
+\_\_\_\_\_- {e66005a}: Lord's Room -
+@592
+Monkey! Making Mitsuhide your retainer - your presumption is outrageous!
+@593
+My lord, no. It was I who asked to become his retainer.
+@594
+What? Do you mean you have some grievance with how I treat you?
+@596
+But when I was troubled, Lord {a730000} spoke to me, gave me rare gifts, and cheered me in many ways.
+@597
+Touched by Lord {a730000}'s warmth, I came to wish to be of help to this man.
+@598
+Hmm... Well, very well. The two of you together may prove interesting.
+@605
+Brother, have you heard?
+@606
+Hm, what?
+@607
+His Lordship has built a castle on the south shore of Lake Biwa.
+@608
+The south shore of Lake Biwa? And what is the castle called?
+@609
+Azuchi Castle. They say it is more beautiful than any castle before it. Will you not go and see it, Brother?
+@610
+Indeed, a castle like that I must see for myself.
+@613
+Lord {a730000}, Lord Akechi Mitsuhide has become lord of Tanba-Kameyama Castle.
+@614
+Lord {a730000}, Lord Shibata Katsuie has become lord of {e66009b}.
+@615
+Lord {a730000}, Lord Niwa Nagahide has become lord of Okō Castle in Tosa.
+@621
+{a6d0000}, sit there. How many years have you served the Oda?
+@631
+{a730000}, reporting as ordered.
+@643
+To do such a thing to you... My lord, this is the time to rebel! Let us rebel!!
+@644
+Wait. A matter this grave must be thought over carefully first...
+@653
+I do not want to see your face! You are banished from the Oda clan!
+@655
+Very well... I shall rise against the Oda!
+@656
+Yes, my lord! To win the realm for you!
+@662
+There is someone I would like you to meet, so I have brought him.
+@663
+Very well, bring him in.
+@664
+I am Ōtani Yoshitsugu.
+@665
+Besides being blessed with the makings of a general, this man is deeply loyal and upright.
+@666
+Now I want every capable retainer I can get. Yoshitsugu, will you serve me, {a6d0000}?
+@667
+I am deeply honoured. I will prove my worth, I promise you.
+@683
+But I am surprised. That my wish should be answered so soon!
+@688
+Right now every strong ally counts. Yoshiakira, is it? Lend your strength to me, {a6d0000}.
+@695
+My lord, a man named Kuroda Kanbee has come.
+@701
+Yes, my lord!
+@703
+Ah, so you are Lord {a660000}.
+@706
+Not at all. It only makes me want all the more to serve under you.
+@708
+Yes. Until now I had no place to use my talents, and I was bored to tears.
+@721
+Hm? What is it, Hidenaga?
+@724
+Lately a man called Konishi Yukinaga has been turning up in the castle town. They say he is skilled at arithmetic.
+@726
+Let us go and look for him.

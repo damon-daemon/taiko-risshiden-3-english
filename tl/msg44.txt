@@ -1,0 +1,284 @@
+@45
+You say you cannot do it? Very well, I will let it go this time. But take care in future.
+@300
+\_\_\_- {e660051}: Lord's Room -
+@301
+{a6d0000} reporting, my lord.
+@302
+Hm. The fighting is over, and you look a little sturdier for it.
+@303
+To the point, then. Take this letter to Lord Nobunaga at Azuchi.
+@304
+Azuchi Castle was His Lordship's dream, a castle without equal. The town below it will grow larger than any this land has seen.
+@305
+Echizen, which I govern, must be made rich too. Thriving trade is the key to a castle town's growth.
+@306
+So after you deliver the letter, look over Azuchi and walk the castle towns of Echizen. Do you see what I mean by it?
+@307
+To find the problems in our domain\nTo learn the geography of our domain
+@308
+To find the problems arising in our domain and solve them, I believe.
+@309
+Hm, well seen. Settling the problems within Echizen and building up the province is what matters now.
+@310
+I mean to put the domestic affairs of the province in your hands from now on. Never slacken in your efforts.
+@311
+Now, I am counting on you to deliver that letter to Lord Nobunaga.
+@312
+To learn the lay of our domain and prepare for an enemy invasion, I believe.
+@313
+Hm, that is important. In war, what matters is to know the ground, know the enemy and know yourself.
+@314
+But that alone will not do. Now, clearing up the problems within Echizen and building up the province comes first.
+@315
+Look into the problems in each region, and think what must be done to build up the domain.
+@316
+What are you doing? Have you delivered the letter to His Lordship at Azuchi? Hurry and go.
+@320
+\_\_\_\_\_- Azuchi Castle: Inside the Castle -
+@321
+...Then please see that this letter reaches Lord Nobunaga.
+@322
+I shall see that it is delivered.
+@323
+Then I take my leave.
+@324
+You there, wait!
+@325
+Yes! (Lord Nobunaga?!)
+@326
+Oh, so you are {a730000}. I have had word from Gonroku.
+@327
+Come closer. Let me look at your face a little better.
+@329
+...Hm, a fine face indeed.
+@330
+You honour me...
+@331
+Gonroku tells me you are a promising man. Now, what are you good at?
+@334
+Strategy\nMartial arts\nNothing in particular...
+@335
+I am poorly learned, but I have some knowledge of strategy.
+@336
+Is that so? But war cannot be waged on theory alone.
+@337
+Take it to heart: a little learning in war is a dangerous thing.
+@339
+Then answer me this. How many guns are there at Kitanoshō?
+@341
+700 guns\nA great many\nI do not know
+@342
+About 700 guns, I believe...
+@343
+Hm, I see.
+@344
+...A great many, my lord.
+@345
+Ha ha ha! "A great many" - very good!
+@346
+But if you claim to be good at strategy, that will not do.
+@347
+I do not know, my lord...
+@348
+Hmph. Very well, I will let it pass today.
+@349
+But if you claim to be good at strategy, that will not do.
+@350
+Serve Gonroku well, and bring me good news again.
+@351
+Yes, my lord. I will take it to heart.
+@354
+I am still green, but I have trained in the martial arts somewhat.
+@355
+Hmph. Gonroku would like that.
+@356
+But in my house that alone is not enough. Learn all manner of skills and apply yourself.
+@358
+I have no particular skill to speak of. I wish to train from now on.
+@359
+Hmph, very well. Those who boast are seldom worth much.
+@360
+But take it to heart that in my house, an idler is of no use.
+@366
+I have delivered the letter to Lord Nobunaga.
+@367
+Well done. And how was the town at Azuchi?
+@368
+Many people and goods gather there, and it is full of life.
+@369
+Hm, I see. And I trust you also looked over our own domain?
+@370
+I had meant to inspect it again after reporting...
+@371
+No excuses. Did I not order you to inspect it and walk the Echizen castle towns before coming back?!
+@372
+Yes, my lord. I am sorry.
+@373
+Well, never mind...
+@374
+On another matter: to develop the province, I mean to build up commerce first.
+@375
+What do you think is the difference between Azuchi, which Lord Nobunaga governs, and this Kitanoshō?
+@376
+Anyone may trade freely\nWell-kept highways
+@377
+That guilds and the like were abolished, so that anyone may trade freely, perhaps?
+@378
+Hm, just so. That is what is called "rakuichi-rakuza": Free Markets. It is an important system for developing commerce.
+@379
+Following Lord Nobunaga, I mean to bring the Free Markets system to Kitanoshō's castle town first.
+@380
+You will have to work hard from now on. I am counting on you.
+@382
+The greatest difference is the growth of distribution through well-kept highways, I believe.
+@383
+Hm, that is one of the differences.
+@384
+But the greatest is the system called "rakuichi-rakuza": Free Markets, which makes free trade possible.
+@385
+Following Lord Nobunaga, I mean to bring Free Markets to Kitanoshō's castle town first.
+@386
+You will have to work hard from now on. I am counting on you.
+@393
+Hm, I see. And did you find anything in our domain?
+@394
+In the town of Ichijōdani a flood has swept away the bridge, and traffic has stopped.
+@395
+We must devise a way to build bridges that allows for floods.
+@396
+I saw some farmers making ready for an uprising.
+@397
+Unless their resistance dies down, the province will not be stable, I believe.
+@398
+The town streets were nearly empty and quiet.
+@399
+To develop commerce, some great measure is needed, I believe.
+@402
+I see, I understand well. That is hard to hear.
+@403
+To develop the province, I mean to build up commerce first.
+@406
+That anyone may trade freely, perhaps?
+@407
+Hm, just so. And with taxes removed as well, the effect of the Free Markets system is great.
+@421
+\_\_\_\_\_- Nagahama Castle: Inside the Castle -
+@422
+Oh! Is that not Lord {a730000}?!
+@423
+That you, Lord {a730000}, should trouble to come all the way to Nagahama! I, Hideyoshi, am deeply moved!
+@424
+Y-yes...
+@425
+And what business brings you today?
+@426
+Well, though I have become Lord Katsuie's retainer, I have no men under me, and even carrying out my missions is a struggle...
+@427
+So, presumptuous as it is, I have come to ask for your help, Lord Hideyoshi.
+@428
+Oho... So you want a man you can rely on.
+@429
+Then I have just the man! Mitsunari! Mitsunari, where are you?{w}
+@430
+My lord, what is it?
+@431
+It is sudden, I know, but from today lend your strength to Lord {a730000}.
+@432
+M-me? I doubt someone like me can be of any use...
+@433
+No, just work in your own way. You understand, Mitsunari... Train under Lord {a730000}.
+@434
+...Yes, my lord. Understood.
+@435
+Lord Hideyoshi, are you truly sure?
+@436
+Not at all! For you, Lord {a730000}, I will lend all the help I can.
+@437
+Why, you may even put this Monkey himself to work, if you like! Ha ha ha!!
+@438
+Thank you...
+@439
+Come, Mitsunari. Greet him.
+@440
+I am Ishida Mitsunari. I look forward to working with you.
+@441
+I am poor at martial arts, but in work that calls for a clear head I may be of some use.
+@442
+Lord Hideyoshi, thank you truly. Now, I take my leave.
+@448
+Hm, is that not {a6d0000}? What brings you here?
+@449
+To be of use to you, my lord, I am looking for men to serve under me, but I cannot find any good ones...
+@450
+So you came to me.
+@451
+Still, searching for men helps you widen your own connections.
+@452
+Do you not think it important to seek them out on your own two feet, instead of relying on me alone?
+@453
+Yes, my lord. Forgive me...
+@456
+Hm, is that not {a6d0000}? What do you want?
+@457
+I am looking for men to serve under me, but I have not been able to find many...
+@458
+True, with no men under you, you must feel uneasy.
+@459
+Very well. A man named Okumura Nagatomi lives in the town of Azuchi. Say I introduced you, and he will help.
+@460
+Yes, my lord. I am much obliged.
+@466
+You did well at Itami Castle. How was the battlefield?
+@467
+With the help of Lord Sassa and Lord Maeda, we carried the day without mishap.
+@468
+That the battle was settled so early was thanks to Lord {a730000}'s efforts.
+@469
+We could only marvel at his work.
+@470
+Oh, is that so? {a6d0000}, keep up this good work in future.
+@471
+A short, hard battle must have tired you all. Go home and rest for today.
+@478
+It was a hard fight, but with the help of Lord Sassa and Lord Maeda, we somehow won.
+@479
+Oh, is that so? {a6d0000}, I expect even greater things from you from now on.
+@480
+I ordered you to return within 90 days, but you seem to have done your best, so let it pass.
+@481
+You must all be tired. Go home and rest for today.
+@488
+{a6d0000}? What do you want?
+@489
+I have come to give you my counsel, my lord, on how to deal with the Hongan-ji forces.
+@490
+They seem to be stocking arms and supplies, and plotting an uprising.
+@491
+To strike first, I believe we should confiscate weapons and horse gear from the farmers and disarm them.
+@492
+A Sword Hunt, then. Very well, from now on we shall carry out Sword Hunts on a large scale.
+@493
+When the time comes, you will take the lead.
+@494
+Yes, my lord, understood.
+@505
+Oh, is that not {a6d0000}? Good to see you. What brings you today?
+@506
+I was just talking with Lord Sakuma, and he said, "With no men under you..."
+@507
+A cutting remark, was it? But it is true, with no men under you, things must be awkward...
+@508
+I know! Use that man.
+@509
+What man?
+@510
+Ah, he is my nephew. A man called Maeda Keiji.
+@511
+He is a real oddball, and a trial to me... But he is a skilled fighter.
+@512
+He lives in the town below Fuchū Castle. Do pay him a visit.
+@1361
+Then I will arrange it as decided.
+@1409
+Then I will arrange it as decided.

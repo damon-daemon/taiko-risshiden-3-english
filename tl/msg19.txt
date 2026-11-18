@@ -1,0 +1,1216 @@
+@0
+Ahh, that was a good sleep.
+@1
+Dear husband, you still look a little tired. Please don't push yourself too hard.
+@2
+You look much better now. I like you best when you shine as bright as the sun, my dear.
+@3
+You slept well, my dear. Now do some fine work, for your own sake too.
+@4
+I'm home!
+@5
+Phew... there's no place like home.
+@6
+Dear, I hear a council is about to begin at the castle.
+@7
+Oh, that's right. I'll be off, then.
+@8
+Dear, I have sad news. {p00} has gone back to our lord's side.
+@9
+We should have paid more attention to him.
+@10
+There are no retainers who can be returned right now.
+@11
+Whom will you send back to the main castle?
+@12
+Dear, what are you thinking? Lord {p00} is someone you cannot do without!
+@13
+How could you hope to win the hearts of the others if you cast such a man aside?
+@14
+You are right, {a6d00e6}. I won't send {p00} back to the main castle.
+@15
+What?! You are sending me back to His Lordship?
+@16
+Sending him back will cost you trust, my lord. Are you sure you wish to return Lord {p00} to the main castle?
+@17
+Welcome home.
+@18
+{a6d00e6}! Listen. I've been made an Ashigaru General!
+@19
+Truly?! Congratulations!!
+@20
+{a6d00e6}, I've put you through a lot, and I'll likely put you through more. Bear with me.
+@21
+What a thing to say... Your dream is {a6d00e6}'s dream too. I have never thought of it as hardship.
+@22
+{a6d00e6}! I've been granted a stipend increase. I'm a Samurai General at last!
+@23
+Congratulations!! It is because everyone around you supports you, dear.
+@24
+True. I must thank my men as well.
+@25
+But most of all I must thank Lord {p00}. He took me in, and I must repay that debt with all I have.
+@26
+Indeed. To see you win the realm at Lord {p00}'s side is {a6d00e6}'s dream.
+@27
+{a6d00e6}, you'll be amazed! I've finally become a Chief Retainer!
+@28
+Oh my! Dear, you did it!
+@29
+No... I owe it all to you, {a6d00e6}, for standing by me.
+@30
+All {a6d00e6} did was stay by your side... I am a lucky woman to have such a kind husband.
+@31
+From now on I'll give my all to see {a6d00e6} smile.
+@32
+Oh, how lovely. Do your best, dear.
+@33
+By the way, dear, I hear Lord {p00} is ill in bed.
+@35
+This is no time to be resting.
+@36
+{a6d00e6}, prepare the bedding. I'll rest a while.
+@37
+How long will you rest?
+@38
+On second thought, I'll rest later.
+@39
+I'll rest well today, so I can do good work from tomorrow!
+@40
+Then good night.
+@41
+How reassuring! Then {a6d00e6} shall cook you a feast. Eat your fill.
+@42
+Truly, you are like the sun when you are full of drive. Now rest well, dear.
+@43
+I'll rest until the council.
+@44
+The council is in a few days. Take it easy until then.
+@45
+There is still some time before the council. Rest until then, dear.
+@46
+Dear, rest well and ease your tiredness.
+@47
+Please rest well.
+@48
+I've been rather tired lately. I'll rest for a while until it passes.
+@49
+By {a6d00e6}'s reckoning, you need about {b00} day{s} to recover, dear.
+@50
+Will you rest for {b00} day{s}?
+@51
+Rest as long as you like. {a6d00e6} would love to have you to herself for a while.
+@52
+If you are tired, I'll make something nourishing. Rest well, dear.
+@53
+Take your time and shake off your fatigue. {a6d00e6} will be at your side the whole time.
+@54
+I see... Please don't overdo it.
+@55
+I'll rest a while.
+@57
+How many days will you rest?
+@58
+I'll rest another time.
+@59
+Will you rest for {b00} day{s}?
+@60
+How long shall I rest?
+@63
+I'll rest until the tiredness is gone.
+@64
+How many days shall I rest?
+@65
+I'll rest another time.
+@66
+Shall I rest for {b00} day{s}?
+@67
+I'll take a good rest.
+@68
+I won't rest after all.
+@69
+{a6d00e6}, I need money. Could you fetch some for me?
+@70
+Dear, you cannot carry any more money.
+@71
+I'm sorry, dear. The strongbox is empty...
+@72
+Hmm... Is that so?
+@73
+How much shall I fetch?
+@74
+Here you are, dear. Please don't waste it.
+@75
+Then I'll leave the money where it is.
+@76
+{a6d00e6}, I have some money to spare. Keep this for me.
+@77
+Dear, you have no money to keep.
+@78
+I'm sorry, dear. The strongbox is full and I cannot keep any more.
+@79
+How much shall I keep?
+@80
+Yes, dear. I will keep it safe.
+@81
+I see... Please don't waste it, dear.
+@82
+Get a grip, dear. You have no retainers.
+@83
+Of course. I got carried away, thinking myself a great man.
+@84
+Dear, there is nobody you can give orders to right now.
+@85
+Of course. Ha ha ha.
+@86
+Then I'll go and call them.
+@87
+It is a great honour to be called upon, my lord.
+@88
+My lord, what are your orders?
+@89
+I've already given all my orders.
+@90
+In {p00}, 100 koku of rice costs {b00} kan and one horse costs {b01} kan.
+@92
+{p00}, go to {p01} and survey its rice and horse prices within 30 days.
+@93
+I will make the arrangements.
+@95
+I am sorry. I could not achieve anything worth reporting.
+@96
+I have learned the basics of {p00}.
+@97
+This time I studied {p00} and deepened my understanding.
+@98
+This time I studied {p00} and mastered it.
+@99
+{p00}, the warriors of tomorrow must have many talents.
+@100
+I give you 30 days. Go on a warrior's pilgrimage and come back with greater skills.
+@117
+Dear, there is something that worries {a6d00e6}...
+@118
+What is it, {a6d00e6}?
+@119
+Lord {p00} has been strangely distant lately.
+@120
+Hmm... Perhaps he is dissatisfied.
+@121
+He {p01} likes {p02}.
+@122
+When I give a reward, I'll bear that in mind.
+@123
+You and Lord {p00} are on very good terms.
+@124
+Like fish and water, one might say. You should treasure that friendship.
+@125
+Lord {p00} likes {p01}. If you send him a gift, I think {p01} would be a good choice.
+@126
+Lord {p00} does not seem the sort to be swayed by gifts.
+@127
+For some reason Lord {p00} treats you as an enemy.
+@128
+You may hear all sorts of things, but I think it is best to let them pass.
+@129
+Things may not go smoothly, but I hope you can be friends one day.
+@130
+To {a6d00e6}'s eye, you two are by no means ill-matched. I think you can become friends.
+@131
+To {a6d00e6} you two seem very well matched. Given the chance, I think you will become close.
+@132
+The Accounting skill is taught at a Merchant House. They say it lets you bargain over prices when buying and selling.
+@133
+The Building skill is learned by visiting a Samurai Home and studying under a warrior who has it.
+@134
+They say the Development skill can be learned at the Nanban Temple.
+@135
+The Speech skill is learned by visiting a Samurai Home and studying under a warrior who has it.
+@136
+The Etiquette skill can be learned at a Temple.
+@137
+They say the Tea skill can be learned at the Tea Master's Home in Sakai.
+@138
+They say the Martial Arts skill can be learned at a Dōjō.
+@139
+They say the Riding skill can be learned at the Stables.
+@140
+They say the Gunnery skill can be learned at the Smithy.
+@141
+They say Master Momochi Tanba in Iga-Ueno teaches the Ninjutsu skill.
+@142
+The Scheming skill is learned by visiting a Samurai Home and studying under a warrior who has it.
+@143
+The Tactics skill is learned by visiting a Samurai Home and studying under a warrior who has it.
+@144
+Dear, the council is under way. This is no time to be sleeping.
+@162
+Dear, please always shine like the sun.
+@163
+Whatever happens, {a6d00e6} is on your side.
+@164
+Work must be hard on you, but now and then, take it easy for {a6d00e6}'s sake.
+@165
+I hear the secret to good results is to spot what each retainer is good at and assign work accordingly.
+@166
+They say people are the stone walls, people are the castle. Uniting your retainers' strength is very important.
+@167
+Dear, even when things go badly, please don't lose heart.
+@168
+{a6d00e6} always prays that you may work in good health.
+@169
+You do what no one else would think of. {a6d00e6} is proud of that.
+@170
+Whatever happens, {a6d00e6} will follow you as long as she lives.
+@171
+Even in dull work you give your all. That is why {a6d00e6} loves you so.
+@173
+Dear, you are already full of energy. What good would more rest do?
+@174
+Dear, what happened? Lord {p00} called for you in a terrible temper.
+@175
+Because I missed the council, no doubt. I see. I'll go to the castle at once.
+@176
+The date of the next council isn't fixed yet. Why not take this chance to rest for ten days or so?
+@177
+Which will it be?
+@178
+Now, how much shall I give?
+@179
+Will {b00} kan do?
+@180
+Whom shall I order?
+@182
+Thank you for your efforts.
+@183
+Dear, Lord {p00} is here to report.
+@184
+Shall I go to sleep?
+@185
+A bachelor's life is lonely... If only Lady {a6d00e6} were by my side... Mumble, mumble...
+@187
+There is something I must do before sleeping.
+@188
+It seems time to get up.
+@189
+What shall I order?
+@190
+Which province shall I have surveyed?
+@191
+Do you wish to stop giving orders?
+@192
+Your rise is thanks to the strength of your men.
+@193
+It is the fruit of your own efforts, dear.
+@194
+I am your strategist now. Do you mean to replace me?
+@195
+Lord {p00} is your strategist now. Do you wish to replace him?
+@197
+Then who shall be the strategist?
+@198
+Then you will keep your present strategist?
+@199
+Will you not appoint a strategist?
+@200
+Will you relieve me of my post as strategist?
+@201
+Lord {p00} is already the strategist. Will you relieve him of the post?
+@202
+Will you choose the strategist again?
+@203
+Shall I be your strategist, then?
+@204
+Shall Lord {p00} be your strategist?
+@205
+Then I shall make the arrangements.
+@207
+There is no warrior who can be appointed strategist.
+@208
+Dear, my father Asano Nagakatsu is ill in bed. I think he will soon recover, but I worry.
+@209
+How long shall I rest?
+@300
+Huh? I was drinking at Lord {a6d0013}'s house... How did I get home after that? I can't remember a thing...
+@301
+Oh no! I haven't reported to Lord {a730010} yet! I must go and report to him at once!
+@302
+\_\_\_\_\_\_\_\_- Home -
+@310
+Oh, dear. Welcome home.
+@311
+Ah, Nene, I've missed you! I think I'll turn in for the night...
+@312
+Oh, it isn't that late yet... Honestly...
+@313
+More to the point, dear, have you got to know the others in our lord's service?
+@314
+Not really...\nA few...
+@315
+No, I haven't done much of anything...
+@316
+Oh, so Father was right to worry.
+@317
+Lord Asano was worried?
+@318
+Yes. He said that as a newcomer you would need supporters within the clan if you are to rise.
+@319
+But he said you probably haven't been taking care to gain more of them.
+@320
+Hmm, that stings.
+@321
+Still, how does one become close enough to win people's support?
+@322
+Well, I have spoken to a few of them. What of it?
+@323
+Father said you will need supporters within the clan to rise, so I was worried.
+@324
+True, few are close enough to support me... How can I become closer to them?
+@325
+Let me think... For example, you could give them something they like...
+@326
+Yes, no one is displeased to receive something they love.
+@327
+And if someone is ill, you could pay them a visit.
+@328
+I see. To win support, I must show sincerity.
+@329
+Yes, if you treat people sincerely, they are sure to understand.
+@330
+I will gather all sorts of news for you too, dear, so ask me any time.
+@331
+Oh, thank you, Nene! That's my wife for you!
+@332
+Right, first I'll grow closer to Nene! Smooch!
+@333
+Oh my... {w}Blush...
+@350
+Good morning, dear.
+@351
+Now, before the council, let me pass on a message from Father.
+@352
+Councils are held at the start of each season, that is, on the 1st to the 5th of the 1st, 4th, 7th and 10th months.
+@353
+You must be sure to go to the castle during that time.
+@354
+At a council, initiative is valued. You volunteer for the work you wish to do.
+@355
+But if you dawdle, others will take it, so be careful.
+@356
+And also, overwork is the root of ill health...
+@357
+Knowing your nature, {a6d00e6} is terribly worried.
+@358
+Whenever you are tired, come home. {a6d00e6} will soothe your weariness.
+@359
+Say thanks\nShow my feelings
+@360
+Sniff... What a splendid wife I have! I'm so happy I can't stop crying!
+@361
+Dear... Your words make me so happy...
+@362
+Right, I'm off then! Look after the house.
+@363
+To worry about me this much... May I have a word in your ear?
+@364
+What is it?
+@365
+I love you, {a6d00e6}. Smooch...
+@367
+Well then, I'm off. Look after the house.
+@368
+Welcome home, dear.
+@369
+Ah, Nene, I've missed you! I was nearly dying of loneliness.
+@370
+Lord {a730013} was looking for you. He asked where {a6d0000} had gone at such a critical time.
+@371
+Then I must hurry. I'm off!
+@372
+I hear Lord Nobunaga is moving to another castle.
+@373
+Oh, Brother. Hurry or you'll be left behind.
+@374
+Ah, sorry. I hadn't heard about the move.
+@375
+Hmm, I thought the room was bare, but there is quite a lot of baggage after all...
+@376
+Brother, my preparations are done.
+@377
+Mine are finished too.
+@378
+Right, I'm ready too! Let us head for Komakiyama.
+@379
+So this is our new home. Not much different, but that makes it easy to use.
+@380
+Now, off to work.
+@381
+{a6d00e6}, {a6d00e6}, listen! Lord {a6d0002} has entrusted me with the capture of Sunomata!
+@382
+Oh my, Lord {a6d0002} chose you as commander-in-chief of the Sunomata attack?
+@383
+Yes. I am the commander-in-chief.
+@384
+Once this battle is over, Lord {a6d0002} will surely entrust Sunomata Castle to me.
+@385
+But both Lord {a730008} and Lord {a730003} failed at Sunomata. {a6d00e6} is worried.
+@386
+State my resolve\nReassure her
+@387
+That's exactly why success will pay so well. I'll be promoted, too.
+@388
+But the danger is just as great. I may not come back alive, so there is something I want to say.
+@389
+If I do not return alive from this battle, I want you to live your own life.
+@390
+Even if you marry another man, if it makes you happy, then know that I wish for it.
+@391
+No, there is no need to worry. Lord {a730003} and Lord {a730008} failed because they attacked by brute force.
+@392
+But I have wits that those two lack. Sunomata is as good as mine.
+@393
+I'll be able to dress {a6d00e6} in fine kimonos too! Ha ha ha...
+@394
+Oh, that's right. From now on I will manage your stipend, so tell me when you need it.
+@395
+Please be careful not to waste it.
+@396
+Please, don't overdo it.
+@397
+Oh, dear, what is the matter?
+@398
+No, I'll push on\nRest
+@399
+No, I'm still fine. Once this work is done, I'll be able to rest.
+@400
+Phew... Nene, I'm back...
+@401
+You look pale... You must be overworked. Why not rest today?
+@402
+I must work hard for my lovely wife's sake.
+@403
+Hee hee, flattery will get you nowhere.
+@404
+But please do take care of yourself.
+@405
+Then I'll prepare the futon, so lie down.
+@406
+Oh, first, just to be safe, your temperature... Let me see...
+@407
+{d04}(Oh...)
+@408
+You have no fever... Thank goodness.
+@409
+{d04}(Being close like this after so long, my heart is pounding...)
+@410
+Oh? You have no fever, yet your face is bright red. What is the matter?
+@411
+{d04}W-well... It's... that...
+@412
+???
+@413
+I-I'm rested now! Well, back to work...
+@414
+Nene, Nene!
+@415
+What?! S-so suddenly...
+@416
+Oh, welcome back. What is the hurry?
+@417
+In broad daylight... all of a sudden... How embarrassing.
+@418
+A ch-child! I want a child of my own!
+@419
+Why so shy...? I only said I want us to have a child...
+@420
+Welcome home. Shall I serve the meal at once?
+@421
+Yes, do. I'm starving.
+@422
+Y-yes, of course!
+@423
+Oh, how silly. There are still dishes to wash! I-is it this way?
+@424
+Yes, understood. But first, this...
+@425
+Nene, I'm home.
+@426
+What is this? A charm...
+@427
+Nene...
+@428
+...I feel that dangerous work will soon come to you, dear.
+@429
+So that you come back safely then... please keep it on you at all times.
+@430
+Yes, I'll surely, surely come back! How could I die and leave such a wonderful wife!
+@431
+Dear... Promise me...
+@432
+Oh, dear, really...
+@433
+Besides, seeing Nene's face has blown my fatigue away. Right, one more effort!
+@435
+O-oh, good morning. To be called "dear" by Lady Nene... it's like a dream...
+@436
+Could you call me "dear" once more?
+@437
+Yes, dear...
+@438
+Mm... It sounds good no matter how often I hear it... Say it once more.
+@439
+Dear, today is your first council as an Ashigaru Captain. You must hurry.
+@440
+Oh, that's right! I must hurry...
+@441
+You will receive work directly from Lord Nobunaga now, so do be steady.
+@442
+Leave it to me. I must work hard to make Nene happy.
+@443
+Hmm, the 1st, 4th, 7th and 10th months... 1, 4, 7, 10... Good, I've memorised it.
+@444
+Oh, you do make a fuss... But where have you been all this time?
+@445
+Nothing, I was only out on business. Why, is something wrong?
+@450
+Dear, Lord {a6600eb} came by a while ago and asked me to give this letter to Monkey...
+@451
+It's rare for him to write a letter. What can he want? Let me see...
+@452
+{a6d0000}, I bet you're surprised to get a letter from me.
+@453
+I don't know how to write one, so I'll get straight to the point. I've decided to leave the {a730002} clan.
+@454
+I don't like the way {a6d0002} settles everything by brute force.
+@455
+Doesn't that way of doing things just mean the strong trample on the weak?
+@456
+I know it well, having worked as a ninja.
+@457
+{a6d0002} will go on to seize Mino, march on Kyōto and take the realm.
+@458
+But with methods like his, a truly peaceful age will never come.
+@459
+I have nowhere in particular to go, but we may well meet again somewhere.
+@460
+If we meet on the battlefield as enemies, cut me down without hesitation.
+@461
+I will think of you as {a6d0002}'s lackey and cut you down in turn.
+@462
+Farewell, then.\n- Ganmaku
+@464
+Perhaps you are right...\nNo, you are wrong...
+@465
+From where you stand, I suppose that is true.
+@466
+But I believe Lord {a6d0002} is a man who looks after the weak as well.
+@467
+Otherwise, why would he have promoted a man like me...
+@468
+No... You are wrong, {a6600eb}... No one thinks of the weak more than Lord {a6d0002} does...
+@470
+Dear, is something the matter?
+@471
+No, it's nothing...
+@472
+{a6d00e6}, we're moving! We're moving to Sunomata!
+@473
+What is it? Coming home and making such a racket.
+@474
+{a6d00e6}, don't be shocked. Lord {a6d0002} has appointed me castellan of Sunomata.
+@475
+Goodness, how wonderful! Even a castellan is master of a castle. You have come up in the world, dear.
+@476
+Sunomata is nothing to be satisfied with yet. Hurry and get ready!
+@477
+Sunomata is the front line of this war, after all. We cannot leave it empty for a moment.
+@478
+Understood. I will get ready at once.
+@479
+Rustle... rustle...
+@480
+Thump, bump... thump, bump...
+@481
+Phew... Dear, I'm finished here.
+@482
+That's my wife...\nWell done
+@483
+That's my wife for you! Pretty face, and quick at her work too!
+@484
+Oh, flattery will get you nowhere.
+@485
+Well done, {a6d00e6}. Smooch...
+@487
+Ha ha ha... Then off to Sunomata we go! Ready, {a6d00e6}?
+@489
+Yes, time to rest.
+@490
+It has been a hectic time lately, with the move and all. Perhaps it has worn me out.
+@491
+I'm sure that is it. Without noticing, you have been pushing yourself too hard.
+@492
+Then let me wipe you down. Please take off your robe.
+@493
+R-right...
+@494
+First your back... There. Now the front...
+@495
+{d04}Oh, ooh!?
+@496
+Hm? What is it?
+@497
+Ah, leave it to me! I, {a660000}, will not die until I have made Nene happy!
+@498
+Here is my pledge! Smooch!
+@500
+Dear, you're finally home.
+@501
+Ah, so this is our new home! How splendid it has become!
+@502
+We can live in such a fine house thanks to you, dear.
+@503
+Of course!\nNo, no...\nIt's thanks to Nene
+@504
+Of course! You should thank me!!
+@505
+Oh, don't get carried away!
+@506
+No, no, it isn't my strength alone. I can rise only because of everyone's help.
+@507
+It is because you are so considerate that everyone lends you their strength.
+@508
+No, this is thanks to {a6d00e6} as well. With {a6d00e6} beside me, I can work with all my might.
+@509
+{a6d00e6}, keep looking after me. Smooch...
+@510
+Oh...
+@511
+Mm, mmm...
+@512
+Mm, did you wake up?
+@513
+{a6d00e6}, I have decided. I will do the work only I can do and win Lord {a6d0002}'s recognition.
+@514
+I see. Do as you think best, dear. I will believe in you and follow.
+@515
+{a6d00e6}...
+@516
+My lord, shall we talk about the recent Ikkō uprisings?
+@517
+Very well, let's hear it.
+@519
+My lord, have you noticed any change in the Ikkō uprisings lately?
+@520
+These Ikkō rebels have suddenly grown into a great power to rival the Miyoshi.
+@521
+The reason seems to be that a capable leader has appeared.
+@522
+Oh? And do we know what sort of fellow this leader is?
+@523
+We know only his name and where he is from.
+@524
+I see. And who is this man, then?
+@525
+I hear he is a man named Ganmaku, from Owari.
+@526
+What! Ganmaku!
+@527
+My lord, do you know this Ganmaku?
+@528
+Know him? We were boyhood friends...
+@529
+He was a ninja of the Oda clan, but he suddenly left. I never thought he would become the leader of an Ikkō uprising...
+@530
+I see.{w} But if this uprising continues, it will become a threat to the Oda clan.
+@531
+I look forward to seeing how our lord deals with it.{w} My lord, thank you for hearing me out.
+@532
+Phew... Nene, I'm home.
+@533
+Welcome home.
+@534
+Oh my... You look so tired... I'll prepare the bath right away.
+@535
+Dear? Oh...
+@536
+Yes, I'm a little tired... Ah, so sleepy...
+@537
+...Hm, the bedding is laid out... and my change of clothes, too...
+@538
+Nene, thank y... Hm?
+@539
+Nene has fallen into a deep sleep...
+@540
+Nene, I'm home.
+@542
+Dear, if you are tired, why not lie down for a while?
+@543
+Yes, you're right. I'll lie down for a bit, then.
+@544
+Hm?... What is Nene doing?
+@545
+Stitch, stitch...
+@546
+Phew, almost done...
+@547
+(She seems to be sewing something...)
+@548
+Stitch, stitch... Ouch...
+@549
+Ah, Nene, I feel much better.
+@550
+Oh, dear. Are you awake?
+@551
+Yes, and the fatigue is gone. What is that you are holding?
+@552
+...Well, I sewed it myself...
+@553
+This is... a kimono?
+@554
+Nene... You must be tired too...
+@555
+Please don't look too closely, or you'll see how clumsy I am.
+@556
+Thank you... Smooch...
+@558
+?
+@559
+N-no... Come, let's take a bath... (So cold of her...)
+@560
+...Nene, thank you.
+@561
+What is this, getting all sentimental? That isn't like you, dear.
+@562
+Oh, do try it on.
+@563
+Yes, right away... Oh, it fits perfectly!
+@564
+Thank you, I will treasure it! I must work hard to be worthy of this kimono!
+@565
+(Nene...)
+@567
+Oh, you exaggerate. Hee hee...
+@568
+Nene! Where are you?
+@569
+Dear! I'm here!
+@570
+Brother! Lady Nene's foot is caught under a fallen chest!
+@571
+Koichirō, take that side. We lift on "Heave-ho"!
+@572
+D-dear, never mind that, run away quickly!!!
+@573
+Brother! The fire is almost on us! Hurry!
+@574
+Hnnng... Uooooh!!! Yaaah!!!
+@575
+Nene! Are you all right! Nene!
+@576
+I-I'm all right. More importantly, dear, your back...
+@577
+This? Nothing to a body as well-trained as mine!
+@578
+Oh, honestly, dear.
+@579
+Now, let's go!
+@583
+I'm home.
+@584
+Dear, today there is your favourite, sea bream, head and all.
+@585
+This is quite a feast. What's the occasion?
+@586
+I thought you should have something nourishing now and then, so I splurged.
+@587
+I'm grateful. I've been busy and a little worn out. Then let me dig in at once.
+@588
+First, from around the belly... Mm, delicious! Ahh, it's good to be alive!
+@589
+Neneee!
+@590
+Oh my, drunk like this... Dear, do pull yourself together.
+@591
+Nene!
+@591.1
+Ne-ne!
+@592
+Dear! If you don't stop, I'll be angry!
+@593
+Come now, come now.
+@594
+Oh, noooo!
+@597
+Say, Nene, who do you think will take the realm?
+@598
+What is this all of a sudden, dear?
+@599
+The one who will take the realm is...
+@600
+Lord Nobunaga\nMonkey\nNene
+@601
+The one who will take the realm can only be our lord.
+@602
+Yes, that is right. What of it?
+@603
+The one who will take the realm is, of course, this {a6d0000}!
+@604
+Dear, you mustn't. Careless words will ruin you.
+@605
+And this is a samurai home in the castle town. There is no telling who may be listening. Please be very careful.
+@606
+Ah, you're right... I got carried away in my excitement.
+@607
+The one who will take the realm is Lady Nene!
+@608
+Hee hee... Then, {a6d0000}, I give you the mission of cooking, washing and all household chores!
+@609
+Yes, my lady! Leave it all to this Monkey!
+@610
+Hee hee, then see that it is done.
+@611
+Oh, dear, I'm sorry... Ugh!
+@612
+What is it! Nene!
+@613
+I feel a little sick... Ugh...
+@614
+Hey, Nene! Are you all right!
+@615
+You feel nauseous, don't you. I'll bring you some water right away.
+@616
+I'm sorry...
+@617
+Hey, Nene, I'm back. Hm, is she out?
+@619
+Hmm... I hope it isn't a bad illness...
+@620
+Wait! Could it be...
+@621
+...\n...\n...
+@622
+Hooray!!!
+@623
+Well done, Nene! Thank you, thank you!
+@624
+What?
+@625
+So you're finally with child. Well done. Truly well done!
+@626
+N-no... This is...
+@627
+Nene, there is no need to hide it. That is morning sickness. How wonderful!
+@628
+Dear... I'm sorry to spoil your joy, but...
+@629
+Huh?
+@630
+A friend invited me out... and I drank too much...
+@631
+...Th-this is hopeless...
+@632
+Oh, that's fine. Then let's drink together.
+@633
+No, I'm all right. You drink, dear.
+@634
+Don't be so stiff. Just this once, why not?
+@635
+Oh, very well... Then just a little.
+@636
+Phew, I'm quite drunk now... What shall I do...
+@637
+Hic... I know! Nene, let's dance!
+@638
+Oh, how embarrassing...
+@639
+I'll show you how. Ah, there, yoi yoi...
+@641
+What are you staring at? Dance! I look like a fool doing it alone!
+@642
+Y-yes! Y-yoi yoi...
+@643
+That's it. Now put more hip into it! Sano, yoi yoi...
+@644
+S-sano, yoi yoi...
+@645
+Next, chopsticks... like this... up the nose... There! Now for the loach-scoop dance!
+@646
+Whaaat!
+@647
+Right, here I go!!!
+@648
+Essassa, essassa!
+@649
+O-oh my, essassa, essassa...
+@650
+{a6d0000}, are you in?
+@651
+...{w}
+@654
+Well, that is... Ha ha ha, see you, {a6d0000}...
+@655
+Ah, L-Lord Toshiie!
+@656
+Now I'll never be able to show my face outside...
+@657
+...Ah, knowing Lord Toshiie, he will spread it all around the neighbourhood... I'm sorry, Nene...
+@658
+"I'm sorry..." is not enough!!!
+@659
+Forgive me!!!
+@660
+Dear, I have bought some sake. Will you have some?
+@661
+What shall I do... Lord Toshiie saw me like that...
+@662
+Nene, I'm home.
+@663
+Dear! You've come back.
+@664
+I heard the coming battle will be terrible... I was so worried about you...
+@665
+Don't fret. This {a6d0000} will not die so easily.
+@666
+Nene will never leave your side again.
+@667
+Nene...
+@669
+Dear, welcome home.
+@670
+Phew, I feel tired somehow...
+@671
+Oh dear, that won't do... By the way, why not drink this?
+@672
+Hmm, this is... horny goat weed?
+@673
+Yes, a friend gave it to me the other day. They say it works on illness and fatigue.
+@674
+I see. Then I'll try it.
+@675
+Dear, how is it?
+@676
+It can't work that fast. Besides, I can't trust such a dubious medicine. It must be a fraud... {w}Ugh!
+@677
+D-dear! What is it!?
+@678
+U-ugh... {w}Uoooooooooooh!
+@679
+Ook!!{w} Ook-ook-eeeek!
+@680
+D-dear! Calm down!
+@680.1
+Eeek-eeek!!!
+@681
+Aaah!!! P-please stop!!!
+@681.1
+Ook-ook-ook!!! Eek!
+@682
+{d02}Bonk!!!
+@683
+Honestly, you went wild, like a beast. You even pounced on me...
+@684
+I was like a beast? What kind of beast?
+@685
+Oh, if it isn't Brother. What is it?
+@686
+Well, I mean to use a rumour to win over Ujiie Bokuzen.
+@687
+I see. Have you decided who will do it?
+@688
+Let me see...
+@689
+Kinoshita Koichirō\nTakenaka Hanbee\nHachisuka Koroku\nInada Ōinosuke
+@690
+Let me see... Koichirō, you do it.
+@691
+Me? All right. I'm not very good at it, but I'll try.
+@692
+I think Lord Hanbee is the right man...
+@693
+In Lord Hanbee's position, I think it would be hard for him...
+@694
+In any case, I will go and call him.
+@695
+My lord, Takenaka Hanbee is here.
+@696
+Hanbee, I have a favour to ask. I want to use a rumour to win over Ujiie Bokuzen. Will you do it?
+@697
+My lord, I am sorry, but I cannot accept.
+@698
+Of course. Hanbee served the Saitō clan until just recently. He must feel some obligation.
+@699
+Understood. We will bring Ujiie down with rumours alone.
+@700
+I think Koroku is the right man...
+@701
+Quite so. Lord Koroku has experience in ninja work. He is well suited to this task.
+@702
+Understood. I will pass the word to him myself.
+@703
+Ōinosuke will do.
+@704
+Ōinosuke? I can't expect much, but I will tell him.
+@705
+Phew, what on earth was I doing? I remember up to drinking the medicine...
+@706
+A monkey...{w} and a real one, too.
+@707
+...Am I a monkey after all...
+@710
+Oh, how you exaggerate. But I'm glad you are pleased.
+@711
+No, it tastes this good because I eat it together with Nene.
+@712
+Oh, you flatterer.
+@713
+By the way, once the bream has built up my strength, tonight...
+@714
+Tonight?
+@715
+You know perfectly well what I mean...
+@716
+What!? I don't know... (Blush)
+@717
+But do your best to make it so.
+@718
+Ah, of course!
+@719
+Ah, she really did leave... I shouldn't have joked...
+@720
+Say, Nene, I have worked quite hard, so why can't I become a Samurai General?
+@721
+Come to think of it, you have been an Ashigaru General for a long time.
+@722
+You don't spare my feelings, do you...
+@723
+Oh, I'm sorry. But I don't mind it at all.
+@724
+As you are now, I am quite content.
+@725
+Well, I'm glad you say so, but I can't accept being denied promotion when I have earned merit.
+@726
+Father said it is hard to rise without people who support you.
+@727
+Perhaps there are still few who support you, dear?
+@728
+I see... Indeed, I may have neglected that, caught up in my work.
+@729
+From now on, why not make a point of sending gifts and visiting the sick?
+@730
+Right, I'll do as Nene says.
+@731
+Thank you! I'll keep up the good work!
+@732
+Yes, dear.
+@800
+\_\_\_\_\_\_\_\_- {e730051} Home -
+@801
+So this is to be my home... {w}Huh, it's warm inside...
+@802
+Lord {a730000}.
+@804
+Oh my... hee hee. There is no need to be so startled.
+@805
+Ah, um... And you are?
+@806
+I am called Sae.
+@807
+Our lord has sent me to look after your daily needs and manage your stipend, Lord {a730000}.
+@808
+I see. Ah, I look forward to working with you.
+@809
+There are many things to be done before the next council.
+@810
+For today, please rest well and ease the weariness of your long journey.
+@813
+Lord {a6d0000}, today is council day. Do you not need to go to the castle?
+@814
+Yes, I should be leaving soon.
+@815
+Ah, wait a moment. Your sash is crooked.
+@816
+...{w}There, it is fixed. {w}It is your first council, so please take care to make no blunders.
+@817
+Yes. Then I am off.
+@820
+I'm back...
+@821
+Welcome home. It was a sudden battle, wasn't it? It came as such a surprise.
+@822
+Still, I am relieved that you are safe. How was your first battle?
+@823
+Well, I managed somehow...\nIt was easy
+@824
+Well... I managed to come back alive somehow.
+@825
+Oh, what is this faint heart? Lord Katsuie will scold you if you carry on like that.
+@826
+No, it was not as frightening as I had expected. This is easy enough.
+@827
+Is that so? But do not let your guard down.
+@828
+Now, please take off your armour. First we must brush off the dust.
+@829
+Y-yes. There we go...
+@830
+Oh, you are wounded... And here, too.
+@831
+What!? You're right... When did that happen...
+@832
+I will tend them now. Please stay as you are.
+@833
+No, this much is fine. Do not worry.
+@834
+You must not dismiss small wounds! I will treat them properly.
+@835
+Y-yes...
+@836
+There, that should do... I'm sorry, I am clumsy. Did it hurt?
+@837
+Thank her sincerely\nMake a joke
+@838
+No, thank you very much. With you here, Lady Sae, battles are not frightening at all.
+@839
+Oh my... But please be careful. I worry...
+@840
+Yes, I understand.
+@841
+No, if I am treated this kindly, the wounds are nothing.
+@842
+Oh my... Honestly, you are all talk, and that worries me. Please be careful.
+@843
+Now, please have your meal. Today is a celebration...
+@844
+Yes, now that you mention it, I have suddenly become hungry.
+@845
+Oh my, hee hee...
+@850
+I'm back... Hm... What a good smell of grilled fish.
+@851
+Oh, welcome home.
+@852
+Grilled fish today? It looks delicious.
+@853
+Hee hee... I found fine fish today, so I bought some.
+@854
+But there seems to be work first. A messenger from the castle has just come, saying you are to report there.
+@855
+I see... Then, regrettably, I will go.
+@856
+Yes, take care.
+@860
+I'm back.
+@861
+Lord {a6d0000}, welcome home. How was the town below Azuchi Castle?
+@862
+It was very lively. The town was quite different from {e730051}, too.
+@863
+I would like to see the town below Azuchi Castle just once myself.
+@864
+Oh, yes, I have a souvenir for you, Lady Sae.
+@865
+Oh, what a lovely hairpin... Is it all right? Such a fine thing...
+@866
+You are always doing so much for me, Lady Sae.
+@867
+Thank you very much, Lord {a6d0000}!

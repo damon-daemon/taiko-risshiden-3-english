@@ -1,0 +1,2106 @@
+@0
+Carry out {p00}?
+@1
+The truth is, the province I was sent to take has been seized by our own side, so I can no longer complete my mission.
+@2
+The truth is, the castle I was sent for has fallen, so I can no longer complete my mission.
+@3
+The truth is, the clan my mission targeted has been destroyed, so I can no longer complete my mission.
+@4
+The truth is, the region I was sent to has been seized by our own side, so I can no longer complete my mission.
+@5
+Is that so? In that case, you will not be blamed.
+@7
+As a mere castellan, I had better not enter the Lord's Room. Our lord would scold me.
+@8
+Hold on, I have no time to idle about here.
+@9
+Nobody lives here that you can meet.
+@10
+Hold on, I have no time to go home.
+@11
+This is no place for a lowly man like you. Be gone at once.
+@13
+Lord {p00}, the Castle Lord, is away today. I cannot let you into the castle.
+@14
+Lord {p00}, the Castle Lord, is at {p01}. You cannot meet him at this castle.
+@15
+Lord {p00}, the Castellan, is away today. I cannot let you into the castle.
+@16
+Hold on, I have no time to go out.
+@17
+This is not my castle, so there is no point in going inside.
+@18
+Better not go inside.
+@20
+Delete
+@23
+The results of the mission were reported. Merit did not rise.
+@24
+The results of the mission were reported. Merit rose by {b00}.
+@25
+The mission was abandoned.
+@26
+The mission was abandoned. Merit fell by {b00}.
+@27
+Do you have business at our castle?
+@30
+I come as an envoy of the {p00}. Please announce me at once.
+@31
+Forgive me. Please, go right through.
+@34
+Well, well! Lord {a660000} of the {p00}! Please, go right through.
+@35
+Do you have business at our castle? Hm? Your face looks familiar somehow...
+@36
+This is bad... How do I get inside?
+@37
+Damn. I am short of money.
+@38
+How much shall I hand over?
+@39
+Thank you for your service. Treat yourself to something tasty.
+@40
+W-What do you mean by this?! I cannot take such money! Please leave.
+@42
+Hmm... Oh, very well. I will pretend I saw nothing this time.
+@43
+I am a merchant from {p00} Province. I have brought the goods Lord {p01} ordered.
+@44
+That poor act will not work on me! Outsiders cannot enter the castle. Please leave.
+@45
+So that is it. Thank you for your trouble. Go on through.
+@46
+Hey, good heavens, look at the sky! W-What is that?!
+@47
+Huh? Is something the matter? Outsiders cannot enter the castle. Please leave.
+@48
+What?! W-Where? Where?
+@49
+What, there is nothing there... Huh? Where did that man go?
+@50
+Lord {a660000}. Lord {p00} is away. I cannot let you into the castle.
+@51
+Lord {a660000}. Lord {p00} is away at war. I cannot let you into the castle.
+@52
+Also, I hear this council has been put off until the next one.
+@53
+Please visit the castle again another day.
+@54
+Have you finished your mission? I can take your report. What will you do?
+@55
+No, I will report another time. There are still some days before the deadline.
+@56
+No, I will report another time. The deadline is close, so I will come again soon.
+@57
+Understood. Please take care not to let the mission deadline pass.
+@58
+Your mission does not seem to be finished yet. Surely you are not abandoning it?
+@59
+Of course not. What a foolish thing to say!
+@60
+F-Forgive me. Please carry on with your mission.
+@61
+As it happens, yes. Break it to our lord gently for me, will you?
+@62
+Y-You jest! Is that true?!
+@63
+No, I am serious. This mission seems beyond me.
+@64
+W-What?! Do not blame me if our lord's anger falls on you.
+@65
+Ha ha ha, I was only joking.
+@66
+...That is a joke too far.
+@67
+Hm? Nobody seems to be home.
+@68
+Hmm, I see. Now I have a fair grasp of the castle town!
+@69
+An army is marching past {p00} right now. You cannot go out today.
+@70
+Oh no. Our lord will scold me for results like these.
+@71
+Hmm. The results are not very good.
+@72
+I got average results. Well, this will do.
+@73
+Good, a fine job, if I say so myself. Our lord should be satisfied with this.
+@74
+I did it! A perfect result! Our lord will surely be delighted.
+@75
+There are no officers who can be appointed.
+@76
+Abandon the mission?
+@77
+If you abandon it, the mission ends here and the results will be poor. Abandon it anyway?
+@78
+Appoint officers to take charge of the work you wish to carry out. Officers without the required skill cannot be appointed.
+@79
+There is not enough budget for that work.
+@80
+The selected officer does not have the required skill.
+@81
+Appoint at least one officer in charge.
+@82
+Budget still remains. Start the work anyway?
+@83
+{p00}'s merit rose by {b00}.
+@84
+{p00}'s Yield rose by {b00}.
+@85
+{p00}'s Commerce rose by {b00}.
+@86
+{p00}'s Mines rose by {b00}.
+@87
+{p00}'s Defence rose by {b00}.
+@88
+{p00}'s Support rose by {b00}.
+@89
+The Land Survey found {b00} koku of hidden fields. The Land Survey of {p00} is finished.
+@90
+{p00}'s Defence fell by {b03}. Lost {b00} koku of rice, {b01} horse{s} and {b02} gun{s}.
+@91
+{p00}'s Training rose by {b00}.
+@93
+Well, now I must go and report to our lord...
+@94
+Ashigaru recruitment at {p00} is finished.
+@95
+The Ashigaru recruitment budget has {b00} kan left. Each levy costs 500 kan. Recruit Ashigaru at {p00}?
+@96
+{b00} recruit{s} answered the call to arms.
+@97
+{b00} kan of the budget is left. I can still recruit Ashigaru at other castles.
+@98
+The recruitment budget is gone. All that remains is to report to our lord.
+@99
+Hold there, this is the Imperial Palace. We cannot admit those with no business here.
+@100
+{c01}- About the Castle Town Screen -\n A castle town has many "buildings", such as the "Castle" and "Rice Dealer". The kinds of building differ from castle to castle.
+@102
+{c01}To enter a "building", press Square to show the list of buildings and choose one, or select one with R1 / L1.
+@103
+{c01}To visit the home of "Maeda Toshiie", select "Samurai Home". Then choose "Maeda Toshiie" from the list.{c09}
+@106
+Why, if it isn't {p00}! Lord {p01}! Fancy meeting you here.
+@107
+Why, is that not Lord {p00}? Lord {p01}! What a surprise to meet you here.
+@108
+I thought I heard a grating voice, and it is you! A mere monkey has no business calling out to a human so familiarly!
+@109
+No, I only meant to greet you...
+@110
+Silence!! Listening to a monkey's screeching makes me sick!
+@111
+...He has gone. Well, well, he does dislike me.
+@112
+...Ah, Lord {p00}. I trust you are well.
+@112.1
+Forgive me, but I am in the middle of a mission, so I must take my leave.
+@113
+Thank you for your hard work. Good luck with it.
+@114
+...Then, if you will excuse me.
+@115
+...Oh, only Lord {p00}. I am in the middle of a mission. I have no time to chat with the likes of you.
+@116
+F-Forgive me.
+@117
+Hmph. Then I shall take my leave.
+@118
+Ah, Lord {p00}. I am in the middle of my {p01} mission just now.
+@119
+Oh, Lord {p00}. I am on my {p01} mission.
+@120
+(Hmm, {p01}, is it...)
+@121
+Then do your best for our lord.
+@122
+Of course I will. Now, if you will excuse me.
+@123
+For you, Lord {p00}, it should be over in no time.
+@124
+I wish it were so easy. Well, I take my leave.
+@125
+In that case, let me introduce you to someone who can help.
+@126
+In that case, allow me to introduce you to someone who can help.
+@127
+(Oops! Come to think of it, I do not know anyone to introduce!)
+@127.1
+Er, let me see, I believe there was someone at {p00}... No, was it {p01}...
+@128
+...Wait. I can manage this one on my own. Save your advice for another time...
+@129
+I-I see. Very well, then.
+@130
+Then, I have a mission to attend to.
+@131
+...You are not making yourself clear. Who exactly do you mean?
+@132
+I am ashamed. It seems I have forgotten.
+@133
+...I see, how unfortunate. Then, I have a mission to attend to.
+@134
+What, you forgot? You hopeless fellow. Well, it's the thought that counts.
+@135
+I am ashamed.
+@136
+Be more careful next time.
+@137
+...You would introduce someone you do not even know? Meddling like that only gets in the way of an important mission.
+@138
+F-Forgive me.
+@139
+There is a man called {p01} at {p00}. Why not report that to our lord?
+@140
+Oh, you are a marvel, Lord {p00}! Thank you. I will go and report to our lord at once.
+@141
+Most welcome! Trust Lord {p00} to have such fine information. I will go and report to our lord at once.
+@142
+In that case, I will show you a good way to do it.
+@143
+In that case, allow me to show you a good way to do it.
+@144
+Taught {p00} the knack of {p01}.
+@145
+...But {p00} knew more than you...
+@146
+...Thank you. That was most helpful.
+@147
+(Oops. It seems Lord {p00} is the more skilled.) Ah, well, then do your best for our lord.
+@149
+...That way seems rather inefficient...
+@150
+(Oops. It seems Lord {p00} is the more skilled.) I-Is that so?
+@151
+Anyone knows that much. Give advice without the skill to match, and you will be shamed.
+@153
+Polish your own skills first. Now, excuse me.
+@154
+What a wasteful way to do it. You have little skill, so do not meddle!
+@156
+Think about your own ability before you speak. Now, excuse me.
+@157
+Oh, you are a marvel, Lord {p00}! Thank you. I will try it at once.
+@158
+I see, that is efficient. Well done, Lord {p00}. I shall try it at once.
+@159
+In that case, buy in {p00} Province and sell in {p01} Province... Repeat that, and you will make a huge profit.
+@160
+In that case, sell in {p01} Province and buy in {p00} Province... Repeat that, and you will make a huge profit.
+@161
+Is that so! Then I will try it at once. My thanks, Lord {p00}.
+@162
+What! Now that is useful information! I will try it at once. My thanks, Lord {p00}.
+@163
+In that case, you will get it cheaper in {p00} Province than here.
+@164
+Is that so! Then I will go there at once. My thanks, Lord {p00}.
+@165
+What! Now that is useful information! I will go there at once. My thanks, Lord {p00}.
+@166
+In that case, you will get it cheaper in {p00} than from the smith here.
+@169
+Come, come! Is there nobody who wants to be an Ashigaru of the {p00}?
+@170
+Hey! What are you doing in a place like this?! {w}Hm? {w}You are one of the {p00}, are you not?
+@171
+As I thought, recruiting Ashigaru in enemy territory is asking too much... {w}{w}Time to run!
+@172
+Stop right there!!! {w}{w}Tch, he runs like the wind!
+@176
+Call off {p00}?
+@180
+Go outside?
+@300
+Ow! Who was that?! Who just bumped into me?!
+@301
+What, you want to pick a fight with me?! You monkey... {w}{w}Oh, it's only the Monkey.
+@302
+Honestly, watch where you are going. What are you in such a hurry about?
+@303
+I have urgent work. Of course I am in a hurry.
+@304
+I see. Then I will go and have a look.
+@305
+Right, hurry up and follow me!
+@306
+I have to go and report to Lord {a6d0002} now.
+@307
+Ten years since I left home... I wonder how everyone is...
+@308
+Ma...\nLord Asano's advice...
+@309
+I want to see Ma... I think I will go back.
+@310
+Lord {a730010} went to the trouble of advising it, so I think I will go home for the first time in ages.
+@311
+Serving Lord {a6d0002} as I do now, I should not be ashamed to go home.
+@312
+I just saw Lord {a730010}, and he looked flustered. Has something happened?
+@313
+No, I do not know...
+@314
+Something seemed badly wrong. Why not go and see?
+@315
+Oh, {a6600eb}! Is that you, {a6600eb}?
+@316
+Oh, {a6d0000}! Say, how was Lord {a730010}?
+@317
+Well, Lady {a6d00e6} has fallen ill. I am looking for medicine, but...
+@318
+You ask if I know of any without even naming the illness... How is Lady {a6d00e6}?
+@319
+Ha ha ha!! Still the simple fellow. Do your best, Monkey!
+@320
+It seems to be an illness going around Ōmi now, but this town has no medicine for it.
+@321
+Hmm, that is bad...
+@322
+Come to think of it... I heard Nanban medicine works on the illness going around Ōmi.
+@323
+Perhaps you could get it in the town of Sakai in Settsu?
+@324
+Sakai! So if I go to Sakai, I can find it? Thank you, {a6600eb}!
+@325
+If I remember rightly, {a6600eb} said Nanban medicine works.
+@326
+I will look in on her again later. I am tired today, so I think I will go home.
+@327
+Hey, Monkey! Walking around with that happy face. Has something good happened?
+@328
+Ah, can you tell?
+@329
+Really! Good things all around, then. So you are going to have retainers.
+@330
+Someone in mind? Well... Say, Ganmaku, won't you be one?
+@331
+I serve Lord {a6d0002} as a ninja. That is out of the question.
+@332
+I thought so. {a6600eb}, do you know anyone?
+@333
+I know, what about your brother, {a6d0001}?
+@334
+{a6d0001}... I had not thought of that...
+@335
+Relatives and those close to you are often the hardest to think of.
+@336
+So it seems.
+@338
+Thank you, Ganmaku.
+@339
+Hey, wait for me!
+@340
+Hm... Someone is calling me...
+@341
+Brother, it is me, {a6d0001}.
+@342
+Oh, {a6d0001}! I did not think you would come so soon.
+@343
+Were you able to persuade that stubborn {a6d00e8}?
+@344
+No, I could not. When I said I wanted to work under you, he told me, "Do not come back."
+@345
+Ha ha... I thought so. He hates me through and through.
+@346
+Honestly... What a nuisance...
+@347
+...I have put you to trouble. I beg you, forgive me!
+@348
+Well, there is no use complaining now. I forgive you.
+@349
+Ah, you see! But all of it is to build a world where everyone can live in peace.
+@350
+Building a world where everyone can live in peace... And you say you can do that, Brother.
+@351
+That's right! And for that I need your help.
+@352
+A name fit for a samurai...
+@353
+Koichirō!\nKosanta!
+@354
+Koichirō... how about Koichirō! It sounds like a proper samurai.
+@355
+Koichirō... Yes, that is a good name. Kinoshita Koichirō.
+@356
+Good, then I will introduce Lord Koichirō to Lord {a730010}. Follow me!
+@357
+How about Kosanta?
+@358
+Kosanta... Hmm, not bad, but... it sounds like a servant's name.
+@359
+If so, names like Koichirō or Kogenta sound grander.
+@360
+Koichirō! A fine name. Take good care of a name you chose yourself.
+@361
+Then I will introduce Lord Koichirō to Lord Asano. Follow me.
+@362
+Hey, {a6d0000}. How is work going? Have you won any honours yet?
+@363
+Ah, Lord Toshiie. Thanks to you, I have got used to it somewhat.
+@364
+Good, that is the main thing. By the way, Lord Katsuie still seems to dislike you.
+@365
+So it seems... I thought I was doing my best...
+@366
+Yes, it is not your fault. Lord Katsuie has always been like that...
+@367
+Well, win merit and gain more supporters in the clan, and Lord Katsuie will start to respect you.
+@368
+...You mean I should enlarge my faction?
+@369
+Yes. The more people who support you and the bigger your faction, the better things will go.
+@370
+For a start, with a bigger faction your opinions carry more weight at the council.
+@371
+Ah, so then I would be given better work.
+@372
+Yes. And with more people to recommend you, you will rise faster, too.
+@373
+Is that so... Well, I have learned a great deal. My thanks.
+@374
+Not at all, no need to be so formal. We are friends, are we not?
+@375
+Still, enlarging a faction is easier said than done. It all depends on people.
+@376
+But there is something likeable about you. If you work at it, you will gain supporters.
+@377
+Well then, {a6d0000}. Do your best!
+@378
+That is wonderful news! You should go and tell Ma.
+@379
+You're right\nI'd rather not
+@380
+You are right. I want to make Ma happy.
+@381
+I'm not too keen on it.
+@382
+Don't say that. Go and make Ma happy.
+@383
+I do not want to see {a6d00e8}, but when you say "Ma", I have no defence...
+@384
+Come on! Let's get going!
+@385
+Hey! Tōkichirō!! So you were here!
+@386
+Oh, Lord {a6d0013}. What is the matter?
+@387
+Huff, huff... I have found a go-between. Lord Niwa Nagahide.
+@388
+What, such a fine man as Lord {a730004} has agreed to be our go-between!
+@389
+Yes. And as for the date, it will be as soon as preparations are ready.
+@390
+I could not even get a word in... First I must make them see that I am a human being...
+@391
+Ah, this is where I was turned away.
+@392
+What, as soon as preparations are ready?! That is sudden...
+@393
+Well, strike while the iron is hot, {a6d0000}. I have told Lord Asano as well.
+@394
+I-Is that so... That is quick...
+@398
+Good, I still have things to do. I will make it a fine wedding! Well then, farewell!
+@399
+Ah, Lord Toshiie! Gone again...
+@400
+Goodness, what a busy man. Oh yes, Lord Niwa is to be the go-between. I must go and greet him at once.
+@403
+Brother! Brother!
+@404
+What is it? What a racket.
+@405
+A messenger has come from Lord {a730010}. He says the wedding is to begin now.
+@406
+I see... We must get ready at once. You hurry too, {a6d0001}.
+@408
+Oh, the bridegroom is here! What are you doing in a place like this? The wedding is about to begin!
+@409
+Already that time?! I must hurry!
+@410
+Right, I like Koichirō.
+@411
+Phew, I seem to have overdone it a little.
+@412
+By the way, you look idle. I will introduce you to a certain person, so follow me.
+@413
+His name is {a660021}. A man worth knowing.
+@414
+See you again.
+@415
+Hey! {a6d0000}!!
+@416
+You work as a ninja. Have you heard anything?
+@417
+I can tell. Oh, could it be you and Lady {a6d00e6}...
+@418
+Nothing gets past you, Ganmaku. I am finally to marry Lady {a6d00e6}.
+@419
+And what is more, Lord Asano is going to recommend me as Ashigaru Captain.
+@420
+Do you have anyone in mind who might become a retainer?
+@421
+Oh, well done! Congratulations, truly, congratulations!
+@422
+I think he is steadier than you, and more dependable.
+@423
+No time like the present, as they say. I will go and try at once.
+@424
+But the really hard part comes from here on, does it not?
+@425
+Right, first I must give you a fine name, one worthy of a samurai.
+@426
+Hey, Brother! Lord Maeda just went flying past. Is something the matter?
+@427
+A wedding is always hectic. Come on, do your best, groom!
+@428
+R-Right... Well then, shall we go?!
+@431
+Well, Lord Maeda said he would run the wedding, and he is full of energy.
+@432
+But you were so slow to come home, I was worried sick...
+@433
+Sigh, Lord {a730010} is giving away his precious daughter. It must be so hard for him...
+@434
+Brother, you must make Lady {a6d00e6} happy, without fail.
+@435
+Yes, I know.
+@436
+Hey, Monkey. You did well.
+@437
+Oh, Ganmaku. Thanks to you, Lady {a6d00e6} is cured. My thanks.
+@438
+Ah, never mind that. But what a pity, you were so close...
+@439
+Hm? What was?
+@440
+Lady {a6d00e6} was just about to tell you how she feels... You are so slow.
+@441
+You were spying! Childhood friend or not, I will not forgive that!
+@442
+Sorry, sorry, I could not help being curious. But Lady {a6d00e6} is sweet on you. Good for you.
+@443
+I-Is that so? Ha ha... Lady {a6d00e6} is sweet on me, ha ha ha...
+@444
+Why blush at your age? You are old enough to take a wife.
+@445
+That is true. Lady {a6d00e6} as my wife...
+@446
+No, it is no good... I can joke about it, but with my station it can never be...
+@447
+No, you said you would work hard and rise in the world. If you do, it will surely come true.
+@448
+Besides, station has nothing to do with love. What matters is how you feel about each other.
+@449
+Yes, you are right. I must not give up my dream. Right, I will work hard!
+@450
+Oh, {a6d0000}! Good timing.
+@451
+Ah, Lord Toshiie. Why are you in such a rush?
+@452
+Well, Lord {a660006} went as Lord {a6d0002}'s envoy to {a66003f} in Mikawa.
+@453
+And now he has returned, having concluded an alliance! Do you know what that means?
+@454
+I don't know...\nA step to the next war\nWe can visit Mikawa
+@455
+What does an alliance bring? Won't you tell me?
+@456
+Slow on the uptake, aren't you... Well, all right. I'll tell you.
+@457
+First, where will the {a730002} clan attack next? Do you know?
+@458
+Mino\nIse\nI don't know
+@459
+Is it not Mino?
+@460
+Well guessed. That's our {a6d0000}!
+@461
+Lord {a6d0002} has allied with the {a73003f} to secure his rear before he attacks Mino.
+@462
+So the alliance means the Mino campaign is about to begin.
+@463
+Exactly. Be ready for orders to march at any time.
+@464
+Is it not Ise?
+@465
+Hmm... close. We will have to attack Ise sooner or later, but Mino is the real target.
+@466
+Why would it be Mino?
+@467
+Mino is an important place that leads to Ōmi. We need it as a stepping stone to ruling the realm.
+@468
+I see, so that is it... The road to ruling the realm...
+@469
+Hmm, I do not know. Where is it?
+@470
+You do not even know that? Mino is an important place that leads to Ōmi. We need it as a stepping stone to ruling the realm.
+@471
+So that is it... The road to ruling the realm...
+@472
+I know that much. Lord Nobunaga means to attack Mino, and for that he must secure his rear.
+@473
+So it was decided to ally with Lord Tokugawa, I take it. Am I right?
+@474
+Why, that's exactly right. You've got it.
+@475
+Easy. We can drop in on Mikawa whenever we like.
+@476
+{a6d0000}, that is not the point. You cannot be so carefree.
+@477
+Lord {a6d0002} wants Mino. For that, he needs to secure his rear.
+@478
+So if he allies with Lord Tokugawa, he can attack Mino with nothing to worry about behind him. Do you see?
+@479
+I see! Probably...
+@480
+I doubt you really understand... Well, never mind.
+@481
+I still have to tell the others. See you again!
+@482
+Brother, Brother, where have you been? Lord {a730013} has been looking for you, saying it is an emergency.
+@483
+Something about His Lordship moving his castle, or not moving it...
+@484
+What, that is an emergency! I must go at once. {a6d0001}, thank you for telling me.
+@485
+Oh! My dear! Lord Nobunaga has sent word that we must move to Komakiyama at once.
+@486
+Please come home quickly and get ready for the move.
+@487
+What! My lord is as impatient as ever.
+@488
+Right, I will get ready at once.
+@492
+Monkey!
+@493
+M-My lord! That you should call to me in a place like this is an honour beyond words.
+@494
+I wish to talk a little. Follow me.
+@495
+Hey, Monkey!
+@496
+What? Monkey?!\nWho's there?!
+@497
+What? Monkey?! How rude!
+@498
+Hmph, Monkey is good enough for the likes of you.
+@499
+You are one of Lord {a6d0021}'s men, are you not?
+@500
+Yes. Lord Koroku sent me with a message. {a660008}'s attempt to take Mino has failed.
+@501
+So it did fail after all.
+@502
+You answer as if you had already guessed.
+@503
+Of course. There is nothing {a6d0000} doesn't know!
+@504
+Don't get too cocky. Good luck, for what it's worth.
+@505
+Who's there? Calling a man a monkey out of nowhere! How rude...
+@506
+From any angle, you look every inch a monkey.
+@507
+What did you say?!\nNever mind that...
+@508
+What did you say?! Say that again!
+@509
+Gladly, as many times as you like. You are a monkey.
+@510
+Fine, fine. I can't be bothered with you! Goodbye!
+@511
+W-wait! If I don't deliver Lord Koroku's message, I'll be scolded!
+@512
+Not my problem! Let them scold you all they like.
+@513
+Don't say that, hear me out. It is useful news for you.
+@514
+All right, out with it.
+@515
+So you'll hear me out! {a660008} was attacking Mino, remember? Well, it failed.
+@516
+So it failed after all... Maybe a straightforward approach like Lord {a730008}'s can't build a castle there.
+@517
+Hmm, does the Monkey have a better idea?
+@518
+No, I'm still thinking. But the only ones who can take Sunomata are Lord {a6d0002} and I.
+@519
+Well, good luck with that.
+@520
+More to the point, didn't you come here for something?
+@521
+Right, Lord Koroku asked me to come today. {a660008} was campaigning in Mino, you know. It failed.
+@522
+What... so it did fail... Maybe a straightforward approach like Lord Sakuma's can't do it.
+@524
+No, I'm still thinking. But Lord {a6d0002} and I are about the only ones who could take Sunomata.
+@525
+Well, you'd better squeeze every drop out of that monkey brain of yours.
+@526
+Hey! {a6d0000}! So this is where you were hiding... I've looked all over for you.
+@527
+Lord {a6d0021}! Do you need something?
+@528
+Well, I came to tell you that Lord {a730003}, who was attacking Sunomata, was beaten by the Mino forces.
+@529
+What?! Even Lord {a730003} was defeated?!
+@530
+They say no one in the {a730002} clan can match him in war, and still {a660003} failed. You may be better off giving up on Mino.
+@531
+Not at all... Surely you forget that {a6d0000} is here.
+@532
+What, you say you'll do it?! Ha ha ha... I look forward to seeing how that turns out! Be seeing you!
+@533
+Lord {a6d0021}... He's gone already...
+@534
+Hey! Brother! There's something I want to ask you.
+@535
+Oh, it's {a6d0001}. What is it?
+@536
+I heard you told Lord {a6d0021} that you would take Sunomata. That was a joke, wasn't it?
+@537
+A joke? Not at all! I'm in earnest.
+@538
+Even so, Brother, your standing is still low. You don't even have forces of your own to attack with.
+@539
+Hmm...\nIt'll work out somehow
+@540
+Hmm... You've got me there...
+@541
+So you had no plan at all...
+@542
+If you think Lord {a6d0002} will lend you troops, that is wishful thinking.
+@543
+You would have to say, "I won't use a single one of your soldiers, my lord!" Otherwise he won't leave this battle to you, Brother.
+@544
+True, our lord is that kind of man. So what should I do?
+@545
+Can't you count on Lord Koroku?
+@546
+Hmm, I suppose I could go and ask him...
+@547
+Come now. It'll work out somehow.
+@548
+"Somehow" is not a plan! How irresponsible!
+@549
+Don't fret so much. Talk to Lord {a6d0021}, and it will work out somehow.
+@550
+Hey, Monkey! A mere monkey volunteering for Sunomata, where even Lord {a6d0003} failed? Don't make me laugh!
+@551
+Retort\nIgnore him
+@552
+What! However senior a retainer you may be, calling a man a monkey is rude, is it not?!
+@553
+Ho, the cheeky monkey talks back! Ha ha ha...
+@554
+Laugh at me while you can. I'll make you eat your words!
+@555
+Ha ha ha... Listen to the monkey squeal...
+@556
+{a6d0007}, enough. Let's go.
+@558
+What's with him? Gone all quiet on us.
+@560
+Hey, say something!
+@561
+{a6d0007}, enough. Leave that fellow and come along!
+@563
+What is going on?
+@565
+What is it, Lord {a730003}?
+@566
+How could I not laugh! Sunomata was beyond me. How could the likes of you ever manage it?
+@567
+Lord {a730003} has his strengths, and I have mine.
+@568
+Oh? So Sunomata is beyond me this time, but you say you can do it. I shall look forward to it.
+@569
+Oh, isn't that {a6d0001} coming this way?
+@570
+Brother! Why the long face?
+@571
+I can't think of a good plan for taking Sunomata.
+@572
+Yes, that is just what I wanted to talk about, Sunomata...
+@573
+Have you thought of a good way?
+@574
+I have been thinking about why the earlier attempts on Sunomata failed.
+@575
+And did you find out?
+@576
+No, not really. But can a castle even be built while dodging the enemy's attacks?
+@577
+Right, I have been thinking about that too... It must be built so fast that the enemy never notices.
+@578
+Yes. Done the ordinary way, just hauling in the timber would take time, and the enemy would notice.
+@579
+Hmm, the preparations would have to be done elsewhere...{w} ...{w}
+@580
+But Brother, a good idea is no use if it cannot be carried out.
+@581
+Hmm... I have no choice but to rely on Lord Koroku...{w}
+@582
+That's it!! What about this!!
+@583
+What is it, Brother?
+@584
+We use the river, the river!
+@585
+Upstream, we put the timber partly together, then float it down to Sunomata as rafts.
+@586
+That way the enemy won't notice. Then we assemble it all at once, and the enemy can't lay a hand on us.
+@587
+That may be a good plan. If Lord Koroku's connections can supply men skilled at shinobi work, it is not impossible.
+@589
+\_\_\_\_\_\_\_\_- Komakiyama Castle -
+@590
+\_\_\_\_\_\_\_\_- Kiyosu Castle -
+@591
+{d01}Thud!!!
+@592
+Oh, Lord {a6d0000}!
+@593
+Ah, Lady {a6d00e6}! You look completely well again.
+@594
+Yes, thanks to you, Lord {a6d0000}. But listen, my father is asking for you.
+@595
+Ah, more work, then. Now that Lady {a6d00e6} is well, I must put my back into it again!
+@596
+Well, actually...
+@597
+What, is something terribly wrong?
+@598
+Oh... Anyway, please hurry home...
+@599
+Lady {a6d00e6}! What could be the matter? Anyway, I'd better go to Lord Asano's.
+@600
+Now, what shall I train in first? I already have the riding skill. For now, I'll try another castle town.
+@601
+Now, what shall I train in first? This town has stables. Perhaps I should start with what is closest.
+@602
+Whoops, that won't do. I'm in training; I can't be idling about.
+@603
+All right, if you put it that way, I have to do it! My lord, I am at your service!
+@604
+"My lord"? Am I the lord?
+@605
+Yes. {a6d0001} is now your retainer, so you, Brother, are the lord.
+@606
+Ha ha ha! That's right, that's right. So this Monkey is a lord!
+@607
+Ha ha, stop joking around. From now on, please be serious, my lord.
+@608
+Yes, with such a fine retainer I must do my best too.
+@609
+Hmm, whom shall I ask to be go-between? Come to think of it, I don't know anyone fit for the role...
+@610
+I know, I'll consult Lord Toshiie.
+@611
+Phew, it seems I was drunk... What a frightening man...
+@612
+I won't go near this house again.
+@613
+Wait a moment... A go-between should be someone of high rank... I'll try one of the Chief Retainers.
+@614
+Hmm, the ordinary way won't do... Build a castle in a single night while the enemy sleeps... Surely that's impossible...
+@615
+Well, I'll think it over a little more.
+@616
+Sunomata will not fall easily. The ordinary way won't do.
+@617
+But for that, we must offer conditions Lord Koroku will accept. It will be difficult.
+@618
+If only I could offer a reward he would find worth it...
+@619
+Brother, however much we think, we cannot give what we do not have. Let us consult Lord Nobunaga.
+@620
+Well, here comes my first council at last. But will a newcomer like me be able to speak up...?
+@621
+Hey, why so solemn, {a6d0000}? Dawdle and you'll be late for the council.
+@622
+Ah, Lord Toshiie. No, I was just wondering what a council is like.
+@623
+I see, so even you get nervous. Well, I've learned something today.
+@624
+No, I'm not joking...
+@625
+Oh, sorry, sorry. Still, you'll have a hard time in council at first.
+@626
+W-why is that?
+@627
+{a6d0000}, you are a newcomer in the Oda clan, and you can't know many people in the clan yet.
+@628
+If you want to rise in the Oda clan, you should win more people over to your side.
+@629
+More people on my side?
+@630
+Right. Gather more and more people who will back you.
+@631
+I see, so that is what Lord Asano meant by factions.
+@632
+Yes, that is what people call a faction.
+@633
+Right now in the clan, the Chief Retainers Shibata, Niwa, Sakuma and Hayashi have large factions.
+@634
+Lord Katsuie's faction is especially strong. To tell the truth, I support him myself.
+@635
+Well, if you want to rise, you must build up a faction of your own.
+@636
+Otherwise you can hardly speak your mind in council, let alone rise.
+@637
+My own... faction... Make it grow...
+@638
+Well, first make an effort to greet the clan's great names often and become friendly with them.
+@639
+Come, attend the council first. There's time enough to think after that. Well, I'll go on ahead, {a6d0000}.
+@640
+Th-thank you very much.
+@641
+Right, instead of brooding, I'll attend the council first.
+@642
+What do you want?
+@643
+I wish to see Lord Inaba Ittetsu.
+@644
+Our lord? He is out at the moment. If you have business with him, please come again.
+@645
+Honestly, our lord and his love of sake... What a trial.
+@646
+Oh, he's already gone...
+@647
+Perhaps Lord Inaba has returned. I'll try Gujō-Hachiman Castle.
+@650
+Brother, are you there...?
+@651
+Ah, {a6d0001}... What do you want?
+@652
+Well, the thing is... there is something I want to ask you.
+@653
+What is it? Don't hold back, speak up.
+@654
+Yes... How does His Lordship mean to take Mino from here on?
+@655
+It bears on what we do from now on, so I would like to know.
+@657
+Brute force!\nWinning men over\nIt's a secret!
+@658
+Brute force, of course.
+@659
+Hmm, is it?
+@660
+What? Do you think otherwise?
+@661
+I have only just become a warrior and know little of strategy, but I hear the Mino soldiers are uncommonly strong.
+@662
+Against such a foe, can brute force alone win?
+@663
+Now that you put it that way... Is there no better method?
+@664
+I can't say. Why not ask Lord {a6d0021}, who knows Mino well?
+@665
+Right. I'll ask Lord {a6d0021} about it.
+@666
+Right. Winning men over may be best, don't you think?
+@667
+Mino fields soldiers so sturdy that all Japan knows them. I don't think brute force can match them.
+@668
+True. Then, if we win men over, whom shall we target?
+@670
+Saitō Tatsuoki\nThe Mino Triumvirate\nCommanders outside the Triumvirate
+@671
+It would have to be {a660038}.
+@672
+What? Then you mean to make the {a730038} clan surrender?!
+@673
+Yes, that would be the quickest way.
+@674
+Quick it may be, but I don't believe it can be done.
+@675
+What, you say it can't be done?!
+@676
+I won't say there is no chance, but it seems beyond us.
+@677
+Then what do you propose?
+@678
+Hmm, it's difficult... Talking between the two of us gets us nowhere. Shall we consult Lord {a6d0021}?
+@679
+Good idea\nI'd rather not
+@680
+Good idea. Lord {a6d0021} should know the situation in Mino too. We may find some clue.
+@681
+I'd rather not. He'd mock me with "Don't you even know that?"...
+@682
+Ha ha ha... Brother, with talk like that, can you become a proper commander?
+@683
+Oh, come now... I was joking, just joking. Ha ha ha...
+@684
+If we can win over the Mino Triumvirate, Mino is as good as ours.
+@685
+I don't think the Mino Triumvirate can be won over so easily.
+@686
+Right, that is the problem...
+@687
+Brother, why not consult Lord {a6d0021}, who knows Mino well?
+@689
+Winning over the Mino Triumvirate would be difficult, I imagine.
+@690
+Then it would be some influential commander outside the Triumvirate?
+@691
+That would be it. But who would be best?
+@692
+I can't say... Why not consult Lord {a6d0021}, who knows Mino well?
+@693
+That's true. I'll consult Lord {a6d0021}.
+@694
+That's a secret! Even between kin, I can't speak of something this important!
+@695
+I see, you won't tell me. Am I such an untrustworthy man to you, Brother...
+@696
+Hey now... I never said that.
+@697
+That's neither here nor there... I'm going back to my parents' home...
+@698
+Hey! Wait!!
+@699
+To tell the truth, I hadn't thought of anything.
+@700
+As I thought. I was fishing, and it paid off.
+@701
+What! You tricked me?!
+@702
+That goes both ways. Anyway, this is too important a matter. Let us hear Lord {a6d0021}'s opinion too.
+@703
+Agreed. I'll consult Lord {a6d0021}.
+@704
+Hey, {a6d0000}! {a6d0000}!! Terrible, something terrible has happened!
+@705
+Lord {a6d0013}, what has you in such a state?
+@706
+{a6d0000}, brace yourself. Inabayama Castle has been seized!
+@707
+You must be joking...\nIs that true?!
+@708
+Ha ha ha... Lord {a6d0013}, you and your feeble jokes, as ever.
+@709
+It's no joke. It's true. Believe me.
+@710
+Hmm, it seems to be true. But who seized that castle?
+@711
+Is that true?!
+@712
+Would I lie? Look at these clear eyes!
+@713
+Hmm... They look like the eyes of a dead fish...
+@714
+What did you say?!{w} {a6d0013}{d02}'s Finishing Move: Omatsu's Own Hundred-Slap Barrage!!
+@715
+Yow!
+@716
+Ow, ow, ow... Lord {a6d0013}, can't you take a joke?
+@717
+Ha ha ha... When Omatsu does the Hundred-Slap Barrage, it stings even more.
+@718
+So Lord {a6d0013} suffers such hardship in secret...
+@720
+By the way, who seized Inabayama Castle?
+@721
+Ah, it seems to be an internal revolt in the {a730038} clan. I think the name was {a66003b}...
+@722
+What! Lord {a6d003b}?!
+@723
+{a6d0000}, you know {a66003b}?
+@724
+Yes, I met him once. He was a very sharp man.
+@725
+He didn't look like someone who would do such a thing...
+@726
+Hm, the rumour that he did it to admonish {a660038} seems true.
+@727
+I see. If it isn't for private gain, it isn't impossible.
+@728
+Well, that's how it is. We never know when, or what, mission Lord {a6d0002} will hand down.
+@729
+Be ready for it. Well, see you!
+@730
+Lord {a6d0000}! Have you heard that His Lordship sent an envoy to {a66003b} at Inabayama Castle?
+@731
+What! And how did {a6d003b} answer?
+@732
+They say he refused His Lordship's terms. And very generous terms they were, apparently...
+@733
+Naturally. {a73003b} is not a man driven by greed.
+@734
+I think this seizure of Inabayama Castle was also done with the future of the {a730038} clan in mind.
+@735
+Because he is a man who can see the big picture, Lord {a6d0002} wants him.
+@736
+Hmm... Is that how it is? To me he seems merely an odd fellow...
+@737
+Lord {a6d0000}! Have you heard!
+@738
+{a6d0021}, what is it all of a sudden?
+@739
+Something unbelievable has happened! {a66003b} abandoned Inabayama Castle and vanished!
+@740
+Vanished?! Where did he go?
+@741
+That I do not know.
+@742
+Ah, I see...
+@743
+That {a66003b}... I understand him less and less.
+@744
+Of course you can't understand him, {a6d0021}. He is the exact opposite of you.
+@745
+What! What do you mean by that?!
+@746
+Ha ha ha... Now, now, don't be angry.
+@747
+\_\_\_\_\_\_\_\_- Inabayama Castle -
+@748
+Brother, here you are.
+@749
+What, were you looking for me?
+@750
+Looking for you? His Lordship is calling for you!
+@751
+What! Lord {a6d0002} is summoning me?! This is serious, I must hurry.
+@752
+It's no use going now. I'll come back later.
+@753
+Brother, Brother, found you at last. You wander about all year round, so finding you is hard work.
+@754
+Wander about? I'm not wandering for fun, you know.
+@755
+Ordinary men can't understand the toil of a genius.
+@756
+Sorry to be ordinary... Anyway, His Lordship is calling for you. You must have done something again.
+@757
+Nonsense! Lord {a6d0002} has high hopes of me. I'll come back with a big job.
+@758
+Yes, yes. I won't hold my breath.
+@759
+I've won over Andō Morinari. Two more to go, let's keep at it!
+@760
+I've won over Inaba Ittetsu. Two left, I'll keep going!
+@761
+Where did I go wrong, I wonder?
+@762
+Only Inaba Ittetsu remains.
+@763
+Only Ujiie Bokuzen remains.
+@764
+Only Andō Morinari remains.
+@765
+That finishes the Mino Triumvirate. I'll go and report.
+@766
+Oh, it's {a6d0001}. What are you doing in a place like this?
+@767
+I was waiting for you, Brother. What did His Lordship want?
+@768
+Ah, that! Lord Nobunaga told me to go and win over the Mino Triumvirate!
+@769
+What, that's wonderful!
+@770
+Yes, it is, isn't it...
+@771
+I believe Andō Morinari is an uncle of Takenaka Hanbee.
+@772
+Is that true?! Then I'll go and see Lord Hanbee right away.
+@773
+Lord Andō said we should use rumours and slander to win over Lord Ujiie.
+@774
+For now, I'll go home and order my men to spread slander.
+@775
+Oh, you again. Our lord has come back.
+@776
+But he was drunk, and went straight to sleep as soon as he got home. Come again another time.
+@777
+Nothing for it. I'll stay at an inn tonight and come back another time.
+@778
+Ah, it's you.
+@780
+Sorry, our lord has already gone out. You made the trip for nothing.
+@781
+I see. Do you know where he went?
+@782
+Who knows. He always wanders off. Honestly, we never know where he has gone. Will you come again?
+@783
+Very well. I'll stop by again later.
+@784
+Honestly, our lord... and him getting worse at holding his sake lately, too...
+@785
+He seems a stubborn man. He won't be won over easily. I'd better start with the others.
+@788
+\_\_\_\_\_\_\_\_- Ōgaki Castle -
+@789
+Lord {a730000}, Lord {a730000}.
+@790
+Hm... Who's there?
+@791
+I am a shinobi, sent by Lord {a6d0002}.
+@792
+What does Lord {a6d0002}'s messenger want?
+@793
+I believe it concerns the attack on Inabayama Castle.
+@794
+I see... Then I must go at once.
+@795
+That Lord {a6d0002} would prepare tea for me himself... I could not be happier.
+@796
+Brother, Brother, terrible news!
+@797
+{a6d0001}, what has you in such a state?
+@798
+The Shogun has been killed... The Shogun, Ashikaga Yoshiteru, has been killed...
+@799
+Killed...? By whom...
+@800
+By the Miyoshi Triumvirate, they say...
+@801
+The Miyoshi Triumvirate... And what becomes of the Shogun's house?
+@802
+Ashikaga Yoshiaki is to leave the priesthood and become Shogun, it seems...
+@803
+So that's how it is... Well, I'll be off.
+@804
+{d01}Ouch! Who's that?!
+@805
+Oh, sorry!
+@806
+?!{w} Hey, wait a moment!
+@807
+What? I said I'm sorry.
+@808
+No, it's not that. Are you from Owari?
+@809
+H-how did you know?
+@810
+Of course I can tell. You have the Owari accent.
+@811
+Huh?!
+@812
+More to the point, have you lived here long?
+@813
+Yes, ever since I can remember.
+@814
+How much do you know about the castle?
+@815
+Hmm... I sneak in now and then, that's about it...
+@816
+You sneak in?!
+@817
+Hey, how about working for me?
+@818
+Hm? Who are you?!
+@819
+{a660000} of the {a730002} clan.
+@820
+The {a730002} clan... So, then, of Lord {a6d0002}...
+@821
+Forgive my rudeness. Please make use of me.
+@822
+{a660028} has joined.
+@823
+Ah, my lord, well met. I found someone in the castle town of Inabayama who could be useful, and brought him along.
+@824
+He is from Owari and knows the land around Inabayama Castle. What do you think?
+@825
+Hey, what is your name?
+@826
+{a660028}.
+@827
+From now on, you will work for Lord {a6d0002}, won't you?
+@828
+Yes! I'll do my best.
+@829
+Good. {a6d0021}, take him to the castle and look after him.
+@831
+Lord {a730000}...
+@832
+Hm... You are Lord {a6d0002}'s...
+@833
+Yes, Lord {a6d0002} is summoning you.
+@834
+Understood, I'll go at once.
+@836
+Brother!
+@838
+I saw you go into the castle, so I waited.
+@839
+Oh, you waited all that time? You must have nothing to do.
+@840
+Never mind me. Did His Lordship give you a reward?
+@841
+Of course. He raised my stipend by 3 kan, and he assigned Lord {a6d0021} to me as my aide.
+@842
+Oh! That's a great promotion!
+@843
+Save your amazement. I was also appointed Castellan of Sunomata.
+@844
+What! Then you must move to Sunomata.
+@845
+Yes, I'll begin at once. Go and tell the others.
+@846
+Understood. Leave it to me!
+@847
+I must start moving house myself. I can't leave Sunomata empty for even a day.
+@848
+\_\_\_\_\_\_\_\_- Sunomata Castle -
+@849
+Ah, my lord! You have finally arrived.
+@850
+Lord {a6d0021}! Seeing you here, I truly feel I have gained a strong ally.
+@851
+Ha ha ha... You say such pleasant things! But could you do something about the way you speak?
+@852
+Is something wrong?
+@853
+Well, it's odd to use polite words like "Lord {a6d0021}" to a retainer under you.
+@854
+Is that so... Very well, I'll be careful.
+@855
+Still, being Castellan is a dull job. All you do is wait for the enemy to attack.
+@856
+Well, there's plenty to do: rest to build up your spirit, train your retainers...
+@857
+Ha ha ha... Have I talked too much? I'll excuse myself now.
+@858
+Lord {a730000}, His Lordship summons you. Please come to Komakiyama Castle at once.
+@859
+\_\_\_\_\_\_\_\_- Iwamura Castle -
+@860
+I must deliver this letter to Hanbee quickly.
+@861
+Lord {a6d0000}, a letter from Lady Nene.
+@862
+Oh, a letter from Nene! Let's see...
+@863
+My dear husband, are you well? All of us here are well, and life goes on just as always.
+@864
+The other day I was talking with Lady Omatsu, Lord Toshiie's wife,
+@865
+and somehow our talk always ended up turning to you and Lord Toshiie.
+@866
+Isn't that funny?
+@867
+I know it is an ordinary thing to say, but please take good care of yourself.
+@868
+I expect you can hardly eat properly on such a long journey.
+@869
+Once your duties are done, please come straight home. I'll have your favourite sea bream ready, waiting for you.
+@870
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_From Nene
+@871
+Sniff, sniff... Nene, wait for me!
+@872
+Trouble! Terrible trouble!
+@873
+Hey! What on earth has happened?!
+@874
+Oh, Tōkichirō! There was an earthquake just now. Then fire broke out over by the samurai quarter!
+@875
+What?! Nene! Is Nene all right?
+@876
+I can't say. But...
+@877
+Damn it! Nene, wait for me! I'm coming!
+@878
+Phew, we're saved! What luck. The fire went out just short of your house, Brother!
+@879
+Indeed! If this house had gone, I'd have had to live off Koichirō!
+@880
+...Don't say such dreadful things, Brother!
+@881
+Still, you should have seen Nene in a flap. She was shouting in dead earnest, "My dear husband, run, quickly!"
+@882
+My dear husband!
+@883
+Now, now, don't be angry. You were rather sweet.
+@884
+Oh? Isn't that Nene over there?
+@885
+She seems to be going to the temple. Shall I follow her?
+@886
+Now, what am I to do with this man...
+@887
+Go straight on from there.
+@888
+Hm...? Are you awake?
+@890
+Was he talking in his sleep? But I have no other lead... Let's go and see...
+@891
+Oh? Isn't this a castle? Where am I to go from here?
+@892
+My lord! Why, it's our lord!
+@893
+Their lord?{w} Then could this man be Lord Inaba Ittetsu himself?!
+@894
+What, you brought him here without even knowing? What a fool.
+@895
+First we must lay our lord down... Even so, for our lord to be drunk senseless is rare.
+@896
+You come along too. If we let our lord's benefactor go home with nothing, our lord will scold us.
+@897
+Honestly...
+@898
+Ha ha, then I'll be on my way. Mind the fire.
+@899
+Yes. Sorry to have troubled you.
+@900
+Hey, Tōkichirō... no, it's Hideyoshi now. About what Lord {a6d0002} just said: did you understand what he meant?
+@901
+Isn't it obvious?\nI haven't a clue
+@902
+Isn't it obvious?
+@902.1
+Then tell me what it means.
+@903
+No, no! I mean it's obvious that someone like me couldn't possibly understand it!
+@904
+So, I'm going to ask Hanbee about it now.
+@905
+I thought as much. I'll come along too, if I may.
+@906
+Well then, Lord {a6d0013}, let us go.
+@907
+Yes, let's go, let's go quickly!
+@908
+Ah, I understood nothing at all.
+@909
+Naturally. If I couldn't understand it, how could you?
+@910
+I'm going to ask Lord {a6d003b} about it now. Will you come along too, Lord {a6d0013}?
+@911
+Yes, I'd be glad of that. I'll go with you.
+@912
+Brother! Where have you been, instead of helping with the move?
+@913
+Well, I went to see {a6d003b} with Lord {a6d0013}...
+@914
+I see, so you weren't idling. Then hurry to the new house. Lady {a6d00e6} is waiting for you too.
+@915
+Right. I'll go at once.
+@916
+\_\_\_\_\_\_\_\_- Gifu Castle -
+@917
+My lord, is that you? A fortunate meeting. I was just about to call on you.
+@918
+For Hanbee, frail as he is, to come and fetch me himself... it must be something very important.
+@919
+Understood. Let's go into that tavern and talk.
+@920
+My lord, I have been looking for you.
+@921
+Oh, {a6d003b}, is that you? What is it?
+@922
+I heard something interesting a while ago, and I was looking for you to tell you.
+@923
+Is that so? Then let's talk in that tavern.
+@924
+Hey! {a6d0000}!
+@925
+Oh, it's you, Lord {a6d0013}...
+@926
+What do you mean, "Oh"? Never mind that. To mark the move to Gifu, Lord {a6d0002} is choosing the Black and Red Horo Guard.
+@927
+What's that? This "horo-something"?
+@928
+It isn't "horo-something". They are called the Black Horo Guard and the Red Horo Guard.
+@929
+Hm... And what are these horo-horo, then?
+@930
+Honestly...{w} They serve as messengers. They guard our lord's person, and act both as scouts who read the battle and as couriers.
+@931
+Naturally, those chosen are men of outstanding martial skill and a sure eye for tactics. Ten are to be picked for each.
+@932
+The announcement is coming soon. Shall we go and see?
+@933
+Yes\nI'll pass\nWait a moment!
+@934
+Yes, I'll go with you.
+@935
+Then let us go!
+@936
+I'm not confident, so I'll pass.
+@937
+What?! Since when have you become such a coward? Never mind that, just come along.
+@938
+Wait! I've suddenly grown nervous... I need to relieve myself...
+@939
+H-hey! Here of all places...! Ah...
+@940
+Trickle, trickle, trickle...
+@941
+Ahh...
+@942
+Don't you "Ahh" me! "Ahh" indeed!! Have you no shame, doing that in a place like this?!
+@943
+Better than wetting myself?\nJoin me, Lord Toshiie?
+@944
+Still, it's better than wetting myself, isn't it?
+@945
+Honestly, you always have an answer for everything.
+@946
+Enough. I'm going ahead!
+@947
+Oh, Lord {a6d0013}, care to join me?
+@948
+W-who'd join you in that!
+@949
+No, it's just that your face seemed to say so, Lord {a6d0013}...
+@949.1
+E-enough! I'm going ahead!
+@950
+Now, what to do... It's awkward to face Nene, too...
+@951
+{a6d0000}, don't be so downcast.
+@952
+Downcast? Hardly... I'm gladder that you were chosen, Lord Toshiie, than I would be for myself.
+@953
+O-oh... Thank you...
+@954
+Next to your achievements, Lord {a6d0013}, I still have far to go... My time is yet to come. It's only the beginning.
+@955
+Only the beginning, eh... Yes. Next time, let's both be chosen.
+@956
+By the way, Lord Toshiie, this is hardly the time to be keeping me company, is it? You had better hurry and tell Lady Omatsu...
+@957
+R-right, I must hurry home. Omatsu will scold me! Excuse me, I'm going ahead!
+@958
+Go drown my sorrows\nForget all about it\nSleep right here
+@959
+I don't feel like going straight home today. I think I'll have a drink...
+@960
+The best thing for bad memories is to forget them quickly. Yes, that's it. There, I've forgotten already!
+@961
+Ugh... but it still stings...
+@962
+I've lost all heart for anything... I'll sleep right here.
+@963
+Zzz... zzz... zzz...{w} Zzz... zzz... zzz...{w} Zzz... zzz... zzz...
+@964
+Oh, sir. If you sleep in a place like this, you'll catch a cold.
+@965
+Mm... mmm...
+@966
+Are you awake?
+@967
+Ah, yes...
+@968
+Why were you sleeping in a place like this?
+@969
+Tell the truth\nPlay dumb
+@970
+Well, something unpleasant happened, so I lay down here to sulk.
+@971
+Ha ha... what an amusing man... And here I was, calling out so timidly, afraid you might be dead...
+@972
+Still, I'm glad you're well. Then I'll be on my way...
+@973
+Ah, wait, your name...
+@974
+She's gone... What a strangely charming woman she was...
+@975
+N-no, I was suddenly attacked from behind, and I lay unconscious until you woke me.
+@976
+Ha ha... you're a poor liar.
+@977
+Gulp...
+@978
+How sweet...
+@979
+Ah, she's gone... What a strangely charming woman...
+@980
+I couldn't even ask her name...{w} We'll never meet again...
+@981
+{a6d0000}!
+@982
+Hm? Oh, it's you, Lord Toshiie. What is it?
+@983
+It's hard to talk here. Come to my house.
+@984
+Well, my lord, is that you?
+@985
+{a6d003b}? What brings you to a place like this?
+@986
+The weather is fine today, so I was out for a stroll.
+@987
+I see. On a day like this, even you can't sit still, Lord {a6d003b}.
+@988
+In fine weather my body feels lighter. But we shouldn't talk standing here. Won't you come to my humble home for a chat?
+@989
+Very well, let's do that.
+@990
+Lord {a730000}, Lord {a6d0002} is waiting in the Council Hall. Please come at once.
+@991
+Say, Hideyoshi. Lord {a6d0002} said he would give Akechi Mitsuhide a castle, didn't he?
+@992
+Why would he give a castle to such a suspicious fellow?
+@993
+Who knows. Perhaps Lord {a6d0002} is trying to do something beyond our imagining?
+@994
+Just what is Lord Nobunaga trying to do, I wonder?
+@995
+Who knows. We'll find out in time.
+@996
+It must be nice, being such an optimist.
+@997
+I'm going to ask Lord Nobunaga his thinking now. See you!
+@998
+Well done, all of you. It is thanks to your efforts that we have been able to enter Kyōto.
+@999
+But the true hardship lies ahead. So there is something I must tell you all.
+@1000
+Anyone who disturbs the peace of Kyōto, by brawling or theft, whatever his reason, I, {a6d0002}, shall punish at once.
+@1001
+Make sure every last man under you is told. Is that clear?!
+@1002
+Lord {a730000}, Lord Nobunaga summons you. Please come to the Imperial Palace.
+@1002.1
+The Imperial Palace? What on earth can it be about?
+@1003
+{a6d0000}, there is such a thing as bowing too low. To me you looked fast asleep.
+@1004
+Ha ha... I was beholding the Emperor's countenance. Even I get nervous, you know. Ha ha...
+@1005
+Oh, even you... Ha ha...
+@1006
+I have work to do now. See you.
+@1007
+To think you would fall asleep in such a place. I always thought you bold, but this much...
+@1008
+Ha ha... I am ashamed.
+@1009
+To be able to sleep at such a gathering... you must be the only one. Ha ha...
+@1010
+Don't laugh so much!
+@1011
+It would be a waste to keep something this funny to myself. Hideyoshi, see you!
+@1012
+{a6d0000}, is that you? Don't dawdle in a place like this. We return to Gifu at once.
+@1013
+Understood\nGoing back already?
+@1015
+Good, follow me.
+@1016
+Are we returning already?
+@1017
+Of course! Our business here is finished.
+@1018
+In this age of war, the man who falls behind loses. Remember that.
+@1019
+Let's go!
+@1020
+\_\_\_\_\_\_\_\_- Kyōto -
+@1021
+Lord {a730000}, Ashikaga Yoshiaki's Nijō Castle is complete. Please come to Kyōto at once.
+@1022
+\_\_\_\_\_\_- Kyōto: Nijō Castle -
+@1023
+Lord {a730000}, Lord Nobunaga summons you. Please come to Gifu Castle.
+@1024
+Lord {a730000}, Lord Nobunaga summons you. Please come to Gifu Castle.
+@1025
+Lord {a730000}, an emergency council is being held at Gifu Castle. Please hurry to Gifu Castle.
+@1026
+\_\_\_\_\_\_\_\_- Yokoyama Castle -
+@1027
+Oh, Brother! Good timing! Hongan-ji has risen in arms against the Oda clan!
+@1028
+His Lordship has made yet another enemy. The war will only turn worse from here. We must not neglect our daily training.
+@1029
+True. Well, I have work to do, so I'm off. See you.
+@1030
+Lord Kinoshita, an emergency council has been called. Please come to Gifu Castle.
+@1031
+Oh, Lord Akechi is over there.
+@1032
+Call out to him\nLeave him be
+@1033
+Right, let me speak to him.
+@1034
+Lord Akechi! Why such a glum face? Are you dispirited by your exchange with Lord {a6d0002} just now?
+@1035
+Ah, Lord Kinoshita... I never knew our lord could be so terrifying... Of all things, to order Mount Hiei burned to the ground...
+@1036
+Lord Akechi... Lord {a6d0002} surely has his reasons. It would be best not to worry too much...
+@1037
+B-but, Lord {a6d0000}...
+@1038
+I see. Then lay those feelings before Lord {a6d0002} himself.
+@1039
+I too understand what our lord calls the ruin and decay of Mount Hiei. But...
+@1040
+I believe in Lord {a6d0002}. Lord Akechi, please think it over carefully before we march.
+@1041
+What a gloomy fellow. Leave him be.
+@1042
+My lord, my lord!
+@1043
+Oh, Koroku. Why such a flap? What is it?
+@1044
+"What is it?" indeed! Takeda Shingen has begun his march on the capital!
+@1045
+Is that true? What is Lord Tokugawa doing?
+@1046
+He seems to be preparing to meet them, but given the Takeda strength, it will be a very hard fight.
+@1047
+And what does Lord Nobunaga intend to do, I wonder?
+@1048
+That's just it. His Lordship does not seem to mean to send Lord Tokugawa a single soldier.
+@1049
+I see... How does Lord Tokugawa mean to meet them, I wonder?
+@1050
+You can ask me, but I wouldn't know.
+@1051
+Of course, you're right.
+@1052
+Quite. Do keep a close eye on the Takeda's movements.
+@1053
+My lord, this is serious!
+@1054
+Oh, {a6d0021}, is it you? You are always in a flap.
+@1055
+When you hear this, you will be in a flap too, my lord.
+@1056
+Is it such a serious matter?
+@1057
+It is! Word has just come that Lord Tokugawa was defeated by the Takeda army at Mikatagahara!
+@1058
+What?! And has Lord {a6d0002} sent reinforcements?
+@1059
+It seems he has not.
+@1060
+What, does Lord {a6d0002} mean to leave Lord Tokugawa to die?!
+@1061
+Well, I cannot make out His Lordship's thinking.
+@1062
+True. I must ask Lord Nobunaga his true intent.
+@1063
+Well then, {a6d0021}, I am going to Lord {a6d0002} now.
+@1066
+Oh, it's {a6d0021}. What is it?
+@1067
+It is not confirmed, but it seems Takeda Shingen has died.
+@1068
+The Tiger of Kai?!
+@1070
+So Shingen is dead...
+@1071
+I hope this eases the Takeda attacks somewhat...
+@1072
+Indeed. If we need not worry about Kai, things will be much easier.
+@1073
+Lord {a730000}, Lord {a6d0002} summons you. Please hurry to Gifu Castle.
+@1074
+Oh, {a730000}. So you are the one to escort me to Ibaraki.
+@1075
+Yes. It may be a little cramped, but please bear with it.
+@1076
+I dislike being cramped, but there is no help for it. I shall allow it.
+@1077
+\_\_\_\_\_\_\_\_- Ibaraki Castle -
+@1078
+Oh, have we finally arrived?
+@1079
+Yes, we have arrived.
+@1080
+Lord Miyoshi, I entrust Lord Yoshiaki to your care.
+@1081
+Of course. Lord Yoshiaki is my brother-in-law; I shall see no harm comes to him.
+@1082
+Kinoshita, well done. You may go home.
+@1083
+Lord {a730000}, Lord Nobunaga summons you. Please come to Gifu Castle.
+@1085
+\_\_\_\_\_\_\_\_- Odani Castle -
+@1086
+What is your business?
+@1087
+{a660000}. I have come to ask an audience with Lord Azai Nagamasa.
+@1088
+What? {a660000}?! Wait there.
+@1089
+A few minutes passed.
+@1090
+Our lord has granted permission. Enter.
+@1091
+M-my lord!
+@1092
+My lord, the Azai army has come to attack!
+@1093
+My lord, I believe it would be wiser to sally out and meet them.
+@1094
+A field battle! I've been itching for this! My lord, let us march out at once!!
+@1095
+Lord {a730000}, Lord Nobunaga is calling for you at Gifu Castle.
+@1100
+Oh, a crowd over there... What can it be?
+@1101
+There, there... Good baby...
+@1102
+Babies really are so sweet.
+@1103
+Seeing a baby, I can't help thinking of the child I left back home... I wonder if he's well.
+@1104
+Even I, whose heart has been hardened by evil deeds, find it cleansed when I see a baby's innocent smile...
+@1105
+Let me see...
+@1106
+Oh! What a sweet little face.
+@1107
+Well, if it isn't Master {a6d0000}. Do you think this child is sweet too? Do you! How glad I am!
+@1108
+By the way, Master {a6d0000}, no children yet?
+@1109
+W-well, no children yet...
+@1110
+\_\_\_\_\_\_\_\_- {e660051} -
+@1111
+A child of such a beautiful wife would surely be sweet...
+@1112
+Y-you think so?!
+@1113
+\_\_\_\_\_\_\_\_- {e660057} -
+@1114
+Mm, a child by the lovely Nene... heh heh heh... Ah, Tōkichiya, you sly old rogue...
+@1115
+Who are you calling "Tōkichiya"?! Still, somehow I want a child now...
+@1116
+Yes, the more children the better. Do your best.
+@1117
+Come now, strike while the iron's hot! Off home with you today!
+@1118
+R-right... All right, here I go!
+@1122
+\_\_\_\_\_\_\_\_- {e66005a} -
+@1123
+Lord {a6d0000}, Lord Nobunaga summons you.
+@1124
+Brother, trouble! Matsunaga Hisahide has turned traitor!
+@1125
+What!
+@1126
+He has shut himself up in Shigisan Castle in Yamato Province.
+@1127
+Damn that Hisahide. He timed his revolt to Shingen's march on the capital.
+@1128
+You'd do well to go and see His Lordship.
+@1129
+Right.
+@1130
+After all, I'm barging into the home of an enemy general. Wouldn't it be better to go in disguise?!
+@1131
+Besides, a disguise might help put Lord Hanbee off his guard.
+@1132
+Right, how about this getup?
+@1133
+Hmm, quite dashing.
+@1134
+Still, I'd better not wear this anywhere but Lord Hanbee's house...
+@1135
+Without Lord Tokugawa's help, we would have been wiped out completely.
+@1136
+This time I truly thought it was hopeless.
+@1137
+I'll be forever in Lord Tokugawa's debt now...
+@1138
+Hideyoshi!
+@1139
+Th-{w}this voice!
+@1140
+My lord... Is it truly you, my lord?!
+@1140.1
+Ohh, my lord...
+@1141
+Hey, Hideyoshi, don't cry so much!{w} Whoa, don't cling to me!
+@1142
+B-but to meet my lord again like this... I could not be happier.
+@1143
+Yes. And you, too, did well to come back alive.
+@1144
+That I am alive like this is thanks to you...
+@1145
+I am truly grateful.
+@1146
+You honour me. I am unworthy of such words.
+@1147
+Hideyoshi, I give you this Jōō Nasu. It is the least thanks I can offer.
+@1148
+To give such a thing to me...{w} I, {a660000}, pledge my life to you, my lord!
+@1149
+Mm...
+@1150
+Now, let us prepare to crush those hateful Asakura and their allies!
+@1152
+Obtained the Jōō Nasu.
+@1172
+Lord {a730000}, Lord Nobunaga summons you.
+@1173
+What can he want?
+@1174
+Understood. Tell him I will come at once.
+@1176
+So I am to be lord of Sakamoto Castle...
+@1177
+What is the matter? Surely this is cause for celebration?
+@1178
+Sakamoto is the temple town of Enryaku-ji... The Buddha may punish me for the attack on Mount Hiei... I am so frightened, so frightened...
+@1179
+Lord Akechi, do not trouble yourself. If you do as Lord {a6d0002} says, the Buddha will not punish you.
+@1180
+I hope you are right.
+@1181
+Lord Akechi...
+@1182
+Lord Kinoshita, Lord Nobunaga summons you. Please come to the Council Hall of Ōgaki Castle.
+@1183
+Hm? Why Ōgaki Castle?
+@1184
+I do not know the details, but Lord Nobunaga appears to be meeting Ashikaga Yoshiaki...
+@1185
+What! Then I must go at once.
+@1190
+Hey, Monkey. Why the long face?
+@1191
+Ah, Ganmaku! Good timing!
+@1192
+What, is there still something you don't understand?
+@1193
+I took the Scout Castle mission at the council, but I don't know how to go about it.
+@1194
+In that case, go to the castle you want to look into. Once inside, you'll learn most of it.
+@1195
+But that alone won't tell you anything for certain.
+@1196
+What should I do?
+@1197
+Go to the Houses, Inns and Taverns and talk to the people there. You should hear about the land, forces and supplies.
+@1198
+Unless you collect all the information, Lord Nobunaga won't rate you. Don't spare the effort.
+@1199
+I see, I see.
+@1200
+You can also buy information at the Mysterious Manor in Iga-Ueno. That costs a bit of money, though.
+@1201
+I see. That's clear now.
+@1202
+Carrying out the mission isn't the end of it. Be sure to go and report to Lord Nobunaga.
+@1203
+If you forget to report, the mission deadline passes and the mission fails.
+@1204
+And if the deadline passes again and again...
+@1205
+What happens?
+@1206
+Oh, that's too dreadful for me to say.
+@1207
+Well, that's about the size of it.
+@1208
+When you take on other missions, if you're ever stuck, go to a Samurai Home. A friendly officer may tell you something.
+@1209
+You can also ask the missionaries at the Nanban Temple for advice. That costs a little money.
+@1211
+Well, take care of yourself!
+@1212
+Yes, thanks.
+@1213
+I took the Find Rōnin mission at the council, but I don't know how to go about it.
+@1214
+Easy. Just find a rōnin. Only, one you've already reported to Lord Nobunaga won't do.
+@1215
+A traveller at an inn may know about rōnin.
+@1216
+Rōnin sometimes live in Houses, so you could also just go round the castles one by one and search.
+@1217
+Sounds hard.
+@1218
+Don't look so glum. When you find one, you find one, and when you don't, you don't.
+@1219
+You... easy for you to say, it's not your problem...
+@1220
+I took the Buy Horses mission at the council, but I don't know how to go about it.
+@1221
+Go to the Stables in the castle town, talk to the owner once you're inside, and choose Buy Horses.
+@1222
+Oh, it was that simple!
+@1223
+Also, they say horses come cheap in the north.
+@1224
+And this is an advanced technique, though...
+@1225
+Yes, yes.
+@1226
+With the Accounting skill, you can haggle over the price at the Stables!
+@1227
+Handy when you want to buy a bit cheaper.
+@1228
+See you. Get yourself some good horses!
+@1229
+I took the Buy Rice mission at the council, but I don't know how to go about it.
+@1230
+Go to the Rice Dealer in the castle town, talk to the owner once you're inside, and choose Buy Rice.
+@1231
+By the way, the Rice Dealer only deals with large customers. Unless you hold a mission, you can't buy rice.
+@1232
+What?! Then what about the rice I eat?
+@1233
+Don't panic, Monkey! Rice is always supplied by the castle. You needn't worry about the rice you eat at home.
+@1234
+Phew, good.
+@1235
+...On second thought, never mind. Even for a boyhood friend, that's telling too much.
+@1236
+Stopping halfway like that is cruel!
+@1237
+If you behave like that, I won't tell you about my sweet days with Nene either!
+@1238
+All right, all right, I'll tell you. With the Accounting skill, you can haggle over the price with the Rice Dealer!
+@1239
+Well, take care of yourself! And that story about Lady Nene: you'd better tell me next time, no excuses!
+@1240
+I took the Sell Rice mission at the council, but I don't know how to go about it.
+@1241
+Go to the Rice Dealer in the castle town, talk to the owner once you're inside, and choose Sell Rice.
+@1242
+Then go and make a killing!
+@1243
+I took the Win Hearts mission at the council, but I don't know how to go about it.
+@1244
+Go to the castle you were assigned. In its castle town, choose the work you want to carry out, such as Policing.
+@1245
+If you're good at Martial Arts, Speech, Accounting and the like, the effect is greater.
+@1246
+Also, it's best to use up the budget you're given. Whatever is left over isn't yours to keep.
+@1247
+Tsk! And I meant to stash some away.
+@1248
+And what would you do if Lord Nobunaga found out about that?
+@1249
+Ugh! It would cost more than my head... Heaven forbid, heaven forbid.
+@1250
+With the Accounting skill, you can haggle over the price with the Rice Dealer!
+@1251
+Handy when you want to sell a bit higher.
+@1255
+Oh, Brother, is that you? Good timing!
+@1256
+What do you mean, good timing?
+@1257
+Actually, I caught sight of Ganmaku.
+@1258
+What! Is that true?!
+@1259
+And where did you see Ganmaku?
+@1260
+In the castle town of Ishiyama Hongan-ji.
+@1261
+I don't know whether he lives there, but if you ask at a House, you may learn something.
+@1262
+Oh, I mustn't linger. I have somewhere to go. Until we meet again, Brother!

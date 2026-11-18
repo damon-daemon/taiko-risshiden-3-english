@@ -1,0 +1,262 @@
+@300
+\_\_\_\_- Kitanoshō Castle: Lord's Room -
+@301
+{a6d0000}. You look like a man with a question. Do not hold back; out with it.
+@302
+(Keiji fled home in the end anyway... Now I will just have to summon my courage and ask him myself.)
+@303
+The letter's contents\nWhy you took me on
+@304
+When I first came to you, my lord, what was written in the letter I brought?
+@305
+Hm...
+@308
+Why did you decide, my lord, to take on someone like me, with no merit to my name?
+@310
+Well... I suppose I owe you an answer...
+@312
+My lord, a messenger has come from Lord Sassa at Daishōji in Kaga. The Uesugi army is making ready to invade Echizen.
+@313
+What?! Is that true?! ...This is a grave turn...
+@314
+{a6d0000}, go at once to His Lordship at Azuchi and tell him of this. Ask for reinforcements.
+@315
+...Understood.
+@316
+Have you asked Lord Nobunaga at Azuchi for reinforcements yet? If not, be off with you!
+@317
+The news that "Kenshin is moving" shook Kitanoshō Castle. A turning point was about to come to the land of Echizen...
+@321
+Well, {a6d0000}. What is this urgent business with me? Skip the courtesies and state your errand.
+@322
+My lord, there is something ominous in the Uesugi movements. On inquiry, it seems Kenshin himself will take the field and invade Echizen.
+@323
+What! Kenshin himself is moving? Is that certain?
+@324
+Yes, my lord, it appears almost certain.
+@325
+Lord Katsuie therefore asks that you send reinforcements.
+@326
+Hm, so Katsuie cannot hold them alone... Very well. Return to Echizen at once and tell Gonroku: "Understood."
+@328
+{a6d0000}, wait. I give you my horse. Ride hard.
+@329
+T-thank you, my lord!
+@330
+Now go! Do not dawdle!
+@331
+Obtained Hoshizaki.
+@334
+My lord, pardon me. I have delivered word of the Uesugi invasion to Lord Nobunaga.
+@335
+He has also agreed to send reinforcements.
+@336
+Hm, well done. It will be a while before the reinforcements arrive. Wait at home until then.
+@341
+The reinforcements should be arriving soon. Prepare to guide them.
+@342
+Understood. And who is coming?
+@343
+Hmph! Never mind that! Just get ready, and be quick about it!
+@346
+Well done as guide. We hold a council of war tomorrow, so rest for today.
+@347
+Yes, my lord. Then I take my leave.
+@353
+I have put down the uprising.
+@354
+...I see...{w} Hm? Is there something more you wish to say?
+@355
+Y-yes... Forgive me.
+@356
+N-no, my lord...
+@357
+Then do not stand there dawdling! Make ready against the Uesugi at once!!
+@359
+...To think I would lose... Was my plan mistaken?!
+@360
+Brute force like that cannot win! Why did you not heed what Lord Hideyoshi said at the council?!
+@361
+If anything had happened to His Lordship because of this...
+@362
+Silence! You are a mere retainer, and you dare meddle in your master's affairs?!
+@363
+... ...Still, there is something in what you say...
+@364
+It would indeed accord with the art of war to draw them as far as Ōmi and then strike...
+@365
+But I cannot give up Echizen, which I have tended with my own hands, even for a time.
+@366
+Perhaps that is the difference between that Monkey and me...
+@367
+My lord...
+@368
+That is enough. Go home and rest.
+@372
+If that Monkey had not gone off home without leave, we might have won this battle...!
+@373
+But it was you, my lord, who told him to go home.
+@375
+Everything Lord Hideyoshi said was sound.
+@376
+That His Lordship came to no harm is at least a mercy...
+@377
+In Kaga, the nimbler Uesugi army held the advantage. Had we drawn them as far as Ōmi, they would have weakened, and we could have won.
+@383
+My lord, I hear Lord Hideyoshi has been given command of the Chūgoku region by His Lordship.
+@384
+He is forever talking big, so he gets saddled with a hard task like crushing the Mōri.
+@385
+This time even that Monkey will be tearing his hair out. Serves him right, ha ha ha!
+@386
+But is the supreme command of Chūgoku not a great charge?
+@387
+Lord Hideyoshi must be very highly regarded by Lord Nobunaga.
+@388
+Hm... What a thing to say...
+@389
+But His Lordship and Lord Hideyoshi...
+@390
+Enough! I understand well what you want to say. Now leave.
+@392
+(If Lord Hideyoshi should conquer Chūgoku, an overwhelming gap in power may open between Lord Katsuie and Lord Hideyoshi.)
+@393
+(Has Lord Nobunaga's trust already passed from Lord Katsuie to Lord Hideyoshi...?)
+@399
+What business brings you today?
+@400
+It is about the bridge near Ichijōdani, my lord. The heavy rain the other day raised the river, and it has been swept away again.
+@401
+Again...? There is nothing for it. I shall have the works arranged...
+@402
+My lord, please wait. If we simply rebuild the bridge, it will only be washed away once more.
+@403
+How about chaining boats together as a bridge, one that the floods cannot carry off?
+@404
+But how do you propose to get that much chain?
+@405
+We still have weapons and armour left over from the earlier Sword Hunt. Could we not use those?
+@406
+Hm... I see. You have thought this through.
+@407
+The boats can be requisitioned from the people nearby. Then I shall give the order at once.
+@413
+My lord, the boat bridge at Ichijōdani is at last complete.
+@414
+So it is done. The people will be glad of it. Ha ha ha!
+@415
+Yes, indeed.
+@416
+Well done. You may go.
+@423
+You sent for me, my lord?
+@424
+Ah, {a6d0000}. Good of you to come.
+@425
+A great council is to be held at Azuchi Castle. I sent for you because I mean to take you and Morimasa with me as my attendants.
+@426
+Yes, my lord, I am most grateful. And when is this great council to be held?
+@427
+Very soon. Now that you are both here, let us set out at once.
+@428
+N-{w}now, my lord?
+@429
+What, you object?
+@430
+N-no, my lord...
+@438
+{a6d0000}? You look grim. What is the matter?
+@439
+I hear Takenaka Hanbee, a retainer of Lord Hideyoshi, has passed away.
+@440
+I would like to go to Himeji Castle, where Lord Hideyoshi is, to pay my respects.
+@441
+Hm... ...Very well.
+@442
+Then I shall go at once...
+@443
+Wait!
+@444
+I allow you to go and pay your respects, but the council will be held as usual. You must attend without fail.
+@445
+...Yes, my lord.
+@446
+Then go.
+@449
+My lord, pardon me. A Nanban named Luis Frois asks to see you.
+@450
+A Nanban? ...Very well, show him in.
+@451
+How do you do. I am called Luis Frois.
+@452
+Could you be the Nanban Lord Nobunaga spoke of?
+@453
+Yes. With Lord Nobunaga's permission, I am travelling the land to see it for myself.
+@454
+Today I have come to ask your leave, Lord Shibata, to see your domain.
+@455
+This is a map of the world, brought from my own country. Please accept it.
+@456
+Hm... Very well. I grant you leave to inspect my domain as you please.
+@457
+Thank you very much indeed.
+@458
+Then you may go.
+@464
+My lord, I was told you had business with me.
+@465
+Ah, {a6d0000}. Good of you to come.
+@466
+I want you to go to Lord Nobunaga for me.
+@467
+I want you to ask him his policy for the conquest of Hokuriku from now on.
+@468
+The Uesugi have lost strength since Kenshin's death. But should they regain their unity, they will be a threat again.
+@469
+Now is our chance to push on and take everything as far as Echigo.
+@470
+So before we press the attack, I want His Lordship's private word on it.
+@471
+If it comes to it, I shall have to ask him to take the field himself.
+@472
+I see, understood. I shall convey it.
+@473
+Then I am counting on you.
+@480
+{a6d0000}, was it? What business? Speak.
+@481
+I was ordered to come and ask your thoughts, my lord, on the subjugation of the Uesugi.
+@482
+I see... So now is the time to strike the Uesugi.
+@483
+Yes, my lord, just as you say.
+@484
+Tell Gonroku: invade as far as Echigo and finish them.
+@485
+Yes, my lord, understood.
+@490
+My lord, I have asked Lord Nobunaga about the subjugation of the Uesugi.
+@491
+Hm, well done. And what did His Lordship say?
+@492
+He said, "Invade as far as Echigo and finish them."
+@493
+Hm... Understood. Then we must set to work at once.
+@494
+But with our present strength, Echigo is out of reach...
+@495
+No, it is enough to know His Lordship's wish. If we are ever in danger, he will surely come to us. He is that kind of man.
+@496
+Is that so, I wonder...
+@497
+What?! You dare doubt His Lordship?!
+@498
+N-no... That is not what I meant...
+@499
+...His Lordship is a harsh man.
+@500
+From where you stand, there may be things he does that seem ruthless.
+@501
+But I believe in him. All of it is for Tenka Fubu...
+@502
+...I understand.

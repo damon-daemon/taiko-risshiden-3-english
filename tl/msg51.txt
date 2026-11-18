@@ -1,0 +1,300 @@
+@1
+Lord {a6d0000}, you still look a little tired. Please do not push yourself too hard.
+@2
+You look much better now. Please keep up the good work.
+@3
+You slept well.
+@4
+I'm home.
+@6
+Lord {a6d0000}, I hear a council is about to begin at the castle.
+@7
+Ah, so it is. Then I will be off.
+@8
+I have sad news. Lord {p00} has gone back to His Lordship's side.
+@12
+Forgive my presumption, but allow me a word. Lord {p00} is a man hard to come by.
+@13
+If you let such a man go, you will not win the hearts of your men.
+@14
+You are right, Lady {a6d00e6}. I will not send {p00} back to the main castle.
+@18
+Lady {a6d00e6}! I have been made an Ashigaru General!
+@20
+I owe it to you, Lady {a6d00e6}. I look forward to your continued help.
+@21
+What a thing to say. It is my duty to help you do your best, Lord {a6d0000}.
+@22
+Lady {a6d00e6}! A stipend increase! I have finally become a Samurai General!
+@23
+Congratulations!! It is because everyone around you supports you, Lord {a6d0000}.
+@24
+True. I must thank my men as well.
+@25
+But most of all I owe thanks to Lord {a6d0003}. He took me into his service, and I must repay that debt with all I have.
+@26
+Indeed. Please do well for Lord {a6d0003}'s sake as well.
+@27
+Lady {a6d00e6}! I have finally become a Chief Retainer!
+@28
+Oh my! Lord {a6d0000}, you did it!
+@29
+No... I owe it all to you, Lady {a6d00e6}, for standing by me.
+@30
+All I did was stay by your side, Lord {a6d0000}...
+@31
+For your sake, Lady {a6d00e6}, I will keep doing my best!
+@32
+Oh my, hee hee. Do your best, Lord {a6d0000}.
+@33
+By the way, Lord {a6d0000}, I hear Lord {p00} is ill in bed.
+@36
+Lady {a6d00e6}, I was thinking of resting a little.
+@38
+On second thought, I will rest later.
+@39
+I will take a good rest today.
+@41
+Sweet dreams.
+@42
+And tomorrow, please do your best again.
+@43
+I will rest until the council.
+@44
+The council is in a few days, but please take it easy until then.
+@45
+There is still some time before the council. Please rest until then.
+@46
+Lord {a6d0000}, rest well and ease your weariness.
+@47
+Please rest well.
+@48
+I seem to have grown tired lately, so I was thinking of resting for a while.
+@49
+By {a6d00e6}'s reckoning, Lord {a6d0000}, you need some rest to recover. Days of rest: about {b00}, I think.
+@50
+Days of rest: {b00}. Will that do?
+@51
+Then please rest well.
+@52
+If you are tired, I will make something nourishing. Please rest well.
+@53
+Take your time and ease your fatigue.
+@54
+I see... Please do not overdo it.
+@55
+I'll rest a while.
+@56
+By my reckoning, Lord {a6d0000}, you need some rest to recover. Days of rest: about {b00}, it seems.
+@57
+How many days will you rest?
+@59
+Days of rest: {b00}. Is that right?
+@61
+On second thought, I will rest later.
+@63
+I will rest until the fatigue is gone.
+@66
+Days of rest: {b00}... shall I?
+@69
+Lady {a6d00e6}, I need some money. Could you fetch some for me?
+@70
+Lord {a6d0000}, you cannot carry more money than that.
+@71
+I am sorry, Lord {a6d0000}. The strongbox is empty...
+@72
+Oh, is that so?
+@74
+Here you are, Lord {a6d0000}. Please do not waste it.
+@76
+I have some money to spare now, so please keep it for me.
+@77
+Lord {a6d0000}, there is no money to keep.
+@78
+I am sorry, Lord {a6d0000}. The strongbox is full and I cannot keep any more.
+@80
+Yes, Lord {a6d0000}. I will keep it safe.
+@81
+I see... Lord {a6d0000}, please do not squander it.
+@82
+Pull yourself together, Lord {a6d0000}. You have no retainers at present.
+@83
+Ah, so I haven't. I had always wanted to try it, so I could not help myself...
+@84
+Lord {a6d0000}, there is no one now to whom you can give orders.
+@85
+Ah, so there isn't. Sorry.
+@117
+Lord {a6d0000}, there is something that troubles me a little...
+@118
+What is it, Lady {a6d00e6}?
+@119
+Lord {p00} has seemed to be brooding over something lately...
+@122
+Yes. When I give a reward, I will take that into account.
+@123
+You and Lord {p00} get along very well, Lord {a6d0000}.
+@127
+For some reason Lord {p00} treats you as an enemy, Lord {a6d0000}.
+@129
+Things may not always go well, but I hope you become friends one day.
+@130
+By my reckoning, your temperaments are not ill-matched at all, so I think you can become friends.
+@131
+To my eyes, the two of you are very well matched, Lord {a6d0000}. Given the chance, I think you could become close.
+@144
+The council period is on, so this is no time to be sleeping.
+@162
+Lord {a6d0000}, now and then please take your ease at home.
+@163
+I hope a world without war comes soon.
+@164
+It is thanks to you, Lord {a6d0000}, that I can live so happily.
+@165
+Your retainers each have their own character, Lord {a6d0000}. It will be important to see what each does best and assign work to suit.
+@166
+Uniting your retainers' strength is very important. Please do not forget the small kindnesses.
+@167
+Lord {a6d0000}, even when things go badly, please do not lose heart.
+@168
+Lord {a6d0000}, please take great care of your health.
+@169
+Seeing you, Lord {a6d0000}, work so vigorously every day gives me spirit as well.
+@170
+Lord {a6d0003} seems stern at first glance, but at heart he is a man of deep feeling.
+@171
+I am proud of you, Lord {a6d0000}, doing so well in the service of Lord Katsuie.
+@173
+Lord {a6d0000}, you are already full of energy. What good would more rest do?
+@174
+Lord {a6d0000}, what happened? Lord {a6d0003} called for you in a terrible temper.
+@183
+Lord {a6d0000}, Lord {p00} is here to report.
+@185
+A bachelor's life is lonely...
+@186
+A good sound sleep, and then ready for tomorrow.
+@192
+Please do not forget that.
+@193
+It is the fruit of your talent and effort, Lord {a6d0000}.
+@194
+I am your strategist now, but do you mean to replace me?
+@300
+\_\_\_\_\_- Kitanoshō Home -
+@325
+Oh, what is this faint heart? Lord Katsuie will scold you.
+@327
+Oh, how reassuring. But do not let your guard down.
+@346
+You seem to have quite recovered from your weariness.
+@347
+The weather looks fine today. Why not go and see the town below the castle?
+@348
+Yes, let me do that. I will be off, then.
+@349
+Take care.
+@353
+Hee hee... I found fine fish today, so I went and bought some.
+@355
+I see... A pity, but I must go.
+@360
+How was the town below Azuchi Castle?
+@362
+It was very lively. The town was quite different from Kitanoshō, too.
+@363
+I would like to see the town below Azuchi Castle just once myself.
+@364
+Oh yes, I have a souvenir for you, Lady Sae.
+@366
+You are always doing so much for me, Lady Sae.
+@376
+Welcome back. I hear this battle was a fierce one.
+@377
+You must be very tired. Please rest well today.
+@379
+You slept deeply. You must have been very tired. Now...
+@381
+Oh?
+@382
+Lord {a730000}, Lord Katsuie summons you. Please come to the castle at once.
+@383
+Understood. I will come at once.
+@384
+Lady Sae, then I will be off.
+@385
+...Yes, take care.
+@395
+\_\_\_\_\_\_\_- Home -
+@397
+You look grim... What is the matter?
+@398
+Ah, we march out again...
+@399
+Is that so... Then, so that you may come through the battlefield alive, please rest well until you march.
+@400
+Yes... I will.
+@403
+Lord {a6d0000}, I thought you were already asleep.
+@404
+Somehow I cannot fall asleep...
+@405
+What were you thinking about?
+@406
+Since meeting Lord Katsuie, I have met Lord Nobunaga, Lord Hideyoshi, Lord Akechi and many others besides.
+@407
+Yet Lord Nobunaga has died, and now I must fight Lord Akechi. Some day, Lord Hideyoshi too...
+@408
+I do not want any of them to die.
+@409
+But I want to give my all for Lord Katsuie, who took in a man with no kin.
+@410
+Do as you think best, Lord {a6d0000}.
+@411
+What...?
+@412
+Whatever others may say, I think it is best that you, Lord {a6d0000}, go the way you yourself believe in.
+@413
+Lady Sae...
+@414
+...I want to go on watching you, Lord {a6d0000}, walk your own road...
+@416
+Is that... wrong?
+@417
+...No... Stay by my side, always and forever.
+@418
+...Thank you.
+@420
+In the stillness before the battle, {a6d0000} and Sae passed the time together, just the two of them.
+@430
+\_\_\_\_\_\_- Kitanoshō Home -
+@431
+Lord {a6d0000}, I hear you are moving to Azuchi.
+@432
+What, you know already?
+@433
+I was the one who told Lady Sae.
+@434
+Keiji! Why are you in my house? Besides, you must pack for the move yourself...
+@435
+My packing was done long ago. A man living alone has little baggage.
+@436
+He has been helping us pack for a while now.
+@437
+Oh? Then you can do my share of the work as well.
+@438
+R-right, I promised to help my uncle with his move!
+@439
+Well then, Lady Sae, if you will excuse me.
+@441
+What a glib fellow.
+@442
+Oh my, hee hee...
+@450
+\_\_\_\_\_\_- Azuchi Home -
+@451
+So this is my new home... It gives me a fresh feeling somehow.
+@452
+Lord {a6d0000}, if you have finished tidying up, why not go and greet Lord Katsuie now that you have moved?
+@453
+Yes. I will go.

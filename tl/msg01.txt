@@ -1,0 +1,220 @@
+@0
+Welcome!
+@1
+Welcome, honoured samurai.
+@2
+Welcome, welcome. We have heard tales of your exploits.
+@3
+Why, Lord {a660000}! The lord of the {a730000} clan honours us with a visit.
+@4
+I have come to sell rice.
+@5
+My apologies, but we are done trading for today.
+@6
+Of course, ha ha... (Only one trade a day, I forgot.)
+@7
+You have {b00} koku. The selling price is {b02} kan per 100 koku, so that comes to {b01} kan.
+@8
+Oh, I can make a profit at this rate.
+@9
+There is no profit in this.
+@10
+Heh heh, I can make quite a profit on this.
+@11
+Good, good. A fair profit.
+@12
+No loss, but no gain either.
+@13
+At this rate I will lose money.
+@14
+Ha ha ha! This will make a fortune!
+@15
+Heh heh, a fine profit. I am rather good, if I say so myself.
+@16
+Good, good, a decent profit. My eye did not fail me.
+@17
+This will give me a steady profit.
+@20
+We have a business to run, so I can go no further... {b00} kan is my limit.
+@21
+Then let us settle on {b00} kan.
+@22
+How does that sound?
+@23
+Then how about {b00} kan?
+@27
+Thank you very much.
+@28
+I cannot hold any more than this.
+@29
+I see... Please come again some other time.
+@30
+We have a business to run. I cannot give way any further, so I must ask you to leave.
+@31
+I have come to buy rice.
+@32
+Your budget is {b00} kan. The buying price is {b02} kan per 100 koku, so that comes to {b01} koku.
+@33
+That is a considerable profit.
+@34
+A fair profit.
+@35
+This will make a fortune!
+@36
+This is quite a profit!
+@37
+This will give me a steady profit.
+@38
+Well, at least I will not lose on it.
+@39
+We have a business to run, so I can go no further... {b00} koku is my limit.
+@40
+Then that will be {b00} koku.
+@42
+Then let us settle on {b00} koku.
+@45
+I cannot buy any more rice.
+@46
+Next time, please buy something.
+@47
+In this province rice sells for {b00} kan per 100 koku.
+@48
+So now I know the rice price of the province I was ordered to survey. The horse price is next.
+@49
+This is no time for such things.
+@50
+You cannot hold any more than this. I think you had best return to the castle.
+@51
+I shall pay you 100,000 kan. Is that acceptable?
+@52
+I can sell you 100,000 koku, the most I can sell at one time. Is that acceptable?
+@53
+What will you do?
+@54
+What shall I do?
+@55
+I am terribly sorry, but a large customer has just been in, and we have no rice to sell right now.
+@56
+You have come at just the right time. Let me share a little secret.
+@57
+When you work on New Fields, try changing the rice variety. They say it works far better.
+@58
+"Change Variety" can now be used when you are given a New Fields mission.
+@59
+With this, the price survey mission is done.
+@300
+Oh? That man...
+@301
+Hey, old man! Care to hear how the rice-growing lands are faring this year?
+@302
+Oh, you do? And do you understand how prices work?
+@303
+No, I do not. I am rather ignorant of such matters.
+@304
+Very well. For the sake of old friendship, I will teach you.
+@305
+The same money buys more when the price is low, and less when it is high.
+@306
+A warrior of the coming age must understand the economy.
+@307
+When prices are low, one can buy more with the same money...
+@308
+And do not forget: prices, and not just rice prices, never stand still. They are always moving.
+@309
+Take care: in a year, this news will be of no use at all.
+@310
+Well, I must be off to work. Still, if you serve the {a730002} clan, we are sure to meet again.
+@311
+This old man does not seem willing to pay, so I will try elsewhere. Good luck, {a6d0000}!
+@312
+Will you not tell me what you know?
+@313
+Prices are a most important matter.
+@314
+If you want a higher post, you had better learn at least this much.
+@315
+Why, I would very much like to hear it.
+@316
+Of course you would... I travel the provinces and see them with my own eyes. You shall have the news fresh.
+@317
+But it will not be free. Come, 100 kan.
+@318
+B-but that is absurd...
+@319
+What is wrong with 100 kan? You will profit from hearing me. 100 kan is cheap!
+@320
+You with the monkey face over there, you agree, do you not? Hm? Monkey...
+@321
+Well, well, if it is not Monkey! How many years since I last saw that monkey face? Ah, that takes me back.
+@322
+So it really is Ganmaku! We have not met since I ran away from home... And here of all places!
+@323
+We used to run all over the fields and hills together. And the mischief we got up to...
+@324
+By the way, what do you do for a living now?
+@325
+Well, I have done many things, but now I make my living as what they call a ninja, for the Oda.
+@326
+Well, good that we are both in health. And you, what are you up to?
+@327
+Ah, I work under a man called Lord Asano of the {a730002} clan.
+@328
+Oh, they made you an Ashigaru! That is quite a rise.
+@329
+No, I still have more work to do. Today I came here on business, to study the prices.
+@350
+Hm? You are from Lord {a730010}'s household...
+@351
+I am {a660000}, my lord.
+@352
+Ah, yes. Lord {a6d0000}. I am {a66000a}.
+@353
+Are you at work, Lord {a73000a}?
+@354
+Yes. Buying and selling provisions may seem dull, but it is very important work.
+@355
+I see. War is not the only work of a warrior.
+@356
+Indeed. Now I shall go to the rice dealers of the other provinces.
+@357
+Lord {a73000a}, what a surprise to meet you here.
+@358
+Well, well. Lord {a6d0000}. Are you at work as well?
+@365
+Of course. You have retainers of your own now, Lord {a660000}.
+@367
+Yes, indeed. Buying and selling provisions may look dull, but it is very important work, you know.
+@371
+Why, if it is not Lord {a6d0000}. Are you here on business as well?
+@372
+Well, not exactly... Are you at work, Lord {a73000a}?
+@377
+Well, well. Lord {a6d0000}. Are you at work?
+@379
+No, I merely dropped in.
+@380
+I see.
+@381
+Well then, until we meet again.
+@400
+A cat? We have more mice lately, so it would be a help to have one.
+@401
+You wouldn't give me that cat... No, of course not.
+@402
+Hm, I do not know your face. Are you from this town?
+@403
+Yes. My name is Konishi Yukinaga.
+@404
+Konishi, is it? Hm, you have a fine look about you.
+@405
+I know a little accounting. I am poor at war, but I think I can serve you in domestic affairs.
+@406
+Would you not take me into your service?
+@407
+You wish to enter my service? I am glad to hear it.
+@408
+Use your talents to the full.
+@409
+Yes! I will not fail you!
+@410
+\n\_\_\_\_\_\_\_\_- {e660057}: Rice Dealer -

@@ -1,0 +1,634 @@
+@300
+{d01}Thud.
+@301
+Hm...{w} Who's there?!
+@302
+W-wait! It's me, Ganmaku!!
+@303
+Well? You haven't forgotten this face, have you?
+@304
+Oh! It really is Ganmaku!! It's been a long time!
+@305
+Yes, a long time. You look well.
+@306
+Well enough, as you see. And you? Have you been well?
+@307
+I'm always well.
+@308
+Hmm, so you are. You haven't changed a bit, Ganmaku.
+@309
+Your forehead has grown a little wider. Shave it all you like, you can't fool me. Ha ha ha...
+@310
+Ugh, you would mention that... Did you come all this way just to talk about my head?
+@311
+There's no place like home... Yaaawn... I'm getting sleepy...
+@312
+If you doubt it, hear it with your own ears.
+@312.1
+Come, let us go!
+@313
+By the way, you led the Ikkō followers and caused quite an uproar, I hear.
+@314
+Yes, but I've given that up. It seems I have no talent for leading men and the like.
+@322
+Right, right. Let's be serious. I came here today for one reason.
+@323
+So you've finally turned on Nobunaga. Well done, well done!
+@324
+To be honest, I was afraid you would end up just like Nobunaga.
+@325
+You served him far too obediently.
+@326
+No, no. I was dismissed as useless. That's all there is to it.
+@327
+Ha ha ha! It's all for the best.
+@328
+If you stayed with that cold-blooded man forever, you would lose what matters most in a human being.
+@329
+Listen, Monkey. The hard part begins now, but keep at it.
+@330
+If anything happens, don't hesitate to tell me. Let's work together again, like the old days.
+@330.1
+Yes.
+@331
+Well then, I'll be back.
+@332
+My lord, trouble! Great trouble!
+@333
+What is it, Koroku? You're making a racket.
+@334
+Slander against you is spreading through the castle town, my lord!
+@335
+What?! That can't be. Did you hear it wrong, Koroku?
+@338
+Today I've brought some young men with promise.
+@339
+They're young, but quite capable. They're sure to be of use to you.
+@346
+Yo!
+@346.1
+Whoa! Don't pop out like that! You startled me!
+@347
+From what I hear, Nobunaga ordered Ikkansai to make it.
+@348
+I came today with good news. Kunitomo Ikkansai, the smith in the town below {e660057}, has developed a weapon called the cannon.
+@349
+Rumour has it that it has the power to blow a small house clean away.
+@350
+Yes, I know of it. But I am no longer of the Oda clan. I can't imagine he would sell one to me.
+@351
+Since when do you talk so timidly?! Charge straight at him, like in the old days!
+@352
+I see... You're right. If it fails, I lose nothing!
+@353
+So he won't agree after all...
+@354
+My lord! Master Ikkansai says he will sell us cannon!
+@355
+Oh! Is that true?! Splendid!
+@356
+Lord Hashiba! Is Lord Hashiba Hideyoshi in?
+@357
+Hm...{w} Who is it?
+@358
+Ah, there you are! It is I, Matsunaga Hisahide.
+@359
+Ah, Lord Matsunaga! What brings you to a place like this?
+@360
+Nothing much. I wish to keep on good terms with Lord Hashiba.
+@361
+You mean you wish to form an alliance?
+@362
+Just so. I judge that the tide of the realm no longer runs with the Oda.
+@363
+Since losing Lord Hashiba, Nobunaga seems to grow weaker by the day.
+@364
+But that is only what he brought on himself! Ha ha ha...
+@365
+Lord Hashiba... Do you know the word "sanshū"?
+@365.1
+No, I have never heard it...
+@366
+It means the three who excel: myself, Lord Akechi and Lord {a730000}. All of us have the character "Hide" in our names, do we not?
+@367
+Ha ha ha, no wonder. I thought it up myself. You see, "sanshū"...
+@368
+One of these three will take the realm. The realm does not belong to Nobunaga!
+@369
+So if Lord {a730000} and I join hands, the realm is as good as taken!
+@370
+From now on, let us rule the realm together.
+@371
+An alliance is fine, but...
+@371.1
+But?
+@372
+Very well. If you are that resolved, Lord Matsunaga...
+@372.1
+You understand! Splendid!
+@373
+You have already changed masters many times, and each time you killed your lord.
+@374
+Is it not too much to ask that we suddenly become friends?
+@375
+You are quite right. But now is the time when we need comrades to join hands.
+@376
+If you learn that I have betrayed you, cut me down without hesitation.
+@377
+Now then, I shall take my leave.
+@378
+My lord, Master Sen Rikyū has arrived.
+@379
+Master Rikyū?
+@380
+Lord Hashiba, are you keeping well?
+@381
+Master Rikyū, what brings you here?
+@382
+I came to see how you fare, Lord Hashiba. Since you left the Oda, I have had no chance to speak with you...
+@383
+Still, that was a grave decision you made.
+@384
+I had no choice. There was no other way.
+@385
+But the body does not lie. The strain you have put it through must be starting to tell about now.
+@386
+Indeed... Now that you say it, I do feel tired...
+@387
+So today I have brought a tea said to relieve weariness of body and mind.
+@388
+Drink this tea, and your fatigue will blow away.
+@389
+That is very kind of you!
+@390
+Lord {a730000}, why not hold a tea gathering of your own?
+@391
+Oh no, for a man like me to hold a tea gathering would be unthinkable.
+@392
+Healing the body and mind wearied by war with tea is part of a warrior's refinement.
+@393
+From now on, you should gather your retainers and hold tea gatherings.
+@394
+Here, please...
+@394.1
+I will gladly accept.
+@395
+Now that you are a daimyō in your own right, Lord Hashiba, I think you should hold tea gatherings...
+@396
+Ah, that was a splendid treat. Truly tea worthy of Master Rikyū's recommendation. My fatigue seems to have blown away.
+@397
+I am glad to hear you say so.
+@398
+Still, Lord Oda has truly thrown away something precious.
+@399
+Has something happened...?
+@400
+No, I mean that he cast out so able a man as you, Lord Hashiba...
+@401
+My deeds are nothing to speak of.
+@402
+No...
+@403
+The conquest of Mino, the defeat of the Azai and Asakura... none of it would have been possible without you, Lord Hashiba.
+@404
+And were I to count up all your other achievements, Lord Hashiba, there would be no end to it.
+@405
+Lord Oda has put the noose around his own neck.
+@407
+And Lord Akechi does not seem to think well of Lord Oda either.
+@408
+Lord Akechi, hm...
+@409
+Speaking for myself, I hope to grow closer to you from now on, Lord Hashiba.
+@410
+I will also tell you about the Oda generals, little by little.
+@411
+Well then.
+@413
+Hm... What is it?
+@414
+I have heard something interesting. They say there is a man named Ōtani Yoshitsugu in the town below {e660057}.
+@415
+He has studied since childhood, and his talent leaves even the temple monks amazed.
+@416
+Oh! Is there such a man in the castle town of {e730057}?!
+@417
+I want every capable retainer I can get now. I shall go and call on him at once!
+@419
+Koroku? You're always in good spirits!
+@420
+Of course! That is thanks to your virtue, my lord.
+@421
+You have a smooth tongue, too. By the way, among those who come to your house, is there any young man with promise?
+@422
+What kind of man are you looking for?
+@423
+Well, the truth is I want men who can serve as generals. I am gathering talent.
+@425
+Really?! Arrange for me to meet him at once.
+@426
+There's no need for that... Look, he's right behind you, my lord.
+@429
+I am Katō Yoshiakira.
+@430
+Oh! What a promising young man this is!
+@431
+But I am astonished. To think my wish would be answered so quickly!
+@432
+Well, I came today to introduce Yoshiakira to you, my lord. What a coincidence!
+@433
+Yoshiakira! You are a man of great luck!
+@435
+I see, I see. So that was it!
+@436
+Now I want every strong ally I can get. Yoshiakira, lend your strength to this Hideyoshi.
+@437
+You honour me. I, Yoshiakira, swear before heaven and earth to serve you, my lord, with all my strength.
+@438
+Oh, I am grateful. Then I count on you.
+@440
+My lord, a man calling himself Kuroda Kanbee has come.
+@441
+Hm? Who is Kuroda Kanbee? Hidenaga, do you know him?
+@442
+No, I have never heard of him.
+@443
+Hmm... Who could he be?
+@444
+He may be an assassin sent by a hostile daimyō. My lord, do not let your guard down.
+@445
+An assassin would not walk in through the front. First I'll meet him. Show him in!
+@447
+It is an honour to meet you. My name is Kuroda Kanbee.
+@448
+So you are Lord Hashiba Hideyoshi.
+@449
+I heard you had fallen out with Lord Oda Nobunaga and were at war with him, so I never expected a man of such small stature.
+@450
+Are you disappointed, now that you have met me?
+@451
+No, I want all the more to work under you.
+@452
+What? You want to work under me?
+@458
+Yes. Until now I had no place to use my talents and was left with time on my hands.
+@459
+Then I learned of you.
+@460
+What do you say, will you not try me? I will do work to rival Lord Takenaka Hanbee's, I promise you!
+@461
+Oh? As much as Hanbee? That is a bold claim! Ha ha ha...
+@462
+First try me, and then judge.
+@463
+Very well. Show me the full extent of your ability.
+@464
+Yes, my lord! Leave it to me!
+@466
+Hm? What is it, {a6d0001}?
+@467
+Men who shine in war are good, but we also need men who can manage domestic affairs.
+@468
+So you have someone in mind.
+@469
+Yes. They say there is a man named Konishi Yukinaga at a rice merchant's in the castle town of {e730057}. He is skilled in arithmetic.
+@470
+Good. If he is that able, I want him among my retainers.
+@471
+Hm?{w} Ganmaku?
+@472
+Ha ha ha... You knew it was me.
+@473
+You enter the same way every time. Even I have caught on by now.
+@474
+Ha ha ha... Never mind that. Don't you find Nobunaga's recent moves ominous?
+@475
+{a6d0000}, I heard this from an old ninja friend of mine. Nobunaga is indeed after you.
+@476
+I see. Thank you for coming all this way, Ganmaku.
+@477
+{d05}Click.
+@478
+Hm? Ganmaku?
+@479
+...No... It isn't Ganmaku... Who is it?
+@481
+{a660000}! Prepare to die!!
+@482
+(Three enemies...){w} Whose men are you?!
+@484
+You won't say, I suppose. You're Oda men, no doubt.
+@485
+Swish...\nSwish...\nSwish...
+@486
+Tch... They have surrounded me neatly...
+@487
+"Die, Hideyoshi!" "Die, Hideyoshi!" "Die, Hideyoshi!"
+@488
+Ah...{w} I managed to dodge it somehow.
+@489
+Damn, he dodged it...
+@490
+This time for sure!
+@492
+Heh, we have you cornered.{w} Die!
+@493
+Whish...
+@494
+Aaargh...
+@495
+My lord, are you hurt?
+@496
+No, I am fine.
+@497
+Never mind that. If you were going to show yourself, you might have done it a little sooner. I truly thought I was dead.
+@498
+I beg your pardon. Leave the rest to me.
+@499
+Good, I count on you!
+@500
+The three ninja have been dealt with.
+@501
+Good, well done.
+@502
+My lord, those men just now...
+@503
+Yes... There's no doubt. They were the Oda's men.
+@504
+Sending ninja at me is not like Nobunaga...
+@521
+Hm, an Oda ninja! Never learn, do you?! Come out!
+@522
+W-wait! It's me, Ganmaku!
+@523
+Oh, it's only Ganmaku. Don't scare me like that...
+@524
+I'm the one who was startled. From the look of you, the Oda's men attacked you.
+@525.1
+My warning came in handy, didn't it!
+@526
+I got worried about you and came to see. I'm glad you're safe.
+@527
+...Ganmaku.
+@529
+Will you not serve me?
+@530
+What's this? Did you lose your nerve?
+@531
+That's not it!
+@532
+I've had enough of serving anyone. A free life suits me better.
+@533
+Well, I'll be going. I'll be back.
+@535
+Ah, Lord {a730000}. You were out, so I took the liberty of waiting.
+@536
+Lord Matsunaga. Please, please, make yourself at home.
+@537
+I came today because I wished to have a little talk with you, Lord {a730000}.
+@538
+And what is it you wish to talk about?
+@539
+Oh, it is nothing formal. Please, listen at your ease.
+@540
+Hmm... Then let us have a leisurely talk today.
+@541
+Lord {a6d0000}, I have served many daimyō and rebelled again and again. They even say "rebellion" means Matsunaga Hisahide.
+@542
+Yet it is strange. Since I allied with you, Lord {a730000}, I have felt no such urge...
+@543
+Ha ha ha... Perhaps you are getting on in years, Lord Matsunaga? Too tired to rebel any more?
+@544
+True, I have aged. But that is not it. It seems I have fallen for you.
+@544.1
+!!
+@545
+Matsunaga Hisahide the rebel is no more. From now on I, Hisahide, wish to devote myself to you, Lord {a6d0000}.
+@546
+Lord {a6d0000}, I beg you! Please, please...
+@546.1
+L-Lord Matsunaga...
+@547
+Take me, Hisahide, into the {a730000} clan.
+@548
+...{w} Lord Matsunaga, thank you. Lord Matsunaga...
+@549
+Then you accept? I thank you.
+@550
+My lord, my lord! This is terrible!!
+@551
+Hidenaga? You are unusually flustered. What is it?
+@552
+Lord H-Hanbee has... coughed up... blood... and... collapsed!
+@554
+{a6d0001}! Hurry!
+@555
+I have only... just run here... My lord... go on ahead! I will follow!
+@556
+Damn it! Come what may!!
+@557
+Ganmaku, is that you?{w} What is it?
+@558
+Ha ha ha. Perhaps I should change my entrance by now?
+@559
+Ha ha ha... So, what brings you today?
+@560
+Mitsuhide hates Nobunaga.
+@562
+That's not all. Lately there are even signs of rebellion.
+@563
+What? Is that true?!
+@564
+It's true. With luck, he may become your ally.
+@565
+I see. I'll remember that.
+@566
+My lord, Master Sen Rikyū has come to see you.
+@567
+What, Master Rikyū? How unusual. Show him in!
+@569
+Lord Hashiba, it has been a long time.
+@570
+Master Rikyū, you are as well as ever.
+@574
+What business brings you today?
+@575
+Yes, it concerns Lord Akechi...
+@576
+What of Lord Akechi?
+@577
+Lord Akechi has even come to hate Lord Nobunaga.
+@578
+Not long ago there was a linked-verse gathering, and Lord Akechi composed an outrageous verse there.
+@579
+"To know all under heaven" = to rule
+@580
+Outrageous, you say?
+@581
+Lord Akechi composed this verse: "The time is now, to know all under heaven..."
+@583
+Do you understand what this verse means?
+@584
+Hmm, I do not... What does it mean?
+@585
+Lord Akechi is a Toki by birth. "Time" is read "toki", so "the time" stands for Lord Akechi himself.
+@586
+In short, the verse is a declaration: "Mitsuhide will take the realm in Nobunaga's place."
+@587
+What?! Is that not reading a little too much into it?
+@588
+No, it is by no means too much. You will learn so before long.
+@590
+Ganmaku, and now Master Rikyū... It troubles me that both of them say the same thing.
+@591
+Ganmaku's tale that Akechi Mitsuhide bears Nobunaga ill will.
+@592
+And Mitsuhide's verse at the linked-verse gathering, told by Master Rikyū...
+@593
+Is Mitsuhide truly plotting a rebellion?
+@593.1
+I think that is a reasonable thing to suppose.
+@594
+I cannot believe Lord Akechi is a man who would do anything so bold.
+@595
+Hmm... I understand less and less.
+@596
+In that case, there is nothing for it but to ask the man himself.
+@597
+M-my lord! Do you realise what you are saying?
+@598
+It is not impossible that Mitsuhide will rebel! It is dangerous to go to his castle now!
+@599
+It's all right. Lord Akechi is not a man to kill without cause. I leave things here to you two while I am away.
+@600
+\_\_\_\_- Sakamoto Castle: Lord's Room -
+@602
+Lord {a730000}, what brings you here this time?
+@603
+Well, I hoped to free you from your wavering, Lord Akechi.
+@604
+Wavering? What do you mean?
+@605
+Lord Akechi, let us have no secrets. I know you are thinking of rebellion.
+@606
+What?! What are you saying!
+@607
+...
+@619
+Lord {a730000}... Heh. It seems you see through everything. Very well, I will tell you.
+@620
+It is true that I am thinking of rebelling.
+@621
+Beginning with the Azai and Asakura, then the burning of Mount Hiei, the slaughter of the Ikkō...
+@622
+My repeated counsel was never accepted, and in the end... he even said he would kill my family.
+@624
+What, what has all my service been for...
+@625
+Lord Akechi... If you mean to rebel in any case, will you not join forces with me?
+@626
+Lord {a730000}, you overestimate me. I would only hold you back.
+@627
+It is you who are too modest, Lord Akechi. I beg of you.
+@628
+Lord {a730000}...{w} Very well. I will join you.
+@628.1
+Oh! Thank you.
+@629
+And so I succeeded in winning Lord Mitsuhide over to our side.
+@630
+Splendid, my lord!
+@631
+My scheme was of use too, was it not?
+@632
+Never again.
+@633
+Then, Lord Mitsuhide, I leave Sakamoto to you.
+@634
+Leave it to me. We shall make Nobunaga pay. Now, farewell.
+@636
+What is it, {a6d0001}?
+@637
+The talk all over Kyōto now is that someone is about to be made Regent.
+@639
+It is not "Oh?", my lord. That man is...
+@640
+It seems to be you, my lord!
+@641
+Is that true?!
+@642
+No force can match you, my lord.
+@643
+It is only natural that you be appointed Regent.
+@644
+The Court will surely contact us soon.
+@645
+Now that you say it, I suddenly feel nervous! I'll move my body to calm down! One-two! One-two!
+@646
+My lord! You are getting carried away!
+@647
+Whoa!! I got so excited my nose is bleeding! A doctor! Call a doctor!
+@648
+You will be all right if you lie down. My lord! Please calm down a little!
+@649
+Phew... The blood has finally stopped...
+@650
+It comes of getting excited at your age.
+@651
+Hm? What happened to {a6d0001}?
+@652
+He has gone home already. My dear, please be a little steadier.
+@654
+Hidenaga, Kanbee, listen. There is a rumour that I will be made Regent. I want to make it real.
+@655
+My lord, how bold!
+@656
+Lord Hidenaga, it is bold, but not impossible.
+@657
+Oh? Is that true?
+@658
+There is a court noble named Lord Kikutei Harusue. From what I have heard, he has shown an interest in you, my lord.
+@659
+It is even said that the rumour came from Lord Kikutei.
+@660
+My word, if that is so, I must meet him and make my request.
+@661
+That is well, but whom should I meet?
+@662
+There is a man named Kikutei Harusue. This court noble has influence at Court, and above all, I hear, is well disposed to you, my lord.
+@663
+Is that true?! Then I shall call on him at once.
+@667
+Lord {a730000}.
+@669
+Lord {a730000}, let us dispense with formalities, if you please. I come today as an envoy of the Court.
+@670
+Pray hear: His Majesty has decreed that you, Lord Hashiba, be made Regent, with the Senior First Rank.
+@680
+Nearly all of Japan is now yours, my lord. All that remains is to defeat Nobunaga.
+@681
+Y-yes... So it is...
+@682
+My lord! Why do you hesitate?! We became independent to defeat Nobunaga! Have you forgotten?
+@683
+I know. I was thinking back on all that has passed. There has been so much...
+@688
+My, you have seen to everything already. Very well, Hidenaga! I leave the rest to you!
+@691
+Is that so... It is a great pity, though...
+@695
+They are secretly plotting your assassination, too. Take great care.
+@696
+Ha ha ha... Ganmaku, why do you look so solemn?
+@697
+Why, you ask?! Someone is after your life!
+@698
+Ha ha ha... Is that all!
+@699
+This is cause for celebration. Nobunaga sees me as a threat... Does that not mean he acknowledges me?
+@700
+You really leave me speechless. But take great care, all the same.
+@1050
+Though I was granted this opportunity, I could not achieve any notable result. I am sorry.
+@1082
+Things may not always go smoothly, but I hope you can be friends one day.

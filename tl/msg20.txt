@@ -1,0 +1,1444 @@
+@0
+Who goes there?
+@1
+I am {a660000}.
+@2
+Ah, so you are {a660000}.
+@3
+Who are you?
+@5
+A man of the {p00} clan, is it? What do you want? Say your piece and be gone.
+@6
+From the {p00} clan, are you? Well met.
+@7
+A man of the {p00} clan, our sworn ally! Welcome, welcome.
+@8
+From the {p00} clan? You are welcome here.
+@9
+A man of the {p00} clan? Good, come in.
+@10
+Welcome. Thank you for coming.
+@11
+Welcome. We are honoured that you troubled to come all this way.
+@12
+My lord, we have been waiting for the day you would visit us.
+@13
+I am busy. I have no time to humour the Monkey.
+@14
+...So you came.
+@17
+Monk... I mean, Lord {a730000}. How good of you to come.
+@18
+Ah, Lord {a730000}. Welcome.
+@19
+A man of the {p00} clan! As things stand between our houses, you are not welcome here.
+@20
+Lord {a660000}, is it? Well met.
+@21
+Lord {a660000}, is it? You are welcome.
+@22
+Whom shall I move?
+@23
+A Castellan guards the castle and cannot be given new orders. Whose castle shall have a Castellan?
+@24
+A man of the {p00} clan, and what do you want? Leave the moment your business is done.
+@25
+I would like to welcome you, but with things as they are between our houses, I cannot.
+@26
+I am sorry, but I cannot have much to do with other houses. Be brief.
+@28
+Welcome to my castle. We serve different houses, but you are a friend. I am glad you came.
+@29
+If you do not report within the time limit, the mission is not truly done. I will let it pass this time, but take care in future.
+@30
+Reporting late... I thought better of you. Enough. Leave my sight.
+@31
+Merit fell by {b00}.
+@32
+Not reporting within the time limit - what do you mean by it? ...Well, I will let it pass this once. Take care in future.
+@33
+Fool! What do you take a mission to be?! I will overlook it this once, but take care in future.
+@35
+Actually, our own forces have already conquered the target province, so the mission can no longer be accomplished.
+@36
+Actually, the target castle has fallen, so the mission can no longer be accomplished.
+@37
+Actually, the target daimyō clan has been destroyed, so the mission can no longer be accomplished.
+@38
+Actually, our own forces have already conquered the target region, so the mission can no longer be accomplished.
+@39
+Then so be it. On your next mission, beat the clock as well.
+@40
+Have you finished your mission?
+@41
+Yes. I have completed the {p00} mission.
+@42
+No, not yet.
+@43
+Then finish it as quickly as you can.
+@44
+Hm? The work does not seem to be finished. Are you giving up halfway?
+@45
+You say you cannot do it? Very well, I will let it go this time. But take care in future.
+@46
+You say you cannot do it...? So that was the limit of your ability. I am disappointed.
+@47
+I had expected much of you. This time you fell short.
+@48
+Merit did not rise.
+@51
+{p00} belongs to a daimyō clan we are not at war with. If you attack, they will become our enemy. Is that all right?
+@52
+We are not at war with the {p00}. If you attack, they will become our enemy. Is that all right?
+@53
+Lord {p00} is out on campaign, so {p01} is not possible now.
+@54
+The lord of that castle is out on a campaign, so he cannot be called back.
+@55
+Whom shall I make Castellan?
+@56
+There is no one who can be returned.
+@57
+What are you thinking, dear?! Lord {p00} is someone you cannot do without.
+@58
+How can you win everyone's hearts if you cast away such a man?
+@59
+Now, what shall I do?
+@60
+There is no sense in giving gifts more than once in the same month.
+@61
+In gratitude for your constant favour, I have brought a tribute gift.
+@62
+Oh? Show me, quickly.
+@63
+Hm? I have nothing to give as a reward.
+@64
+Given this{p00}'s standing, a gift below value {b00} would be rude. But I have nothing worth that much now.
+@66
+His Lordship... is fond of {p02}, and as I recall, he {p03}.
+@70
+Oh, this is quite something. My thanks.
+@71
+Oh! T-this is... {a6d0000}, you did well to find it. I, {p00}, thank you.
+@72
+This is... I gratefully accept.
+@73
+Hmm... I suppose I will take it.
+@74
+Hmm... I will take it.
+@75
+You wish to confirm our strategy? Very well.
+@76
+Our house's strategy at present: {p00}. Act in line with it.
+@77
+You want to work? I admire the spirit, but the council begins soon. Save your strength until then.
+@78
+You want to work? Very well.
+@79
+Dear... I have sad news. {p00} has returned to the main castle.
+@81
+The council begins at once. Follow me.
+@82
+Right, I had other urgent business.
+@83
+Then finish your work at once and come back.
+@84
+You skipped the council!\nWhat do you take the council for?!\nThis is an unforgivable crime!
+@85
+{a6d0000}, kneel before me!!
+@86
+{a660000} incurred the wrath of {p00} and died.
+@87
+You fool!! Forgetting the council!\nDo you want your head cut off\nfrom your body?!
+@88
+I will overlook it this once.\nSee that it never happens again.\nNow, begone.
+@89
+It is {a660000}.
+@90
+Forgive my rudeness. I have heard much of you.
+@91
+Where have you been?!
+@92
+My lord, I am sorry I am late. I have carried out the mission.
+@93
+{a6d0000}!!
+@94
+I should cut you down here and now,\nbut you did complete the mission,\nso I will forgive you this once.
+@95
+But if it happens again,\nyour head will leave your shoulders.\nRemember that!!
+@96
+{a6d0000}, you come at a good time. I was about to hear {p00}'s report.
+@97
+Let us begin. Give me your results.
+@98
+I investigated and found {b00} talented men.
+@99
+I have gathered intelligence on {p00}.
+@100
+I spread rumours in a castle held by the {p00}.
+@101
+I have bought {b00} koku of rice.
+@102
+As for me: {b00} koku of rice. {p00}
+@103
+I sold rice and gained {b00} kan.
+@104
+As for me: {b00} kan. {p00}
+@105
+I sold rice and gained {b00} kan.
+@106
+I have bought {b00} horse{s}.
+@107
+As for me: {b00} horse{s}. {p00}
+@108
+I have bought {b00} gun{s}.
+@109
+As for me: {b00} gun{s}. {p00}
+@110
+I have bought {b00} cannon.
+@111
+As for me: {b00} cannon. {p00}
+@112
+I raised the Yield of {p00} by {b00} koku.
+@113
+I raised the Commerce of {p00} by {b00}.
+@114
+I raised the Mines of {p00} by {b00}.
+@115
+I repaired {p00} and raised its Defence by {b00}.
+@117
+I raised Support among the people of {p00} by {b00}.
+@118
+I surveyed {p00} and found {b00} koku of hidden fields.
+@119
+I carried out sabotage in {p00} and dealt {p01} damage.
+@120
+I have scouted the castles of the {p00}.
+@121
+Diplomacy with the {p00} succeeded, and relations have improved.
+@122
+I went to court as an envoy and raised Court Standing by {b00}.
+@123
+I succeeded in recruiting {p00}.
+@124
+I hired ashigaru and gathered {b00} soldier{s}.
+@125
+I trained the troops at {p00} and raised Training by {b00}.
+@126
+I succeeded in winning over Lord {p01}, the lord of {p00}.
+@127
+A disappointing result for both of you. Shameful! Strive harder next time!
+@128
+I am ashamed. I will make sure this does not happen again. Now, if you will excuse me.
+@129
+This time the win goes to {p00}.
+@130
+Ha ha! I merely confirmed the expected result. Now, if you will excuse me.
+@131
+I am delighted to have beaten {a660000}{p00}. Now, if you will excuse me.
+@132
+I am most grateful. I will keep striving. Now, if you will excuse me.
+@133
+This time the win goes to {a6d0000}.
+@134
+I-I cannot believe it... Is this a nightmare? I feel unwell, so if you will excuse me.
+@135
+I had no luck this time. I take my leave. Next time, {p00}, {p01}
+@136
+So I lost this time. I will strive not to lose next time. Now, if you will excuse me.
+@137
+{a6d0000}, your work this time was splendid. You have my praise.
+@138
+As a reward, I give you this {p00}.
+@139
+I am most grateful. I will treasure it gladly.
+@140
+What have you been doing?!
+@141
+My lord, I am sorry I am late.
+@142
+Well, have you carried out the mission?
+@143
+I am truly ashamed... I could not accomplish the mission.
+@144
+Not only did you fail the mission,\nyou let the deadline pass as well!
+@145
+Useless and shameless!\nNeither {p00} nor this\nage of war needs you!!
+@146
+{a6d0000}, kneel and die\nby {p00}'s own hand!!
+@147
+I have been waiting. How is the mission going?
+@148
+I am deeply ashamed to say that I have failed.
+@149
+You failed? I thought you were the man to do it.
+@150
+Well, no matter. Let this failure spur you on in future.
+@151
+I will not allow it!!\nYou will accomplish it at any cost!!
+@152
+Why... why did it come to this...
+@153
+A monkey is only a monkey after all. To earn our lord's wrath...
+@154
+You still seem tired. Please do not push yourself.
+@155
+You look much better. A cheerful face suits you best, dear.
+@157
+Lord {p00}, I have come today as an envoy of my lord.
+@158
+Lord {p00}, I have come today because I have something to discuss.
+@159
+I will hear it.
+@160
+What is it about? Let me hear it first.
+@161
+Now, what manner shall I take?
+@162
+If your house and ours join hands now, it will benefit us both.
+@163
+{a660000} persuaded him with an appeal to profit.
+@164
+Our {p00} will take the realm in time. Do not miss the chance to grow close to our house.
+@165
+{a660000} persuaded him with a bold manner.
+@166
+Word of {p00}{p01}'s great courage has reached us as well. That is how a warrior should be.
+@167
+{a660000} persuaded him by praising his courage.
+@168
+Let us work together to make this war-torn land one where the people can live brightly!
+@169
+{a660000} persuaded him by speaking of ideals.
+@170
+I will not speak in fine phrases. It would be wise for neither of us to fight right now.
+@171
+{a660000} persuaded him by speaking of realities.
+@172
+Hmm... Now that you put it so, you are right.
+@173
+I agree with you on that.
+@174
+That persuasion seems to have worked very well.
+@175
+Hmm... There may be something in what you say.
+@176
+There is something in that, true.
+@177
+That persuasion seems to have worked.
+@178
+Do you mean that, man? ...Well, never mind.
+@179
+I am against that idea.
+@180
+Oh no, that persuasion seems to have backfired.
+@181
+Very well. I will trust you.
+@182
+Very well. I will improve relations with the {p00} from now on.
+@183
+I see no need to grow closer to your house than this.
+@184
+I am sorry, but please leave for today.
+@185
+Tell Lord {p00} that I see no reason to change our present relations.
+@186
+Now, go back and report at once.
+@188
+No, it is nothing.
+@190
+No, it is nothing.
+@192
+No, it is nothing. Ha ha ha!
+@194
+Thank you for your efforts. I shall grant you a reward.
+@196
+I have brought a gift for Lord {p00}.
+@197
+If you are giving it, I will take it. Show me, quickly.
+@198
+How kind. Show me, quickly.
+@199
+Thank you for your service. I have brought you a gift today.
+@201
+As one who shares your wish to end this war, I have brought a gift.
+@202
+I appreciate your thoughtfulness.
+@203
+I have something to offer Lord {p00}, who will surely end this age of war together with my lord.
+@204
+Oh? And what sort of thing is it?
+@205
+I've brought you a gift today.
+@206
+My thanks.
+@207
+I have taken the liberty of bringing you a gift today.
+@209
+I seem to have won all the trust I could hope for.
+@210
+Our efforts over time seem to have won considerable trust.
+@213
+It did not do much, but it was better than doing nothing.
+@215
+It seems to have had a very great effect.
+@216
+Whom shall I return to the main castle?
+@217
+{p00}{p01}... is fond of {p02}, and as I recall, he {p03}.
+@218
+Well, well. You brought something quite thoughtful, for you.
+@219
+A fine gift. My thanks.
+@220
+Oh, a fine gift. Thank you very much.
+@222
+This is intriguing. My thanks.
+@223
+Well, an intriguing piece. My thanks.
+@224
+Oh, this is quite something. My thanks.
+@225
+This is an interesting piece.
+@226
+Oh, you are giving me this? I am truly grateful.
+@227
+Such a piece?! My heartfelt thanks!!
+@228
+Such a costly piece for me... Thank you. Thank you so very much.
+@229
+You are giving me such a piece?! Thank you!
+@230
+Y-you give me such a piece?! My heartfelt thanks!
+@231
+Oh, you are really giving me this? How kind, I am truly happy. My heartfelt thanks.
+@232
+Th-this is... A wonderful gift. My heartfelt thanks.
+@233
+You are giving me this?! Thank you!! I will make it a family treasure.
+@234
+Hmph! I suppose I will take it.
+@235
+A fine piece indeed. I gratefully accept.
+@238
+My thanks.
+@240
+You are giving me this? My thanks.
+@241
+Oh, you are giving me this? I gladly accept.
+@244
+What do you want here?! Have you come to offer your head?!
+@245
+This is bad. I must run.
+@246
+There is no suitable retainer.
+@247
+There is no suitable castle.
+@248
+Who shall govern more castles?
+@249
+Which castle shall be entrusted to Lord {p00}?
+@250
+Which castle shall be placed under Direct Rule?
+@251
+This will recall Lord {p00} to this castle as {p01}. Is that all right?
+@253
+Lord {p00} will surely take the realm one day. Will you not join me and lay the foundation of his conquest?
+@254
+I am grateful for the offer, but I have sworn that Lord {p00} alone is my lord. I must decline.
+@255
+It is a kind offer, but I cannot go against my duty. Kindly take your leave.
+@256
+Very well. From now on I will call you my lord.
+@257
+As of this moment, this castle belongs to the {p00}, my lord.
+@258
+Very well. From now on I will devote myself to the {p00}.
+@259
+From this moment on, this castle is the {p00}'s.
+@264
+I am carrying out a mission now. Until it is done, I cannot ask for leave.
+@265
+I am already excused from the next council. I cannot get any more leave.
+@266
+Shall I ask for leave and skip one council?
+@267
+Lord {p00}, may I be excused from the next council?
+@268
+I may allow it, but even if you return during the council, you cannot take part. Is that all right?
+@269
+I understand.
+@270
+Then you have leave. Use it well, to broaden your view or to improve your skills.
+@271
+No, never mind.
+@272
+Then you will attend the next council too?
+@274
+With your standing, I cannot lend you any more aides.
+@275
+There is no suitable man to lend you as an aide right now.
+@276
+Lord {p00} is in battle now, so orders cannot be given.
+@277
+Lord {p00}, I have a request. Please lend me an aide.
+@278
+Very well. And who would you like?
+@279
+You do not want an aide?
+@280
+On reflection, I am fine as I am.
+@281
+Hmm... I see.
+@282
+No, I do need one after all.
+@283
+Then choose.
+@285
+He will do very well, my lord.
+@286
+No, I will take someone else.
+@292
+Then good night.
+@293
+How reliable you are, dear! Tonight I will do my best with the cooking, so please eat plenty.
+@294
+You shine when you are so full of spirit, dear. Please rest well.
+@295
+You are full of energy, dear.
+@296
+I have been rather tired lately. I will rest a while until it passes.
+@297
+By my reckoning, you will need about {b00} day{s} to recover, dear.
+@298
+Will you rest for {b00} day{s}?
+@300
+Do you know why I moved my castle to Komakiyama?
+@301
+To build a strong army\nFor the fine view\nI do not know
+@302
+By gathering your retainers in the wholly new land of Komakiyama, you cut them off from the lands they once managed themselves...
+@303
+By making them devote themselves to war alone, you mean to build a strong army, my lord.
+@304
+That is much what I had in mind. Then guess where I mean to strike next.
+@305
+Sunomata, surely\nPerhaps Ise
+@306
+It must be Sunomata. If we take that land, the attack on Mino will be far easier.
+@307
+Hm, Monkey, well seen. You have left me nothing to say! Ha ha ha...
+@308
+Could it be that you will attack Ise?
+@309
+No... that is not it.
+@310
+Next I take Sunomata. Sunomata is the navel of Mino.
+@311
+Once we take it, Mino is as good as mine.
+@312
+For the Mino campaign I need a quick-witted man like {a6d0000}.
+@313
+Be ready, so that you can march whenever I order it.
+@314
+Is it not for the fine view, my lord?
+@315
+Fool! That is not it! I speak of tactics. If you do not understand, I will tell you.
+@317
+By making them devote themselves to war alone, I build a strong army!
+@318
+And then I attack Mino. First I will build a castle at Sunomata.
+@319
+It is the navel of Mino. Take Sunomata, and Mino is as good as fallen!
+@320
+Understood?!
+@321
+I do not understand at all. Please explain.
+@322
+What a hopeless fellow. Very well, I will tell you.
+@327
+Ha ha ha...
+@328
+Hm? Monkey... What do you want of me?
+@329
+I have settled on a plan for taking Sunomata and have come to report...
+@330
+Good. Let me hear this plan of yours for Sunomata.
+@331
+We build rafts of timber upstream of Sunomata and float them down. That will catch the enemy off guard, and we can raise a castle.
+@332
+I see! Timber rafted downstream! An interesting idea.
+@333
+And what do you want of me?
+@334
+In this battle, my lord, I will not use a single one of your soldiers.
+@335
+I mean to fight with {a660021} and his band.
+@336
+Oh? Not one of my soldiers, you say?
+@337
+Interesting! If you do raise a castle at Sunomata, I will take {a660021} into my service!
+@338
+Thank you, my lord. I will go to {a6d0021} at once.
+@340
+I have drawn up a plan for taking Sunomata and have come to report...
+@341
+Good. Let me hear this plan of yours for Sunomata.
+@345
+I have a plan, but I have no soldiers to fight with.
+@346
+I have no soldiers to lend you now.
+@347
+Hmm...
+@348
+Then how am I to attack Mino?
+@349
+The idea of floating timber rafts was good, but a monkey's wit goes no further.
+@350
+You know {a660021}, do you not? Use him.
+@351
+Tell him that if a castle is raised at Sunomata, I will take him into my service. He will bite.
+@352
+Wise as ever, my lord. I will go to {a6d0021} at once.
+@353
+Monkey. Have you won over {a660021}?
+@354
+The Hachisuka band are preparing to take Sunomata. As soon as this report is done, I will return and march out.
+@355
+I see. This is your first great task. Do it well.
+@356
+\_\_\_\_- Komakiyama Castle: Lord's Room -
+@357
+Merit rose by 30.
+@358
+Merit rose by 10.
+@359
+Merit fell by 20.
+@400
+{a6d0000}, you came.
+@401
+You did well at Sunomata.
+@404
+Now then, I will increase your stipends.
+@405
+Let me see, {a6d0000}, I will add 3 kan for you. And you will be Castellan of Sunomata.
+@406
+And I will take {a660021} into my service on a stipend of 1 kan.
+@407
+What! I am most grateful.
+@409
+And {a660021} I lend to you as your aide. Understood?
+@410
+Better than I could have hoped! Thank you!
+@411
+Hm. Keep up the good work.
+@414
+Keep up the good work.
+@415
+{a660000}, reporting as ordered.
+@416
+Oh, {a6d0000}. Good, you came.
+@417
+My lord, what business do you have with me today?
+@418
+Yes. I called you today because I want you to win over {a66003b}.
+@419
+Really?!\nI am to do it?
+@420
+Really?! But why {a66003b}...
+@421
+I hear he has abandoned his castle and hidden himself somewhere.
+@422
+Even if we win him over now, I doubt it would hurt the Mino side.
+@423
+Ha ha ha... That is just what I like. To throw away a castle he took and hide in the mountains...
+@424
+Even I, {a6d0002}, never imagined such a thing! Ha ha ha...
+@425
+But that {a66003b} is no easy man, my lord.
+@426
+That is why I am asking you! Bring him within 100 days. Understood?!
+@427
+I am to do it? But why {a66003b}...
+@430
+What! You say it is useless?! Know your place!
+@431
+But that {a66003b} is no easy man, my lord...
+@431.1
+You dare say more?! Bring him within 100 days. Understood?!
+@432
+Merit fell by 30.
+@433
+My lord, I have brought Lord {a73003b}.
+@434
+I am {a66003b}.
+@435
+Oh, you are {a66003b}? You are rather slight.
+@436
+I can hardly believe you took the impregnable Inabayama Castle.
+@437
+War is not all about strength. What matters is strategy.
+@438
+You, my lord, who beat the Imagawa at Okehazama, should know that better than anyone.
+@439
+Ha, truly a strategist known throughout the land, {a66003b}. Work hard for the {a730002} clan.
+@440
+Understood. I will lend you my strength for the sake of the realm.
+@441
+But I have a condition. I wish to serve as an aide to Lord {a730000}.
+@442
+What?! Lord {a73003b}, what are you saying so suddenly?!
+@443
+{a6d0000}, enough. Serving me directly or serving {a6d0000} - what is the difference?
+@444
+Thank you, my lord.
+@445
+Hm. Both of you, work hard!
+@446
+{a6d0000}, is the winning over of {a66003b} done?
+@447
+No, not yet, my lord.
+@448
+What, not yet?! Go quickly, understood?
+@450
+The time I gave you ran out long ago. You useless fool!
+@451
+I will give you 50 more days. Win him over by then, understood?
+@453
+Well done. But you are past the time I gave you.
+@454
+I am sorry\nDon't be so strict...
+@455
+I am sorry, my lord.
+@456
+Hm, you apologised honestly, and you did bring {a66003b}. I forgive you.
+@458
+Good. So that is {a66003b}?
+@459
+Come now, there is no need to be so strict...
+@460
+What! A man who speaks so insolently gets this from me!
+@461
+Nobunaga's Finishing Move: Lightning Kick! Yaaaaah!{w}
+@462
+{d02}Ugh!
+@463
+That is what you get for speaking insolently!
+@465
+What, you can still move after my kick?!
+@466
+Ha ha ha ha! That's the man I picked! Interesting. I forgive your rudeness just now.
+@467
+By the way, that is {a66003b}, is it not?
+@468
+My lord, {a660000} has arrived.
+@469
+Ah, {a6d0000}. Come in quickly.
+@470
+My lord, what business do you have with me today?
+@471
+Yes, I have an important task for you. Win over the Mino Triumvirate.
+@472
+What? The Mino Triumvirate would be Andō Morinari, Inaba Ittetsu and Ujiie Bokuzen, would it not?
+@473
+Those three are the pillars of Mino, one might say. You give me such a grave duty?
+@474
+Yes. You can do it, can you not? No, I will not hear that you cannot.
+@475
+Yes, I, {a660000}, accept the mission.
+@476
+Good. Win over all three within 50 days. Understood?
+@477
+Yes, understood. I will go at once.
+@478
+Hm?{w} Who might you be?
+@479
+I am {a660000} of the Oda clan.
+@480
+What, a general of the Oda?!
+@481
+Go away! You will make our lord suspect me again!
+@482
+Please, do not say so. Look at this.
+@483
+Handed over Hanbee's letter.
+@484
+Hm? Let me see... ...{w} ...
+@485
+...{w} ...{w} I see...
+@486
+Very well... Then I will ask you a few questions.
+@487
+You again...
+@488
+Forgive me, but please give me one more chance.
+@489
+Very well. Then I will ask the same question.
+@490
+What does a warrior need most?
+@491
+Loyalty\nIndependence
+@492
+What do you think is needed in war?
+@493
+Powerful weapons\nEffective tactics
+@494
+What is needed to defend a land?
+@495
+Mighty military strength\nTowns where the people live in peace
+@496
+And what do you yourself need?
+@497
+Lord Nobunaga\nComrades
+@498
+I see. Very well. I will lend you my strength.
+@499
+The truth is, because Hanbee went over to you, even I came under groundless suspicion.
+@500
+So I had resolved to leave the Saitō clan.
+@501
+I put you to the test. Forgive me.
+@502
+Not at all. From now on we are comrades serving Lord Nobunaga. Please think nothing of it.
+@504
+Lord Kinoshita, if you would win over Ujiie, use rumours. He is easily swayed by what people say.
+@505
+Also, Ujiie has a strong sense of justice. It may help to listen for rumours about Tatsuoki in the castle town.
+@506
+I see. Thank you for the advice.
+@508
+It seems I cannot be of help to you, Lord {a730000}. A pity...
+@509
+To think that man was Lord Inaba Ittetsu...
+@510
+Lord {a730000}, sorry to keep you waiting.
+@511
+Ah, Lord Inaba. I did not know it was you at the tavern. Forgive my rudeness.
+@512
+You seemed very drunk. Are you quite well now?
+@513
+Come now, do not mock me. Would I get drunk on so little? That was an act to test you.
+@514
+To test me?
+@515
+Yes. I had to see whether you were a man worth entrusting the future of this Inaba to.
+@516
+You brought me all the way here without knowing who I was.
+@517
+The tavern was fun, too... Shall we drink together again?
+@518
+Which means...
+@519
+Yes, I will serve the Oda clan. Saitō Tatsuoki seemed weak, and I never took to him.
+@520
+Lord {a730000}, I look forward to working with you.
+@521
+Hm? Who are you?
+@522
+I am {a660000} of Owari. I have come with a request.
+@523
+I do not care to meet anyone from Owari. Go home!
+@524
+Oh, you are Lord {a730000}, I recall. You say you won over Andō and Inaba, but I am not like them.
+@526
+By the way, Lord Ujiie, lately I hear unpleasant rumours about Saitō Tatsuoki all over Mino.
+@527
+What! Such rumours are going around?!
+@528
+Yes. All sorts of rumours are flying about.
+@529
+For the sake of the people, something must be done.
+@530
+Hmm. If that is true, I shall have to think again...
+@531
+For the sake of the people, please lend your strength to the Oda clan.
+@532
+Very well. For the sake of the people, I will lend you my strength.
+@534
+But that is not enough for me to trust you yet... If there were other such tales, I might change my mind...
+@535
+In any case, please leave for today.
+@536
+Lord {a730000}, you have come again.
+@537
+Yes, I came in the hope that Lord Ujiie would reconsider.
+@538
+Such rumours about Saitō Tatsuoki are flying about.
+@539
+For the sake of the people, please reconsider.
+@549
+My lord, we have won over the Mino Triumvirate.
+@550
+Hm. Well done.
+@551
+{a6d0000}, have you won over the Mino Triumvirate yet?
+@555
+The time I gave you ran out long ago. You fool!
+@556
+I will give you 20 more days. Win them over by then, understood?
+@557
+My lord, I have won over the Mino Triumvirate.
+@558
+Do you expect me to say "well done"? The time I gave you ran out long ago!
+@559
+You fool! The sight of your face makes me angry. Get out!
+@560
+My lord, {a6d0000} reporting as summoned.
+@561
+I called you today about Inabayama Castle.
+@562
+Tell me, how would you take that castle?
+@563
+It is not my place to advise you...\nIf I may speak
+@564
+Oh, it would be presumptuous to give my lord advice...
+@565
+Don't play modest now... Just say it!
+@566
+Yes, with respect, I will speak. I think Inabayama Castle is hard to take by a direct assault.
+@567
+Then what would you do?
+@568
+I would spread rumours to throw the castle into confusion, then attack once the soldiers' morale has fallen.
+@569
+Hm... I will make tea. Drink some before you go.
+@571
+We attack Inabayama Castle now! Follow me as soon as you are ready!
+@572
+What is a Castellan?\nUnderstood
+@573
+My lord, what must a Castellan do?
+@574
+What, you do not even know that? Just hold the castle against Mino's attacks.
+@575
+Understood. Leave it to me, {a660000}.
+@576
+{a6d0000}, listen well...
+@577
+If it should fall, your life is forfeit. Ha ha ha...
+@578
+My lord, you say such terrifying things so calmly.
+@579
+Naturally. Sunomata is that important to taking Mino.
+@580
+Yes! I will carry out this mission even at the cost of my life.
+@581
+Good. Try it for 90 days. If you hold that long, the Mino men will give up.
+@582
+Yes, leave it to Tōkichirō.
+@583
+Ha ha ha... Do not get carried away.
+@584
+Good, you may go.
+@585
+{a6d0000}, you held Sunomata well. Saitō will not press us much now. Return to Komaki and work as before.
+@586
+Yes! I, {a6d0000}, will faithfully carry out any task you give me.
+@588
+Merit rose by 100.
+@589
+Merit rose by 150.
+@1001
+If you are tired, I will make something nourishing. Please rest well, dear.
+@1002
+Take your time and recover. {a6d00e6} will be with you the whole time.
+@1005
+How many days will you rest?
+@1007
+Days of rest: {b00}. Is that right?
+@1016
+Then I won't take any money out for now.
+@1018
+Oh? Dear, you have no money for me to keep.
+@1020
+How much shall I keep for you?
+@1021
+Yes, dear. I will keep it safe for you.
+@1022
+I see... Dear, please do not waste money.
+@1023
+I beg you. Take the {p00} under your wing.
+@1024
+I, {p01}, will call you my lord from this day if you grant my wish.
+@1025
+What to do... Should I take them under my wing?
+@1026
+Very well. From now on you are men of the {p02}.
+@1027
+Thank you. We shall make our preparations, so please go home...
+@1028
+I am grateful for the offer, but I must decline this time. I would like to think it over if the chance comes again.
+@1029
+I see... I should not have made a selfish request without thinking of your clan's circumstances. Forgive me.
+@1030
+This time it is a draw.
+@1031
+A draw... I will train harder so there is never such an unsatisfying result again. Now, I take my leave.
+@1032
+A draw this time, then. I will train so that I win next time. Farewell.
+@1033
+Mission result reported. {p00}'s merit rose by {b00}. {a660000}'s merit {p01}.
+@1034
+Mission result reported. {p00}'s merit {p01}. {a660000}'s merit rose by {b00}.
+@1035
+Mission result reported. {p00}'s merit rose by {b00}. {a660000}'s merit rose by {b01}.
+@1036
+Ah, {a6d0000}, you have come. Run {p00} as you see fit.
+@1037
+{a6d0000}, thank you for your efforts. I ordered you to conquer {p00}, did I not?
+@1038
+Is this all? Perhaps this task was too heavy for you.
+@1039
+I thought you could do a little better...
+@1040
+I would like to thank you for your trouble, but this will not satisfy me.
+@1041
+Some men have returned to report on their missions. Shall I give you all their reports at once?
+@1042
+You will hear everyone's reports. Very well.
+@1043
+That is all the reports.
+@1044
+{p00}'s merit rose by {b00}.
+@1045
+In {p00}, 100 koku of rice can be bought for {b00} kan, and one horse for {b01} kan.
+@1047
+I am sorry to say I could find no able warrior living in obscurity.
+@1048
+I found {p01} at {p00}.
+@1049
+I tried spreading rumours, but unfortunately they had no effect.
+@1050
+Though I was given the chance, I achieved nothing worth reporting. I am sorry.
+@1051
+Some men have returned to report on their missions.
+@1053
+I spread rumours at a castle held by the {p00} and dealt it a {p01} blow.
+@1055
+I could not raise the Yield of {p00}. I am sorry.
+@1056
+I could not raise the Commerce of {p00}. I am sorry.
+@1057
+I could not raise the Mines of {p00}. I am sorry.
+@1058
+I could not raise the Defence of {p00}. I am sorry.
+@1059
+I could not raise the Support of {p00}. I am sorry.
+@1060
+I failed the Land Survey of {p00}. I have no excuse.
+@1061
+I could not damage {p00}. I am sorry.
+@1062
+I failed to improve relations with the {p00}. I am sorry.
+@1063
+I went as envoy to the Imperial Court, but could not raise our standing with it. I am sorry.
+@1064
+I failed to recruit anyone. I have no excuse.
+@1065
+I tried to hire Ashigaru, but could not gather any troops. I am sorry.
+@1066
+Before I could win over the castle lord, the castle had already joined our clan.
+@1067
+There was no castle lord, so winning him over was impossible.
+@1068
+I failed to win over the lord of {p00}. I am sorry.
+@1069
+I succeeded in winning over the lord of {p00}.
+@1070
+Now, how shall I threaten them?
+@1071
+It is pointless to threaten an ally.
+@1072
+The gap between our two clans in {p00} is plain to see. Be sensible and come under my clan.
+@1073
+I hold the rank of {p00} and the title of {p01}. In that name I command you: come under my banner.
+@1074
+I have no wish to talk. Leave at once.
+@1075
+Is that meant to be a threat? Do not make me laugh. Who would yield to you?
+@1078
+Lord {p00} is fond of {p01}. If you give a gift, {p01} would be best, I think.
+@1079
+Lord {p00} does not seem to be a man swayed by goods.
+@1081
+People will say all sorts of things, but I think it is best to let them pass and pay no heed.
+@1084
+To {a6d00e6}'s eyes, the two of you are very well matched. Given the chance, you would soon be friends.
+@1085
+The Accounting skill can be learned at a Merchant House. With it, you can bargain over prices when buying and selling.
+@1096
+The Tactics skill is learned by visiting a Samurai Home and studying under a warrior who has the Scheming skill.
+@1097
+... So no blood need be shed in vain...
+@1098
+Understood. We will become part of the {p00}. We look forward to serving you.
+@1099
+We have preparations to make, so I am afraid you must go home for now.
+@1106
+Dear, whatever happens, {a6d00e6} is on your side. Please never forget that.
+@1107
+Dear, I know work is hard, but now and then please rest at ease for {a6d00e6}'s sake.
+@1108
+I hear that seeing what each retainer is good at and giving out work to match is the way to good results.
+@1109
+They say people are the stone walls, people are the castle. Bringing your retainers' strength together is very important.
+@1111
+{a6d00e6} always prays that you stay well and strong in your work, dear.
+@1112
+Dear, you think of better ways than anyone else. Use that gift and you will lose to no one.
+@1113
+Dear, whatever happens, {a6d00e6} will follow you all my life.
+@1114
+You give your all to every hard task, dear. {a6d00e6} finds that very reassuring.
+@1115
+I would hold a council, but there is no warrior to give a mission to.
+@1116
+To the council hall, then.
+@1117
+
+@1118
+If I go, you will be left without a Strategist. Is that all right?
+@1120
+If you send Lord {p01}, you will be left without a Strategist. Do you wish to send him?
+@1122
+There is no warrior in that castle who can be recalled.
+@1123
+My lord, please come to your new castle soon.
+@1125
+That castle has no supplies to transport.
+@1126
+That castle cannot take any more supplies.
+@1132
+What brings you here?
+@1133
+What is it?
+@1135
+What would you like to do?
+@1136
+A good occasion. I have something to announce.
+@1137
+I grant you the right to hold Free Markets. Use it when you work on Commerce, and it will surely help.
+@1138
+You can now carry out "Free Markets" when you receive a Commerce mission.
+@1139
+In thanks for this gift, and in hope of great things from you, I grant you this.
+@1140
+I grant you the right to issue Debt Relief. It should be useful when you work on Win Hearts.
+@1141
+You can now carry out "Debt Relief" when you receive a Win Hearts mission.
+@1194
+No warrior has done enough to deserve promotion.
+@1195
+Which warrior shall be promoted?
+@1198
+Then I will have him promoted.
+@1199
+Which post will you fill?
+@1200
+No one has the merit to become a new castle lord.
+@1201
+There is no castle where a new lord can be appointed.
+@1202
+Which province's castle needs a lord?
+@1203
+You will not appoint a castle lord?
+@1205
+{p00}, then?
+@1206
+Which castle needs a lord?
+@1207
+So not a lord for {p00}?
+@1210
+Shall I appoint a lord for {p00}?
+@1211
+Which warrior shall become castle lord?
+@1212
+You will not appoint a lord for {p00}?
+@1214
+Will I do?
+@1215
+Lord {p00} is the Castellan of {p01}. Is that all right?
+@1216
+Is Lord {p00} acceptable?
+@1217
+I will make the arrangements.
+@1218
+Will you appoint lords for other castles too?
+@1221
+There is no warrior who can be made Castellan.
+@1222
+There is no castle where a Castellan can be named.
+@1223
+Lord {p00} is in battle now, so he cannot be given policy orders.
+@1229
+Is Lord {p01} acceptable as Castellan of {p00}?
+@1232
+I am the Strategist now, but you would replace me with someone else?
+@1235
+Then whom shall I make Strategist?
+@1243
+There is no castle lord who can be moved.
+@1244
+No castle lord can be moved at present.
+@1245
+Which province's castle lord shall be moved?
+@1246
+You will not reassign any castle lord?
+@1248
+Move a castle lord from {p00}?
+@1250
+You will not move the lord of {p00}?
+@1255
+To which province's castle shall he move?
+@1256
+Is it not the lord of {p00} you wish to move?
+@1257
+Shall he move to {p00}?
+@1258
+To which castle shall he move?
+@1259
+You will not move him to {p00}?
+@1261
+{p00} already has a lord. The warriors will be swapped. Is that all right?
+@1263
+Shall I transport supplies as well?
+@1265
+How many troops shall be transported?
+@1266
+Then I will not send troops.
+@1267
+Then {b00} soldier{s} will move with him.
+@1268
+How much rice shall be transported?
+@1269
+Then no rice will be transported.
+@1270
+Then {b00} koku will move with him.
+@1271
+How much in funds shall be transported?
+@1272
+Then no funds will be transported.
+@1273
+Then I will transport {b00} kan.
+@1274
+How many guns shall be transported?
+@1275
+Then no guns will be transported.
+@1276
+Then I will transport {b00} gun{s}.
+@1277
+How many horses shall be transported?
+@1278
+Then no horses will be transported.
+@1279
+Then I will transport {b00} horse{s}.
+@1280
+How many cannon shall be transported?
+@1281
+Then no cannon will be transported.
+@1282
+Then I will transport {b00} cannon.
+@1283
+Then I will arrange it as decided.
+@1286
+There is no warrior who can be dispatched.
+@1287
+Which province's castle?
+@1288
+You will not dispatch an aide?
+@1291
+To which castle shall he be dispatched?
+@1292
+You will not dispatch him to {p00}?
+@1296
+Which warrior shall be dispatched?
+@1297
+You will not dispatch him to {p00}?
+@1298
+Will I do?
+@1300
+Shall I dispatch Lord {p01}?
+@1305
+There is no warrior who can be recalled.
+@1307
+You will not recall a warrior?
+@1310
+From which castle shall he be recalled?
+@1311
+You will not recall anyone from {p00}?
+@1315
+Which warrior shall be recalled?
+@1316
+You will not recall anyone from {p00}?
+@1317
+Shall I recall Lord {p00}?
+@1324
+There is no castle to become a new base.
+@1325
+To which province's castle shall the base move?
+@1326
+You will not move the base?
+@1331
+You will not move to {p00}?
+@1335
+{p00} already has a lord. The warriors will be exchanged. Is that all right?
+@1338
+Shall I make {p01}, Castellan of {p00}, the Castellan of {p02}?
+@1348
+Then I will transport {b00} koku.
+@1361
+Then I will arrange it as decided.
+@1363
+No more can be gathered at this castle.
+@1364
+No castle can send troops or supplies to {p00} at present.
+@1365
+Shall troops and supplies be gathered at {p00}?
+@1366
+Understood. I will arrange it at once.
+@1367
+There is no castle to distribute to.
+@1368
+Distribute the holdings of {p00}?
+@1370
+There is no castle that can send supplies.
+@1371
+From which province's castle shall we transport?
+@1372
+You will not use Single Transport?
+@1374
+Transport from {p00}?
+@1376
+From which castle shall we transport?
+@1377
+You will not transport from {p00}?
+@1381
+A castle that small cannot be expected to do much as an army. Is that all right?
+@1382
+I am sorry, but there is no suitable castle to transport to.
+@1383
+To which province's castle shall we transport?
+@1384
+You will not transport from {p00}?
+@1385
+Transport to {p00}?
+@1386
+To which castle shall we transport?
+@1387
+You will not transport to {p00}?
+@1389
+Decide the amounts to transport. If they are fine, confirm; to change one, select that item.
+@1390
+Transport to {p00}, then?
+@1392
+There are no troops to transport.
+@1393
+No more troops can be sent.
+@1395
+There is no rice to transport.
+@1396
+No more rice can be sent.
+@1398
+There are no funds to transport.
+@1399
+No more funds can be transported.
+@1401
+There are no guns to transport.
+@1402
+No more guns can be transported.
+@1404
+There are no horses to transport.
+@1405
+No more horses can be transported.
+@1407
+There are no cannon to transport.
+@1408
+No more cannon can be transported.
+@1410
+There is no castle lord or province lord to give policy orders to at present.
+@1411
+To which province's castle shall we give orders?
+@1412
+You will not give policy orders?
+@1414
+Give orders to {p00}?
+@1416
+To whom shall I give orders?
+@1417
+You will not give orders to {p00}?
+@1421
+{p00} is under orders to defend the castle. Change them?
+@1422
+Then what shall it be?
+@1423
+You will not change the policy of {p00}?
+@1425
+Then {p00}'s orders will be: {p01}.
+@1426
+Then the policy of {p00} stays as it is.
+@1427
+{p00} is under orders to conquer {p01}. Change them?
+@1428
+Give {p00} the order "{p01}"?
+@1429
+Is {p00} acceptable as the target?
+@1431
+Make the {p00} region the target?
+@1432
+Understood. I will pass the word on.
+@1434
+Make {p00} the target?
+@1436
+Which province's castle shall be taken?
+@1437
+Cancel the order to take a castle?
+@1439
+Which castle shall be the target?
+@1440
+Not {p00}, then?
+@1441
+Cancel choosing a castle as the target?
+@1449
+End policy orders?
+@1450
+You will not move the aides?
+@1451
+There is no castle {p00} can attack, so I will keep it on castle defence.
+@1452
+Magnificent. I am impressed.
+@1453
+Splendid. Your fine work leaves me nothing but admiration.
+@1454
+To become part of the {p00} we have preparations to make, so please go home for now.
+@1455
+No, let us not.
+@1456
+{p00}{p01} seems to trust me more now.
+@1458
+Which castle shall be renamed?
+@1459
+Cancel renaming the castle?
+@1461
+Which province's castle shall be renamed?
+@1464
+No renaming in {p00}, then?
+@1465
+Enter the place name (up to 8 letters)
+@1466
+You will not rename {p00}?
+@1467
+Is {p00}{p01} acceptable?
+@1468
+Choose what it will be called.
+@1469
+End renaming castles?
+@1470
+A castle with that name already exists. Please choose another.
+@1471
+You will not make appointments?
+@1472
+You will not transport?
+@1481
+You would give me this?! This is just what I wanted. I thank you from the bottom of my heart!!
+@1485
+Which castle will you let me govern?

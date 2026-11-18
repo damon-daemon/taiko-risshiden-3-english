@@ -1,0 +1,138 @@
+@171
+{a660000} persuaded him by speaking of realities.
+@300
+{a6d0000}, what is your business?
+@301
+In our recent battle we avenged Lord Nobunaga.
+@302
+But if matters are left as they stand, there is no telling when a rebellion may break out.
+@303
+To avoid an attack from behind, would it not be wise to make peace with the Uesugi?
+@304
+But I cannot think the Uesugi, now that they have lost Kenshin, are so great a threat.
+@305
+Argue back\nConcede the point
+@307
+My lord, you take this far too lightly! Alone they may be weak, but should they ever join hands with Lord Hideyoshi, they would be dangerous enough!
+@308
+...Perhaps you are right. {a6d0000}, will you go to the Uesugi as my envoy?
+@310
+Then go.
+@311
+Is it your place to give me orders? Know your station as a retainer!
+@313
+Get out, now!
+@315
+You are right, my lord. The Uesugi of today lack the strength to master Hokuriku.
+@316
+But the problem is Lord Hideyoshi. Once you advance to the centre, he will have the Uesugi attack Echizen while it is thinly held.
+@317
+The worst can always happen. Would it not be wise to nip any danger in the bud?
+@325
+\_\_\_\_- Kasugayama Castle: Lord's Room -
+@326
+I am {a660000}, a retainer of Shibata Katsuie. I am honoured that you have granted me an audience.
+@327
+Hm. You have come a long way.
+@328
+Now, state your business.
+@329
+Yes. The Shibata wish to build good relations with the Uesugi, and are considering a peace.
+@331
+...I understand Lord Shibata's thinking well.
+@332
+But why this sudden talk of peace?
+@333
+W-well, that is...
+@335
+Lord Kagekatsu, Lord Katsuie has no thought of making Hokuriku his own.
+@336
+What Lord Katsuie seeks is to make Echizen a prosperous land. Enlarging his domain is not his aim.
+@337
+But words can be dressed up in any way you please, can they not?
+@338
+So you say the word of this Keiji cannot be trusted? Then my sincerity must fall short.
+@339
+I cannot go back to Echizen like this. Here and now I shall cut open my belly and atone to Lord Katsuie with my death!
+@340
+(K-Keiji?! What are you doing?!)
+@341
+What say you?!
+@343
+...Ha ha ha ha! Keiji, was it? What a bold fellow you are.
+@344
+For the sake of that spirit, I will accept your offer. Besides, I would not know what to do with you if you cut your belly here.
+@345
+Truly?! Thank you! Then, as to the details...
+@346
+...Then, if you will excuse me.
+@347
+Hm. Give my regards to Lord Katsuie.
+@354
+My lord, pardon my intrusion. The peace with the Uesugi has been settled.
+@357
+You may be tired, but I was about to hold a council. Go to the Council Hall.
+@365
+I kept you waiting.
+@366
+I called you because there is someone I want you to meet.
+@367
+Me, my lord?
+@368
+Yes. Oichi, come here.
+@370
+I am Oichi...
+@371
+...? Lord Katsuie, why have you brought me before Lady Oichi?
+@372
+Well, the truth is... your mother is none other than Oichi here.
+@373
+What?! No... that cannot be...
+@374
+Oichi was wed to Lord Azai, but before that, she and I had met. You are the child born of that time...
+@375
+Oichi bore you in secret and entrusted you to Saitō Morinao of Mino... without even my knowing.
+@376
+...So you are {a6d0000}. At last we meet...
+@377
+Mo... ther...?
+@378
+I am sorry I kept this from you for so long.
+@379
+When all is settled, I mean to take you in as my adopted son, no, to welcome you formally as my son.
+@380
+Lord Katsuie...
+@381
+Until then, I need you to keep up your efforts a while longer!
+@382
+Yes, my lord!
+@391
+Lord Nobunaga has died, and a struggle over his successor and his lands may arise.
+@392
+We must secure our rear against danger, in case war comes.
+@396
+\_\_\_- Kitanoshō Castle: Lord's Room -
+@397
+Ah, {a6d0000}. What is it?
+@398
+My lord, Lord Sakuma Nobumori wishes to see you. He is waiting outside...
+@399
+Sakuma... Nobumori...? Him?
+@400
+... What a nuisance... Of all people, to come to me for help...
+@401
+No doubt he is starving and drifting from one acquaintance to the next.
+@403
+Show him a kind face and he may ask to be taken into service...
+@404
+I could not stand having such a nag about the place... Now, what is to be done?
+@406
+Right! As of now, I am not at home! I leave the rest to you. I am counting on you!
+@407
+A-ah, {w}but... {w}{w}that is...
+@408
+Oh, just deal with him as you see fit. Feed him a meal and send him on his way.
+@409
+This is a problem... How shall I send him away?
+@1079
+Lord {p00} does not seem to be a man swayed by goods.

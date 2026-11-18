@@ -1,0 +1,346 @@
+@35
+Actually, our own forces have conquered the target province, so the mission can no longer be accomplished.
+@38
+Actually, our own forces have conquered the target region, so the mission can no longer be accomplished.
+@39
+Then so be it. On your next mission, be swift.
+@301
+Splendid work at Inabayama. I shall give you a reward.
+@302
+I cannot accept for so little\nI gratefully accept
+@303
+Not at all, my lord. So small a deed hardly deserves a reward.
+@304
+Then you say you do not want a reward?
+@305
+Ha ha ha... What an amusing fellow! I like you. Take this.
+@306
+Obtained the Korean Bowl.
+@307
+To receive such a splendid thing! I am most fortunate.
+@308
+Thank you. I will gladly accept.
+@309
+Show a little restraint, fool.
+@310
+Forgive me!
+@312
+Hm. Now then... I shall give you a somewhat grander name.
+@313
+Truly, my lord?! What name would that be?
+@314
+Quiet! You distract me and nothing comes to mind!
+@315
+Hmm...
+@316
+Ah, I have thought of a good name!
+@318
+Hideyoshi. From now on, call yourself Hideyoshi.
+@319
+Hideyoshi! A most splendid name. Thank you.
+@320
+And what does Hideyoshi mean, my lord?
+@321
+Hm. The "yoshi" is you, Tōkichirō, and the "hide" means you are to excel still further as a warrior.
+@322
+To think I should receive so splendid a name...
+@323
+My lord... if I may ask while I am at it, would you give a name to my younger brother Koichirō as well?
+@324
+Monkey! You overstep!
+@325
+Yes, my lord, forgive me!
+@326
+Hm... For your work this time, I'll let it pass! Let me see, I shall give him the name Hidenaga.
+@327
+The "hide" of Hideyoshi, and "naga", a character that means to excel: may he outdo you. Ha ha ha...
+@328
+Thank you!
+@329
+I have something to announce to everyone. You too, wait in the Council Hall.
+@330
+\_\_\_\_- Gifu Castle: Lord's Room -
+@331
+{a6d0000}, what brings you here today?
+@332
+To see your face, my lord\nAbout the Takeda
+@333
+Ha ha ha... I came to see your face, my lord.
+@334
+What a sickening thing to say! Enough jesting. State your business.
+@335
+It concerns Takeda Shingen. His son Katsuyori does not seem to have a bride yet.
+@337
+What? Is that true?!
+@338
+Yes, there is no doubt\nBut you have no daughter, my lord
+@339
+Yes, there is no doubt about it.
+@340
+I see. Well done. You may go.
+@341
+That is so, but you have no daughter, my lord.
+@342
+So, my lord...
+@343
+Monkey! You overstep! That is for me to think on, not for you to talk about!
+@343.1
+Begone!
+@344
+Merit fell by 50.
+@345
+So you came, {a6d0000}.
+@346
+Read this.
+@347
+Let me see... Articles...
+@348
+1. Whenever the Shogun must send a letter under seal to the daimyō, he shall report each one to {a6d0002} and attach a letter from {a6d0002}.
+@349
+2. All orders the Shogun has given the daimyō until now are void; he shall think them over and settle them anew.
+@350
+3. Should the Shogun wish to reward those who served his house loyally, then, as he has no lands of his own,
+@351
+it shall be arranged within {a6d0002}'s domains, as the Shogun sees fit.
+@352
+4. Since the government of the realm has been entrusted in all matters to {a6d0002}, then whoever it may be,
+@353
+{a6d0002} shall punish him at his own discretion, without awaiting the Shogun's will.
+@354
+5. Now that the realm is turning toward peace, the Shogun shall attend diligently to the ceremonies of the Imperial Court.
+@355
+My lord, what is this?
+@356
+Do you know that Yoshiaki recently sent letters airing his grievances against me to the Uesugi, Asakura, Mōri and others?
+@357
+I know\nI do not know
+@358
+Yes, I have heard of it.
+@359
+Hm. Besides that, Yoshiaki does just as he pleases because I am not in Kyōto.
+@360
+So to rein him in, I had Mitsuhide carry a written pledge. That is a copy.
+@361
+No, I did not know. Forgive me.
+@362
+Never mind. Besides those letters, Yoshiaki does just as he pleases while I am away from Kyōto.
+@364
+With such a pledge issued, Yoshiaki will be helpless, will he not?
+@365
+Just so. To me he is mere decoration. I will not let him act on his own.
+@366
+I see. So you still need him for now.
+@367
+Yes. There are daimyō who follow a man merely because he is Shogun. I will keep him a while. Ha ha ha...
+@368
+Good of you to come, {a6d0000}. You fought splendidly at Anegawa.
+@369
+Yokoyama Castle is the front line of the attack on the Azai. You shall be its Castellan. Understood?
+@370
+Understood, my lord\nI lack confidence
+@371
+I humbly accept this mission.
+@372
+Good. Apply yourself.
+@373
+I do not have the confidence to take charge of so important a place.
+@374
+Fool! No one has confidence from the start!
+@375
+Understood? Castellan of Yokoyama, serve well!
+@376
+{a6d0000} and {a6d0005}... Both of you together. What is it?
+@377
+We came to ask your true intent in this attack on Mount Hiei, my lord.
+@378
+Hm... Mitsuhide, you still cannot accept it?
+@379
+It was they who ignored my declaration that if they broke their neutrality and sided with the enemy, I would burn down every hall and pagoda!
+@380
+Your anger is entirely justified, my lord, but...
+@381
+Mount Hiei holds many noble Buddhas. We ought to avoid burning all of it...
+@382
+What! It seems you do not know. Those are mere lumps of wood and metal!
+@383
+Besides, the monks' conduct is utterly corrupt, unfit for a place that guards the realm. You know that as well as I!
+@384
+Ugh...
+@385
+Stop grumbling and get ready for war!
+@386
+What is it, {a6d0000}?
+@387
+"What is it?" indeed! Do you mean to leave Lord Tokugawa to die like this, my lord?!
+@388
+That matter... Leave it. Takeda's army cannot keep campaigning for long.
+@389
+They are bound to withdraw their troops once the harvest comes.
+@390
+Why should I commit precious forces to an enemy we can beat without fighting?
+@391
+I told Ieyasu we could take Mikatagahara back at any time, but he seems to have his pride.
+@392
+Is that so. But to think you had thought it through that far... Just like you, my lord.
+@393
+Flattery will get you nothing.
+@394
+No, merely knowing your true intent is enough for this Hideyoshi.
+@395
+Is that so. Good. Anything else?
+@396
+{a6d0000}, about the disposal of Yoshiaki: send him to Ibaraki Castle in Settsu.
+@397
+Ibaraki Castle, understood\nWhere is Ibaraki Castle?\nThe one in Hitachi?
+@398
+Ibaraki Castle in Settsu, understood. But will Yoshiaki obey meekly?
+@399
+No need to worry. Yoshiaki will hardly refuse the castle of Miyoshi Yoshitsugu, his own sister's husband.
+@400
+Well, how Yoshitsugu treats Yoshiaki will be worth watching. If he is wise, he will stay true to me and keep watch on the Shogun.
+@401
+If he is a fool, he will be taken in by Yoshiaki's smooth talk and turn on me! Ha ha ha...
+@402
+I do hope he is wise. Ha ha ha...
+@403
+Then, {a6d0000}, I leave it to you.
+@404
+Where is Ibaraki Castle, my lord?
+@405
+What, you do not even know Ibaraki in Settsu? It is where Miyoshi Yoshitsugu has his seat.
+@406
+Yoshiaki will hardly refuse the castle of Miyoshi Yoshitsugu, his own sister's husband.
+@407
+The Ibaraki in Hitachi? That is a very long way off...
+@408
+Fool! Not Hitachi! I said Ibaraki Castle in Settsu!
+@410
+Yes, send him to Miyoshi Yoshitsugu at Ibaraki. Yoshiaki will hardly refuse the castle of his own sister's husband.
+@411
+\_\_\_\_- Nijō Castle: Lord's Room -
+@412
+Lord {a730000}, you have come today about Oichi, have you not?
+@413
+You see it, then.
+@414
+Yes...{w} And would you help the children as well?
+@415
+Yes, that is my intention.
+@416
+I am grateful. Please, I beg you.
+@417
+Lord {a6d008b}, what are you saying?! I will follow you to the very end.
+@418
+No!{w} I do not mean to lose this war, but it is plain that our side is at a disadvantage.
+@419
+Live, for the children's sake!{w} I beg you...
+@420
+...{w}...{w}I understand...
+@421
+Then, Lady Oichi, let us go.
+@422
+\_\_\_\_- Odani Castle: Lord's Room -
+@423
+Good of you to come, {a6d0000}. You have served well as Castellan of Yokoyama.
+@424
+Then I am relieved of my duty as Castellan?
+@425
+You are. The Azai seem to have given up; they no longer attack.
+@426
+I shall have you work on other matters.
+@427
+Yes, my lord. Then I shall return to Gifu at once.
+@580
+{a6d0000} has arrived.
+@582
+We meet for the first time. I am Araki Murashige.
+@583
+You are a retainer of a Settsu local lord, are you not? Why have you come to this {a6d0002}?
+@584
+With respect, my lord, allow me to speak.
+@585
+Lord {a6d0002} has many excellent retainers and strong soldiers. The outcome is as plain as day.
+@586
+I urged my lord to surrender and serve Lord {a6d0002}, but he would not listen.
+@587
+My lord cannot read the times.
+@588
+I, Murashige, lost hope in such a lord and have come to Lord {a6d0002}.
+@589
+I beg your understanding.
+@590
+Very well. Show your strength to this {a6d0002}!
+@594
+And who is this gentleman?
+@595
+I am Matsunaga Hisahide.
+@597
+I have come, as I am to join the ranks of Lord {a6d0002}.
+@598
+The mastermind behind the Shogun's murder, and you dare show your face here!
+@599
+{a6d0000}, is it not amusing?
+@600
+A man who drove Miyoshi Nagayoshi and his son Yoshioki to their deaths,
+@601
+who even drove the Shogun to suicide,
+@602
+and on top of that burned down Tōdai-ji.
+@603
+Do you not want to see how far such a man will go?
+@604
+Excellent talent is brought to life only under an excellent lord.
+@605
+To let a talent such as mine lie buried in the fields would be a loss to Lord {a6d0002}.
+@606
+Not the talentless, like the Miyoshi or the Shogun's house, but an excellent man like Lord {a6d0002} can make full use of me.
+@607
+My lord, we cannot forgive this man. Let us execute him.
+@608
+Come now, where is the harm?
+@609
+By the way, you hold the Sōgo Nasu, do you not?
+@610
+I am loath to part with that tea caddy, but if it is an order from none other than Lord {a6d0002}...
+@611
+Withdraw. We are done.
+@612
+...Yes, my lord.
+@613
+My lord, is it all right? To let such a man serve you?
+@614
+He merely means to use you, my lord.
+@615
+I know that without you telling me!
+@616
+I shall use him more than he uses me.
+@617
+Is it not worth seeing how far he will serve as my hands and feet?
+@618
+My lord, Hisahide has betrayed us!
+@619
+Your news is slow, {a6d0000}. I have just made Hisahide surrender.
+@620
+I have decided to take all of Hisahide's castles except Shigisan. The rest I shall hold directly.
+@621
+You may go.
+@750
+Good of you to come, {a6d0000}!
+@751
+Yes, my lord. Oh, Lord Akechi is here too.
+@752
+Ah, good day to you...
+@753
+Today I called you because I mean to give Mitsuhide southern Ōmi.
+@754
+You would entrust southern Ōmi to me?
+@755
+Yes. Build a castle in the town of Sakamoto. Merchants gather there; it should make a fine town.
+@756
+My lord, I am grateful for your words!
+@757
+To {a6d0000} I intend to give northern Ōmi. So strive harder than ever.
+@759
+That is all for today. Keep striving for the realm. Understood?
+@1138
+When you accept the Commerce mission, "Free Markets" becomes available.

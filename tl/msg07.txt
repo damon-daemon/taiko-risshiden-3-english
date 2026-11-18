@@ -1,0 +1,690 @@
+@0
+Who might you be?
+@1
+I am {a660000}.
+@4
+So you are Lord {a660000}! I have heard much about you.
+@5
+Forgive my rudeness. Are you truly Lord {a660000}?
+@6
+Oh... What brings you here?
+@8
+Welcome. What can I do for you?
+@9
+Welcome, welcome.
+@10
+Welcome. We have heard of your distinguished service as a pillar of the {p00} clan.
+@11
+Well, well... Welcome, welcome.
+@12
+Ha, so you came!
+@14
+Welcome. What can I do for you?
+@15
+Welcome. Thank you for coming.
+@16
+Your training period is over.
+@17
+That ends your training period. Please come again.
+@18
+That brings your training period to a close. Please do visit us again.
+@19
+You have learned the basics of accounting. Buy where it is cheap, sell where it is dear. That is the foundation of trade.
+@20
+You have grasped the fundamentals of accounting. Buy where it is cheap, sell where it is dear. That is the foundation of trade.
+@21
+You seem to have understood the fundamentals of accounting. Buy where it is cheap, sell where it is dear. That is the very foundation of trade.
+@22
+You have come to understand accounting quite well. Few people get this far.
+@23
+You have come to understand accounting quite well. Very few people know it in such detail.
+@24
+You have come to understand accounting remarkably well. Hardly anyone is so well versed.
+@25
+You have mastered accounting. It will serve you well someday.
+@26
+You have mastered accounting. Congratulations.
+@27
+You have mastered accounting. My heartfelt congratulations.
+@28
+No one moves without profit. Pursuing this truth is the secret of trade.
+@31
+Urgent business? Then so be it.
+@32
+If your house needs you, I understand.
+@33
+If your house needs you, we quite understand. Please do come again.
+@34
+It seems your money has run out... You cannot continue your training like this.
+@35
+It seems you are short of money. Please come again.
+@36
+It seems you are short of money. Please do visit us again.
+@38
+Your training period is over now.
+@39
+Your training period has ended.
+@40
+Your training period has come to a close.
+@41
+You have finally learned the basics of accounting.
+@42
+You have acquired the basics of accounting.
+@43
+You have mastered the fundamentals of accounting.
+@44
+You have mastered the basics of accounting. If you wish to acquire higher skill, please come for training again.
+@45
+You have come to understand accounting quite well. I have nothing more to teach you.
+@46
+You have come to understand accounting quite well. There is nothing more I can teach you.
+@47
+You have trained diligently. I have nothing more to teach you.
+@48
+Magnificent. I have nothing left to teach you.
+@49
+If you wish to master accounting further, seek out Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@50
+If you wish to master accounting further, seek out Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@51
+If you wish to master accounting further, please call on Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@52
+If you aim higher still, you would do well to call on Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@53
+If your house needs you, so be it.
+@54
+If your house needs you, I understand.
+@55
+If your house has need of you, we quite understand.
+@56
+If something has befallen your house, we quite understand. Please come again.
+@57
+Hm!? It seems your money has run out. Your training must stop there.
+@58
+It seems your money has run out. Please come again.
+@59
+It seems your money has run out... Please come again.
+@60
+Forgive my saying so, but it seems your money has run out... Please come again.
+@61
+We are out of stock at the moment.
+@62
+My apologies. We are out of stock at the moment.
+@63
+I am terribly sorry. We have run out of goods just now...
+@64
+Out of stock.
+@65
+Which one will you buy?
+@66
+Which item would you like?
+@67
+Which of our wares would you care for?
+@68
+Which one are you buying?
+@69
+That is a rare piece, the only one we have. I can let it go for {p00}. Will you buy it?
+@70
+That is a precious piece, the only one we have. I will let you have it for {p00}. Will you take it?
+@71
+This is a precious piece, the only one we have. I could part with it for {p00}. Would you care to buy it?
+@72
+That is a rare piece, the only one we have. I have priced it at {p00}. Are you buying?
+@73
+That one is {p00} each. How many will you buy?
+@74
+That item is {p00} each. How many will you take?
+@75
+That item is {p00} apiece. How many would you care to buy?
+@76
+That one's {p00} each. How many are you buying?
+@77
+How about {p00}?
+@78
+Then how about {p00}?
+@79
+In that case, would {p00} suit you?
+@80
+How does {p00} sound?
+@81
+Hmm... All right! How about {p00}?
+@82
+Hmm... Your enthusiasm wins me over. I will give you a discount. How about {p00}?
+@83
+If you put it like that... I shall grant you a discount. Would {p00} do?
+@84
+Oh, very well, I will lower it. Say... {p00}?
+@85
+Then how about {p00}? That is my lowest price.
+@86
+Then how about {p00}? I cannot go any lower than that.
+@87
+In that case, would {p00} suit you? I cannot go any lower than that.
+@88
+You will buy at {p00}, will you not? I cannot lower it any further.
+@89
+Ugh, I do not have enough on me...
+@90
+Done! I will take it!
+@92
+Thank you very much.
+@93
+Thank you most sincerely. We look forward to your custom.
+@94
+Thanks.
+@95
+Anything else to buy?
+@96
+Is there anything else you would like to buy?
+@97
+Is there anything else you wish to purchase?
+@98
+Buying anything else, then?
+@100
+I see... Then please favour us another time.
+@101
+Is that so... Then please favour us another time.
+@102
+...Buy something next time, then.
+@103
+You cannot simply ask for anything and expect to get it.
+@104
+We have a business to run. Unreasonable requests put us in a difficult spot.
+@105
+We have a business to run, you understand. We cannot simply agree to unreasonable requests.
+@106
+I am sorry, but please leave for today.
+@107
+I am sorry, but would you kindly leave for today?
+@108
+I am terribly sorry, but might I ask you to leave for today?
+@109
+If you are only browsing, please leave.
+@110
+Only browsing? Then please leave.
+@111
+Er, if you are only browsing, I would ask you to leave.
+@112
+Er... Please come again when you have business with us.
+@113
+Which item will you sell me?
+@114
+Which item would you like to sell?
+@115
+Which item might you be selling me?
+@116
+What are you selling?
+@117
+Blast, I have nothing to sell.
+@119
+What is the matter?
+@120
+Is something the matter?
+@121
+What happened?
+@122
+Forgive me, I forgot what I meant to sell. Ha ha ha...
+@123
+Do not forget next time.
+@124
+Please do not forget next time.
+@125
+I see, what a pity.
+@126
+You are rather absent-minded.
+@127
+For this, I would say {p00}.
+@128
+This item would fetch {p00}.
+@129
+Hmm... This item comes to {p00}.
+@130
+Then that is {p00}.
+@131
+For this I can offer about {p00}. How many are you selling?
+@132
+For that item I can offer about {p00} each. How many will you sell me?
+@133
+For that item I can offer {p00} each. How many might you sell me?
+@134
+{p00} each. How many are you selling?
+@135
+That would be {p00}. Will you sell?
+@136
+That comes to {p00}. Will you sell it to me?
+@137
+In that case it comes to {p00}. Would you sell it to me?
+@138
+That is {p00}. Are you selling?
+@139
+Then as a special favour I will buy it for {p00}.
+@140
+Then as a special favour I will take it for {p00}.
+@141
+Hmm... In that case, as a special favour, I will take it for {p00}.
+@142
+I cannot go any higher. Will you sell?
+@143
+I cannot go any higher. Will you sell it to me?
+@144
+I am afraid I cannot go any higher. Would you sell it to me?
+@145
+You will sell at {p00}, will you not? I cannot go any higher.
+@146
+Good, I will sell at that!
+@147
+It seems you have nothing left to sell.
+@148
+There is nothing left to sell, I see.
+@149
+There is nothing more for you to sell, I see.
+@150
+Nothing left to sell, then.
+@151
+Anything else to sell?
+@153
+Is there anything else you wish to sell?
+@154
+Selling anything else, then?
+@155
+Appraisals cost 5 kan per item.
+@156
+An appraisal, then. That is 5 kan per item.
+@157
+An appraisal, I see. That will be 5 kan per item.
+@158
+For an appraisal, it is 5 kan per item.
+@159
+Blast, I have nothing unappraised.
+@160
+Ha ha ha. I have nothing to have appraised after all. Pardon me.
+@161
+Please be careful from now on.
+@162
+Is that so? Please do not forget next time.
+@163
+Not at all. Anyone can be forgetful now and then.
+@164
+You are absent-minded, are you not? You should take care.
+@165
+Then I cannot appraise anything.
+@166
+Please come back once you have the money.
+@167
+It seems you are short of money... Please come again.
+@168
+If you cannot even pay that, there is nothing to discuss.
+@169
+I can tell this {p01} item is {p00}, but I cannot say exactly what it is worth.
+@170
+This {p01} item is certainly {p00}, but... I cannot say exactly what it is worth.
+@171
+This {p01} item is undoubtedly {p00}, but... I am unable to put a precise value on it.
+@172
+I think {p00} could tell you its exact value.
+@173
+If you wish to know its value in detail, try calling on {p00}.
+@174
+I believe {p00} could judge its value precisely.
+@175
+Since I could not appraise it properly, I will make the fee 2 kan.
+@176
+As I could not appraise it exactly, I shall make the fee 2 kan.
+@177
+As I could not judge it precisely, I shall make the fee 2 kan.
+@178
+This {p01} item is {p00}, I would say.
+@179
+Hm!? If you want to know more, go and see {p00}.
+@180
+You could not tell me its value, and you still take a fee?
+@181
+I did appraise it, after all.
+@182
+I did appraise it enough to tell it has some value.
+@183
+My apologies, but I did appraise that it has some value...
+@184
+I did appraise it, you know.
+@185
+You do not miss a trick.
+@186
+!! Magnificent. This is {p00}! It is one of the finest pieces there is.
+@187
+Oh, this is surely {p00}. It ranks among the finest pieces.
+@188
+T-this is... {p00}. Truly, it is dazzlingly magnificent.
+@189
+Oh! This is {p00}!
+@190
+This is {p00}, a precious thing with no equal in this world.
+@191
+Oh, this is {p00}. A precious piece with no equal in this world.
+@192
+This is {p00}. A precious piece, with no equal in this world.
+@193
+This is {p00}... There is no other like it in this world.
+@194
+This is {p00}.
+@195
+This is without doubt {p00}.
+@196
+This is without any doubt {p00}.
+@197
+I suppose this is {p00}.
+@198
+There seems to be nothing left to appraise.
+@199
+There seems to be nothing left for you to have appraised.
+@200
+There is nothing left to appraise, I am afraid.
+@201
+There is no other item to appraise.
+@202
+Any other item to appraise?
+@203
+Do you have any other item to be appraised?
+@204
+Is there any other item you wish to have appraised?
+@205
+Appraising anything else, then?
+@206
+{p00}? We have {b01} at {b00} kan each.
+@207
+{p00}: we have {b01}, at {b00} kan apiece.
+@208
+{p00}? We can offer {b01} at {b00} kan apiece.
+@209
+My budget will not stretch that far. I cannot buy any.
+@210
+Will you buy?
+@211
+Will you purchase it?
+@212
+Would you care to purchase it?
+@213
+Then I will sell {b01} for {b00} kan. How is that?
+@214
+Then I will sell you {b01} for {b00} kan. Is that agreeable?
+@215
+In that case, I shall sell you {b01} for {b00} kan. Would that be acceptable?
+@216
+Is that so? Plenty of customers would gladly buy at this price, you know.
+@217
+Is that so... There are customers who would gladly buy even at this price...
+@218
+That is most unfortunate. There are people who would gladly buy even at this price...
+@219
+Please go home for today.
+@220
+I am sorry, but please go home for today.
+@221
+With {b00} kan, the most{p00} you can buy is {b01}.
+@222
+With {b00} kan, the most{p00} you may purchase is {b01}.
+@223
+With {b00} kan, you can buy all {b01}.
+@224
+With {b00} kan, you may purchase all {b01}.
+@225
+Thank you. I will have it delivered to the castle.
+@226
+Thank you. Then I will have it delivered to the castle.
+@227
+Thank you. Then I shall have it delivered to the castle.
+@229
+I would like to train in accounting. Could you teach me a few things?
+@230
+You have already mastered accounting. There is no need for training.
+@231
+You have already mastered accounting. You need no more training.
+@232
+You seem to have mastered accounting already. I have nothing more to teach you.
+@233
+Your accounting seems flawless. You need no training.
+@234
+So I have. How careless of me. Ha ha ha...
+@235
+I have nothing more to teach you.
+@236
+I have nothing more to teach you.
+@237
+There is nothing more I can teach you, sir.
+@238
+There is nothing more I can teach you about accounting.
+@239
+If you wish to acquire higher accounting skill, seek out Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@240
+If you wish to acquire higher accounting skill, please call on Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@241
+If you wish to master accounting, please call on Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@242
+If you wish to acquire more advanced accounting, you would do well to call on Imai Sōkyū of Sakai or Shimai Sōshitsu of Hakata.
+@243
+My fee is {p00} a day.
+@244
+Then I will teach you for {p00} per day.
+@245
+Then I shall teach you for {p00} per day.
+@246
+It's {p00} a day.
+@247
+How long will you train?
+@248
+Then how long will you train?
+@249
+Then how long would you like to train?
+@250
+How long are you training?
+@251
+How many days will you train?
+@252
+Then how many days will you train?
+@253
+Then how many days would you like to train?
+@254
+How many days are you training?
+@255
+You will train for {b00} day{s}, then?
+@256
+{b00} day{s}, then?
+@257
+Would {b00} day{s} be acceptable?
+@258
+{b00} day{s}, is it?
+@260
+Understood.
+@262
+All right, let us begin.
+@263
+You will train until you have improved your accounting, then?
+@264
+Then you will train until you have mastered accounting?
+@265
+Then you will train until your accounting improves?
+@266
+Until your accounting improves, is it?
+@267
+You are short of money. Please come again.
+@268
+It seems you are short of money... Please come again.
+@269
+Forgive my saying so, but it seems your money has run out... Please come again.
+@270
+You are short of money. You cannot train like this.
+@271
+It seems you are short of money. Please come again.
+@273
+Forgive my saying so, but you seem short of money... Please come again.
+@275
+Is there anything else?
+@276
+Is there anything else I can do for you?
+@277
+Is there anything else you wish to do?
+@278
+Anything else, then?
+@279
+Anything else to do?
+@280
+Anything else?
+@284
+What will you do?
+@285
+What can I do for you?
+@286
+What do you want?
+@287
+Stopping? Then please come again.
+@288
+You are stopping? Please come again when you have the chance.
+@289
+You are stopping? Please come again whenever you have the chance.
+@290
+A waste, but there it is. Come again when you feel like it.
+@291
+I see... It seems a waste, but so be it.
+@292
+It seems rather a waste to stop after coming this far... but so be it.
+@293
+Stopping here seems a little wasteful... Still, as you wish.
+@294
+With your Domestic ability, I do not think your accounting can improve any further. Let us stop the training.
+@295
+Sadly, with your Domestic ability, I do not believe you can improve any further. I think it best to stop...
+@296
+I am truly sorry, but I do not believe your accounting skill can improve any further.
+@297
+So let us leave the training here. From now on, it would be wiser to learn how to employ men with high accounting skill.
+@298
+I will be frank. However much you train, you will not improve any further. I decline to train you.
+@299
+It is hard to say, but more training will not improve your accounting. So let us stop here.
+@300
+People have their strengths and weaknesses. You are not suited to accounting. So let us stop here.
+@301
+Forgive me, but I do not believe your accounting skill will improve any further.
+@302
+Someday you will command all under heaven... You have no need of accounting skill.
+@303
+You have trained well. This is the highest accounting skill your Domestic ability allows.
+@304
+You have applied yourself well. This is the highest accounting skill your Domestic ability can attain.
+@305
+Congratulations on your progress.
+@306
+This is the highest accounting skill that Lord {a660000}'s Domestic ability allows.
+@307
+You have improved, but with your Domestic ability your accounting cannot go any further.
+@308
+I am sorry. They sold out after that.
+@309
+My apologies. We are out of stock just now.
+@310
+I am terribly sorry. We are out of stock. Please come again.
+@311
+Please come and buy again.
+@313
+We look forward to the day you buy from us again.
+@314
+Please come again.
+@315
+Please come again when you feel like it.
+@316
+Please let us know when you feel like selling again.
+@317
+I see. We look forward to your custom when you sell again.
+@318
+Bring it by when you have something else to sell.
+@319
+Let me tell you something useful today.
+@320
+They say that when you work on Commerce, creating local specialities has a great effect.
+@321
+You can now choose Specialities when on a Commerce mission.
+@322
+Today let me tell you something useful for when you receive a Land Survey mission.
+@323
+Using a Survey Rod to set one standard for measuring land is highly effective.
+@324
+You can now choose Survey Rod when on a Land Survey mission.
+@325
+Hm?! You seem to know a lot about the prices of {p00}. Would you tell me?
+@326
+You seem well versed in the prices of {p00} across the land. Would you share them with me?
+@327
+Thank you. For now I will pay you 30 kan as thanks.
+@328
+If you know the prices of {p00} in every province, I will pay you 30 kan at the start of each month from now on.
+@329
+Then that is {p00}. Will you buy?
+@330
+Then that comes to {p00}. Would you like to buy?
+@331
+In that case it comes to {p00}. Would you care to buy it?
+@332
+In that case it comes to {p00}. Are you buying?
+@333
+Thank you. For now I will give you 30 kan as thanks.
+@334
+If you know the prices of {p00} in every province, I shall pay you at the start of every month from now on.
+@335
+I thought it a good offer... Oh well. Let us forget it.
+@336
+It would benefit us both... Ah, forgive me. Please forget I said anything.
+@400
+Hm? A face I do not know. Who are you?
+@403
+Lord {a73000c}, what exactly are you doing here?
+@404
+Ah, I was looking for a bargain. This scroll is quite something, is it not? What do you think, Lord {a6d0000}?
+@405
+Well... how shall I put it... It seems a fine piece, does it not?
+@406
+You think so too, Lord {a6d0000}! Then I shall buy it...
+@407
+I-I see...
+@408
+Oh no! I am short of money!
+@409
+Nothing for it. I shall give up this time. Now, excuse me.
+@410
+Oh, Lord {a6d0000}!
+@411
+Why, Lord {a73000c}!
+@419
+Hm? I have seen that face somewhere. Who might you be?
+@421
+Ah, Lord {a660000}. I am {a66000c}.
+@423
+Ah, I was looking for a bargain. This tea ware, for instance... Oh!
+@424
+Oh!
+@425
+Oh no! I dropped the tea ware and broke it...
+@426
+Come now... These things happen...
+@427
+No! I cannot leave it at that. How can I ever make amends?
+@428
+If you will not forgive me, I shall have to cut my belly in apology...
+@429
+L-Lord Ikeda! Do not be rash!
+@430
+Y-you are right. I shall pay for it and come back another day to apologise properly...
+@431
+Oh, Lord {a6d0000}. We meet again.
+@432
+Why, Lord {a73000c}. What a coincidence.
+@433
+By the way, what are you doing now?
+@434
+Ah, I am looking for a good sword. This blade is quite something, is it not? What do you think, Lord {a6d0000}?
+@435
+Well... how shall I put it... It seems a fine piece, does it not?
+@436
+You think so too, Lord {a6d0000}! Then I shall buy it...
+@439
+Nothing for it. I shall go home for today. Now, excuse me.
+@440
+Well, my accounting is good enough for now.

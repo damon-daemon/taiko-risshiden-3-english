@@ -1,0 +1,1550 @@
+@0
+Everyone is here, I see. Then let the council begin.
+@1
+This house holds that developing our lands comes first. We shall therefore put the weight on domestic affairs.
+@2
+This house holds that guarding our lands comes first. Any who have a view, speak.
+@3
+For the time being we aim to take {p00}. I want to hear your opinions.
+@4
+Now is the time to bring down the {p00}. Any who have an opinion, speak.
+@5
+Now is the time to unify {p00} Province. Any who have an opinion, speak.
+@6
+Holding {p00} Province must come first. So where should we put our strength? I want to hear your opinions.
+@7
+Now is the time to unify the {p00} region. If any of you has a good plan, speak!
+@8
+Now we must hold the {p00} region at all costs. Any who have a view, speak.
+@9
+Our aim is one thing only: unifying Japan. What do you think is the best way to do it? Any who have a view, speak up.
+@10
+Hmm, what should I do?
+@11
+Shall I go with the {p00} policy?
+@12
+Lord {p01}, I believe we should now pursue the {p00} policy.
+@13
+{a6d0000}, you seem to have something on your mind. Speak.
+@14
+Should I hold back here?
+@15
+No, after such distinguished company, I have nothing to add.
+@16
+I believe we should now pursue the {p00} policy.
+@17
+My lord, I believe the {p00} policy is our best course now.
+@18
+My lord, I think we should now put the weight on the {p00} policy.
+@19
+My lord, do not hesitate! Now is the time to throw our strength into the {p00} policy!
+@20
+Hm. Most of you agree with {p01}. Very well, we shall adopt the {p00} policy.
+@21
+Merit rose by {b00}.
+@22
+{p01} speaks well. This time we adopt the {p00} policy.
+@23
+{p01}'s merit rose by {b00}.
+@24
+Hm. This time {a6d0000}'s words carried the most weight.
+@25
+This time we shall pursue the {p00} policy.
+@26
+Very well. To battle!
+@27
+Then I shall assign the work. Choose what you wish to do.
+@28
+Now, which work shall I take?
+@29
+Ah, my present station does not let me choose this.
+@30
+Is {p00} all right?
+@31
+Then {p00} and {a6d0000} shall compete. I look forward to seeing both of you.
+@32
+Let us both do our utmost to make the {p00} prosper.
+@33
+Of all people, the Monkey is my rival? He is hardly worthy of me, but there is nothing for it. Ha ha ha!
+@34
+The outcome is settled before we begin... Well, never mind.
+@35
+The outcome is settled before we begin... Still, let us both do our best.
+@36
+I humbly accept the mission.
+@37
+A rival worth facing. I shall show you my strength.
+@38
+Since it has come to this, I will give it my all.
+@39
+Understood. I will surely produce great results.
+@40
+I will do my utmost not to lose.
+@41
+I will do my utmost not to lose to you.
+@42
+Let us compete for the good of the {p00} and achieve the best results we can.
+@43
+It seems everyone's duties are settled.
+@44
+That concludes today's council.
+@45
+There are men eligible for the rank of {p00} here. Whom shall I recommend?
+@46
+There is no one here I wish to recommend.
+@47
+Shall I recommend {p00}{p01}?
+@48
+I shall recommend {p00}{p01}.
+@49
+My lord!! {p00}{p01} has served splendidly. I consider the rank of {p02} his due.
+@50
+If I may speak, my lord. The service of {p00}{p01} has been truly remarkable. The rank of {p02} befits him.
+@51
+Forgive my presumption, my lord. {p00}{p01} has served so well that I think the rank of {p02} is deserved.
+@52
+Lord {p00}, I, {a6d0000}, think so as well.
+@53
+You there, {p00}!! Of such low rank, and you dare speak up? Know your place!!
+@54
+Hold your tongue, {p00}.
+@55
+Very well. {p00} shall be an Ashigaru Captain.
+@56
+{p00} speaks well! {p01}! From now on you hold the rank of {p02}, so serve us well!
+@57
+Sir! I humbly accept.
+@58
+There is something in what {p00} says, but I judge he still lacks standing. So I pass him over this time.
+@59
+No one else spoke, so you thought to play the one-eyed king in the land of the blind? Insolent wretch!
+@60
+You speak before I do? Fool! Low-ranking men should hold their tongues!
+@61
+Speaking so smartly in our lord's presence... Do you not know the meaning of restraint?!
+@62
+No doubt that just popped into your head. Think it through!
+@63
+How dare a young whelp like you speak? Hold your tongue.
+@64
+My lord, each view has its merit, but I believe the {p00} policy is our best course.
+@65
+My lord, there is much worth hearing in the views so far, but I believe the weight should go on the {p00} policy.
+@66
+My lord, do not be swayed by the other opinions. Now is the time to throw our strength into the {p00} policy!
+@67
+{p00}{p01} has the right of it. I therefore think it wise to adopt the {p02} policy.
+@68
+It is {p00}{p01}'s view that deserves to be heeded. I too agree that we put the weight on the {p02} policy.
+@69
+{p00}{p01} and I are of one mind! My lord, do not hesitate. We should throw our strength into the {p02} policy!
+@70
+As {p00}{p01} says, I think it wise to adopt the {p02} policy.
+@71
+{p00}{p01} has the right of it! My lord, let us by all means put the weight on the {p02} policy!
+@72
+{p00}{p01} is right indeed! Spoken like {p00}{p01}, a pillar of our house! My lord, let us throw our strength into the {p02} policy!
+@73
+As {p00}{p01} has said, I think the wise course is to pursue the {p02} policy.
+@74
+I agree with {p00}{p01}. We should pursue the {p02} policy.
+@75
+{p00}{p01}'s view is right indeed! Spoken like {p00}{p01}! My lord, let us throw our strength into the {p02} policy!
+@76
+Just as\nexpected
+@77
+Yes,\nexactly so
+@78
+Splendid!\nSuperb!
+@79
+Well said,\nindeed
+@80
+Settled,\nthen
+@81
+Agreed
+@82
+I agree
+@83
+Quite so
+@84
+I think\nthe same
+@85
+That is\nthe best
+@86
+I object!
+@87
+I cannot\nconsent
+@88
+I am not\nconvinced
+@89
+I cannot\nallow that
+@90
+That is\nwrong
+@91
+Hmm...
+@92
+...
+@93
+I wonder\nabout that
+@94
+I cannot\nsay
+@95
+I cannot\nagree
+@96
+Very well. {a6d0000}, I assign you {p00}.
+@97
+Please let me take on {p00}!
+@98
+No, leave {p00} to me!
+@101
+Hmm... Which of the two do you all prefer?
+@102
+Then I assign {p01} to {p00}.
+@103
+Naturally it is Lord {p00}, without question.
+@104
+Hmm... It is hard to choose between them.
+@105
+I cannot judge. I expect much of you both.
+@106
+{p00}{p01} would be the proper choice, surely.
+@107
+I think we should leave this to {p00}{p01}.
+@108
+If I must choose, it would be {p00}{p01}.
+@109
+{p00}{p01} would be the right man.
+@110
+Surely\n%s%s
+@111
+I back\n%s%s
+@112
+%s%s\nis best
+@113
+I cannot\nchoose
+@114
+Too close\nto call
+@115
+Hmm... I don't have the clan's support yet, it seems. Oh well, I'll pick another work.
+@116
+What shall I choose?
+@118
+At present we have no particular orders from His Lordship.
+@119
+At present His Lordship has ordered us to move against {p00}.
+@123
+Which policy shall we pursue?
+@124
+Then the council is called off.
+@125
+Understood.
+@126
+The {p00} policy, then?
+@127
+To whom will you give the mission?
+@128
+I have been waiting for this, my lord! Of course you will choose me?
+@129
+I will do all that is in my power. You will leave it to me, won't you?
+@130
+Thank you, my lord. I will do my utmost to be of use. You will give me the mission, won't you?
+@131
+What?! No... very well. I shall wait for another chance.
+@132
+I will not object to what you decide, my lord. But... it is a pity.
+@133
+It is a pity. I will wait for the next chance.
+@134
+Which mission will you grant me?
+@135
+You will give the mission to someone else?
+@136
+You will not give the mission to me?
+@138
+The period is {b00} day{s}.
+@140
+If you sell the rice now, this castle will have none left. Is that all right?
+@141
+Choose a mission other than {p00}?
+@142
+What will the budget be?
+@144
+At that rate, if we are attacked, the troops' rice will not last a month. Is that all right?
+@145
+Which daimyō clan shall we target?
+@148
+Will you give missions to other warriors too?
+@149
+Then the council is closed.
+@150
+This castle does not have the minimum number of troops (500 men), so we cannot wage a battle.
+@151
+This castle does not have the minimum rice (300 koku), so we cannot wage a battle.
+@152
+There is no castle we can attack, so we cannot wage a battle.
+@153
+You will go to battle. Is that all right?
+@154
+Which province's castle?
+@155
+Call off the battle?
+@156
+A castle in {p00}. Is that all right?
+@157
+Which castle will it be?
+@158
+Choose a castle other than {p00}?
+@162
+There is nobody of Ashigaru Gen. rank or above, so only you, my lord, can join the battle. Is that all right?
+@164
+Which warriors will command? (Up to 4)
+@165
+No warriors other than you, my lord, will join the battle. Is that all right?
+@166
+Shall the chosen warriors join the battle?
+@167
+How many troops will you take?
+@169
+Then the troop count stays as it is.
+@170
+How much rice will you take?
+@172
+Then the rice stays as it is.
+@173
+At that amount it will not last a month. Is that all right?
+@174
+How much in war funds will you take?
+@175
+You will not take any war funds?
+@176
+Then the war funds stay as they are.
+@178
+How many guns will you take?
+@179
+You will not take any guns?
+@180
+Then the guns stay as they are.
+@182
+How many horses will you take?
+@183
+You will not take any horses?
+@184
+Then the horses stay as they are.
+@186
+How many cannon will you take?
+@187
+You will not take any cannon?
+@188
+Then the cannon stay as they are.
+@190
+If the force above is acceptable, confirm. To change something, select that item.
+@195
+Which castle will it be? Choose from the castles that {p00} can target.
+@199
+What budget will you set?
+@201
+Heh heh. There are still warriors who haven't reported in.
+@202
+Sir! I humbly accept.
+@203
+{p00}: follow me.
+@204
+I stay behind this time, then.
+@205
+{p00}, I raise you to the rank of {p01} and count on you from now on.
+@206
+{p00}, your recent service has been splendid. The rank of {p01} is yours for it.
+@207
+{p00}. From now on, the rank of {p01} is yours.
+@208
+At present our lord has ordered me to defend {p00}.
+@209
+At present our lord has ordered me to move against {p00}.
+@210
+Any who have a view on what to do, speak without reserve.
+@211
+The shallow wit of a monkey indeed! Do you not know the word "deliberation"?!
+@212
+Another passing notion? A man is a man because he thinks deeply.
+@213
+Hmph. How sad for one who can only stand out at times like this.
+@214
+{p00}: I leave your castles to each of you.
+@215
+Sir! Leave it to me.
+@216
+{p00}, I leave {p01} to you from now on as well.
+@217
+{p00}, keep up the campaign against {p01}, as before.
+@218
+Leave it to me.
+@220
+Understood.
+@221
+Another army is passing through just now, so you cannot send out troops.
+@222
+Rice is 0. The troops would starve. Please set the rice again.
+@223
+Which province will you survey?
+@224
+Let us fell the traitor Akechi Mitsuhide and avenge our late lord.
+@225
+{p00}, well said!
+@226
+{a6d0000}, I was waiting for those very words!
+@227
+There is still room in {p00} for New Fields, so I think New Fields would be better...
+@228
+Carry out a Land Survey in {p00}?
+@229
+There are only the minimum troops, so the troop count cannot be changed.
+@230
+There is only the minimum rice, so the rice cannot be changed.
+@231
+There are no war funds.
+@232
+There are no guns.
+@233
+There are no horses.
+@234
+There are no cannon.
+@235
+You mean to rebel and become a daimyō?! Brother, are you serious?
+@236
+You mean to rebel and become a daimyō. If it is the best way to end this age of war, then so be it.
+@237
+But that would make an enemy of Lord {p00}. Is your resolve unshaken?
+@238
+Heh heh heh... I have been waiting for that resolve.
+@239
+To raise your banner over the realm, you will rebel and become a daimyō?
+@240
+!? You will rebel and become a daimyō?
+@241
+You will not rebel, then. That is fine too. All is as you wish, my lord.
+@242
+...I see... But one day we will seize the realm with our own hands.
+@243
+What a relief. Please do not startle me so.
+@244
+Y-you traitor! To draw your bow against His Lordship... You have utterly forgotten your place!!
+@245
+I serve the {p00} clan. I am sorry, but our bond of service ends here. I take my leave.
+@246
+I do not wish to bear the shame of disloyalty. From tomorrow we are enemies. Farewell.
+@247
+I cannot keep company with such reckless conduct. I shall leave you here.
+@248
+I thought you were the man who would unify the realm together with His Lordship... It is a pity.
+@249
+Others too have resolved to leave you, my lord.
+@250
+A warrior who has returned to {p00}.
+@251
+They have gone... But there is no turning back now.
+@252
+{p00}, will you follow me?
+@253
+I can think of no lord for myself other than you, my lord.
+@254
+Whatever you do, my lord, there is no lord for us other than you.
+@255
+My path may be a road of thorns.
+@256
+Even if we fall into hell, I will go with you.
+@257
+Well said. ...I thank you.
+@258
+{a6d0000}, I shall give you a castle.
+@259
+It is {p00}. I expect you to keep up your efforts.
+@260
+Choose whichever castle you like.
+@261
+So {p00} is your choice?
+@262
+Then I leave it to you. For now, strengthen its defences.
+@263
+{p00}, I appoint you lord of {p01}. Govern that land.
+@264
+This house holds that guarding our lands comes first. So what should we do? I want to hear what you think.
+@265
+For the time being we aim to take {p00}. I want to hear your opinion.
+@266
+Now is the time to bring down the {p00}. Give me your opinion.
+@267
+Now is the time to unify {p00} Province. What should we do? Tell me your opinion.
+@268
+Holding {p00} Province must come first. So where should we put our strength? I want to hear your opinion.
+@269
+Now is the time to unify the {p00} region. Give me your opinion!
+@270
+Now we must hold the {p00} region at all costs. What do you think? Give me your opinion.
+@271
+Our aim is one thing only: unifying Japan. What do you think is the best way to do it? Tell me what you have in mind.
+@272
+Hm, that is what I was thinking too. We shall adopt the {p00} policy, then.
+@273
+...Hmm, there is reason in your view too, but this time we shall adopt the {p00} policy.
+@275
+Now is not the time to rebel. Please wait for the right moment.
+@300
+Oh, a new face!
+@301
+Yes. I am {a660000}. This is my first council. I beg your favour.
+@302
+Oh, the monkey spoke! Ha ha ha...
+@303
+{a6d0007}! It is useless to talk to a monkey! Leave it alone!
+@304
+Oh, if it isn't the Monkey! I never knew even a monkey could attend a council!
+@305
+Hmph. Just thinking I am in the same place as this fellow makes me sick!
+@306
+Lord Katsuie! This is the talking monkey I saw!
+@307
+Well, well, a monkey indeed! Let us give it a chestnut. Here, eat up. Ha ha ha...
+@308
+Monkey, monkey, they keep calling me... Is that not rude?
+@309
+Did you hear that? That is how this monkey talks! And he even talks back like a grown man!
+@310
+Ha ha ha... Well, do your best, monkey, as far as a monkey can!
+@311
+Grr...
+@312
+Lord {a730000}, how was your first council?
+@313
+Not very nervous\nI was nervous...
+@314
+Oh, I was not very nervous.
+@315
+Now, now! Talk like that and get cocky, and you will come to grief later!
+@316
+Y-yes, understood... I will be careful from now on.
+@317
+Good. Now, do your best on your first job.
+@318
+Oh, I was nervous... It was in the presence of Lord Nobunaga, whom I admire so...
+@319
+I see. Then you must work hard to earn the trust of Lord {a6d0002}.
+@320
+Yes! I will work with all my might for Lord Nobunaga!
+@321
+That is the spirit.
+@322
+It seems everyone is here. Today I have an important matter: the campaign against Mino!
+@323
+To begin with, we build a fort at Sunomata. Who wants the job?!
+@324
+My lord! Is that not rather dangerous?
+@325
+Sunomata is a key stronghold of Mino. Dodging the Mino forces' attacks to build a fort there seems impossible.
+@326
+Hmph! Michikatsu, has cowardice got hold of you?!
+@327
+It is because it is an important place that we attack it! Fool!
+@328
+My lord! Let me do it!
+@329
+Hoh... Nobumori, is it? Then see that you do it properly!
+@330
+As you command.
+@331
+It seems everyone is here.
+@332
+{a730008} failed at the Sunomata work I gave him, and came crawling back!
+@333
+He failed because he thought it impossible from the start!
+@334
+Is there nobody who says he can do it?!
+@335
+Leave it to Katsuie! A difficult place like Sunomata is hard to take for anyone less than me.
+@336
+Well said, Katsuie. Go and see it done!
+@337
+All here? Even {a6d0003} has failed at Sunomata!
+@338
+Struggling with a place like Sunomata... Is there nobody who will fulfil Nobunaga's wish?!
+@339
+Step forward\nWait and see
+@340
+Lord {a6d0002}! Would you let me take on this task?
+@341
+Oh, {a660000}! You say you will do it?!
+@342
+Ha ha ha... Interesting!
+@342.1
+Go and take Sunomata for your lord {a6d0002}!
+@343
+After Lord {a730008} and Lord {a730003} have failed, I doubt anyone will step forward... But I will wait and see a little.
+@344
+...
+@348
+Pathetic... Is there nobody?!
+@349
+Lord {a6d0002}! Let me, {a6d0000}, take that duty!
+@350
+Oh, you...? Interesting! Show me!
+@351
+If you need anything, you may come to {a6d0002} at any time.
+@352
+Yes, my lord! Your words are a blessing!
+@353
+Good, do it well!
+@354
+Then I will go at once.
+@355
+Tōkichirō, be patient here. Defying Lord Katsuie in your present position will come to no good.
+@356
+First show them how you work. Then Lord Katsuie and the others will think again.
+@357
+Lord Toshiie... Understood. I will work harder than anyone, until I am too high in station to be called a monkey!
+@358
+Good, that is the spirit. Now, the council is about to begin.
+@359
+Yes!
+@360
+Now, to the job at ha... Oh, who is that lovely lady?
+@361
+Lord Katsuie, a word with you...
+@362
+Yes, what is it, my lady?
+@363
+We cannot talk standing here... This way...
+@364
+Yes...
+@365
+...
+@366
+Hey, {a6d0000}. What is the matter?
+@367
+Y-yes!{w} N-no... that lady was so beautiful...
+@368
+What, you were staring at Lady Oichi!
+@369
+That lady is called Lady Oichi. She is Lord Nobunaga's younger sister.
+@370
+She is beyond the reach of one like you. Pining for her is pointless.
+@371
+Besides, you have only just married Lady Nene. What a shameless fellow!
+@372
+If you make Lady Nene sad, I, your go-between, will not let it pass. Be warned.
+@373
+Yes, I will take those words to heart.
+@374
+Good. As long as you understand.
+@408
+\_\_\_\_\_\_\_\_- Ōgaki Castle: Council Hall -
+@450
+It seems everyone has gathered. Well done on taking Inabayama Castle. We move to Inabayama Castle at once!
+@451
+Understood?!
+@452
+\_\_\_\_\_\_\_\_- Inabayama Castle: Council Hall -
+@453
+The move to Inabayama Castle has been completed without a hitch.
+@454
+Good. Now I have a word for you all. About this place name, Inabayama.
+@455
+From now on it will be called Gifu. The castle will also be renamed Gifu Castle. Understood?
+@456
+Next I shall tell you our course from here. I will cut down anyone who bars the unification of Japan. Listen well to the words of that vow!
+@457
+"Tenka Fubu": the realm under one sword!
+@458
+Understood?! That is all.
+@459
+Hey, {a6d0000}!
+@460
+Lord Toshiie... Do you know what today's gathering is for?
+@461
+No, I am not sure myself, but I hear a messenger is coming from the Ashikaga...
+@462
+What, a messenger from the Shogun's house?!
+@463
+So it seems.
+@464
+If he has come relying on Lord {a6d0002}, the day we march on Kyōto is near.
+@465
+Lord Toshiie, Lord Nobunaga has arrived.
+@466
+Is everyone here?! A messenger from the Shogun's house is about to arrive. Wait with due respect!
+@467
+So you are this Akechi Mitsuhide. Come closer, closer.
+@468
+Yes, my lord.
+@469
+Lord {a660002}, if I may speak.
+@470
+As you know, the late Shogun, Lord Ashikaga Yoshiteru, was struck down by the Miyoshi clan and Matsunaga Hisahide.
+@471
+Yoshiteru's younger brother, Lord Ashikaga Yoshiaki, means to march on Kyōto himself, slay the rebels Miyoshi and Matsunaga, and so ease his brother's bitterness,
+@472
+set right the order of the world and seek peace under heaven, pray for the safety of the nation, and build an age of happiness for all the people...
+@473
+I see. I know your errand.
+@474
+Then when and how will Lord Ashikaga Yoshiaki come to me?
+@475
+Why, as soon as Lord {a730002}'s preparations are ready, he says.
+@476
+I see, you say it depends on my preparations...
+@477
+Then tell him it makes no difference to me if he comes this very moment.
+@478
+Your gracious words are a blessing. On behalf of my master Yoshiaki, I thank you deeply.
+@479
+As for Kyōto, I, {a6d0005}, shall act without fail together with Hosokawa Fujitaka.
+@480
+I understand fully, {a6d0005}.
+@481
+From today, you become the go-between for me and Lord Ashikaga Yoshiaki.
+@482
+How much does Asakura pay you? I shall provide that much.
+@483
+Yes, at present it is 40 kan, but...
+@484
+Good. From today, I shall provide that 40 kan.
+@485
+My great thanks.
+@486
+If Lord Yoshiaki reaches Kyōto and I can set him in the Shogun's office, I shall make you master of a province and a castle.
+@487
+Keep that in mind and strive.
+@489
+\_\_\_\_\_\_\_\_- Gifu Castle: Council Hall -
+@490
+I have called you all here today for one reason. By Lord Ashikaga Yoshiaki's command, we march on Kyōto to set the order of the realm right.
+@491.1
+Good, we march!
+@492
+\_\_\_\_\_\_\_\_- Nijō Castle: Council Hall -
+@493
+{a6d0002}, I thank you for building such a fine castle.
+@494
+Not at all. For Lord Yoshiaki's sake, this was no trouble. Think nothing of it.
+@495
+I see. Then I shall gladly make use of it.
+@496
+Yes, my lord.
+@497
+I wish to thank you. Is there anything you desire?
+@498
+I know. I shall grant you the rank of Right Minister.
+@499
+Your offer is kind, but I must decline.
+@500
+Why, {a6d0002}?
+@501
+Forgive me, but so grand and stiff a rank as Right Minister does not suit me.
+@502
+I see... Then will you become my father instead?
+@503
+I, father to Lord Yoshiaki? Heh... How amusing. I, {a6d0002}, accept your request.
+@504
+Ah, you accept! Did you all hear? From today {a6d0002} is my father. Serve him as you would serve me, and take his words as mine!
+@505
+This is a happy day. Drink up, all of you!
+@506
+Listen well! Asakura has taken up arms, egged on by Yoshiaki.
+@507
+We strike into Echizen before Asakura can ready himself. Understood?
+@508
+Good, you are all here!
+@508.1
+We march against Azai and Asakura.
+@509
+Lord Tokugawa will fight at our side this time.
+@509.1
+Do not let him outdo you. Give it all you have!
+@510
+Listen, all of you! Mount Hiei has sheltered Azai and Asakura. We attack Mount Hiei.
+@511
+My lord! Do you understand what it means to attack Mount Hiei?
+@512
+What is this, Mitsuhide? You dare to question me?
+@513
+But...
+@514
+No buts! It is not I who destroy Mount Hiei. It is Mount Hiei that destroys itself.
+@515
+I have no use for a rotten holy ground! Kill every last soul on the mountain, and burn it to the ground. Is that clear?
+@517
+Damn Yoshiaki! He has raised his banner against me. Insolent wretch!
+@518
+We march on Kyōto and crush Yoshiaki's army. I will make him taste Nobunaga's wrath.
+@519
+But do not kill Yoshiaki. Take him alive. I want him to watch Nobunaga unify the realm.
+@520
+All here, I see.
+@521
+We attack Asakura's Ichijōdani.
+@522
+Listen well. Asakura Yoshikage is no more than a puppet dancing to Ashikaga Yoshiaki's tune.
+@523
+With Yoshiaki gone, Yoshikage is nothing.
+@524
+Crush him in one blow!
+@525
+We attack Azai's Odani Castle. Understood?
+@526
+Odani Castle... Lady Oichi is there! My lord, what is to become of Lady Oichi?!
+@527
+I want to rescue her, somehow. But it will be difficult.
+@528
+Entrust that task to me, my lord!
+@529
+No. Katsuie, you are too earnest. Think of nothing but taking Odani Castle.
+@530
+Yes.
+@531
+Good. The council is adjourned.
+@532
+Well, if it isn't Hideyoshi!
+@532.1
+Lord Toshiie! You are early.
+@533
+Of course! A battle is about to begin. How could I sit still?
+@534
+A battle? Who are we fighting this time?
+@535
+Asakura. Asakura Yoshikage is no match for us. We will crush him in one blow!
+@536
+Ah, it seems our lord has arrived.
+@537
+It seems you are all gathered.
+@550
+All here, I see. We now hold council on how to meet the Takeda army at Nagashino. Understood?
+@551
+When you make camp at Nagashino, dig a triple moat before the camp and raise palisades.
+@552
+Then set 3,500 guns in three ranks behind them.
+@553
+And when the decisive battle comes, let no warrior out past the palisades until I order it.
+@554
+My lord! What do you mean, not to go beyond the palisades?
+@555
+I have never heard of such tactics.
+@556
+Heh... Naturally! This is my own plan! It is made to beat the Takeda cavalry, said to be the strongest in this age of war!
+@557
+When I crush the Takeda, all under heaven will know that I, {a6d0002}, am the strongest! Ha ha ha!
+@558
+\_\_\_\_\_\_\_\_- {e660051} Council Hall -
+@559
+We now begin the war council. I will first report the present situation. After that, each of you may give your views.
+@560
+First, the enemy... ... So, the enemy numbers 40,000, and we have 50,000.
+@561
+The battlefield will be the middle of the Kaga plain, toward the coast, I think. What say you?
+@562
+Yes. Our vanguard should cross the Tedori River, north of Komatsu, and take position on the plain beyond.
+@563
+Hey, Hideyoshi. It is rare for you to be silent. Do not hold back. Say something.
+@564
+No... if I speak now, I may not be able to stop.
+@565
+If you have something to say to me, do not hesitate. Speak your mind.
+@566
+Then I shall speak freely. This whole campaign is Lord {a6d0003}'s whim. He thinks only of winning his own battle.
+@567
+What?! What did you just say?
+@568
+This campaign is Lord {a6d0003}'s whim, I said.
+@569
+Is Lord {a6d0003} fighting this war with the state of the realm and the position of the {a730002} clan in mind?
+@570
+Azuchi Castle is all but empty now. And unlike in Shingen's day, the Takeda are allied with the Uesugi!
+@571
+Suppose the Takeda and the Uesugi are in league and the Uesugi are only a decoy. What if the Takeda attack Azuchi?
+@572
+And Matsunaga Hisahide must be itching to rebel again by now.
+@573
+Wh-what... You monkey! You say whatever you please! I do not want to see your face. Begone!
+@574
+You said "Begone" just now. I take that as an order from the commander-in-chief. I shall return to Ōmi.
+@575
+\_\_\_\_\_\_\_\_- {e660057} Council Hall -
+@576
+Everyone, drink and make merry!
+@577
+\_\_\_\_\_\_\_\_\_\_\_\_- A few days later... -
+@578
+Dear, you went to Hokuriku and came straight back, and now you drink and carouse every night...
+@579
+Lonely, are you?\nI have my reasons\nCome and drink, Nene!
+@580
+What, are you lonely because I've been neglecting you? Come here!
+@581
+Eek! Not in a place like this! Stop touching my backside!
+@582
+I have my reasons for this. Don't worry.
+@583
+Truly? I can believe you?
+@584
+Yes. Trust me and follow.
+@585
+Yes.
+@586
+You drink too, {a6d00e6}!
+@587
+What, me too? I came to stop you, dear. And yet...
+@588
+Come now, don't say that. Let us drink together.
+@589
+\_\_\_\_\_\_\_\_\_\_\_\_- An hour later... -
+@590
+Hey, what's the matter, you bald rat? Drink more, go on!
+@591
+Hmm. I never knew Nene was such a nasty drunk...
+@592
+\_\_\_\_\_\_\_\_- A few days later... -
+@593
+My lord, word has come that Lord {a730003} was defeated by Uesugi.
+@594
+I see. Well done.
+@595
+Come, everyone, keep drinking! Noh players, liven it up more!
+@596
+\_\_\_\_\_\_\_\_- Some days later... -
+@597
+My lord! Lord Matsunaga Hisahide has rebelled!
+@598
+So he rebelled after all. I have been waiting for this moment.
+@599
+Have everyone prepare for battle! Understood?
+@600
+My lord, the time has come. Go to see our lord at once.
+@601
+\_\_\_\_\_\_\_\_- {e66005a} Council Hall -
+@602
+Lord {a6d0002}, leave the campaign against Matsunaga Hisahide to me, {a660000}!
+@603
+{a6d0000}, eh? Everything has turned out just as you said.
+@603.1
+Very well, Monkey! I appoint you commander-in-chief of the campaign against Matsunaga Hisahide.
+@604
+{a6d0000}, I leave Kanbee in your charge. Begin with Harima on the Chūgoku front: whatever you take is yours.
+@605
+\_\_\_\_\_\_\_\_- {e66009b} Council Hall -
+@606
+My lord, distribute all the castle's stores to the troops.
+@607
+Very well\nWhy?\nNo
+@608
+Very well. You mean to raise everyone's morale that way.
+@609
+Exactly so, my lord.
+@610
+Then do it.
+@612
+Why do such a thing?
+@613
+It raises the troops' morale, my lord.
+@614
+If we win this battle, we can take the realm. If we lose, it is all over. Stores are of no use then.
+@615
+I see. I leave it to you, Kanbee.
+@617
+No. I will keep these stores for a time of need.
+@618
+I see...
+@619
+Hideyoshi, over here...
+@620
+Ah, Lord Toshiie. You are here already.
+@621
+The air is heavy. So the rumour that we are to meet Lord Ashikaga Yoshiaki is true...
+@622
+Look, Lord Ashikaga Yoshiaki has arrived. Bow low.
+@623
+So you are {a660002}? I hear you mean to make me Shogun...
+@624
+Yes, my lord. I, {a6d0002}, will surely bring Lord Yoshiaki to Kyōto.
+@625
+Hmm, hmm... I rely on you.
+@626
+Then, Lord {a730002}, we would ask you to build a residence for the Shogun...
+@627
+With respect... I, {a6d0002}, will build no such useless thing.
+@628
+What do you mean by that?
+@629
+By the time it was finished, I would already have taken him to Kyōto.
+@630
+I see. You are every bit the man rumour says. I shall hold you to those words.
+@631
+My lord.
+@632
+Lord Toshiie, did you see Lord {a6d0002} just now? How dashing he was!
+@633
+Yes. I am more taken with Lord Nobunaga than ever.
+@634
+\_\_\_\_\_\_\_\_- Kiyosu Castle Council Hall -
+@640
+The council to decide the future of the Oda clan was about to begin at Kiyosu Castle.
+@641
+Gentlemen, I am most honoured that you have come from afar.
+@642
+The other day, our lord was struck down by Akechi Mitsuhide and passed away... It is truly regrettable.
+@643
+But lamenting will get us nowhere.
+@644
+What matters now is to choose a fitting heir and make the {a730002} clan flourish ever more.
+@645
+I therefore propose Lord Nobutaka as heir. Does anyone object?
+@646
+I'm not so sure about that!\nI'll say nothing
+@647
+Lord Shibata, I'm not so sure about that.
+@648
+Listening to you, I would say you are not uniting the Oda clan but throwing it into disorder.
+@649
+What? What do you mean?
+@650
+If Lord Nobutaka is made heir, what of Lord Nobukatsu?
+@651
+Though the two are brothers, they are of the same age, and each thinks he can succeed.
+@652
+Whichever is made heir, the other will surely feel aggrieved.
+@653
+Make one the heir and set the other beside him as guardian. If the two run the Oda clan together, it will be secure.
+@654
+Hmm...
+@655
+Lord {a730000}, that is a good plan. Katsuie, I ask it of you as well.
+@656
+If Lord Niwa says so... Very well...
+@657
+Does everyone agree?
+@658
+There seem to be no objections.
+@659
+You mean {e730057}? Land can always be won back.
+@660
+Even so, I dislike seeing everything go as Katsuie dictates.
+@661
+Gentlemen, there seem to be no objections.
+@663
+Wait!
+@664
+Oh, Lord Niwa. What is it?
+@665
+I will accept Lord Nobutaka as heir. But Lord Nobukatsu must be set at his side as aide.
+@666
+What...? Why?
+@667
+Lord Nobukatsu, not chosen as heir, will likely raise a revolt.
+@668
+By giving him work as Lord Nobutaka's aide, we can turn aside his anger and discontent.
+@669
+Hmm... Very well. We shall do as Lord Niwa says.
+@670
+Does anyone else have an objection...
+@671
+I'm not so sure about that!\nI'll keep quiet\nHa ha ha...
+@672
+Then what would you have us do?
+@673
+Name Lord Sanbōshi, Lord Oda Nobutada's son and heir, as successor.
+@674
+Ha ha ha... I wondered what you would say. Lord Sanbōshi as successor, of all things...
+@675
+Lord Sanbōshi is only a small child. How is he to lead the Oda clan?
+@676
+Ha ha ha... Such foolishness, from a man of Lord Shibata's standing...
+@677
+What, folly?!
+@678
+Ha ha ha... Is it not so?
+@679
+The Oda clan has a roster of fine commanders such as no other house can boast.
+@680
+With us behind him, even a child like Lord Sanbōshi can ably succeed Lord Nobunaga.
+@681
+Hmm...
+@682
+Well, well, Lord {a730000} is right. Lord Shibata, I ask this of you as well.
+@683
+If Lord Niwa says so... Very well...
+@684
+Does everyone agree?
+@685
+Good, there seem to be no objections.
+@686
+Now then, without delay: hand over your domain of {e730057} in Ōmi to me!
+@687
+Very well\nYou can't have it
+@688
+Very well. But on one condition.
+@689
+You can't have it.
+@689.1
+What?!
+@691
+However, on certain terms, I might not refuse.
+@692
+What are these terms?
+@693
+I cannot give it to you. But to your adopted son, Lord Katsutoyo, I might consider it.
+@694
+Giving it to Katsutoyo or to me is the same thing! Gaha ha...
+@695
+Then we end here. If anyone has anything to say, say it now.
+@696
+None, it seems. Then the council is adjourned!
+@697
+Lord {a730000}, you have no complaint about this arrangement?
+@698
+At this rate the Oda clan may be taken over by Katsuie...
+@699
+Well, if Katsuie wants to take it over, let him have the Oda clan.
+@700
+Lord Nobunaga's will can be carried on even outside the Oda clan.
+@701
+Lord Hashiba, you are very calm. But can you keep that calm when you hear that Katsuie has taken Lady Oichi as his wife?
+@702
+What?! Lady Oichi?!
+@703
+Ha ha ha... You feign calm, but when Lady Oichi is taken, you cannot keep it up.
+@704
+N-no... I am calm. Now, I think I will return to my castle and see to the battle preparations...
+@705
+My lord, about the capture of this Miki Castle...
+@706
+Considering the coming campaign against the Mōri, we should avoid wasting troops here. I think it best to starve it into surrender...
+@707
+Take Hanbee's advice\nWhy not just storm it?
+@708
+Very well. I will follow Hanbee's advice.
+@709
+Thank you, my lord. This will lessen our own losses... though it is cruel to the enemy.
+@710
+I have no stratagem that spares every life, friend and foe... Cough, cough.
+@711
+What is it, Lord Hanbee?
+@712
+I am merely a little tired... But when my own health fails like this, I feel how fleeting life is.
+@713
+Don't be so faint-hearted\nTrue...\nIllness is all in the mind
+@714
+Don't talk so faint-heartedly. Rest a while and you will recover.
+@715
+Yes. You are surely just a little tired.
+@716
+Quite so... That is why we must live to the full until the flame of life burns out.
+@717
+My lord...
+@718
+They say illness is all in the mind. Take everything cheerfully. Live with a light heart, Hanbee!
+@719
+You are right. It is as you say, my lord.
+@720
+Good! We will starve Miki Castle into surrender! Understood?
+@721
+Why? A castle like this could be taken by force, couldn't it?
+@722
+For this battle, perhaps. But with the Mōri ahead, we must not waste troops.
+@723
+Here we must settle in and starve them out... Cough, cough...
+@723.1
+Lord Hanbee, are you all right?!
+@724
+My lord, since Lord Hanbee says so, it would be wise to follow his advice.
+@725
+Very well. We will starve Miki Castle into surrender!
+@726
+Lord Oda Nobutaka is about to arrive. Gentlemen, wait in respectful silence.
+@727
+Thank you all for coming.
+@728
+Now that I, Nobutaka, am heir to the Oda clan, support the clan just as you did while my father lived.
+@729
+Yes, my lord. I, Katsuie, and all the Oda retainers will work ourselves to the bone for the Oda clan.
+@730
+Understood. I am going to Kyōto. This country life does not suit me.
+@731
+Lord Nobutaka, please wait! Might I have Azuchi? Grant Azuchi to me, I beg you!
+@732
+Azuchi? Very well, take this country castle, for all I care.
+@733
+Yes, my lord. Thank you.
+@734
+Did you hear? From today Azuchi is my castle! Wa ha ha...
+@735
+Enough of this swagger! What right have you to run this meeting?!
+@736
+Besides, was it not Lord {a730000} who struck down Mitsuhide?
+@737
+Not only is Lord {a730000} given no reward, you take {e730057} from him. I will not forgive such conduct!
+@738
+Oh, how rare to see Lord Niwa so heated. I merely did my duty as foremost Chief Retainer.
+@739
+Where is the problem in that?
+@740
+And you take Azuchi for yourself as well? What is the meaning of this?!
+@741
+No reply, I see. Wa ha ha ha... How delightful!
+@742
+Curse you, Katsuie!
+@743
+Lord Niwa, do not be so angry.
+@744
+And you are no better, Lord {a730000}! You let your own domain be taken from you...
+@745
+Lord Niwa, they say nothing is dearer than what comes free. Just watch and see.
+@746
+So you have something in mind, Lord Hashiba. I shall trust your word and wait.
+@747
+If Lord Nobutaka becomes heir, how will Lord Nobukatsu feel? Not well, surely.
+@748
+This may well lead to civil war.
+@749
+If you say Lord Nobutaka and Lord Nobukatsu are unfit to succeed, whom do you propose?
+@750
+Is there not Lord Sanbōshi, the heir of Lord Nobutada?
+@751
+If we speak of the legitimate line of the Oda clan, it stands to reason to choose Lord Sanbōshi over Lord Nobutaka.
+@753
+Lord Niwa, please wait. I do not quite understand.
+@754
+Listen, Lord {a730000}. Lord Sanbōshi is the heir of Lord Oda Nobutada.
+@755
+Lord Nobutada succeeds Lord Nobunaga, and Lord Sanbōshi succeeds him after that. That is the natural order.
+@756
+I see, that makes perfect sense. I agree with Lord Niwa.
+@757
+And what do the rest of you say?
+@758
+Indeed, Lord Niwa is right.
+@759
+I agree as well.
+@760
+And what of you, Lord Shibata?
+@761
+Hmm... Very well. I too will go along with it.
+@762
+Then... does anyone else have an opinion?
+@763
+Ha ha ha ha...
+@764
+Who laughed just now? {a6d0000}, was it you? What is so funny? Speak!
+@765
+Lord Shibata's argument was so absurd that I could not help laughing.
+@767
+Lord Shibata, if Lord Nobutaka becomes heir, what becomes of Lord Nobukatsu? A succession without legitimacy is the seed of strife.
+@768
+You say Lord Nobutaka lacks legitimacy?! Then tell me, who do you think has it?
+@769
+Is there not Lord Sanbōshi?
+@770
+Ha ha ha... I wondered what you would say... Lord Sanbōshi is only a small child.
+@771
+Lord Sanbōshi is the heir of the late Lord Nobutada, and the direct grandson of Lord Nobunaga. What problem could there be with his legitimacy?
+@772
+I see. Lord {a730000} is right, Lord Shibata.
+@773
+Otherwise Lord Nobutaka and Lord Nobukatsu will fight over the succession!
+@774
+Besides, I dislike that Lord Shibata is holding a gathering like this on his own authority.
+@775
+Do you two mean to make a fool of me?!
+@776
+Ow, ow, ow... My stomach... my stomach hurts...
+@776.1
+Lord Hashiba, what is it?!
+@777
+Suddenly my stomach... I leave this to Lord Niwa... I shall rest in another room...
+@778
+Hashiba Hideyoshi has returned.
+@779
+{a6d0000}, has your stomach recovered? A grown man with a bellyache, how pitiful.
+@780
+While you were away, we have settled most of the division of the domains.
+@781
+It is your own fault for leaving your seat. I will hear no complaints.
+@782
+Very well. I will abide by what you have all decided.
+@783
+Ah, my lord. We have been waiting for your return.
+@784
+Oh, Kanbee. You have been waiting for me, it seems. Is it something important?
+@785
+To discuss striking Oda Nobutaka in Kyōto...
+@786
+So we must strike him after all...
+@787
+Yes, for he stands in the way of taking the realm.
+@788
+So, Kanbee, what would you do?
+@789
+Let me see... I would lead a great army and strike Nijō Castle in one blow, catching them off guard.
+@790
+Hmm. So Nobutaka can be crushed by force, with no need for clever tricks...
+@791
+Yes, exactly so, my lord.
+@792
+If we are to strike, now is the perfect chance.
+@793
+I see...
+@794
+We will enter Mino, retrieve Lord Sanbōshi from Gifu, and bring him to Azuchi.
+@795
+Strike down all who stand in the way without mercy, whoever they may be.
+@800
+Are you Lord {a660000}?
+@801
+Yes, I am {a660000}.
+@802
+Lord {a6d0000}, my humble congratulations.
+@803
+Since Lord Oda Nobunaga passed away, the realm has long been in disorder, with none to rule it.
+@804
+We therefore wish Lord {a6d0000} to take the Senior First Rank and the post of Regent, and bring peace to all under heaven.
+@805
+W-what?! You tell me to become Regent?!
+@806
+Yes. Lord {a730000} is fully worthy of it.
+@807
+Brother! Accept it!
+@808
+No one but you, my lord, can rule the present age. Please accept.
+@809
+Very well, I accept! I, {a6d0000}, will devote the rest of my life to building a peaceful age.
+@810
+Oh! You accept! I shall inform the Imperial Court at once! Until we meet again.
+@811
+What a life! I, raised as a poor farmer's son with nothing to eat...
+@812
+...to climb all the way to Regent, the highest power!
+@820
+The two of them to support the Oda clan?! Hmph, absurd!
+@821
+First of all, how would a final decision be made? It would only breed conflict between the two!
+@822
+There is no need for such trouble! Lord Nobutaka is young but wise, truly fit to head the clan.
+@823
+Lord Nobukatsu, compared to Lord Nobutaka, is poor in letters and arms and has little following. He lacks the talent to head the clan!
+@824
+What! Lord Shibata, a man of your standing, insulting a son of the Oda house! Withdraw those words at once!
+@825
+Silence, {a6d0000}! It is precisely because I think of the Oda clan's future that I say this.
+@826
+Is it not you who speaks from selfish greed, with no thought for the Oda clan's future?!
+@827
+What are you saying?! No one cares for the Oda clan more than I do!
+@828
+Oh? If you say that, let us ask the others.
+@829
+Whose opinion do you think is right, mine or {a6d0000}'s?
+@830
+Gentlemen, if you think I am wrong, step forward!
+@831
+...
+@832
+Damn!
+@833
+There! Now do you understand? A mere monkey, overstepping himself! Ga ha ha ha...
+@834
+From now on, Lord Nobutaka is the successor of the Oda clan. Let each of you devote yourselves to letters and arms and serve the further growth of the Oda clan.
+@835
+Now, on to the division of domains.
+@836
+Each of you may continue to govern the lands you have held so far.
+@837
+But with Lord Nobunaga gone, if one commander holds many domains, he may in time slight Lord Nobutaka.
+@838
+Therefore I have given a little land to as many commanders as possible, so that none may threaten the realm.
+@839
+First, {e730057} Castle in northern Ōmi goes to my son, Shibata Katsutoyo.
+@840
+Lord Nobutaka will move from Azuchi to Gifu.
+@841
+Lord Nobukatsu will move to Owari.
+@842
+That is all.
+@843
+Lord Shibata, wait!
+@844
+Hm, Lord Niwa? What is it?
+@845
+That is not what you said at the start!
+@846
+Oh...? How so?
+@847
+Second, who is it that you call "a threat to the realm"?
+@848
+First, you said you would distribute land so that no one commander holds much, yet in fact only your own domains have grown.
+@849
+Third, after Lord Nobutaka moves to Gifu, who will enter Azuchi Castle? You have said nothing!
+@850
+Your account does not hold together. What do you intend?
+@851
+Well, well, Lord Niwa. You say interesting things.
+@852
+You do not seem to grasp the great current of the realm.
+@853
+I could put it to everyone again, if you like. Though I think it would be futile.
+@855
+Now, let each of you do your duty in your own domain.
+@855.1
+This council is closed.
+@856
+Damn it! Katsuie... You'll remember this!
+@858
+You have all done well.
+@859
+The outcome is decided. Sadly, we no longer have the strength to fight.
+@860
+...So my dream ends here as well.
+@861
+But there is no need for you to die with me.
+@862
+Each of you, flee the castle and live. Your day to flower will come. This is my last order.
+@865
+All of you, you have done fine work in this campaign.
+@866
+Yes, my lord.
+@867
+It is an honour, my lord.
+@868
+Now I shall announce the division of the lands.
+@869
+Sanuki goes to you, {a6d0000}; govern it. Awa to Nagahide, Iyo to Hachisuka.
+@870
+I am most grateful.
+@873
+The three Kantō provinces of Kōzuke, Shimotsuke and Hitachi go to you, Kazumasu. Make Umayabashi your seat, if you like.
+@875
+The remaining four provinces, Musashi, Awa, Kazusa and Shimōsa, will be governed by Lord Tokugawa.
+@876
+Wh-what... Is that true, my lord?!
+@877
+It is. Lord Tokugawa will move from Mikawa to the Kantō.
+@878
+Why give Lord Tokugawa the land we won with such toil? Should it not go to the Oda retainers?
+@879
+No. Ieyasu has helped the Oda clan all this time with no reward at all.
+@880
+It is time I rewarded him.
+@881
+But if the Tokugawa should betray us, it would be a disaster!
+@882
+Needless worry. A man does not betray because he is of another house. There may be traitors even within the Oda clan.
+@883
+I see... Understood.
+@884
+Now, govern your new lands without fail!
+@886
+I will not fail your expectations.
+@889
+Hm.
+@890
+I have a report!
+@891
+What is it? Such a racket.
+@892
+Lord Shibata has succeeded in making peace with Uesugi!
+@893
+Ha ha ha! The realm will fall into my hands before long!
+@894
+Good! Tell Katsuie to continue the conquest of Tōhoku!
+@896
+That ends this division of lands. Dismissed!
+@897
+I come as an envoy from the Imperial Court.
+@898
+We hereby appoint Lord Oda Nobunaga to the rank of Shogun.
+@899
+Yes. I humbly accept.
+@900
+Then we shall await you at the Imperial Palace.
+@910
+So at last I have broken from Lord Nobunaga... no, from Oda Nobunaga, and become a daimyō...
+@911
+Come to think of it, since the day I first served the Oda clan, somewhere in my heart I may have wished for this...
+@912
+My lord! This is no time for sentiment!
+@913
+Indeed! Our lives have only just begun!
+@914
+Hm... You are right.
+@915
+Let us fight to our hearts' content, fearing no one!
+@916
+Indeed! From now on you can command as you please, my lord.
+@917
+True. But the Oda will not let this pass. Is that not so, {a6d0001}?
+@918
+Yes. They will surely use every means to crush us.
+@919
+Rumours, peasant uprisings, schemes to win over our men, assassination, to begin with.
+@920
+Then full-scale clashes between armies, and at times Nobunaga himself may attack us in person.
+@921
+And Shibata Katsuie and his like will come at us, seizing the chance.
+@922
+Yes. I was prepared for that the day I turned against the Oda clan.
+@923
+From now on, all of you will live on the border between life and death.
+@924
+But do not lose heart! Gentlemen, lend your strength to this Hideyoshi a little longer!
+@925
+Leave it to us! We will stake our lives and show you how we fight!
+@928
+Oh! Thank you... thank you...
+@929
+My lord, this is no time for tears.
+@930
+You are right. Let us set to work at once!
+@931
+Now then, our power has nearly unified the realm. We can say we have no enemy under heaven.
+@932
+Just as you say, my lord.
+@933
+Yet there is a place our strength has not reached. Kyūshū!
+@934
+Hmm. That is a problem...
+@935
+Now that Chūgoku and Shikoku are unified, this is the time to subdue Kyūshū!
+@936
+Hmm. Splendid!
+@937
+Be quiet! Stop chiming in at every turn!
+@938
+My lord! I beg your pardon.
+@939
+I was about to decide who would lead the Kyūshū campaign, but you have saved me the trouble.
+@940
+{a6d0000}! You go! It is your punishment for angering me.
+@941
+I-I, my lord?
+@942
+What? Are you dissatisfied with this choice?
+@943
+N-no, it is not that.
+@944
+I leave the details to you. Make them vassals or take them by force. But I will not tolerate failure.
+@946
+My lord, "whatever you take is yours"... Does that mean I have been made a Province Lord?!
+@947
+So it does.{w} The castles you take in battle, you will manage.
+@948
+Understood.
+@949
+By the way, my lord, how does a Province Lord differ from the Castle Lord I have been until now?
+@950
+Hm. The difference between a Province Lord and a Castle Lord is that you must manage many castles.
+@951
+You adjust funds and rice by sending supplies to castles that lack them.
+@952
+Some neglect the finances of their other castles to strengthen the Main Castle, but that is not to be desired.
+@953
+It is also conceivable to gather troops in one place, form an unrivalled army, and meet the enemy there.
+@954
+Hm. Well, do as you please, {a6d0000}.
+@955
+Yes, understood. So transport is the key for a Province Lord.
+@956
+That's right. See that you do it well.

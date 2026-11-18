@@ -1,0 +1,182 @@
+@305
+What! That {a6d0000}! He forgets all he owes Lord Nobunaga for raising him! Urgh... hic!
+@313
+Oh ho! If it isn't {a6d0000}, the very devil himself!
+@315
+That's right! That's right!{w} How do you mean to excuse yourself?
+@322
+If it comes to that, I will be the first one they go after...
+@329
+{a6d0001}, bad rumours about me are spreading through the castle town. Is there anything we can do?
+@340
+Your reputation is fair enough. Now no one will complain.
+@349
+Your reputation did not rise much, but now no one will complain.
+@362
+{a6d0001}, say nothing.
+@364
+Hmph! Do with me as you will!
+@390
+\_\_\_\_\_\_\_- Sakamoto Castle Town -
+@393
+Never mind that! Tell Lord Akechi that Hideyoshi has come to see him!
+@403
+Now it is up to Lord Mitsuhide himself to decide how he will act...
+@407
+Indeed, Brother!
+@408
+Brother, look through all of history and there is no one who has risen so far. And there may never be another!
+@409
+That is how great a thing you have done, Brother!
+@412
+I too am one of those drawn in by your charm, my lord...
+@414
+Stop it. All this lavish praise makes me uneasy... as if something bad is about to happen.
+@417
+I followed you here to catch one glimpse of you in all your glory, my dear!
+@427
+Work me even harder than before!
+@428
+The hard part is still to come. Let us build a world where everyone can live in happiness.
+@429
+Thank you, all of you. The dream we all share: a land where everyone can live happily.
+@431
+Now, we go home! Do not fall behind, everyone!
+@435
+This castle has grown cramped. Is it not time we had a castle worthy of one who would rule the realm?
+@436
+Ishiyama in Settsu Province, close to both Sakai and Kyōto. What of that?
+@438
+That land is excellent for travel by land and sea and for the flow of goods. It would be a pity to leave it as it is.
+@439
+Indeed, Lord Kanbee is right. Why not pay it a visit?
+@442
+This place will do well enough. We lack for nothing, and I like it here.
+@455
+My lord, this land is a hub of travel by land and sea, and goods can be brought in with ease.
+@457
+Let us build a magnificent castle here, one that will live in history!
+@465
+\_\_\_\_\_\_\_- Ōsaka Castle Town -
+@474
+Now, is this Konishi Yukinaga about?
+@478
+Bow down! Do you not know who stands before you? This monkey face that roams the roads by night: do not tell me you have forgotten it!
+@479
+Oh! Could it be... Lord {a730000}?! Forgive me, I beg you!
+@481
+Therefore, I confiscate all your property and shall share it among the townsfolk. Is that clear?
+@483
+Oh, I have no time for this. Hidenaga, let us go.
+@488
+I have some skill at arithmetic. I am poor in battle, but I think I can serve you in domestic affairs.
+@489
+I humbly place myself in your hands.
+@495
+Now I have a reliable man under me.
+@500
+{a6d0000}, it seems things went well.
+@501
+It is all thanks to you. Thank you.
+@502
+That was nothing. The harder road lies ahead of you.
+@503
+I know. I will spend my strength on ending this age of war as soon as I can.
+@504
+I look forward to it. Well, until we meet again.
+@515
+Ah, so this is {e66005a}. Truly magnificent.
+@516
+Walking all around such a large town is tiring indeed.
+@517
+Let me rest a while here...
+@518
+Hm...{w}...{w}...{w}Oh!
+@519
+Hey, is there a place near here to rest?
+@520
+Were you speaking to me just now?
+@521
+Calling "Hey" to someone I have just met was rude of me. Forgive me if I offended you.
+@522
+No, I am not offended.
+@523
+There is a temple near here that has taken me in. If you wish, please rest there.
+@524
+I see. That is kind of you.
+@530
+\_\_\_\_\_\_- The town below {e660051} -
+@531
+Good, so this is my castle... The conquest of eastern Japan begins from here.
+@532
+That's right, I have received a court title, too. These clothes will not do. Let me change into something more fitting for a castle lord.
+@534
+Hm, these feel stiff... Well, I will grow used to them in time, and they will fit.
+@538
+Oh yes! My family name is now Hashiba, and I have even received the title of Echizen!
+@539
+And now... {e730051} is my castle. My very own castle!
+@552
+Yes, we have been given a castle of our own. I cannot sit still!
+@553
+Brother, let us call Ma and the others to this castle, too. We will all live here together.
+@556
+\_\_\_\_\_\_\_- The town below {e66005a} -
+@575
+Is that not you, my lord? What are you doing here?
+@576
+Hm. I was curious, so I came to take a look.
+@577
+Everything is going smoothly. Even I, preparing it all, can hardly wait for the day of the funeral.
+@578
+Lord Hidenaga!
+@579
+Hidenaga, they are calling you. I have seen enough; go to them.
+@580
+Yes. Excuse me, then.
+@585
+\_\_\_\_\_\_\_- Kiyosu Castle Town -
+@586
+Lord {a730000}!
+@589
+I agree. And most of them do whatever Katsuie says.
+@591
+For now I will return to my castle and plan our next steps with my men.
+@592
+Lord Niwa, you too should watch Katsuie's movements.
+@593
+I am well aware. Until we meet again, then.
+@609
+It must be because we both felt the same way about Lord Nobunaga...
+@610
+Yes, Lord Nobunaga. It was Lord Nobunaga who made me stop the fight with Lord Ieyasu.
+@611
+Lord Nobunaga... please watch over this Monkey always.
+@617
+{a6d0000}! Weeping on such a joyous day? What is the meaning of this!
+@626
+Of those who could not understand me, some left me, and some I gave up on myself.
+@627
+If there is one man in all the world who understands this fool, it is you, and you alone.
+@628
+Your words are more than I deserve. Thank you.
+@631
+if there is cheap rice in the east, I will spend every coin I have to buy it all up,
+@633
+and if a gold mine appears in the north, I will dig on to the very bottom of the earth!
+@642
+Indeed, my lord!
+@643
+My lord, look through all of history and no one has risen so far. And there may never be another!
+@644
+That is how great a thing you have done, my lord! Ha ha ha!
+@645
+That you achieved so great a feat is owed entirely to your virtue, Brother.
+@646
+Many people have fallen under your charm, Brother: farmers, townspeople, merchants, warriors, court nobles. People of every kind have been captivated by you.
+@647
+I too am one of those drawn in by that charm!
+@661
+Of course. I will keep doing my best from now on!
+@663
+The hard part is still to come. Let us build a world where everyone can live in happiness.

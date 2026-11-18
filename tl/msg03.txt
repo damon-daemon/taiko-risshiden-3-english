@@ -1,0 +1,1050 @@
+@0
+Welcome!
+@1
+Are you awake? It seems you drank yourself to sleep.
+@2
+I can't be lounging around here.
+@3
+Sake is 100 mon a cup. Would you care for some?
+@4
+Ugh... I have no money on me...
+@5
+Then I'll have a cup.
+@7
+...Delicious!
+@8
+Hm? What is this? I'm suddenly so sleepy... Mmm...
+@9
+Another cup?
+@10
+Oh, don't be shy.
+@11
+You can certainly hold your drink! If you like our sake, why not buy some to take with you?
+@12
+We have {p00} and Doburoku. Which would you like?
+@13
+I'm sorry, but you cannot carry any more {p00}.
+@14
+{p00} is {p01} a bottle. How many would you like?
+@15
+{p00} x {b00}. Is that right?
+@16
+I'm sorry, but you cannot carry any more {p00}.
+@17
+{p00} is {p01} a bottle. How many would you like?
+@18
+In this town we only have Doburoku. It is {p00} a bottle. How many would you like?
+@20
+Thank you very much!
+@21
+What a pity... Do buy some next time.
+@22
+You seem to be short of money.
+@23
+How careless of me.
+@24
+This is our own territory, so there is no need to ask for news here.
+@25
+If I buy him a drink and put him in a merry mood, he might tell me something.
+@26
+Shall I treat him to a cup...?
+@27
+Hey, what are you muttering about?
+@28
+Oh, nothing, nothing. I was just looking at you and thinking what a fine man you are.
+@29
+Oh, nothing, nothing. I was just looking at you and thinking you must be a man of some renown.
+@30
+Ah, just as I thought! One look told me you were a capable man.
+@31
+Enough of your obvious flattery!
+@32
+It is not flattery. Since fate has brought us together, will you have a cup on me?
+@33
+It is truly not flattery. Please, let me buy you a drink.
+@34
+Not at all! I only speak the truth. Please, allow me to buy you a drink.
+@35
+Hmm... Since you wish to treat me, it would be rude to refuse.
+@37
+Forgive me. Another time, then.
+@38
+Landlady! Two cups of sake, please.
+@39
+Coming right up!
+@40
+Come, let us drink.
+@41
+I see... Is that so... Hmm, hmm...
+@42
+...You did that? You are quite something... Ha ha ha!
+@43
+Shall we order the next round?
+@44
+...And so it was... Men are like that, you see... That is how it went.
+@45
+...Ha ha ha! You are an amusing fellow...
+@47
+I enjoy talking with you. I even lose track of the time. Ha ha ha...
+@48
+Quite so. I rarely enjoy my sake this much. Ha ha ha...
+@49
+I think it is safe to ask now.
+@50
+What about this castle? I suppose its defences are well prepared?
+@51
+Ha ha ha! And here I thought you would ask something serious.
+@52
+Of course they are sound! I'll even tell you, if you like.
+@53
+I-I couldn't possibly... Such an important matter, to a man like me...
+@54
+Come now, listen. I really should not tell you, but I'll make an exception. A token of friendship! Ha ha ha!
+@55
+Hmm, the men of the {p00} clan are certainly bold.
+@56
+It was a thoroughly enjoyable day. Thank you very much.
+@57
+This land belongs to the {p00} clan.
+@58
+The head of the {p00} clan lives at {p01}.
+@59
+They say Lord {p00} excels in {p01}.
+@60
+Every warrior in this province has sworn loyalty to Lord {p00}.
+@61
+Ah... if I weren't a family man, I'd go off to another province... Oh, keep what I just said to yourself.
+@62
+Even in an age of war, I wish Lord {p00} would understand how we common folk feel.
+@63
+Lord {p00} is a good lord. If I could ask for one thing more, it's that he'd think of us a little more.
+@64
+Lord {p00} truly cares for us. He's a kind lord.
+@65
+There are all sorts of lords, but I think Lord {p00} is the greatest of them. We who live here are happy.
+@66
+They say Lord {p00} is {p01}.
+@69
+They say Lord {p00} is fond of {p01}.
+@70
+They say Lord {p01}, a retainer of Lord {p00}, is {p02}.
+@73
+They say Lord {p01}, a retainer of Lord {p00}, is fond of {p02}.
+@77
+Lord {p00} seems quite disillusioned with the present lord.
+@78
+Lord {p00} seems to have a good deal of discontent.
+@79
+Lord {p00} seems a little discontented with the present lord.
+@80
+Lord {p00} seems to have no particular complaint against the present lord.
+@81
+Lord {p00} seems to be deeply loyal.
+@82
+There is a Merchant House in this town. If you have money to spare, why not buy something?
+@83
+There is a physician in this town, so you need not worry about falling ill.
+@84
+The tea master Sen Rikyū lives in this town.
+@85
+There is a Temple in this town. They say you can train in Etiquette there.
+@86
+There is a Dōjō in this town. Why not train in Martial Arts?
+@87
+Ah, you clearly have no need. Forgive me, master swordsman.
+@88
+There is a Smithy in this town.
+@89
+There is a Nanban Temple here that spreads the Nanban teachings. They say it also teaches Nanban development methods.
+@90
+There is a Nanban Trading House in this town. They have rare goods, so why not take a look?
+@91
+The Echigo troops under Uesugi{p00} are the strongest, but they say Takeda{p01}'s Kai troops are nearly their equal.
+@92
+They say Oda Nobunaga{p00} drove back Imagawa Yoshimoto{p01}'s army of 40,000 with only 2,500 men.
+@93
+Mōri Motonari{p00} has two able sons, Kikkawa Motoharu{p00} and Kobayakawa Takakage{p00}. They are called the Two Rivers of Mōri.
+@94
+Takeda Shingen{p00} and Uesugi Kenshin{p01} faced each other many times at Kawanakajima in Shinano.
+@95
+They say Oda Nobunaga{p00} killed his own brother Nobuyuki{p00} with his own hand... Being a daimyō is hard indeed.
+@96
+It seems Kikkawa Motoharu{p00} of the Mōri inherited martial skill, and Kobayakawa Takakage{p00} wisdom, from their father Mōri Motonari{p00}.
+@97
+Shingen{p00} banished his own father... but to the people, content with their lives, that seems to make no difference.
+@98
+If the strategist Taigen Sessai{p00} had lived, Imagawa Yoshimoto{p00} would not have met such an end.
+@99
+Chōsokabe Motochika{p00} was called the 'Princess Boy' (Himewakako), but after his coming of age he became a fine commander.
+@100
+The Hōjō built their great power through three generations: Sōun{p00}, Ujitsuna{p00} and Ujiyasu{p00}.
+@101
+Saitō Yoshitatsu{p00} defeated his father Dōsan{p00}... but the rumour is that the two were not blood relatives.
+@102
+Only the Shimazu and the Mōri have brothers who are all so talented.
+@103
+Behind the rise of the Hōjō stands the Fūma clan, famous for ninjutsu.
+@104
+Oda Nobunaga{p00}'s lawful wife, Lady Nō, is the daughter of Saitō Dōsan{p01}, who was called the Viper of Mino.
+@105
+Ōtomo Sōrin{p00} of Bungo is a Christian daimyō.
+@106
+They say there was a rice magnate who grew very rich by buying rice where prices were low and selling it where they were high.
+@107
+They say guns will be prized in the age to come.
+@108
+Guns cannot be used at all in rain or snow.
+@110
+What will it be?
+@111
+That is about all I know.
+@112
+No daimyō rules here, so there is no point talking to an Ashigaru.
+@113
+No daimyō rules this place.
+@114
+Would you like to hear how gambling works?
+@116
+Basics:
+@117
+- You do not bet cash at the table: you bet
+@118
+\_\_\_the stake cards that you buy beforehand.
+@119
+- One dealer plays against four players.
+@120
+- Roll three dice. When two of them match,
+@121
+\_\_\_the third die is your point.
+@122
+- The dealer compares points with each player;
+@123
+\_\_\_the higher point wins (equal is a draw).
+@124
+Order of play:
+@125
+- The dealer rolls first, then each player in turn.
+@126
+- If the dealer rolls a hand, the dealer wins.
+@127
+- When the dealer loses to any player (draws
+@128
+\_\_\_aside), the next person becomes the dealer.
+@129
+Hands:
+@130
+- Rolled by the dealer, these settle the round;
+@131
+\_\_\_rolled by a player, they pay at the rate shown.
+@132
+\_\_\_\_\_\_111: win. The loser pays 10 times the stake.
+@133
+\_\_\_\_\_\_222: win. The loser pays 2 times the stake.
+@134
+\_\_\_\_\_\_333: win. The loser pays 3 times the stake.
+@135
+\_\_\_\_\_\_444: win. The loser pays 4 times the stake.
+@136
+\_\_\_\_\_\_555: win. The loser pays 5 times the stake.
+@137
+\_\_\_\_\_\_666: win. The loser pays 6 times the stake.
+@138
+\_\_\_\_\_\_456: win. The loser pays 2 times the stake.
+@139
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(dealer only)
+@140
+\_\_\_\_\_\_6: a dealer's point of 6 wins.
+@141
+\_\_\_\_\_\_1: a dealer's point of 1 loses.
+@142
+\_\_\_\_\_\_123: loss. The loser pays 2 times the stake.
+@143
+This den runs Chinchirorin.\nYou'll play, of course?
+@144
+What? Not playing?\nThen get lost!
+@145
+Stakes here start at {b00} kan.\nCome back once you've earned some.
+@146
+You need to buy stakes first.
+@147
+Heh, that's the spirit.\nYou deal first.
+@148
+Heh, that's the spirit.\nI'll deal first.
+@149
+Heh, that's the spirit.\n{p00} deals first.
+@150
+You're short of stakes.\nYou'll buy the difference.
+@151
+Hmm...\nNothing for it, then...
+@152
+Bad luck today.\nI'll call it a day.
+@153
+You're out of stakes.\nBuy more to keep playing.
+@154
+Unlucky.\nCome again.
+@155
+You deal.
+@156
+I deal next, then.
+@157
+Damn! I'm short of cash!
+@158
+You scum!\nThink being broke gets you off?!
+@159
+Hm? You look like you carry something valuable...
+@160
+Ah! N-not that...
+@161
+You've got some decent things.\nI'll let you off with these.\nNo complaints, right?
+@162
+Some of your belongings were taken.
+@163
+Tch! Nothing worth much.\nWell, better than nothing...
+@164
+Your belongings were taken.
+@165
+Here's your change.\nKeep it!!
+@166
+{d07}...You took a few punches.
+@167
+I'll teach you how hard the world is!!
+@168
+{d03}...You were beaten black and blue.
+@169
+How many stakes?
+@170
+Oh, leaving already?
+@171
+That's too much.\nSorry, I can't take that bet.
+@172
+You are the dealer. Continue?
+@173
+{b00} kan buys 8 stakes;\n10 stakes cash in for {b00} kan.\nHow many kan will you buy?
+@174
+10 stakes cash in for {b00} kan.\nAny odd stakes stay with me.
+@175
+You have {b00} stake{s}, so you will get {b01} kan. Exchange?
+@176
+You've won a lot. By the way, I've seized some goods from people who couldn't pay their losses.
+@177
+They're no use to me here, so I'll let you have each for 200 stakes. Care to look?
+@178
+You have {b00} stake{s} left.
+@179
+Giving up?
+@180
+Will you take this?
+@181
+I'll exchange your remaining stakes.
+@182
+All right, I'll exchange them.
+@183
+No hand. Roll again!
+@184
+Come on, now.\nOne more time!
+@185
+Aw, nuts...\nNo hand...
+@186
+1-2-3? Ugh, what luck...\nMaybe I should call it a day...
+@187
+A 1?! Well, that's a blow...
+@188
+A 2. Tough...
+@189
+A 3? Give me a better roll!
+@190
+A 4. Well, that'll do.
+@191
+A 5 should be safe.
+@192
+Good, a 6.\nThat's a win.
+@193
+4-5-6!\nThat's what a dealer needs!
+@194
+Yes! Triple 2s!\nPays double!
+@195
+Yes! Triple 3s!\nPays triple!
+@196
+Yes! Triple 4s!\nPays 4 times!
+@197
+Yes! Triple 5s!\nPays 5 times!
+@198
+Yes! Triple 6s!\nPays 6 times!
+@199
+Look at that! Triple 1s!\nPays 10 times!!\nWhat luck!
+@200
+They say the castle is home to lords such as daimyō and castle lords.
+@201
+When a council is held, one may enter the council hall, they say... Mm, hic.
+@202
+The Samurai Homes are where the warriors based at that castle live.
+@203
+Some will teach you skills such as Building, Speech, Scheming and Tactics.
+@204
+At the Rice Dealer you can ask the price of rice. On a Buy Rice or Sell Rice mission, you can trade rice there too.
+@205
+At the Stables you can ask the horse price or train in Riding. Now and then they sell a famous horse.
+@206
+On a Buy Horses mission, you can buy war horses there too... Hmm hmm.
+@207
+At the Tavern you can drink sake or gamble.
+@208
+If you drink well, the landlady will sell you sake. Hee hee.
+@209
+Oh yes, if you buy certain people a drink, some will tell you things like troop numbers.
+@210
+At the Inn you can stay the night. Hic.
+@211
+Talk to the guests and you may hear about the castle's supplies and the like.
+@212
+Rōnin and farmers live in the Houses. Farmers can tell you things like population and yield.
+@213
+Merchant Houses sell arms, art and books. You can also train in Accounting there.
+@214
+If your rank is high, or your skills are great, they will bring out finer goods.
+@215
+The skill involved differs by the kind of goods, so the rumour goes.
+@216
+Go to a Physician's Home and he will cure your illness. He sells medicine too.
+@217
+At a Tea Master's Home you can buy tea ware or have art appraised.
+@218
+If you own suitable tea ware you can train in Tea. By the way, I can hold my sake, ha ha.
+@219
+At a Temple they will appraise your books.
+@220
+If you own a decent Japanese book, you can train in Etiquette. Hee hee.
+@221
+At a Dōjō you can have arms appraised or train in Martial Arts. Do you go "Yaa!" and "Hup!" there, I wonder? Hee hee.
+@222
+At a Smithy you can train in Gunnery.
+@223
+On a Buy Guns mission you can buy guns, and on a Buy Cannon mission, cannon.
+@224
+Have you heard of the Mysterious Manor? They say you can gather castle intelligence and train in Ninjutsu there.
+@225
+At a Nanban Temple they give advice on your mission. You can train in Development too.
+@226
+The Nanban Trading House sells Nanban goods and appraises them too.
+@227
+Nobles live in the Noble's Home. Naturally, ha ha.
+@228
+If you befriend this noble, he will put in a word for you when you are on a Court Lobbying mission.
+@229
+The Imperial Palace is where court ceremonies are held.
+@230
+Even a samurai may not go in unless he is a daimyō or is on a Court Lobbying mission.
+@231
+You seem to be out of money.\nCome back once you've earned some.
+@300
+You are Lord Shibata Katsuie, I take it? I am Tōkichirō, an Ashigaru.
+@301
+Oho, a monkey speaking human words! Ha ha ha... How amusing!
+@302
+Ha ha ha... I hope I may count on your goodwill.
+@303
+Why, if it isn't Lord Shibata! I never imagined I would meet you in a place like this.
+@304
+What... the Monkey... Do not address me so casually! Know your place!
+@305
+F-forgive me. Seeing you here, Lord Shibata, I quite forgot myself...
+@306
+Hmph. I had no wish to meet you! You spoil my mood. I'm leaving!
+@307
+Why, Lord Shibata and Lord Sassa. The two of you together?
+@308
+It is none of your business.
+@308.1
+You are an eyesore. Be gone!
+@309
+Don't say that. Let me join you.
+@310
+I said you are an eyesore. Can you not understand? {w}Ah, of course. A monkey cannot understand human words!
+@311
+Don't say that. Let me join you.
+@312
+Wh-what! The insolence of it!
+@313
+Enough. The sake has gone sour. Let us go.
+@314
+Honestly! Wanting to drink with us? You're ten years too green for that!
+@315
+Narimasa, let's go.
+@317
+Well, well. They certainly dislike me...
+@319
+My name is {a6d0000}, at your service.
+@320
+I am {a660007}. Hold on, look closer: that's no man, it's a monkey! Away with you.
+@321
+Shall we have a drink together...?
+@322
+Bah, how tiresome. Do not speak to me.
+@323
+What, the Monkey? I have nothing to say to you.
+@324
+Come now, don't say that. Have a drink...
+@325
+I am busy. I have no time to drink with you.
+@326
+But you were drinking just now.
+@327
+Ugh... I-I cannot stay. I just remembered, Lord {a6d0003} sent for me.
+@328
+Oh, isn't that {a730023}... Lord {a660023}, if I recall?
+@329
+Hm? Oh, it is Lord {a6d0000}. Do you have time to be idling about?
+@330
+Ha ha ha, it does no harm once in a while.
+@331
+Hmph. Well, do your best.
+@332
+There is Lord {a660023}. I think I'll join him for a drink.
+@333
+Lord {a6d0000}. What, you want to drink with me?
+@334
+It is fate that we met like this. Why not?
+@335
+Ha ha ha. We seem to be bound by fate, you and I, but I must excuse myself.
+@336
+Oh, I see.
+@338
+Hm? Oh, Lord {a6d0000}. Do you have time to be idling about?
+@339
+Well, it does no harm once in a while.
+@341
+Hm? Lord {a6d0000}. Do you need something?
+@342
+Lord {a730023}, I came to drink as well.
+@343
+Hmph. Then drink as you please.
+@344
+Oh, why not drink together?
+@345
+Drink together? Ha ha, don't make me laugh. I'll be going.
+@350
+I heard Saitō Tatsuoki behaves badly. Is it true?
+@351
+Tatsuoki? I can't stand him.
+@352
+First, his arrogance. He thinks of his men as mere tools, not people.
+@353
+And I don't like his idle way of life either... {w}Maybe I should go and serve the Oda...
+@354
+So there are Ashigaru who think that way. That's a useful rumour I've picked up.
+@355
+Could you tell me something about Lord Saitō Tatsuoki?
+@356
+Tatsuoki? You bring up a name I'd rather not hear.
+@357
+When the Oda attacked, our lord was in the castle drinking, with women all around him.
+@358
+Without the Mino Triumvirate, the Saitō would be crushed by the Oda in no time.
+@359
+I see. This is quite an important rumour.
+@360
+Landlady, I hear bad rumours about Lord Saitō Tatsuoki. What is going on?
+@361
+Oh, His Lordship? He holds drinking parties every day. He has no time to deal with the Oda, it seems.
+@362
+Mind you, it's good for my sake sales.
+@363
+I see. He is a good lord to you, landlady. That he loves feasting is an important rumour.
+@364
+Pardon me, but do you know Lord Inaba Ittetsu?
+@365
+Ittetsu, you ask? Never mind that, drink with me. Sake is better drunk in company.
+@366
+Very well. I shall keep you company.
+@367
+Then let's start with a cup.
+@368
+Yes, thank you.
+@369
+Aah, this is fine sake. What is it called?
+@370
+If you like this sake, you know your drink. I have it brewed specially to my order.
+@371
+Ah, how glad I am that you appreciate its taste. Come, have another.
+@372
+Aah! Now, a cup in return.
+@373
+Aah! I cannot live without this. Can you understand that feeling?
+@374
+I do\nI don't
+@375
+I do. Sake is the source of life.
+@376
+Yes, you understand well. Ha ha ha ha...
+@377
+No, I don't understand.
+@378
+Heh heh, you still lack discipline.
+@379
+I haven't given my name yet. I am {a660000}... {w}...?
+@380
+We've drunk a fair bit... {w}Landlady, the bill! His drinks too.
+@381
+Thank you, come again.
+@382
+Mm, I'll be back.
+@383
+Ah, wait!
+@384
+Oh, there is the man who treated me to sake the other day.
+@385
+Thank you for the other day. I enjoyed the fine sake.
+@386
+Ha ha ha... I enjoyed it too. {w}What, have you come to sponge off me again?
+@387
+No, I am looking for someone.
+@388
+Hm, whom are you looking for in this castle town?
+@389
+I am looking for Lord Inaba Ittetsu...
+@390
+I see... {w}But however you search, you will not meet Ittetsu.
+@391
+How about a cup?
+@392
+Drink\nDon't drink
+@393
+Yes. I have many things to ask, so I shall keep you company.
+@394
+Good, good. A cup then. Drain it in one gulp!
+@395
+No, I must decline. Today I really must find Lord Inaba Ittetsu.
+@396
+Hm, then all the more reason to hear what I have to say.
+@397
+? {w}What do you mean?
+@398
+Come, sit yourself down.
+@400
+Well, thank you.
+@401
+By the way, do you know something about Lord Inaba?
+@402
+Hm? About Lord Inaba? There is nothing about him I don't know.
+@403
+That much... Who in the world are you?
+@404
+Me? I am... Mm...
+@405
+? {w}Could he have fallen asleep?
+@406
+He has indeed fallen asleep. What shall I do?
+@407
+Take the drunk warrior home\nLeave the drunk warrior here
+@408
+Nothing for it. I'll take him home...
+@409
+I'll slip away quietly so as not to wake him...
+@410
+Oh, sir, please don't leave your companion behind.
+@411
+Hmm... So I must take him home after all...
+@417
+Welcome! We have good sake in today! Come, young man, have a drink!
+@418
+All right! I'll drink my fill today!
+@419
+Glug, glug glug. Glug glug glug. Aah!
+@420
+Glug, glug glug. Glug glug glug glug. Aaah... glug.
+@421
+Glug, glug glug. Glug glug glug glug glug. Aaaah... gulp.
+@422
+Aah... I'm drunk, I'm drunk. Landlord! The bill!
+@423
+Hm... what is it...
+@424
+Pardon me, but do you know of a medicine that cures incurable illness?
+@425
+Hm... a medicine for incurable illness...
+@426
+He is very drunk. It is useless to ask him.
+@427
+Hey, master, wait a bit... I've seen that medicine...
+@428
+Really?!\nDrunken ravings
+@429
+What! Is that true?!
+@430
+Yeah... When I was a child, Granny Okuma showed it to me.
+@431
+Where is this Granny Okuma?
+@432
+The farmhouse is her house. She died twenty years ago, though...
+@433
+What! She is dead?!
+@434
+But it may still be there. That house keeps its things well...
+@435
+I don't know what will come of it, but I'll go and see anyway.
+@436
+This is just a drunk's ravings. Pay no mind, pay no mind...
+@437
+Hey, samurai, wait a bit... I saw it as a child, at Granny Okuma's...
+@438
+I'll hear him out, then. So where does this Granny Okuma live?
+@439
+She lived in the farmhouse...
+@440
+Lived...?! What do you mean, lived?!
+@441
+She died twenty years ago...
+@442
+What, dead?! What a blow...
+@443
+But the medicine may still be there. That house keeps its things well...
+@444
+I see, thank you. I'll go and see.
+@445
+Hey, samurai, wait a bit...
+@446
+What is it?
+@447
+Ugh... bleurgh...
+@448
+Waaah, stop it!!...
+@450
+\n\_\_\_\_\_\_\_\_- Gifu Castle: Tavern -
+@451
+Have you heard that our lord has lately been sending envoys to Takeda Shingen of Kai?
+@452
+No, I haven't heard.
+@452.1
+I see. Then let me tell you.
+@453
+For the {a730002} clan, who wish to march on Kyōto, the Takeda at their back are a threat.
+@454
+They try to win Shingen's favour with tribute and the like, but this will not work.
+@455
+Then what should be done? You must have a plan.
+@456
+Ha ha ha... You noticed?
+@457
+In truth, Shingen's son Katsuyori has no wife yet.
+@458
+I see, a marriage!
+@460
+But Lord {a6d0002} has no daughter. What will you do?
+@461
+To say that much aloud would anger our lord.
+@462
+Hm, true. Then I shall suggest it to him at once.
+@463
+So what was the interesting story?
+@464
+The story is that our lord's daughter has married Lord Takeda Katsuyori.
+@465
+Oh, splendid news! Now Lord {a6d0002} can march to the capital without worrying about his rear.
+@466
+By the way, my lord, does anything strike you as odd?
+@467
+What is it?\nI know...\nLately...
+@468
+What is it?
+@469
+Our lord has no daughter. They surely found some pretty girl somewhere and brought her in.
+@470
+If the Takeda find out, it will be a grave matter.
+@471
+My lord, I advise you to be careful as well...
+@472
+I know, I know... Lord {a6d0002} had no daughter.
+@473
+They must have found some pretty girl somewhere and brought her in.
+@476
+Really, Lord {a6d0002} does take dangerous risks.
+@477
+Yes, you noticed! Lately my neck has been prickling...
+@478
+That is not it. Our lord has no daughter, has he?
+@479
+They surely found some pretty girl somewhere and brought her in.
+@481
+My lord, please do be careful as well...
+@482
+Why, why was I not chosen...
+@483
+Landlady! Bring more sake!
+@484
+Right away!
+@485
+Really, where is Lord {a6d0002} looking? Taking Mino was largely thanks to my efforts...
+@486
+Landlady, where's my sake?!
+@487
+Here you are, sorry to keep you!
+@488
+Landlady, you're slow.
+@489
+Oh my, isn't the slow one you, coming home?
+@490
+Wh-what... N-{a6d00e6}! Why are you in a place like this...?
+@491
+What do you mean, a place like this? I heard from Lord {a6d0013} and came looking, worried about you.
+@492
+What, you heard it from Lord {a6d0013}...?
+@493
+Really, sulking over a thing like this. How pitiful. That's not like you.
+@494
+Who is sulking?! I'm drinking to Lord {a6d0013}'s good fortune...
+@495
+Hmm... By yourself?
+@496
+Er, well...
+@497
+Then I shall join in this celebration of yours.
+@498
+Landlady, bring us plenty of sake!
+@499
+H-hey! {a6d00e6}!
+@500
+Ah, here it comes. Thank you!
+@501
+Glug, glug, glug...
+@502
+Oh, drinking that much will...
+@503
+Did you say something?
+@504
+N-no, nothing...
+@505
+Hic!
+@506
+Are you drunk already?
+@507
+Husband! You have a talent that no one else has...
+@508
+Our lord knows it, and that is why he does not give you the same duties as the others...
+@509
+So... {w}So...
+@510
+Oh, has she fallen asleep? Nothing for it, I'll carry her home on my back...
+@511
+Hm... Why must I look after a monkey?
+@512
+Now that I think of it, there's a beastly smell... The sake has gone sour too. {w}How unpleasant! I'm leaving!
+@512.1
+L-Lord Shibata...
+@513
+Lord Shibata! {w}He truly seems to hate me...
+@550
+That I can sit drinking from midday like this is all thanks to Lord Nobunaga.
+@551
+Heaven would punish me if I weren't grateful.
+@553
+\n\_\_\_\_\_\_\_\_- Tavern -
+@554
+Landlady! Bring the best sake and side dishes in the house!
+@555
+Forgive me for not introducing him sooner: this is my younger brother, {a6d0001}.
+@556
+I am {a660001}. I am honoured to meet you.
+@557
+And this is Takenaka Hanbee.
+@558
+Takenaka...
+@559
+I am {a660000}... (Takenaka Hanbee? He has a remarkable strategist with him...)
+@560
+Well, well, enough stiff greetings. Come, first a cup...
+@561
+Talk with Hashiba Hideyoshi and his men flowed freely, and the discussion went on until midnight...
+@562
+Tactics skill rose by 1.
+@563
+Today was most instructive. I would like to talk with you often. Don't you agree, Hanbee?
+@564
+Yes, indeed.
+@565
+N-no, it is I who should be learning from you...
+@566
+There is no need to be so modest. I too was given much to think about today.
+@567
+Let us talk again for our mutual improvement. Do come to {e730057}.
+@568
+Yes, thank you.
+@569
+Still, if a strategist like Lord {a730000} joined Lord Katsuie, it would be like giving an oni an iron club.
+@570
+Speaking of Lord Katsuie... it would be best not to tell him about today.
+@571
+Somehow, Lord Katsuie dislikes me.
+@572
+To a rough warrior like Lord Katsuie, I suppose I seem an annoying bustler.
+@573
+Is that so...
+@574
+Well, each has his role, and so the Oda prospers.
+@575
+Lord Katsuie carves out Hokuriku by sheer strength, and I scurry about like a performing monkey.
+@576
+Yes, I am a performing monkey, a monkey! Ha ha ha!
+@577
+My lord, it is nearly time.
+@578
+Oh, so it is. Then I take my leave.
+@579
+I am busy with intelligence work in Tanba and seldom return to {e730057}, but visit me when you have time.
+@580
+Well then, I'll be off!
+@590
+\n\_\_\_\_\_\_\_\_\_- Tavern -
+@591
+...I hear that Lord {a730000} had no ties at all to the Shibata clan originally...
+@592
+What made you enter his service?
+@593
+Ah... I do not quite know myself.
+@594
+I never even knew my parents. When I handed over a letter my foster father had given me, His Lordship said he would take me on...
+@595
+...Suspicious. That letter must hold some important secret!
+@596
+Why do you think so?
+@597
+Oh, just a hunch.
+@599
+More to the point, Lord {a730000}, why not ask Lord Katsuie directly what that letter says?
+@600
+Perhaps you might learn about your parents.
+@601
+Ah, perhaps so...
+@602
+Well then, no time to lose!
+@603
+Eh, h-hey... You can't just decide that...
+@610
+...By the way, who is the person over there?
+@611
+I am Saitō Toshimitsu. Pleased to meet you. {w}Oh, {w}you are...
+@612
+Could you be the boy raised by Saitō Morinao in Mino?
+@613
+Yes, Saitō Morinao is my foster father, but how do you know...
+@614
+Morinao is my half-brother. And that boy has grown up so splendidly...
+@615
+How swiftly time passes. And how is Morinao now?
+@616
+Well, you see...
+@618
+...I see... Still, to meet again like this must be fate.
+@619
+Lord Toshimitsu, did Lord Morinao ever tell you anything about my parents?
+@620
+If I recall, he said: "I have been entrusted with him by a certain person, and I mean to raise him so he need not be ashamed before that person."
+@622
+I am sorry I could not be of help... I understand your wish to meet your father and mother.
+@623
+Thank you for your concern.
+@624
+Well then...
+@625
+Oh, wait, Lord {a730000}.
+@626
+Come to think of it, Lord {a730000}, you know Lord Hashiba, do you not?
+@627
+Yes... Is something the matter with Lord Hashiba?
+@628
+I hear Lord Hashiba's strategist, Takenaka Hanbee, is laid up with illness... Why not look in on him once?
+@629
+What? Lord Hanbee... Thank you for going to the trouble.
+@630
+Well then, if fate allows, we shall meet again.
+@632
+Phew... "A certain person"... Who could it be...
+@633
+Still, Lord Hanbee ill... Shall I pay him a visit...
+@640
+Say, are you with the Oda?
+@641
+Yes, but...
+@642
+Then you must know Lord Akechi.
+@643
+Yes, what of him?
+@644
+He is wonderful... I'm quite entranced...
+@645
+Does Lord Akechi come around here often?
+@646
+Yes, he often visits the nobles' houses. They say he has a mansion somewhere too.
+@647
+Hmm... He even has a mansion in Kyōto... Lord Akechi has deep ties with the Court.
+@651
+Samurai... may I join you...?
+@652
+Please.
+@653
+Thank you...
+@654
+Have we met before?
+@655
+Have we? I would not forget a beauty like you...
+@656
+Really? Even as flattery, I am glad. Have a cup...
+@657
+I am grateful.
+@658
+We have met once before, haven't we?
+@659
+Hm...? Ah, are you the one who spoke to me when I was asleep?!
+@660
+How good to meet you again.
+@661
+Oh! Even as flattery, I am glad. Have a cup...
+@663
+You hold your drink well. See, I am already this drunk.
+@664
+Oh my... Then would you like to drink at my house?
+@665
+Are you sure?\nNo, better not
+@666
+Are you sure?
+@667
+Yes...
+@668
+Then let us go at once.
+@669
+{a6d0000}! {w}"Let us go at once," is it?!
+@670
+Th-that voice... My lord!
+@671
+Not "my lord"! You lay hands on my page - outrageous! How shall I deal with you?!
+@672
+Ah! My lord, did you say "page"?
+@673
+Yes, I did. He is my page!
+@674
+Then this person is a man...
+@675
+Of course!
+@676
+Don't tell me you thought this was a woman and were drinking with him?
+@678
+Ha, this is priceless! Ha ha ha...
+@679
+Ha ha ha... I saw something amusing. I'll forgive you for today.
+@681
+Right, let us go home.
+@683
+No, better not. With someone as charming as you, I might do something I would regret.
+@684
+Besides, I love my wife. I cannot betray her.
+@685
+Hee hee... {w}What a sweet man...
+@686
+...I understand. I shall step back gracefully.
+@687
+I am grateful.
+@688
+Then I give you this sake.
+@689
+You received a bottle of Kiku Sake.
+@690
+This is for the best...

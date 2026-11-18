@@ -1,0 +1,126 @@
+# 04_battle
+BATTLE:8014a130	-
+BATTLE:8014ae4c	Lower morale
+BATTLE:8014ae5c	Raise fatigue
+BATTLE:8014ae6c	Reduce troops
+BATTLE:8014ae7c	Reduce rice
+BATTLE:8014aea8	-
+BATTLE:8014aeb8	Balanced
+BATTLE:8014aec4	Leader first
+BATTLE:8014aed0	Officers first
+BATTLE:8014af34	March out
+BATTLE:8014af80	Leave it to me!\nI shall not fail you!
+BATTLE:8014afbc	Yes, my lord! I shall serve you well.
+BATTLE:8014b0e4	Army Info
+BATTLE:8014b0f0	Unit Info
+BATTLE:8014b0fc	Overview
+BATTLE:8014b118	Meet outside
+BATTLE:8014b128	Defend outside
+BATTLE:8014b13c	Hold the castle
+BATTLE:8014b150	Retreat
+BATTLE:8014b15c	View status
+BATTLE:8014b190	Accept battle
+BATTLE:8014b1a0	Focus on the castle
+BATTLE:8014b1c4	Storm the castle
+BATTLE:8014b1d4	Besiege and wait
+BATTLE:8014b1f0	Flood the castle
+BATTLE:8014b210	Pitfall
+BATTLE:8014b21c	Wall Spikes
+BATTLE:8014b258	Encourage troops
+BATTLE:8014b268	Hand out rice
+BATTLE:8014b278	Hold a banquet
+BATTLE:8014b29c	Watch from around
+BATTLE:8014b2b4	Build towers and watch
+BATTLE:8014b328	Night raid
+BATTLE:8014b334	False reports
+BATTLE:8014b340	Set fires
+BATTLE:8014b358	Scatter rewards
+BATTLE:8014b368	Offer bounties
+BATTLE:8014b3c8	Besiege and wait
+BATTLE:8014b3e4	Wait them out
+BATTLE:8014b3f4	No opinion
+BATTLE:8014b6c4	Change army plan
+BATTLE:8014b6d4	Raise morale
+BATTLE:8014b6e8	Order repairs
+BATTLE:8014b6fc	Set traps
+BATTLE:8014b738	Demand surrender
+BATTLE:8014b748	Surprise attack
+BATTLE:8014b780	Rest troops
+BATTLE:8014b790	Raise morale
+BATTLE:8014b7a0	Stand by
+BATTLE:8014b7bc	Army orders
+BATTLE:8014b7cc	Own unit orders
+BATTLE:8014b864	Day %y%y
+BATTLE:8014b870	Men:%5u
+BATTLE:8014b87c	Mor:%5u
+BATTLE:8014b8ac	Army Info
+BATTLE:8014b8b8	Unit Info
+BATTLE:8014b8c4	Overview
+BATTLE:8014b9a8	Attack
+BATTLE:8014b9b4	View status
+BATTLE:8014bbc0	Rally unit
+BATTLE:8014bbd0	Taunt enemy
+BATTLE:8014bbe0	Stand by
+BATTLE:8014bbec	Fall back
+BATTLE:8014bc0c	The men are well rested.
+BATTLE:8014bc20	The men are a little tired.
+BATTLE:8014bc38	The men are tired.
+BATTLE:8014bcac	Press on
+BATTLE:8014bcb8	Cancel
+BATTLE:8014bcdc	Independents
+BATTLE:8014bce8	%s's unit
+BATTLE:8014bcf4	Unit %y
+BATTLE:8014bd00	Error unit
+BATTLE:8014bd1c	Zoom
+BATTLE:8014bd3c	Unit (officer)
+BATTLE:8014bd50	-
+BATTLE:8014bd60	Unit %y (%s)
+BATTLE:8014bd70	Unit %y
+BATTLE:8014bd7c	Line (Ōjin)
+BATTLE:8014bd90	Fish Scale (Gyorin)
+BATTLE:8014bda4	Crane Wing (Kakuyoku)
+BATTLE:8014bdb8	Circle (Hōen)
+BATTLE:8014bdcc	Echelon (Gankō)
+BATTLE:8014bde0	Arrowhead (Hōshi)
+BATTLE:8014bdf0	Crescent (Engetsu)
+BATTLE:8014be04	Wheel (Kurumagakari)
+BATTLE:8014be40	The basic formation, in a single line.\nNo special advantage over any other.
+BATTLE:8014be80	An offensive formation layered like scales.\nStrong against Line\nand Circle.
+BATTLE:8014bed8	A defensive formation like a crane's wings.\nStrong against Fish Scale.
+BATTLE:8014bf28	A defensive formation set in a ring.\nStrong against Echelon.
+BATTLE:8014bf70	An offensive formation like geese in flight.\nThe whole army moves faster.\nStrong against Crescent.
+BATTLE:8014bfdc	An offensive formation shaped like an arrow.\nStrong against Line\nand Crane Wing.
+BATTLE:8014c028	A defensive formation, backs to the water.\nStrong against Fish Scale,\nArrowhead and others.
+BATTLE:8014c080	A powerful offensive formation like a waterwheel.\nStrong against Crane Wing, Circle and others.\nNot badly weak against any formation.
+BATTLE:8014c178	Uesugi Kenshin only
+BATTLE:8014c18c	Tactics needed
+BATTLE:8014c19c	Strong against
+BATTLE:8014c1a8	Weak against
+BATTLE:8014c1d8	Formation
+BATTLE:8014c1e8	Losses
+BATTLE:8014c1f4	Effect:
+BATTLE:8014c200	Leader
+BATTLE:8014c20c	Troops
+BATTLE:8014c218	Funds
+BATTLE:8014c224	Rice
+BATTLE:8014c230	Avg morale
+BATTLE:8014c23c	Training
+BATTLE:8014c248	Avg fatigue
+BATTLE:8014c254	Defence
+BATTLE:8014c280	%4u/%y/%y (%y days left)
+BATTLE:8014c298	Siege of %s
+BATTLE:8014c2a4	Flooding
+BATTLE:8014c2b0	Besieging
+BATTLE:8014c2bc	Flood works done
+BATTLE:8014c2cc	Flood works under way
+BATTLE:8014c2dc	Attacking castle
+BATTLE:8014c2e8	Preparing siege
+BATTLE:8014c2f4	Field battle
+BATTLE:8014c300	Besieged (flooded)
+BATTLE:8014c318	Entering castle
+BATTLE:8014c328	Besieged (encircled)
+BATTLE:8014c33c	Retreating inside
+BATTLE:8014c348	Field battle (flooded)
+BATTLE:8014c360	Sortie (attacking)
+BATTLE:8014c37c	Sortie (siege watch)
+BATTLE:8014c394	Field battle (siege watch)

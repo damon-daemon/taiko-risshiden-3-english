@@ -1,0 +1,364 @@
+@100
+I spread rumours in a castle held by the {p00}.
+@183
+I see no need to grow closer to your house than this.
+@300
+\_\_\_\_\_- Azuchi Castle: Lord's Room -
+@301
+My lord, the move to Azuchi is now complete.
+@302
+I see. Well done.
+@303
+...{a6d0000}, look at Azuchi's castle town. Lord Nobunaga built this town. It was the town of his dreams...
+@304
+...\n...Lord Nobunaga...
+@306
+From now on we shall work for the Oda clan here at Azuchi. Strive harder than ever. Is that clear?
+@315
+My lord, pardon the intrusion!
+@316
+Why such haste? What is it?
+@317
+It is this... Lord Hideyoshi has raised a revolt at Nijō Castle, and Lord Nobutaka has fallen in battle.
+@318
+What?! That monkey has finally turned his blade on the house he serves!
+@319
+Damn it! I let my attention wander to other clans, and this is what comes of it... A blunder!
+@320
+Gather everyone at once. We hold an emergency council - no, a war council!
+@326
+\_\_\_\_- Himeji Castle: Lord's Room -
+@327
+...So my luck has run out at last...
+@328
+...Is Hidenaga not here? {w}Hidenaga?
+@329
+My lord, what is it?
+@330
+Set fire to the powder magazine.
+@331
+!!\nMy lord! You cannot mean it...
+@332
+...Say nothing. My life ends with the dream half done. At least let me meet the end in splendour.
+@333
+...\n...Brother...
+@334
+Do not make that face. Let us go out with a bang! Wa ha ha ha!
+@335
+...Yes. That is just like you, Brother.
+@336
+Then I leave it to you!
+@343
+...{w}Mm...
+@344
+You are awake?
+@345
+Where am I...? {w}{w}...H-{w}Himeji Castle?!
+@346
+Himeji Castle has fallen.
+@347
+What?!
+@348
+You were unconscious all this time, Lord {a6d0000}... But I am so glad you are safe...
+@349
+In the end, Lord Katsuie took Himeji Castle. Hideyoshi... took his own life.
+@350
+The keep blew up, and gold rained down all around. It was a magnificent end, just like him.
+@351
+...\n{w}I see...
+@352
+{a6d0000}, you are awake. We were all afraid you might never open your eyes again.
+@353
+Your battle wounds have not healed yet. Do not overdo it.
+@354
+So Hideyoshi too was a man of this age of war... He went out in a blaze of glory...
+@355
+...\nIs this, too, the fate of a warrior in an age of war...?
+@357
+We must build a peaceful world. For Lord Nobunaga, for Lord Nobutaka, {w}and for Hideyoshi as well.
+@366
+So Hideyoshi has moved into Azuchi, I hear. Over Lord Nobutaka's head, into Lord Nobunaga's Azuchi...
+@367
+...The insolence of the man! I will not forgive it!
+@368
+Your anger is only natural, my lord, but as long as Lord Hideyoshi is Lord Sanbōshi's guardian, we cannot object to his entering Azuchi Castle.
+@369
+That is exactly why I cannot forgive it! The moment Lord Nobunaga died, he put on the face of a man who owns the realm.
+@372
+...Still, I bear some blame too, for failing to make Lord Nobutaka the heir...
+@373
+Brooding like this will get us nowhere.
+@374
+First, let us think how to keep too much power from gathering in Lord Hideyoshi's hands.
+@375
+Hm. You are right.
+@380
+What is it, {a6d0000}? What do you want?
+@381
+My lord, I hear an envoy has come from Lord Hashiba?
+@382
+I am told word has come of Lord Nobunaga's funeral...
+@383
+Hmph! That monkey, already playing the heir!
+@384
+Why should I trouble myself to attend a funeral held by a man who is not the heir? Someone, send word to Lord Nobutaka!
+@385
+Tell him that Lord Nobunaga's funeral should properly be conducted by Lord Nobutaka, and that there is no need to attend any funeral held by Hideyoshi!
+@386
+My lord!!\nYou cannot do that!
+@387
+If neither you nor Lord Nobutaka attend this funeral, Lord Hideyoshi will show the world his power!
+@388
+I do not care about that! Whatever you say, I cannot attend such a funeral!
+@389
+But, my lord...
+@390
+Enough, be silent! My mind is made up! Get out, you too!
+@397
+\_\_\_- Yoshida-Kōriyama Castle: Lord's Room -
+@398
+I am {a660000}, a retainer of Shibata Katsuie. It is a great honour to be granted an audience today.
+@399
+Hm, you have come a long way. Well done.
+@400
+Without delay, let us hear why you have come.
+@401
+Yes. My master, Lord Katsuie, wishes to keep good relations with you, Lord Terumoto.
+@403
+...I understand Lord Katsuie's thinking well.
+@404
+I have long heard of his sense of duty.
+@405
+With Lord Nobunaga gone, it will fall to Lord Katsuie to hold the Oda clan together.
+@407
+Yes, we will lend our aid in time of need...
+@408
+I will prepare a letter. Please hand it to Lord Katsuie.
+@409
+Yes, thank you most kindly!
+@417
+How did it go?
+@418
+Yes, my lord. All went well. Here is Lord Terumoto's letter.
+@419
+Hm, well done.
+@420
+By the way, how are the other negotiations?
+@421
+Peace with the Uesugi was reached without trouble... But Narimasa failed to win the Tokugawa over...
+@422
+Still, the Tokugawa are hardly likely to attack us of their own accord.
+@423
+Let us be content with the cooperation of the Uesugi and the Mōri.
+@430
+\_\_\_\_- Okazaki Castle: Lord's Room -
+@432
+Hm, there is no need to be so formal. More to the point, let us hear why you have come today.
+@433
+Yes. My master, Lord Katsuie, wishes to go on keeping good relations with the Tokugawa clan.
+@434
+I see...
+@435
+...I understand Lord Katsuie's thinking well.
+@439
+Hm, we have no objection to cooperating.
+@440
+I shall prepare a letter now. Please hand it to Lord Katsuie.
+@446
+And how did it go?
+@447
+Yes, my lord. All went well. Here is Lord Ieyasu's letter.
+@450
+Hm. Peace with the Uesugi is made, and Narimasa has returned with the Mōri's cooperation too.
+@451
+Now no one should get in the way of our decisive battle with Hideyoshi.
+@458
+Now then, let us hear why you have come today.
+@459
+Yes. My master, Lord Katsuie, wishes to make peace with you, Lord Kagekatsu, to keep good relations.
+@462
+We too wish now to make our land prosper and put the happiness of our people first.
+@463
+With Lord Nobunaga gone, Lord Katsuie will have no need to press his campaign in Hokuriku.
+@465
+Hm. We shall accept Lord Katsuie's offer.
+@466
+Then I shall prepare a letter now. Please hand it to Lord Katsuie.
+@475
+Yes, my lord. All went well. Here is Lord Kagekatsu's letter.
+@478
+No, only peace with the Uesugi has been made... It seems Hideyoshi has already worked on daimyō everywhere.
+@479
+Still, thanks to you, {a6d0000}, there is no longer a chance of the Uesugi striking us from behind.
+@480
+Well, we must be content with that much.
+@494
+By the way, how did the talks with the Tokugawa go?
+@495
+Hmm... Narimasa failed to persuade the Tokugawa.
+@497
+Let us be content that we won the Mōri's cooperation.
+@507
+By the way, how did the talks with the Mōri go?
+@508
+Narimasa returned too, having won the Mōri's cooperation.
+@509
+Now no one should get in the way of our decisive battle with Hideyoshi. Well done.
+@515
+\_\_\_\_\_- Kitanoshō Castle: Inside the Castle -
+@516
+My lord, this is serious!
+@517
+What on earth is it?!
+@518
+I hear Lord Hashiba's forces have surrounded Nagahama.
+@519
+What?!...\n...Nagahama...
+@521
+Hashiba's army seems to be attacking Lord Takigawa's forces in Ise.
+@523
+Do I send reinforcements now? But there is Nagahama too... What am I to do...
+@524
+My lord! A report! Lord Hashiba has begun an attack on Lord Oda Nobutaka!
+@525
+Grr...\nThat monkey!\nI will not let him live!!
+@526
+Gather the retainers in the castle town - no, every retainer in Echizen - to the castle at once! We hold a war council!
+@535
+\_\_\_\_\_\_- Takahama Castle: Inside the Castle -
+@536
+Oh, well, well. Lord {a730000}, was it?
+@537
+Yes, I am {a660000}, a retainer of Shibata Katsuie.
+@538
+I have an urgent request to make.
+@539
+Hm... I have little time, as I am about to march out, but I will at least hear you.
+@540
+Y-you cannot mean to join Lord Hideyoshi...?
+@541
+Yes, Lord Hashiba asked it of me.
+@542
+Then you may already know that Lord Katsuie and Lord Hideyoshi will soon open hostilities near Shizugatake.
+@543
+Lord Niwa, I beg you, please lend your strength to Lord Katsuie!
+@546
+Speak of Hideyoshi's disloyalty\nSpeak of Katsuie's advantage\nSpeak of your friendship with Katsuie
+@548
+I understand your feelings, Lord Niwa.
+@549
+Lord Hideyoshi has grown especially strong among the Oda retainers now.
+@550
+Yet he turned his blade on Lord Nobutaka, who, though not his lord, was Lord Nobunaga's adopted son.
+@552
+Lord Katsuie has always put loyalty to the Oda clan first.
+@553
+Power without loyalty will one day destroy a house.
+@554
+Righteousness lies with Lord Katsuie.
+@555
+I know you cannot aid us, but could you at least withdraw from this war?
+@557
+You know well how Lord Katsuie commands in the field, Lord Niwa.
+@558
+And even with Lord Nobutaka gone, Lord Katsuie remains the foremost Chief Retainer of the Oda clan.
+@559
+On both counts, the advantage lies with Lord Katsuie. I beg you, lend us your aid.
+@562
+But have you and Lord Katsuie not long upheld the Oda clan together?
+@564
+For the sake of your friendship with Lord Katsuie, could you not lend us your strength?
+@570
+...Very well.
+@571
+Will you lend us your strength?!
+@572
+No, I need a while to think it over.
+@573
+...I see... I shall await a favourable reply.
+@581
+Lord Sanbōshi! Lord Sanbōshi, where are you?!
+@582
+Dah, dah...
+@583
+Lord Sanbōshi!
+@584
+Ooh... hee hee!
+@585
+Good, we have taken Lord Sanbōshi back from Hideyoshi too! Gather the retainers in the Council Hall!
+@595
+Lord Katsuie, what is it you wish of me?
+@596
+...Come, sit down.
+@597
+...{a6d0000}...
+@598
+Mother... I mean, Lady Oichi! It is you!
+@599
+"Mother" is fine. There is no one here but us.
+@600
+But... why?
+@601
+Do not ask... You know it too. There is no victory left for me now...
+@602
+Lord Katsuie!!
+@603
+You have grown so strong, {a6d0000}.
+@604
+M-Mother, what are you saying? It has not been long since I met you again.
+@605
+No. Every day you grow a little more gallant, and a little stronger.
+@606
+You may not have noticed, but even your face... is like Lord Katsuie's...
+@607
+D-does it?
+@608
+You are the very image of Lord Katsuie when he was young...
+@609
+Oichi, do not tease {a6d0000} so.
+@610
+No, you two truly are alike.
+@611
+To have passed on Lord Katsuie's blood and mine like this... I am truly... truly happy...\n...
+@612
+Here we are, talking together as a family. Do not weep so.
+@613
+Yes...{w}{w}yes...{w}
+@618
+All the same... you have to hand it to Hideyoshi.
+@619
+He truly has the makings of the man who rules the realm.
+@620
+The age of rough warriors like me is over...
+@621
+Father...
+@622
+Come, this is our parting cup. Drink with us.
+@623
+...\n{w}Yes.{w}
+@625
+And so the first and last hours the three of them spent together as a family passed quietly by...
+@627
+...{a6d0000}. You must... {w}get away.{w}
+@628
+Father!!\nWhat are you saying?!
+@629
+Escape with Sae. Hashiba's army is almost upon us. Hurry!!
+@630
+No, I will stay! I will fight beside you, Father, to the end.
+@631
+You fool!
+@632
+Do not {w}break my heart...
+@633
+You are the only one who carries Lord Katsuie's blood and mine...
+@634
+Live on... And build a peaceful world with no war...
+@635
+...{w}{w}Yes.
+@636
+Now, go!
+@638
+Thus Shibata Katsuie ended his life together with Lady Oichi.
+@639
+Kitanoshō Castle vanished in the flames. Yet from its ashes, no body of {a660000} was ever found...

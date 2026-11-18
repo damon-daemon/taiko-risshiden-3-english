@@ -1,0 +1,422 @@
+@3
+I am Yagyū Sekishūsai.
+@4
+So you are Lord {a660000}? I have heard much about you.
+@5
+Forgive my discourtesy. I am Yagyū Sekishūsai, at your service.
+@7
+Oh? And what brings you here?
+@8
+Ah, it is you... How may I help you?
+@9
+Good of you to come.
+@10
+Ah, welcome. I hear of your deeds as a pillar of the {p00} clan.
+@11
+Welcome. Thank you for coming.
+@13
+Ah, welcome.
+@14
+Welcome.
+@16
+That is the end of this training.
+@17
+That ends this training. Come again.
+@18
+This training is now finished. Please come again.
+@19
+You have learned the basics of martial arts. What matters is to know your own strength and never fight a battle you will lose.
+@21
+You have grasped the basics of martial arts. Know your own strength and fight no battle you will lose. That is essential.
+@22
+Still, at times you will face a strong foe. Then do not forget the saying: "Let him cut your flesh, while you cut his bone."
+@23
+At times you will face a strong foe. Then: "Let him cut your flesh, while you cut his bone"... That shall be your foundation.
+@24
+The art of war is not for cutting men down, but for slaying evil. It is the means to slay one evil and let ten thousand live...
+@25
+It seems you understand its meaning too.
+@27
+To cut down any foe without fear, be he a demon from hell... You seem to have found that resolve too.
+@29
+To cut down without fear any foe, be he a demon incarnate... You seem to have found that resolve.
+@30
+The secret is seen beyond life and death... It is gained only by one who is ready to die.
+@31
+But not everyone can resolve himself so. What matters is to give your men the certainty of survival and take away their fear.
+@32
+A warrior truly lives only once he has died, for the secret is gained only by one prepared for death.
+@33
+Yet in the great art of war, what matters is to give your men the certainty of survival. Do you understand?
+@34
+The secret is seen beyond life and death... It is gained only when readiness for death has banished all doubt.
+@35
+Yet since not everyone can reach that state, in the great art of war it is essential to give your men the certainty of survival.
+@36
+I understand.
+@37
+Then I shall say no more. There is nothing left for me to teach you.
+@39
+Then I will say nothing more. There is nothing left that I could teach you.
+@41
+If your house is in grave trouble, you must rush to it before all else. The training can wait for another time.
+@42
+Urgent business for your house is a chance to rise. Go and fight with all your might.
+@43
+It is time to show the fruits of your training. I shall await good news.
+@44
+Without money there is no training. In war terms, you have run out of provisions.
+@45
+You seem to be out of money. In war terms, you are out of provisions. Resupply well and come again.
+@46
+You seem to have run out of funds. Please come again.
+@47
+Right, that's it for this training.
+@48
+That is the end of this training. Come again, won't you?
+@49
+This training is over. Come and train again when you have time.
+@50
+This training is now finished. When you have time, please come and train again.
+@51
+At last you have learned the basics of martial arts.
+@52
+You have learned the basics of martial arts. Keep up the good work.
+@53
+You have grasped the basics of martial arts.
+@54
+You have grasped the basics of martial arts. If you wish to improve further, please come and train again.
+@55
+You have improved a great deal. I have nothing more to teach you.
+@56
+If you wish to master martial arts, go and visit Lord Yagyū Sekishūsai of Iga-Ueno.
+@57
+You have improved a great deal. There is nothing more I can teach you.
+@58
+If you wish to master it further, go and visit Lord Yagyū Sekishūsai of Iga-Ueno.
+@59
+Magnificent. I have nothing more to teach you.
+@60
+If you wish to master martial arts further, please visit Lord Yagyū Sekishūsai of Iga-Ueno.
+@61
+You have trained well. I have nothing more to teach you.
+@62
+If you wish to aim higher still, please visit Lord Yagyū Sekishūsai of Iga-Ueno.
+@63
+I doubt your going will change much... but so be it. Your house needs you.
+@64
+If your house needs you, so be it.
+@65
+If it is urgent business for your house, stopping the training is only natural. I pray for your fortune in war.
+@66
+Urgent business for your house, I see. Now is the time to show the strength you have honed.
+@67
+You seem to be out of money. So the training is suspended.
+@68
+Hm?! You seem to be out of money. Come back when you have some.
+@69
+You seem to be out of money. Please come again another time.
+@70
+Oh? You seem to be short of money. Please come again.
+@71
+Appraising arms will cost you 10 kan a piece.
+@72
+My fee for appraising arms is 10 kan a piece.
+@73
+Arms appraisal is 10 kan a piece.
+@74
+Pay me 10 kan a piece, and I'll appraise them.
+@75
+Appraising arms? That's 10 kan a piece.
+@76
+An appraisal of arms, is it? The fee is 10 kan a piece.
+@77
+Appraising arms, is it? I charge 10 kan for each piece.
+@78
+Ah, wait... I have no unappraised arms.
+@79
+What are you spacing out for?
+@80
+Hm? What on earth is the matter?
+@81
+Is something wrong?
+@82
+You look half asleep. What's wrong?
+@83
+What's up, then?
+@84
+What is wrong?
+@85
+May I ask what the matter is?
+@86
+Forgive me. It turns out I had nothing to be appraised.
+@87
+With such carelessness, a hundred lives would not be enough. Be careful from now on.
+@88
+Fool! How can you be so careless? If I were your lord, I'd have your head!
+@89
+...Even the slightest lapse is a golden chance for the enemy. Never forget it...
+@90
+A lapse like that can cost you your life on the battlefield. Be careful from now on.
+@91
+How careless... Be careful from now on.
+@92
+I see. Please be careful from now on.
+@93
+Is that so? Well then, never mind.
+@95
+Then I cannot appraise it. But to forget your money... That is carelessness beyond measure.
+@96
+Then I cannot appraise it. Careless indeed... Take care no one cuts your throat as you sleep.
+@97
+Then I cannot appraise it. Call it carelessness if you will... but take care from now on.
+@98
+You don't even have that much money? It never hurts to have money.
+@99
+Then I cannot appraise it.
+@100
+Then I'm afraid I cannot appraise it.
+@101
+Oh? You seem short of money. Please come again another time.
+@102
+Oh, this is {p00}. Truly a masterpiece, just as rumour says... I am deeply impressed.
+@103
+Oh, this is {p00}. I had heard of it, but... it surpasses all I heard.
+@104
+Oh, this is {p00}. I had heard of it, yet it is finer even than its fame.
+@105
+W-wonderful! This is {p00}! Truly wonderful!!
+@106
+Th-this is... {p00}! To think I would lay eyes on such a piece...
+@107
+Th-this is wonderful. {p00}, is it? Just looking at it is a delight.
+@108
+Hm? Th-this is... It is without doubt {p00}. Ah, wonderful.
+@109
+Hm, this is {p00}. A splendid piece.
+@110
+Hmm! This is surely {p00}. A splendid piece, just as rumour says.
+@111
+This is {p00}! As splendid as its reputation.
+@112
+This is {p00}. It is rarely seen, so take good care of it.
+@113
+Hm?! This is {p00}. You should take good care of it.
+@114
+Hm?! This is {p00}. My, truly a splendid piece.
+@115
+Th-this is {p00}. Truly a fine piece.
+@116
+This is {p00}.
+@117
+This is {p00}.
+@124
+Is there anything else to appraise?
+@125
+Do you have anything else to be appraised?
+@126
+Anything else to appraise?
+@127
+Got anything else to appraise?
+@129
+Is there anything further you wish appraised?
+@130
+Understood.
+@131
+None, then. Understood.
+@132
+None, then. Very well.
+@133
+None, eh? Got it.
+@134
+Nothing else, then. Understood.
+@135
+Nothing else, then. Very well.
+@138
+I wish to learn martial arts and so to study under you...
+@139
+There is nothing left to teach. You have earned full mastery of the school.
+@140
+There is nothing left to teach. Wield that sword for your house and for the people.
+@141
+There is nothing left to teach. Wield to the full the sword you won by reaching a mind free of thought.
+@142
+I understand. I shall show it in full - no, more than in full.
+@143
+Stop joking. You have already mastered martial arts.
+@144
+You have already mastered martial arts. There is nothing to teach you.
+@145
+Your martial arts are already perfect. There is nothing for me to teach you.
+@146
+There is nothing a man like me could teach someone who has mastered martial arts as you have.
+@147
+I see. (So it cannot go any higher than this.)
+@148
+There is nothing more I can teach you. If you want to hone it further, go to Lord Yagyū Sekishūsai at Iga-Ueno.
+@149
+There is nothing more I can teach you. If you aim higher still, go to Lord Yagyū Sekishūsai at Iga-Ueno.
+@150
+There is nothing more I can teach you. If you wish to improve further, visit Lord Yagyū Sekishūsai at Iga-Ueno.
+@151
+There is nothing more I can teach you. If you wish to raise your martial arts further, please visit Lord Yagyū Sekishūsai at Iga-Ueno.
+@152
+For you it will cost {p00} a day.
+@153
+From you I will take {p00} a day.
+@154
+From you I would ask {p00} a day.
+@155
+It'll cost you {p00} a day.
+@156
+I charge {p00} a day.
+@157
+You will need {p00} a day.
+@158
+The fee is {p00} a day.
+@160
+How long do you mean to train?
+@161
+How long do you intend to train?
+@162
+How long will you train?
+@163
+How long are you training for?
+@164
+How long will you be training?
+@165
+Then how long will you train?
+@166
+How many days will you train?
+@167
+Then how many days do you mean to train?
+@168
+Then how many days do you intend to train?
+@169
+How many days will you train?
+@170
+How many days are you training for?
+@171
+How many days will you be training?
+@172
+Then how many days will you train?
+@173
+{b00} day{s}, then?
+@176
+{b00} day{s}, is that right?
+@177
+{b00} day{s} of training, eh?
+@178
+{b00} day{s} of training, then?
+@179
+Then you will train for {b00} day{s}?
+@181
+Then let us begin training at once.
+@183
+All right, we begin the training.
+@184
+Good, let us begin the training.
+@185
+Then let us begin the training at once.
+@186
+Then, if you please, let us begin the training at once.
+@187
+Until your martial arts improve?
+@188
+You will train until your martial arts improve?
+@189
+So you will train until your martial arts improve?
+@191
+Until your martial arts improve, then?
+@193
+You wish to train until your martial arts improve, then?
+@194
+Fool! You have no money! I can't train someone like that.
+@195
+You lack the money. That is like going to war without provisions. Take care.
+@196
+You do not have enough money. Please come again another time.
+@197
+You don't have enough money. I can't let you train like this.
+@198
+You don't have enough money. I can't train you like this.
+@199
+You seem not to have enough money. I cannot train you like this.
+@200
+Oh, you seem not to have enough money. Please come again.
+@202
+Normally I take 10 kan each, but you are special. I will look at them for nothing.
+@203
+Normally I charge 10 kan each, but you are special. I shall appraise them free of charge.
+@204
+At the moment I have no new rōnin I can introduce.
+@205
+For the moment there is no new rōnin I can introduce to you.
+@206
+It cannot be for nothing. From you I shall take {p00}.
+@207
+I charge a fee for introductions. From you, I would ask {p00}.
+@208
+I don't have enough money. I have no choice but to give up for now.
+@210
+What would you do?
+@211
+What would you like to do?
+@212
+What will you do?
+@215
+With your talent, no further improvement is likely. You had best give up the training.
+@216
+With your talent, you cannot hope to improve beyond this. Sadly, I must refuse to train you.
+@217
+Every man is born with certain talents. Sadly, yours do not seem to lie in martial arts.
+@218
+So I must decline to train you. From now on, think how to use men of high martial skill.
+@219
+Let me be plain: however much you train, you won't improve. So I refuse.
+@220
+It is hard to say, but more training will not improve your martial arts. Let us stop the training.
+@221
+Each of us has our strengths and weaknesses. You are not suited to martial arts. Let us stop the training.
+@222
+I believe that more training will not improve your martial skill any further.
+@223
+I believe your hands are meant not to hone martial arts but to command the realm. You have no need of martial training.
+@224
+Your martial arts have improved. This is the highest skill your Military can reach.
+@225
+Splendid, your martial skill has improved. This is the highest skill your Military can reach.
+@226
+Congratulations on your improvement. You have reached the highest martial skill Lord {a660000}'s Military can attain.
+@227
+Your martial arts have improved. Congratulations. This is the highest your Military can reach, so you need no more training.
+@228
+When you feel like it again, come and train.
+@229
+Whenever you feel like continuing, you may train again.
+@230
+When you feel like it again, please resume your training.
+@231
+If you want to stop, then so be it.
+@232
+It seems a little wasteful, but if you wish to stop, so be it.
+@233
+It's a bit of a shame to stop, but very well.
+@234
+It is a little regrettable that you stop, but as you wish.
+@235
+Allow me a little sermon. Weapons can make men drunk on blood, and the spirit of rebellion may dwell in them too.
+@236
+So when you carry out Win Hearts, a Sword Hunt will have a great effect.
+@237
+You can now carry out "Sword Hunt" when given a Win Hearts mission.
+@238
+Shall I introduce a rōnin?
+@239
+{p02} is at {p01} in {p00}.
+@240
+You will find {p02} at {p01} in {p00}.
+@242
+You want me to introduce a rōnin?
+@300
+That is enough martial arts for now.

@@ -1,0 +1,1816 @@
+@0
+The road is cut off, so you cannot reach the target. Please choose another place.
+@1
+Cancel the move?
+@2
+Cancel the wait?
+@3
+Enter {p00}?
+@4
+Oops, this is no time to be stopping at {p00}.
+@5
+{p00} is a castle under the care of {a6d0000}. Enter it?
+@6
+An army cannot enter a town.
+@7
+{p00} is a castle of the {p01}, but {a6d0000} does not manage it. You cannot enter.
+@8
+{p00} is the castle of an allied daimyō. You cannot enter.
+@9
+There is an army in that place.
+@10
+{p00} is under attack at present. You cannot move there until the battle ends.
+@12
+There is a friendly army in that place.
+@13
+There is an allied daimyō's army in that place.
+@14
+A non-hostile daimyō's army is fighting there. You cannot attack until the battle ends.
+@15
+There is a non-hostile daimyō's army in that place.
+@16
+A hostile daimyō's army is fighting there. You cannot attack until the battle ends.
+@17
+There is a non-hostile daimyō's army in that place. Attacking will worsen diplomatic relations. Attack anyway?
+@19
+There is a hostile daimyō's army in that place. Attack it?
+@20
+{p00} is not a target castle of your mission.
+@21
+A friendly army is camped outside the castle, so you cannot attack the castle.
+@22
+An allied army is camped outside the castle, so you cannot attack the castle.
+@23
+An army is fighting outside the castle. You cannot attack the castle while an army is there.
+@24
+A non-hostile daimyō's army outside the castle prevents an attack on the castle. Attacking that army will worsen diplomatic relations. Attack it?
+@25
+A non-hostile daimyō's army outside the castle prevents an attack on the castle. Wait here, or choose another place.
+@26
+An enemy army is camped outside the castle. Attack it?
+@27
+{p00} is under attack at present, so you cannot attack it.
+@28
+{p00} is the castle of a non-hostile daimyō. Attacking will worsen diplomatic relations. Attack anyway?
+@29
+{p00} is the castle of a hostile daimyō. Attack it?
+@30
+{p00} is a target castle of your mission. Attack it?
+@31
+That place is not connected to the place where {a6d0000}'s army stands, so you cannot reach it.
+@32
+Days to {p00}: {b00}. It is under attack, so you cannot move to the castle.
+@33
+Days to {p00}: {b00}. Move there?
+@35
+Days to {p00}: {b00}. It is under attack, so you cannot attack the castle.
+@37
+Days to {p00}: {b00}. It is a target castle of your mission, but it is under attack, so you cannot attack it.
+@38
+Days to {p00}: {b00}. It is not a target castle of your mission, so you cannot attack it even when adjacent.
+@40
+Days to {p00}: {b00}. {a6d0000} manages this castle, so you may enter. Move there?
+@41
+Days to {p00}: {b00}. {a6d0000} does not manage this castle, so you cannot enter. Move there anyway?
+@42
+Days to {p00}: {b00}. It is the castle of an allied daimyō. You cannot enter, but you can move to the castle. Move there?
+@43
+Days to {p00}: {b00}. It is the castle of a non-hostile daimyō. You can attack once you have moved nearby. Move there?
+@44
+Days to {p00}: {b00}. It is the castle of a hostile daimyō. You can attack once you have moved nearby. Move there?
+@45
+Days to {p00}: {b00}. It is a target castle of your mission. You can attack once you have moved nearby. Move there?
+@46
+Days to {p00}: {b00}. It is not a target castle of your mission, so you can neither attack nor enter.
+@47
+You are already there.
+@48
+There is another army in that place.
+@51
+There is a non-hostile daimyō's army in that place, but it is fighting, so you cannot attack.
+@52
+{a6d0000} cannot attack the army of a non-hostile daimyō.
+@53
+A hostile daimyō's army is fighting there. You cannot attack until the battle ends. Will you wait here, or...
+@54
+There is a non-hostile daimyō's army in that place. Attacking will worsen diplomatic relations. Attack anyway?
+@57
+That place is not connected to here, so you cannot reach it.
+@58
+Days to that place: {b00}. Another army is there, so you cannot move there.
+@59
+Days to that place: {b00}. Move there?
+@60
+Days to that place: {b00}. A friendly army is there, so you cannot move there.
+@61
+Days to that place: {b00}. An allied daimyō's army is there, so you cannot move there.
+@62
+Days to that place: {b00}. A non-hostile daimyō's army is there, but you cannot attack until its battle ends.
+@63
+Days to that place: {b00}. A non-hostile daimyō's army is there, so you cannot move there.
+@64
+Days to that place: {b00}. A hostile daimyō's army is there, but you cannot attack until its battle ends.
+@65
+Days: {b00}. A non-hostile daimyō's army is there. You can attack, but diplomatic relations will worsen.
+@66
+Days: {b00}. A non-hostile daimyō's army is there, so you cannot move there.
+@67
+Days: {b00}. A hostile daimyō's army is there. You can attack once you have moved nearby. Move there?
+@68
+{p00} is not connected to here, so you cannot return. Disband the army?
+@69
+Disbanding an army in the field loses all its supplies and soldiers. Really disband the army?
+@70
+Days to {p00}: {b00}. Return there?
+@71
+Days to {p00}: {b00}. It is under attack, so you cannot move to the castle until the battle ends.
+@72
+How many days will you wait?
+@73
+Distance covered per day: {b00}. Another army blocks the way, so you cannot move.
+@74
+The army of the {p00} is adjacent. It is not a hostile daimyō's army, so attacking will worsen diplomatic relations. Attack?
+@75
+The army of the {p00} is adjacent. It is a hostile daimyō's army, so you can attack it. Attack?
+@76
+Several armies you can attack are adjacent. Attack?
+@77
+Choose the army to attack.
+@78
+That army belongs to the non-hostile {p00}. Attacking will worsen diplomatic relations. Attack anyway?
+@79
+That is an army of the hostile {p00}. Attack it?
+@80
+The adjacent {p00} is the castle of a non-hostile daimyō. Attacking will worsen diplomatic relations. Attack anyway?
+@81
+The adjacent {p00} is the castle of a hostile daimyō. Attack it?
+@82
+The adjacent {p00} is a target castle of your mission. Attack it?
+@83
+Several castles you can attack are adjacent. Attack?
+@84
+Choose the castle to attack.
+@85
+{p00} is the castle of a non-hostile daimyō. Attacking will worsen diplomatic relations. Attack anyway?
+@88
+{p00} is under attack, so you cannot enter.
+@89
+The target army is fighting. You cannot attack until the battle ends.
+@90
+The target castle is under attack. You cannot attack until the battle ends.
+@91
+{c01}- How to Travel -\n The map of Japan holds many castles and towns.
+@92
+{c01}Castles of your own side are shown in blue, castles of hostile forces in red.
+@93
+{c01}If you know where you are going, select the place directly and you will head there.
+@94
+{c01}If you do not know the way, press Square and choose "Mission", "By Province", "By Daimyō" or "All".
+@96
+{c01}A list of target castles appears. Select the castle you wish to visit and you will head there.
+@97
+{c01}While you hold a mission, "Mission" is handy: it lists only the castles the mission involves.
+@98
+{c01}For example, with a mission to survey prices in Mino, every castle in Mino is listed.{c09}
+@100
+Hey, hey! You there, sir!
+@101
+I peddle my wares around here, sir. Do have a look at my goods!
+@102
+Heh heh heh. That's the spirit!
+@103
+I look a bit rough, so folk misjudge me... Come on, please, sir! You won't lose by it!
+@104
+Is that so? Judging a man by his looks! Fine, I won't ask again!
+@105
+I've got just the thing in {p00} for you, sir. Usually it's {b00} kan, but for you... how about {b01} kan?
+@106
+Ah, you've made a fine purchase, sir! Well then, I'll take my leave. Heh heh heh.
+@107
+Is that so... Then let's forget it. Ah, what a waste, what a waste...
+@110
+Wait here\nChoose another place
+@111
+Choose another place.
+@112
+Move to the vicinity?
+@115
+Damn, our retreat is cut off! There's nothing for it... Scatter, every man, and fall back to {p00}!
+@116
+I've seen this somewhere before...
+@117
+{d02}I've been cheated! "Usually {b00} kan, now {b01} kan"? It's cheap junk!!
+@118
+Hmm, it needs an appraisal before I know its worth. I hope it's a good one.
+@300
+The fort will take ten days to build. Until then, hold this place at all costs!
+@301
+{a6d0000}!
+@302
+Yes, my lord? What is it?
+@303
+Sneak into Inabayama Castle, set it afire and throw the castle into confusion.
+@304
+Rather than just storm it, we break the castle from within and cut down the men who count in battle. Then we can crush it with ease.
+@305
+This battle hinges on your work. Is that clear?
+@306
+{a6d0021}, bring me the leading men of the Hachisuka band, and {a6d0028}.
+@308
+My lord, I have brought them.
+@309
+But can we truly sneak into Inabayama Castle and set it afire?
+@310
+Sneaking in the ordinary way would be impossible. But {a6d0028} knows the way to Inabayama.
+@311
+Can we really rely on this fellow?
+@313
+Oh? Want a fight?
+@314
+Stop it! There is no other way into Inabayama Castle! We have no choice now but to rely on {a6d0028}.
+@315
+{a6d0028}, understood? I'm counting on you!
+@316
+\_\_\_\_\_\_\_\_- The Animal Trail to Inabayama Castle -
+@317
+Hey, is this the right way? Did you take a wrong turn somewhere? There's no sign of a castle at all.
+@318
+Quiet!
+@319
+What?! Why, you...!!
+@320
+Stop it! Having come this far, we have no choice but to trust him and follow.
+@321
+Look, we're here.
+@322
+Oh! Inabayama Castle!!
+@323
+Good, we go in as soon as we are ready! Once inside, set fires and spread rumours to throw them into confusion. Understood?
+@324
+The Saitō army lost troops. Inabayama Castle's Defence fell.
+@325
+Hey, Tōkichirō. This has arrived for you from home.
+@327
+Wh-what's this!
+@328
+A haori made by Nene herself!
+@329
+Oh! And here is underwear! How warm it looks!
+@330
+And even a belly wrap! She has thought of everything!
+@331
+{a6d0000}, you are a lucky man.
+@332
+Sniff... Nene, thank you. I will treasure them!
+@333
+Oh, there is a letter.
+@334
+Let's see...
+@335
+Dear husband, are you well?
+@336
+It is only a little, but I have sent you some clothes.
+@337
+Living so long on campaign, you can't be eating properly.
+@338
+When your duty is done, please come straight home. I'll have your favourite sea bream ready and waiting.
+@340
+Sniff... sniff... sniff...
+@341
+{a6d0000}, what is the matter?
+@342
+Forgive me, Lord Toshiie. I was simply overcome.
+@343
+Sniff... Nene, wait for me. I'll come home, I promise!
+@350
+Listen. We retreat to Kyōto now. Is there no one who will take the rear guard?
+@353
+I'll take the rear guard!\nKeep silent and watch
+@354
+My lord, assign the rear guard to me, I beg you!
+@355
+Well said, Hideyoshi. Do not die.
+@356
+Is there no one to take the rear guard!
+@357
+Lord {a730002}, leave this to us Tokugawa.
+@358
+No, I cannot ask Lord {a73003f} to take so dangerous a duty.
+@359
+Is there no one!{w} Damn it, what spineless cowards!
+@360
+{a6d0000}, well said! I entrust this duty to you.
+@361
+Tch, they got away. No matter - we withdraw!
+@362
+Phew. My lord, we held out somehow. I thought this time we were done for. Let's get home and rest.
+@363
+What is that procession?
+@364
+It seems to be the Shogun's procession.
+@365
+So that is the wicked Shogun who betrayed Lord {a6d0002}! And yet Lord {a6d0002} puts on a procession as grand as this for him!
+@366
+Oh my, betraying such a splendid man - how dreadful!
+@367
+Grrr...
+@368
+Kinoshita! Silence those people!
+@369
+As you wish...
+@370
+Be quiet! This is Lord Ashikaga Yoshiaki!
+@371
+Though he plotted rebellion again and again, Lord {a6d0002} forgave him.
+@372
+Since Lord {a6d0002} has forgiven him, you must show him no disrespect! Is that clear?
+@373
+\_\_\_\_\_\_\_\_- In Settsu Province -
+@374
+What! The attack on the Asakura failed? Damn! We'll regroup and try again!
+@375
+Well done, all of you. Only the Azai remain.
+@376
+Lord Kinoshita, a moment. Our lord is calling for you.
+@377
+{a6d0000}, I have a favour to ask of you.
+@378
+A favour from my lord? What is it?
+@379
+Go and meet Azai Nagamasa.
+@380
+Is this about Lady Oichi?\nWhy go to Azai Nagamasa?\nI am to meet Azai Nagamasa!?
+@381
+Odani... Then this is about Lady Oichi?
+@382
+Yes. Negotiate with Azai Nagamasa and rescue Oichi for me.
+@383
+My lord, why must I go to Azai Nagamasa?
+@384
+Oichi. I want you to get her out of there, somehow.
+@385
+Azai Nagamasa - the handsome man of the rumours. I am rather embarrassed.
+@386
+{a6d0000}, I never knew you had such tastes...
+@387
+J-just a joke, my lord! Surely not I, of all men...
+@388
+Truly? Well, never mind. The truth is, I want you to bring Oichi out of there.
+@389
+Lady Oichi?
+@390
+Yes. Can you do it?
+@391
+Understood\nI'm not sure I can do it
+@392
+Understood. Leave it to me, my lord.
+@393
+Good. I am counting on you.
+@394
+I'm not sure I can do it, my lord.
+@395
+"Not sure"? That is no answer. You will do it. Is that clear?
+@396
+Phew... We managed to hold them off.
+@397
+Now the Azai will be quiet for a while.
+@398
+My lord, there was nothing to be done. Let us make sure we win next time.
+@399
+My lord! In that case, assign the rear guard to me!
+@400
+Lord {a730000}, a message from Lord Nobunaga: if Matsunaga Hisahide hands over the "Hiragumo" tea kettle, he is to be pardoned.
+@401
+Understood\nI cannot forgive him this time
+@402
+Understood. I will negotiate with Lord Matsunaga at once.
+@403
+Lord Matsunaga, it is {a660000}.
+@404
+Oh, Lord {a730000}! So the commander of the {a730002} forces in this war is Lord {a730000}!
+@405
+I thought it was about time you rebelled, Lord Matsunaga, so I prepared for war and waited.
+@406
+Just what I'd expect of you, Lord {a730000}. But I, Hisahide, will not fall so easily.
+@407
+Lord Matsunaga, do not say such things. Lord {a6d0002} says he will forgive you if you hand over the "Hiragumo" tea kettle!
+@408
+I, Hisahide, raised my banner meaning this to be my last battle. You need not concern yourself for me.
+@409
+Then there is no choice. Lord Matsunaga, prepare yourself.
+@410
+Heh heh... Tell {a6d0002} how Hisahide met his end.
+@411
+No, this time I cannot forgive him. Even if it is Lord {a6d0002}'s command, this time I will not heed it.
+@412
+But does His Lordship not want the "Hiragumo" tea kettle? If we storm in as we are...
+@413
+We might lose "Hiragumo"...{w} You are right. Let us try to persuade Lord Matsunaga...
+@415
+Oh, Lord {a730000}! So the commander of this war is Lord Hashiba!
+@416
+Indeed. And so I have come to urge you to surrender, Lord Matsunaga.
+@417
+Lord {a6d0002} says he will forgive you if you hand over the "Hiragumo" tea kettle. Not a bad offer, I think?
+@418
+No. Rather than hand over this "Hiragumo", I would sooner fight to the last and die.
+@419
+Then there is no other way. We must take it by force... Lord Matsunaga, prepare yourself!
+@420
+What is Matsunaga Hisahide doing?
+@421
+He is still shut up in the castle and shows no sign of coming out.
+@422
+{d08}Boom!
+@423
+Wh-what?
+@424
+The keep of Shigisan Castle has exploded!
+@425
+He gathered gunpowder and blew it up... Rather than hand over "Hiragumo", he chose to perish in the blast together with it...
+@426
+My lord, Takamatsu Castle is next, is it not? I hear its lord, Shimizu Muneharu, is quite a man.
+@427
+Tell me more\nI'm not interested\nIs he your type?
+@428
+Is he? What sort of man is he, really? Tell me more.
+@429
+From what I have learned, Shimizu Muneharu governs without fault.
+@430
+And as the Mōri clan's deep trust in him shows, he is an excellent commander too.
+@431
+I care nothing for what sort of man Shimizu Muneharu is.
+@432
+Quite so. Whatever sort of man he is, the castle must fall all the same.
+@433
+Kanbee, Shimizu Muneharu... could he be your type?
+@434
+M-my lord! What a thing to say... I have a wife and children!
+@435
+And still you say such things...
+@439
+Anyway, this Takamatsu Castle lives up to its name as the impregnable Takamatsu. It looks tough.
+@440
+Let us ask His Lordship to take the field himself. It will overawe the Mōri as well.
+@441
+I'll write a letter. Ninja, are you there?
+@442
+You called?
+@443
+Get down to business\nFlirt with her
+@444
+Oh, a kunoichi. Appearing the moment I call - impressive.
+@445
+Knowing your eyes are always on me... I find it rather thrilling.
+@446
+Lord {a730000}, please refrain from such indecent talk.
+@447
+F-forgive me...
+@448
+More to the point, why have I been summoned?
+@449
+Right, right! I called you so that you could deliver this letter to Lord Nobunaga.
+@450
+Yes, this castle is best attacked with water.
+@451
+Water? This is low marshland. Dig a well and you get all the water you like.
+@452
+That is not what I mean. We make the water collect.
+@453
+My lord, look. The castle sits on very low ground, with hills rising a little on two sides.
+@454
+And a river runs through the middle of it. If we dam that river...
+@455
+What happens then?\nThe water will collect?\nEasier to catch fish!
+@456
+What happens if we dam it?
+@457
+The water collects at once. Once Takamatsu is cut off by water, reinforcements can do nothing even if they come.
+@458
+I see! And then what do we do?
+@459
+The water will collect? I can hardly believe it...
+@460
+You may well doubt it, but it can be done, I assure you.
+@461
+You sound very sure of yourself. Then tell me how it's done.
+@462
+Dam a river's flow, and the fish are easier to catch.
+@463
+My lord, what has this battle to do with catching fish?
+@464
+Well, I remembered damming rivers to catch fish when I was small.
+@465
+This is no time to wallow in nostalgia.
+@466
+Once Takamatsu is cut off by water, reinforcements can do nothing, even if they come.
+@467
+And how do we make the water collect?
+@468
+We pile up sandbags and build an embankment.
+@469
+How do we collect the sandbags?
+@470
+We have the local folk gather them and pay them in coin.
+@471
+I see! And how much coin do we need?
+@472
+5000 kan should do. If we do not have it, we must take the castle by force, I fear...
+@473
+Well, either way Takamatsu must fall...{w} Let's go!
+@475
+My lord, an envoy has come from the Mōri army. I shall show him in.
+@476
+Very well.
+@477
+I am honoured that you grant me this audience.
+@478
+I have come today to propose peace.
+@479
+Hm. And what terms have you brought?
+@480
+The Mōri offer to cede five provinces to the {a730002} clan: Bitchū, Mimasaka, Inaba, Hōki and Bingo.
+@481
+Very well...\nThat is not enough\nKanbee, what should we do?
+@482
+Very well. I leave the rest to you, Kanbee.
+@484
+I cannot trust words alone. As proof, I want Shimizu Muneharu's head.
+@485
+Understood. Leave the rest to me.
+@486
+What should I do...
+@487
+My lord, may I take charge of this matter?
+@488
+Then I leave it to you, Kanbee. I am counting on you.
+@490
+My lord, I have brought Shimizu Muneharu's letter.
+@491
+Good. Read it.
+@492
+"The day after tomorrow I will commit seppuku. I therefore ask that the garrison be spared..."
+@493
+Shimizu Muneharu... offering his own life for his garrison. What an admirable man!
+@494
+Tell him I agree. We shall send him on his last journey in splendid style.
+@495
+Then I shall tell him you consent.
+@496
+\_\_\_\_\_\_\_\_\_\_\_\_- The next evening... -
+@497
+My lord, we have caught a suspicious man. On questioning him, we found this letter...
+@498
+What does it say?
+@499
+Yes, I shall read it.
+@500
+Akechi Mitsuhide has rebelled. {a660002} has taken his own life at Honnō-ji.
+@501
+W-what...\nYou lie!!\n...
+@502
+W-what... Lord {a6d0002} is...
+@504
+Sob... sob...
+@505
+You lie! Kanbee, you wretch, some things must never be said!
+@506
+My lord, please calm yourself. Even if this is untrue, if the Mōri learn of it we are in dire straits.
+@509
+My lord! What is the matter? Pull yourself together!
+@511
+Your grief is only natural, but this is a chance in a thousand years to take the realm.
+@512
+What are you saying!\nYou are right, Kanbee\nLeave me alone...
+@513
+What are you saying! Lord {a6d0002} is dead!
+@514
+But at this rate the traitor Akechi Mitsuhide will take the realm.
+@515
+On this news Lord Shibata and Lord Niwa will also move.
+@516
+It is not Lord Shibata or Lord Niwa who must avenge His Lordship. It must be you, my lord!
+@517
+So... you are right.{w} Kanbee, there must be others carrying such letters.
+@518
+Seize them on sight, so that the Mōri do not learn of this.
+@519
+Kanbee is right. At this rate the traitor Mitsuhide will have the realm in his grip.
+@520
+I must hurry to Kyōto, strike down Mitsuhide and avenge Lord {a6d0002}.
+@521
+There must be others carrying letters like this.
+@522
+Seize them on sight, so that the Mōri do not learn of it.
+@523
+\_\_\_\_\_\_\_\_- The morning of Shimizu Muneharu's seppuku -
+@524
+It seems the Mōri do not yet know of His Lordship's death.
+@525
+I pray they will not learn of it until Shimizu Muneharu's seppuku is over.
+@526
+\_\_\_\_\_\_\_\_\_\_\_\_- At noon that day -
+@527
+I am about to commit seppuku. About my garrison... I can rely on your word?
+@528
+A samurai does not go back on his word. Rest assured.
+@529
+I am grateful... Lord Hashiba, I have one more request.
+@530
+To strengthen the bond between the Mōri and the Oda clan, I wish to take my life where both armies can see.
+@531
+Very well. Then I shall send Horio Yoshiharu to attend as official witness.
+@532
+I am grateful that you grant Muneharu's wish.
+@533
+Then, if you will excuse me.
+@534
+My lord, the time has come at last.
+@535
+Lord Horio, please take this death poem, together with my head, to Lord {a730000}.
+@536
+"At last I cross this floating world,\nmy name left high on Takamatsu's moss."
+@537
+Lord Horio, I count on you. Now then...
+@538
+Guh...
+@539
+Shimizu Muneharu has taken his own life! Men, raise a battle cry!
+@540
+We set out now to strike down Akechi Mitsuhide. Are you ready? Let's go!
+@541
+Leave me alone... Lord {a6d0002}... Oh, Lord {a6d0002}...
+@542
+My lord, Lord Kobayakawa Takakage and Lord Ankokuji Ekei have arrived.
+@543
+What? Could they have learned that His Lordship has died?!
+@544
+My lord, let us meet them. Nothing begins until we have spoken.
+@545
+Very well. Show them in.
+@546
+I am Kobayakawa Takakage. It is an honour to meet you, Lord {a730000}.
+@547
+I have come today about the matter of Lord {a660002}.
+@548
+I hear he was struck down by Akechi Mitsuhide at Honnō-ji and has passed away... You must have heard already?
+@549
+I heard it last night\nWhatever do you mean?
+@550
+I heard it last night. I still cannot believe it...
+@551
+You have my deepest sympathy.
+@552
+What will you do now, Lord {a730000}?
+@553
+I do not know. I cannot tell what I should do...
+@554
+Hurry to Kyōto and strike down Akechi Mitsuhide. Take up the legacy of Lord {a730002} and bring Japan together yourself.
+@555
+What of the terms of the peace we agreed the other day?
+@556
+It is not Lord {a730002} but you, Lord {a730000}, to whom I can entrust the future of the Mōri clan.
+@557
+That is why I offered peace. I will keep the terms without fail. But I would like to save Lord Shimizu's life...
+@558
+My lord! Lord Kobayakawa has said as much himself.
+@559
+Let us avenge His Lordship with our own hands!
+@560
+Very well. We return to {e73009b}. Have everyone make ready at once!
+@562
+Whatever do you mean?
+@563
+Do not feign ignorance. Are you telling me you have not heard what happened at Honnō-ji the day before yesterday...?
+@564
+Lord {a730000}, hurry and strike down Lord Akechi, and then take the realm yourself.
+@565
+Lord Kobayakawa...
+@566
+It was to you that I offered peace. I never made peace with Lord Akechi or Lord Shibata.
+@567
+I will keep the terms of the earlier peace without fail. I only ask that you spare the life of Shimizu Muneharu.
+@568
+With His Lordship gone, there is no need to take Lord Shimizu's life. Thank you, Lord Kobayakawa.
+@569
+No, it is I who am grateful.
+@570
+Men! To avenge Lord {a6d0002}, we shall strike down Akechi Mitsuhide. Is that clear?
+@571
+My lord, my lord! Terrible news!
+@572
+What has you in such a flap?
+@573
+Yamana Toyokuni, the lord of Tottori Castle, has come and wishes to see you, my lord.
+@574
+What! Lord Yamana Toyokuni has come? Show him in at once!
+@575
+A man of Lord Yamana's standing, riding alone into an enemy camp... What is the meaning of this?
+@576
+It is most shameful, but... I never thought my own vassals would betray me and drive me from my castle...
+@577
+What! You were driven from your castle?!
+@578
+That is so.
+@579
+Then what has become of Tottori Castle now?
+@580
+Yes, I hear Kikkawa Tsuneie of the Mōri is coming to take up the post.
+@581
+My lord, let us hurry to Tottori Castle! Now, while the enemy is not yet ready, is our best chance.
+@582
+Good, prepare for battle. Kanbee, go to Tottori at once and buy up all the rice at double the price!
+@583
+Yes, my lord! I shall go at once.
+@584
+Lord Shimizu... you are a man who would make yourself a human sacrifice for the sake of both houses.
+@586
+My lord, the rice purchase at Tottori Castle is complete.
+@587
+Good, that went well. Now we starve Tottori Castle into surrender!
+@588
+Tottori Castle has fallen.
+@589
+My lord, is not this Kikkawa Tsuneie too fine a man to kill?
+@590
+He is a man who staked his life and fought to the end for those fools who came running to sell us rice when we offered double.
+@591
+Spare Tsuneie!\nSpare everyone!
+@592
+Spare Tsuneie! Is that understood?
+@593
+Spare Tsuneie! No, not only Tsuneie. No one is to be killed!
+@594
+\_\_\_\_\_\_\_- A few hours later... -
+@595
+My lord, an enemy ashigaru has brought Kikkawa Tsuneie's head.
+@596
+What! Did I not say to spare Tsuneie?!
+@597
+Well, Lord Kikkawa asked to settle the matter as a samurai should...
+@598
+My lord, we have lost a fine man...
+@599
+Men! We march! Our enemy is the traitor Akechi Mitsuhide. Is that clear?
+@600
+My lord, Mitsuhide has taken position with Shōryūji Castle at his back.
+@601
+My lord, whether we live or die, our fate is decided here. We cannot afford to lose.
+@602
+I know.
+@603
+Men! If we lose, there is nothing left for us. Fight with that in mind! Let's go!
+@604
+My lord! Akechi Mitsuhide has fled from Shōryūji Castle.
+@605
+Pursue at once\nWatch for a while\nLeave him be
+@606
+Do not let him escape! After him at once!
+@607
+Understood. We will prepare the pursuit immediately.
+@608
+Let us watch for a while. The only place Mitsuhide can head for is Sakamoto Castle, after all.
+@609
+Understood. As you wish, my lord.
+@610
+Leave him be. He cannot rise again.
+@611
+\_\_\_\_\_\_\_- That night... -
+@612
+My lord, a farmer from Oguruzu has come, saying he took the head of Akechi Mitsuhide...
+@613
+I will meet him myself\nKanbee, you go and check
+@614
+Very well, I will meet him and see whether that head is truly Mitsuhide's.
+@615
+Kanbee, will you go and check whether that head truly is Mitsuhide's?
+@616
+With respect, my lord, I do not know Lord Akechi's face well.
+@617
+I see. You have been in Chūgoku all this time, so you would not know Mitsuhide's face...
+@618
+Very well, I shall go and look myself.
+@619
+...It is Mitsuhide, no mistake.
+@620
+Did you bring this?
+@622
+It seems he was hunting stragglers.
+@623
+What...? Is that true?
+@624
+Yes... I beg your pardon.
+@625
+Straggler hunting...! You wretch!
+@626
+Eek... Wh-what about my reward...
+@627
+You shall have it\nPut him to death\nThrow him in prison
+@628
+You shall have it. But never hunt stragglers again, understood?
+@629
+Killing the lord of one's own land is unforgivable. Kanbee, put this man to death.
+@631
+Eeeeek!
+@632
+Killing the lord of one's own land is unforgivable. Kanbee, throw this man in prison.
+@633
+Prison, is it? That is a slow death.
+@634
+Hey, you. Confinement is a cruel thing. Take it from me, I should know.
+@635
+Eek...
+@636
+My lord, you have avenged His Lordship splendidly.
+@637
+Now the realm is as good as yours...
+@638
+Kanbee! I am content just to have set Lord {a6d0002}'s spirit at rest. That alone is enough for me...
+@639
+My lord, I do not believe you have yet laid His Lordship's regret to rest.
+@640
+What do you mean? Have we not cut Mitsuhide down?
+@641
+His Lordship's regret is surely not that a mere Mitsuhide struck him down, but that he never achieved the unification of the realm.
+@642
+!?
+@643
+To set His Lordship's regret at rest is to complete the unification. That is how I see it.
+@644
+I see. Yes, you are right... This victory is only the beginning of a new fight...
+@645
+Good! Have the whole army raise a victory cry!
+@650
+My lord, Oda Nobutaka is nowhere to be seen. He slipped out of the castle and has vanished. What shall we do?
+@651
+No need to search. Even if he got out of the castle, he will die in a ditch somewhere.
+@652
+And even if he lives, Nobutaka has no backing at all. He cannot survive as a commander.
+@653
+Understood. We will leave Nobutaka be. With this, the Oda clan's fortunes are spent.
+@654
+Next comes the decisive battle with Shibata Katsuie at last.
+@655
+Yes... But we must be careful with Katsuie. If we lose this war, everything is over.
+@656
+First, we must expand our own power. We are not yet strong enough to settle things with Katsuie.
+@657
+So at last it is the decisive battle with Shibata Katsuie.
+@660
+We have taken Lord Sanbōshi back into our hands.
+@661
+My lord, Lord Oda Nobutaka has arrived. Will you see him?
+@662
+Nobutaka? He must have come of his own accord to beg my pardon. Show him in.
+@663
+{a6d0000}, I was in the wrong. I will give up Sanbōshi too. Please forgive me.
+@664
+Lord Nobutaka, I am not angry at all. I merely gave you a little lesson.
+@665
+Please go on governing Mino as before.
+@666
+What, you forgive me?! Thank you, {a6d0000}! I shall not forget this kindness!
+@667
+It seems Katsuie has arrived too. Hidenaga, what is the state of the Shibata forces?
+@668
+My lord, Shibata Katsuie's army has collapsed and is retreating.
+@669
+Good, it is settled for now. But the fight with Katsuie has only just begun.
+@670
+Until we have destroyed the Shibata clan utterly, men, do not let your guard down!
+@671
+Now we strike Takigawa Kazumasu, who defies Lord Sanbōshi. No restraint. Spare none who resist.
+@672
+Takigawa Kazumasu has surrendered. The only one left who defies Lord Sanbōshi is Shibata Katsuie.
+@673
+My lord, the time has finally come.
+@673.1
+Yes...{w} Kanbee, until now I have fought wars that let men live.
+@674
+But Katsuie alone I cannot leave alive. It is to bring peace to the realm. There is no other way...
+@674.1
+Now, all forces, attack!
+@675
+{d10}BOOM!
+@676
+Ei, ei, oh!
+@677
+Lord Toshiie, you need not take part in this battle.
+@678
+No. It is because my opponent is Lord Katsuie that I want to fight. I believe it is the courtesy I owe him.
+@679
+...Let's go!
+@683
+My lord, Ieyasu's army has entered {e660064} and means to hold it.
+@684
+Is Ieyasu one step ahead of every plan I make?
+@685
+If Ieyasu has entered {e660064}, then {e660066} is too far to respond. We must make camp nearby.
+@686
+Good, make camp here! We attack at once!
+@687
+Ha ha ha... Ieyasu has run off! The victory is ours!
+@688
+Damn... Ieyasu's army lives up to its name. An attack like this does not shake them at all.
+@689
+My lord, I cannot rest like this. Order me to make a surprise attack!
+@690
+I shall go by the back roads and attack Mikawa. When the Tokugawa falter, launch the full assault.
+@691
+No! Do you think Ieyasu would fall for such a scheme?!
+@691.1
+Listen. Do nothing rash.
+@692
+How about that! The Mikawa troops are nothing special. With this momentum, we take Okazaki Castle!
+@693
+M-my lord! Terrible news! Ieyasu's main force has appeared at our rear!
+@694
+Wh-what?!
+@695
+Tsuneoki... did I not tell you not to be rash...
+@695.1
+It cannot be helped. We withdraw for now!
+@696
+My lord, Ieyasu's side says that if we hand over hostages, the war will end in a truce and the alliance will stand as before.
+@697
+Damn... It cannot be helped. We accept those terms...
+@698
+Ieyasu has run off with his tail between his legs. The victory is ours!
+@699
+Damn... We have no choice but to fall back. Send an envoy to Ieyasu to sue for peace.
+@701
+Damn! ...It cannot be helped. All forces withdraw! Fall back to {e660066}!
+@702
+My lord, the Tokugawa army has already made camp at {e660058}.
+@703
+To think I would be beaten to it by Ieyasu...
+@705
+Damn... Ieyasu's army lives up to its name. An attack like this will not shake them at all.
+@707
+I shall go by the back roads and attack {e660060}. When the Tokugawa falter, launch the full assault.
+@709
+How about that! The Mikawa troops are nothing special. With this momentum, we take {e660060}!
+@710
+M-my lord! Terrible news! Ieyasu's main force has appeared at our rear!
+@712
+My lord, Ieyasu and Nobukatsu's side says that if we hand over hostages, the war will end in a truce and the alliance will stand as before.
+@716
+Damn! ...It cannot be helped. All forces withdraw! Fall back to {e660057}!
+@717
+My lord, Lord Oda Nobukatsu has arrived!
+@718
+Oh, Hideyoshi! It has been a while. Have you been well?
+@719
+It has been a long time, my lord. Come, let us talk at our leisure.
+@720
+Oh, indeed. I shall listen at my ease to what you will do for me.
+@721
+Then I fear my words will not reach your ear. Allow me to speak closer.
+@723
+Whisper, whisper...
+@724
+That I, Hideyoshi, stood against Lord Nobukatsu was a mere trick of fate... I am devoted to the Oda clan...
+@725
+Oho!
+@726
+From now on I shall support Lord Nobukatsu and work to keep the realm secure. Leave the chores to me.
+@727
+Hm. A commendable attitude. Keep serving the Oda clan.
+@729
+Now then, let us drink heartily to celebrate our reconciliation!
+@730
+Hideyoshi, as for the Oda clan's strategy from now on, do as you please in the west.
+@731
+Yes, my lord. Leave all the troublesome matters to me, Hideyoshi.
+@732
+Good. Then I shall be going.
+@733
+Good, Nobukatsu trusts me completely. That leaves Kanbee...
+@734
+My lord, my side is settled too.
+@735
+So, how did it go?
+@736
+Well. Nobukatsu's senior retainers will move just as you wish, my lord.
+@737
+Well done, Kanbee! Now let us return.
+@740
+We have come this far at last...
+@741
+Katsuie's ambition ends here. Prepare yourself!
+@742
+One more push! We crush them in one stroke!
+@743
+The enemy commander has fled into the keep.
+@744
+Then surround the castle! Not even a kitten is to escape!
+@745
+Report! The Shibata men seem to be holding a drinking party in the main keep!
+@746
+Katsuie... so you have made up your mind at last...
+@747
+My lord, someone has appeared at the top floor of the keep!
+@748
+Why, that is Katsuie!
+@749
+Monkey! Are you there? If you are, answer me!!
+@750
+That voice... Lord Shibata? What do you want?
+@751
+Your treachery against the Oda clan... I can never forgive it!
+@752
+But it seems Heaven did not take my side. A pity...
+@753
+Yet I have no regrets... I even feel at peace. I can feel Lord Nobunaga close to me.
+@754
+You would not understand...
+@755
+The Japan you mean to build... I shall watch it with Lord Nobunaga from the next world! Do your best, for what it is worth! Ha ha ha...
+@758
+M-my lord! The keep is on fire!
+@759
+Damn... The name of "Demon Shibata"... I shall never forget it...
+@764
+Report! Everyone who held the main enclosure seems to have taken their own lives.
+@765
+Yes, from the look of it, no one can be alive. Perhaps Lady Oichi as well...
+@766
+Men, listen well! Though he was our enemy, Lord Shibata served the Oda clan and died.
+@767
+We shall pay him our respects!
+@767.1
+A moment of silence!
+@768
+Good, now let us go home.
+@769
+Lord Hashiba... can you hear me?
+@770
+This... battle...{w} was splendid... It reminded me of Kanagasaki.
+@771
+Lord Hashiba... as one who lived...{w} in the same age... as you...{w} I wish to say... one thing.
+@772
+Strength... alone...{w} will not... win...{w} the hearts of men...
+@773
+Remember... Lord Nobunaga...{w} remember... his end...{w} Wise as you are... Lord Hashiba...{w} you...{w} must...{w} understand...
+@774
+Ugh
+@775
+Tokugawa Ieyasu... I thought you and I could be good friends...
+@780
+So this is Bitchū-Takamatsu Castle...
+@781
+The castle stands low compared with its surroundings, with hills on two sides and a river among them...
+@782
+Yes! The terrain is exactly as Kanbee said!
+@783
+Ha ha ha! Attacking a castle with water... Kanbee has come up with quite a plan.
+@784
+At any rate, this castle is strong. We must not relax our guard.
+@785
+Good! This is the end of Bitchū-Takamatsu Castle!
+@786
+My lord! A letter has come from Shimizu Muneharu of Bitchū-Takamatsu Castle.
+@787
+Read it.
+@788
+Yes, my lord. Er...
+@789
+Lord Hashiba, I am full of admiration for you. I therefore have a request to make of you.
+@790
+In exchange for my life, I ask that the lives of the garrison be spared.
+@791
+It may be a selfish request, but to lose so many lives here would profit neither side.
+@792
+I beg you, please grant this request.
+@793
+He offers his own life for his garrison... A true model of the samurai! This Shimizu is a rare commander indeed.
+@794
+I would somehow like to take him into my service...
+@795
+But to show the might of the Oda clan, I must have his head whatever it takes, or Lord Nobunaga will never be satisfied...
+@800
+My lord, an envoy has come from Mōri Motonari.
+@801
+An envoy for peace? What is his name?
+@802
+He gives his name as Ankokuji Ekei.
+@803
+Ankokuji Ekei! They say he is the brains of the Mōri! Good, show him in!
+@805
+I have come as an envoy of the Mōri clan. I am Ankokuji Ekei.
+@806
+As the Mōri's terms, we will cede the two provinces of Hōki and Bingo. So please spare the life of Shimizu Muneharu.
+@807
+Ceding Hōki and Bingo is well enough. But sparing Shimizu Muneharu's life cannot be allowed.
+@808
+Lord {a730000}, your aim is to pacify Chūgoku, is it not? To rule several of its provinces directly...
+@809
+If you bring the Mōri under your banner, that aim will be achieved. Surely it is a bargain that benefits both sides.
+@810
+True, it is best to keep the sacrifice as small as we can. I too have no liking for needless bloodshed.
+@811
+Then why will you not allow Shimizu's life to be spared?
+@812
+Lord Ekei, can you not understand the heart of Lord Shimizu, who offers his own life in exchange for the lives of his garrison?!
+@813
+As my thanks to Lord Shimizu, I intend to prepare the finest place for him to die.
+@814
+I see...{w} But the Mōri clan, too, cannot stand by and let Lord Shimizu die...
+@817
+My lord, another letter has come from Shimizu Muneharu of Bitchū-Takamatsu Castle.
+@818
+Read it.
+@819
+I am glad of Lord Mōri's kindness, but I do not wish to live on by betraying my own house.
+@820
+I shall commit seppuku the day after tomorrow. Therefore I ask that the garrison be spared...
+@821
+What resolve! Let us adorn Lord Shimizu's last journey splendidly!
+@822
+My lord, Lord Ankokuji Ekei has arrived.
+@823
+Lord {a730000}! My lord has further agreed to cede Izumo Province!
+@824
+This time you must grant Shimizu his life.
+@825
+Lord Ankokuji, I am grateful for your repeated trouble, but it cannot be.
+@826
+Lord {a730000}! We have yielded this much! Have you no sense of honour?!
+@827
+Too late. By now the preparations for seppuku are surely under way inside the castle.
+@828
+Then let me speak with Shimizu directly.
+@829
+No! I will not allow anyone to trample on Lord Shimizu's pride as a samurai!
+@830
+\_\_\_\_\_\_- At noon that day -
+@831
+I am about to commit seppuku. My garrison will be spared, as agreed?
+@833
+I am grateful... Then, if you will excuse me.
+@834
+Before that, Lord {a730000}, I have one more request. I wish to commit seppuku aboard a boat.
+@835
+Very well. Then I shall appoint an official witness.
+@836
+I am grateful that you grant Muneharu's wish.
+@838
+...Please attach this death poem to my head and deliver it to Lord {a730000}.
+@839
+At last I cross this floating world,\nmy name left high on Takamatsu's moss.
+@840
+I count on you. Now then...
+@841
+Gnnngh!
+@842
+Lord Shimizu!
+@843
+Lord Ankokuji... I leave the rest to you... Ugh!
+@844
+Lord Shimizu... leave it to us. Whatever hardships may come, we shall protect the Mōri to the end.
+@846
+Shimizu Muneharu is a true samurai. I, {a6d0000}, am deeply moved.
+@847
+In honour of his manly spirit, only Hōki need be ceded. Let Lord Mōri govern the rest as before.
+@848
+...Understood. I will pass it on.
+@849
+Good, we have taken Odawara Castle! The Hōjō's resistance is at an end.
+@850
+Lord {a730000}! Are you there?
+@851
+Lord Sōrin? I am here!
+@852
+If you had shown a little more mercy, Lord {a730000}, so many would not have fallen...
+@853
+I, Sōrin, shall bear you a grudge for this.
+@854
+Ugh... guh...
+@855
+It cannot be helped... Kyūshū is too far away. Unless I place it under direct rule with Oda retainers to govern it, there is no knowing when it will turn on me.
+@856
+This was the fate of the Ōtomo.
+@857
+Good, this castle is ours too!
+@858
+My lord, Lord Shimazu Yoshihisa has arrived.
+@859
+Yes, I thought he would be coming about now. Show him in!
+@861
+Lord Hashiba... please forgive the Shimazu clan's past discourtesy.
+@862
+So long as we keep our house and our present lands, we ask for nothing more.
+@863
+5,000 kan in gold, 10,000 koku of rice, 200 horses and 100 guns. I have brought them as a token of friendship.
+@864
+If you will ally with us, I shall hand over all of it.
+@865
+Ally with them\nRefuse
+@866
+Very well, let us ally.
+@867
+Oh, you accept? Thank you!
+@868
+I have also brought a treasure handed down in my house, the "Daihannya."
+@869
+As it is my house's treasure, if you promise never to give it to another, I shall present it to you, Lord {a730000}.
+@870
+Oh! I won't, I won't!
+@871
+Then I give it to you.
+@872
+Lord Shimazu, wait a moment.
+@873
+Eh?
+@874
+When asked so politely, I, {a6d0000}, can find no fault.
+@875
+Just so you know, Lord Yoshihisa, I am not a man moved by gifts.
+@876
+But I shall gratefully accept this.
+@878
+The alliance is agreed. You have my word.
+@879
+Thank you. Then, with your leave, I shall take my departure.
+@880
+There can be no alliance!
+@881
+What! Have you lost your mind? We are surrendering completely! Why?
+@882
+Kyūshū is too far from the Kinai. Until it is under the Oda clan's direct rule, it cannot be said to be ruled at all.
+@883
+Hmph... Do not take the Satsuma samurai lightly! Lord Hashiba, mark me!
+@886
+Since it has come to this, we fight until one of us falls!
+@887
+Now the Shimazu are finished...
+@888
+Lord {a730000}! I had heard you were a true commander, but hearing and seeing are worlds apart!
+@889
+With such methods, even if you rule the realm, it will collapse at once!
+@891
+Somebody! Shoot that man!
+@893
+{d0c}BANG!
+@896
+My lord, we did it! We have brought down Shimazu Yoshihisa.
+@897
+Good, Yoshihisa, head of the Shimazu, is dead! While the castle is in confusion, storm in!
+@898
+Hooray!
+@899
+My lord! Look what we found in a hidden room of the castle!
+@900
+Oh! Why, this is the famous sword "Daihannya"! To think the Shimazu had such a thing...
+@901
+Search more! There will be more!
+@903
+This shall be our family treasure!
+@904
+This may be the end between me and Lord Tokugawa. But before that, I must find out his true intent!
+@905
+You there, somebody!
+@906
+Yes, what is it?
+@907
+Send a suitable man to the front of the castle and have him say that {a6d0000} wishes to speak with Lord Tokugawa!
+@909
+My lord! Ieyasu has appeared in the keep!
+@910
+Good!
+@911
+Lord Tokugawa!
+@912
+Lord {a730000}? What business have you with me?
+@913
+Lord Tokugawa, there is something I would ask you.
+@914
+And what might that be?
+@915
+Lord Nobunaga is deeply pained by your betrayal, Lord Tokugawa. He trusted you.
+@916
+You owe Lord Nobunaga a great debt. Why, then, did you betray him?
+@917
+I have had my doubts about Nobunaga's ways for some time.
+@918
+Perhaps you do not know, Lord {a730000}...
+@919
+My son took Nobunaga's daughter as his wife. But she did not get on with my wife, who comes from the Imagawa.
+@920
+And of all things, she reported falsely that my house was in league with the Takeda.
+@921
+Nobunaga knew that the report was a lie.
+@922
+Yet to curb my power, knowing it was a lie, Nobunaga ordered me to put my son and my wife to death.
+@923
+I killed my own son and my wife.
+@924
+You cannot know how I felt then, Lord {a730000}.
+@925
+Is that how a man whose name rings through the realm should act?
+@926
+Lord Nobunaga is not a man to abandon the weak.
+@927
+Why, he has raised even me to high office, as you can see!
+@928
+Do not be mistaken, Lord {a730000}. He gives you high rank only because you are useful to him now.
+@929
+The stronger you grow within the Oda clan, the more you will be shunned.
+@930
+Lord {a730000}, you will be the next one to be done away with.
+@931
+What are you saying! That cannot possibly be!
+@932
+Think what you will, Lord {a730000}. I have no wish to serve Nobunaga any longer.
+@933
+A pity Nobunaga is not here. Never mind. Hashiba Hideyoshi! You shall be the first blood I spill!
+@934
+Hmph, so be it. I shall not hold back either.{w} Men, at them!
+@936
+Victory! We have won! Now, storm the castle!
+@937
+Ugh... uhh...
+@938
+Terrible news! I-Ieyasu is still alive! Fire on him!
+@939
+Wait! Do not shoot!
+@940
+Well done...{w} Lord {a730000}...
+@941
+Lord Tokugawa...
+@942
+But... even if you... defeat me... Lord Hashiba... you have... no future...
+@943
+Surely... some day... you will share... my fate...
+@944
+Gah...
+@945
+Thud!
+@946
+Take Ieyasu's head! It will be first in merit!
+@947
+Wait! You will not dishonour Lord Tokugawa!
+@948
+Bury him with full honours! And you are to tell no one of this!
+@949
+Y-yes, sir. But why do you treat an enemy general with such courtesy?
+@950
+He may have become Lord Nobunaga's enemy, but I have owed Lord Ieyasu my life ever since Kanagasaki.
+@951
+Lord Tokugawa... Ganmaku... Why do all who leave Lord Nobunaga say the same thing...
+@952
+Lord Nobunaga... is short-tempered, yes... but he is truly a kind man...
+@955
+Ha ha ha... The Monkey has got the better of me...
+@956
+To be struck down by one like you... I had no eye for men, it seems.
+@957
+Lord Nobunaga, it is over. Please surrender.
+@957.1
+If you surrender, I shall spare your life.
+@958
+My lord! That must not be!
+@958.1
+Kanbee! Be silent!!
+@960
+My lord! Nobunaga is the one man you must not let live!
+@961
+Have you forgotten how terrible Nobunaga is, my lord?
+@962
+If we do not kill him now, it will be the death of you.
+@963
+Live or die: please realise that we have already come too far to turn back.
+@965
+Ha ha ha! Monkey, there is no need! You know well enough that Nobunaga is no man to surrender to his enemy.
+@966
+I shall see to my own end myself!
+@968
+Someone! Set fire on all sides!!!
+@969
+Monkey!!! Mark well how Nobunaga dies!!!
+@970
+Nobunaga has put his sword to his throat...
+@971
+Has he done it?
+@972
+No good, the flames are in the way, I cannot see...
+@977
+Let's take Nobunaga's head!
+@978
+Hold!
+@979
+The battle is decided. You will not dishonour the dead!
+@979.1
+B-but...
+@980
+Never mind that, put out the fire in the castle! Hurry!
+@980.1
+Nobunaga... Lord Nobunaga...
+@982
+Silence, Monkey! You know well enough that Nobunaga is no man to surrender to his enemy!
+@983
+We have put the fire out somehow, but part of the castle has burned right down.
+@984
+Has Nobunaga's body been found?
+@985
+Well, sir, the fire was fiercest where Nobunaga was, and we cannot find it anywhere!
+@986
+I see... So be it... So be it...
+@987
+So we have finally struck down the hateful Nobunaga. I only regret that we let him take his own life...
+@988
+But the obstacle is gone at last. From here on, everything is yours to command, my lord.
+@989
+Kanbee! Say no more!!
+@1000
+My lord, a gift has arrived from Lady Oichi of Odani Castle.
+@1001
+A gift from Oichi? How unusual. Show me.
+@1002
+Yes, my lord. Here it is.
+@1003
+The bag is tied at both ends.{w} What is inside...{w} Red beans.
+@1004
+Was there no letter or the like with it?
+@1005
+No, my lord, only this.
+@1006
+Why would Lady Oichi send us such a thing?
+@1007
+You cannot even work that out?
+@1008
+The beans stand for our army. The bag being tied at both ends means we are caught between the Asakura and the Azai.
+@1009
+Caught between the Asakura and the Azai? Then the Azai have betrayed us!
+@1010
+Just so. Oichi has sent word that Nagamasa has turned traitor.
+@1011
+Gather everyone at once. A council of war!
+@1012
+Such a sudden summons... Have the Asakura forces begun to move?
+@1013
+No... Azai Nagamasa has betrayed us.
+@1014
+After all the favour I have shown him... Nagamasa, damn him!
+@1015
+My lord, let us meet them head-on. A man like Azai Nagamasa is no match for us.
+@1016
+No, I think it wiser to withdraw for now.
+@1017
+I think we should see a little more of how things stand before we act.
+@1018
+I side with Lord Shibata.
+@1019
+I see...{w} Hey, Hideyoshi! What do you think?
+@1020
+Meet them head-on\nWithdraw for now\nWatch a little longer
+@1021
+Let us meet them head-on.
+@1022
+No, you are wrong. The Azai reinforcements have lifted the Asakura's spirits. Fight them head-on and we cannot win.
+@1023
+Let us withdraw for now.
+@1024
+Just so. The Asakura have taken heart from the Azai reinforcements. We cannot win against them.
+@1025
+Let us watch the fighting a little longer.
+@1026
+What? Do you mean that? If we stay here we shall only be cut down.
+@1027
+Until now I took you for an unpleasant fellow, all talk and no use with a spear.
+@1028
+But this has made me think better of you.{w} Do not die!
+@1029
+I will not let you die alone. I shall fight beside you!
+@1030
+Don't worry. I won't die. Go back ahead and wait for me.
+@1031
+I see...{w} All right. But die, and I'll never forgive you.
+@1032
+Lord {a730000}, you must come back alive. Mind you do.
+@1034
+Good, all is ready. We now begin the retreat.
+@1035
+Hideyoshi... come back alive!
+@1036
+Now, this is where we hold! We must protect His Lordship, whatever it takes!
+@1037
+Truly worthy of you, Lord Hideyoshi. Such courage in so desperate a pass... I, Ieyasu, am deeply impressed.
+@1038
+L-Lord Ieyasu! What are you doing?! Flee, quickly, I beg you!
+@1039
+No, I cannot leave you behind, Lord Hideyoshi.
+@1040
+Considering all I owe Lord Oda, a trifle like this is nothing.
+@1041
+Besides, if anything happened to you, Lord Hideyoshi, the years to come would be dull indeed.
+@1042
+Lord Ieyasu... I am grateful...
+@1043
+Now, let me show you the spirit of the Mikawa warriors. I shall go first!
+@1044
+Good, we go too! All of you, fight as men ready to die!
+@1045
+I have an idea\nKanbee, any good plan?\nLord Yamana, any weak point?
+@1046
+I have an idea. We buy up Tottori's rice at double the price, so that a siege goes as badly for them as it can.
+@1047
+With no leader now, if they are attacked their only course must be to hold the castle.
+@1048
+Before that, let us buy up all their rice.
+@1049
+Tottori Castle has no leader. If we attack, they will surely shut themselves in. Kanbee, have you any good plan?
+@1050
+Let me see... How about buying up their rice so they cannot hold out in the castle?
+@1051
+But would anyone sell their rice in a time of war?
+@1052
+Precisely because Tottori Castle has no leader now, if we offer double the money for rice they will surely jump at it.
+@1053
+Lord Yamana, has Tottori Castle any weakness, I wonder...
+@1054
+The castle has ample stores. It would be best to avoid a siege.
+@1055
+If the castle has ample stores, we need only buy them all up. Offer double the money and they will jump at it.
+@1056
+Good, take this letter to Lord Nobunaga. Hurry.
+@1057
+Yes, sir! Understood.
+@1058
+Er... Understood.
+@1059
+Hmm, the sight of a kunoichi in ninja garb makes me forget myself... No, no, I mustn't...
+@1060
+Now, as to how to attack Takamatsu Castle, I have a fine idea.
+@1061
+Hm. And what is this fine idea?
+@1062
+The Shibata army has made camp.
+@1063
+My lord, it seems Lord Shibata means to settle in for a long wait.
+@1064
+Wait him out\nSally out at once\nRetreat: it's a waste of time
+@1065
+If we sally out carelessly, we play into Katsuie's hands.
+@1066
+So be it. If that is his game, we shall play along.
+@1067
+I cannot waste time on Katsuie! We sally out at once!
+@1068
+Please wait. Doing so would play still more into Lord Shibata's hands.
+@1069
+Sit tight here, and wait for the Shibata army to crumble.
+@1070
+What do you think, Hidenaga?
+@1071
+I am of the same opinion as Lord Kanbee.
+@1072
+You think so too, Hidenaga?{w} Very well, as you both say, we wait until Katsuie moves.
+@1073
+Then it is a contest of patience with Katsuie.
+@1074
+His way of fighting is too absurd to put up with! We turn back!
+@1075
+My lord, please wait. This is a rare chance to strike down Lord Shibata.
+@1076
+And if you turn back now, the whole realm will speak ill of you. Would you have that?
+@1077
+Even if you go home, my lord, I shall stay here and fight. It is for the sake of the Hashiba clan.
+@1078
+Hmm... If Hidenaga feels that strongly...{w} I am a man, after all. I shall see it through.
+@1079
+Has Katsuie not moved?
+@1080
+Not yet, it seems.
+@1081
+Is Katsuie still not moving?
+@1083
+It should be about time he moved.
+@1084
+My lord, "waiting" is also a part of war.
+@1085
+Is that how it is...
+@1086
+My lord, it seems Lord Maeda Toshiie has also taken the field.
+@1087
+Yes. We cannot see him from here, but Lord Toshiie is Katsuie's aide. Naturally he has taken the field.
+@1088
+I only hope Lord Toshiie's march is for form's sake alone...
+@1089
+True... Lord Toshiie is the one man I do not wish to cross swords with...
+@1090
+It should be about time he moved...
+@1091
+My lord! The Shibata army has begun to move!
+@1092
+That is probably Sakuma Morimasa's force.
+@1093
+Being young, he must have been unable to bear this stalemate.
+@1094
+Hm, so he could not wait and has come out.
+@1095
+Good, we meet the Shibata army and wipe it out in one stroke. Understood?
+@1096
+Aye!
+@1097.1
+They probably set gunpowder in the keep and set it alight.
+@1098
+My lord, was Shibata Katsuie in the castle? We cannot tell whether he took his own life.
+@1099
+Enough. Katsuie is not that sort of man. Otherwise Lord Nobunaga would not have trusted him so.
+@1100
+Hidenaga, it is our victory. Have them raise the victory cry.
+@1101
+I see...{w} Toshiie, there is something I must tell you before the battle.
+@1102
+Until now I have fought to let men live, but Katsuie alone I cannot leave alive. It is to pacify the realm.
+@1103
+I understand...
+@1104
+Wh-what happened?
+@1105
+They probably set gunpowder in the keep and set it alight.
+@1106
+...Was Shibata Katsuie in the castle? We cannot tell whether he really took his own life.
+@1107
+Lord Katsuie is not that sort of man! Otherwise Lord Nobunaga would not have trusted him so...
+@1108
+I see. Forgive me...
+@1109
+Yes...{w} We have won. We must raise the victory cry.
+@1110
+...Yes.{w} The victory cry. Raise the victory cry!
+@1117
+No, it was because I saw your strength that I employed you...
+@1122
+Someone! Set fire to all four sides!!!
+@1140
+I am going into {e660074} to speak with Lord Mitsuhide.
+@1141
+My lord, you must not!
+@1142
+Do not worry. Lord Akechi is a calm man. He is hardly likely to kill me without hearing me out.
+@1143
+I shall go, then. Do not attack until I return. Understood?
+@1144
+{a660000} has come. I wish to speak with Lord Akechi.
+@1145
+To walk alone into an enemy castle... how like you, Lord {a6d0000}.
+@1146
+Ha ha ha... Only because it is you, Lord Akechi.
+@1147
+Tell me, Lord Akechi, why did you rebel against Lord Nobunaga?
+@1148
+Nobunaga hated me. He abused me again and again, and I...
+@1149
+Nobunaga is a demon. A demon must not be left alive!
+@1150
+Calm yourself, Lord Akechi. I understand well how you feel.
+@1151
+You have achieved your aim. Is that not enough?
+@1152
+Give up this pointless fighting and enter the priesthood.
+@1153
+No, that I cannot do. Born into the Akechi clan as I was, I wish to live as a samurai to the end.
+@1154
+I see. If you are resolved to that extent, Lord Mitsuhide, I shall say no more.
+@1155
+Let us fight openly and honourably, so that neither leaves a grudge.
+@1156
+Lord {a6d0000}... I am grateful.
+@1157
+My lord, you are safe!
+@1158
+Yes. The talks have failed. Have everyone prepare for battle.
+@1160
+Heh, so this is as far as my life goes...
+@1161
+Lord Akechi... Lord Akechi!
+@1162
+Lord Akechi, hold on!
+@1163
+Lord {a6d0000}... Your battle was splendid.
+@1164
+Farewell...{w} Ugh!
+@1165
+Lord Akechi, Lord Akechi!
+@1166
+My lord, Lord Naoe has just returned.
+@1167
+My lord, both the Uesugi and the Date have agreed to support you.
+@1168
+My lord, Lord Hidenaga has just returned.
+@1169
+My lord, the Date clan has agreed to support you.
+@1170
+I see... I shall fulfil His Lordship's dream!
+@1175
+Oh, if it isn't {a6d0000}. You are late! I have taken Mitsuhide's head!
+@1176
+Ha ha ha... Until we meet again!
+@1177
+My lord, we seem to be a step too late. Lord Shibata's power in the Oda clan will only grow greater now.
+@1179
+Yes, nothing to be done. Let us go back to the castle...
+@1190
+You have come this far at last, Lord {a730000}.
+@1191
+Lord Tokugawa, why would a man like you lend your aid to Nobukatsu?
+@1192
+...I shall tell you.
+@1193
+I spent my childhood as a hostage.
+@1194
+I thought of nothing but one day taking the realm and showing them.
+@1195
+Then Nobunaga appeared before me. I believed that with him I could take the realm, and I spared no help...
+@1196
+But one day I realised that Nobunaga's realm was not mine. It was, after all, Nobunaga's own.
+@1197
+Even so, if it was Nobunaga's realm, I thought that was well enough.
+@1198
+But Nobunaga is gone, along with his dream of taking the realm...
+@1199
+Then why did you not join us and fulfil Lord Nobunaga's will?
+@1200
+Nobunaga was great. Without him, the Oda army had nothing that could make me dream of the realm alongside it.
+@1201
+Yes... so I thought I had no choice but to take the realm with my own hands.
+@1202
+Nobukatsu thinks he has used me, but I meant to turn this chance against him: strike down the strongest generals and take over the Oda clan.
+@1204
+All of it was to take the realm. There is nothing more to say. Now, come at me.
+@1206
+Lord Tokugawa! It is over! I shall have your head!
+@1207
+I think not. I shall see to my own end!
+@1208
+Stab!
+@1209
+Ah!\n...
+@1210
+A splendid end, Lord Tokugawa.
+@1211
+This time I shall defeat Ieyasu!
+@1215
+At last we have come this far...
+@1229
+Monkey! Are you there?{w} If you are, answer me!!
+@1232
+But it seems Heaven would not side with me.{w} A pity...
+@1233
+Yet I have no regrets... Rather I feel at peace. I can feel Lord Nobunaga close by.
+@1245
+Lord {a730000}... are you listening?
+@1247
+As one who... lived... in the same age...{w} as you, Lord {a730000}...{w} there is one thing... I would say...
+@1255
+This may be the last time I see Lord Tokugawa. But before that, I must learn what he truly intends!
+@1258
+Send a suitable man to the castle gate to say that {a6d0000} wishes to speak with Lord Tokugawa!
+@1260
+My lord! Ieyasu has appeared in the keep!
+@1268
+Because the only way to seize the realm is to defeat Nobunaga.
+@1269
+Nobunaga was like an elder brother to me... and the very demon king of this age of war... I would rather not have fought him.
+@1270
+But I, Ieyasu, am a daimyō of this warring age too. Given the chance, of course I would aim for the realm.
+@1271
+And Heaven gave me the strength and the fortune to fight Nobunaga.
+@1272
+Or someone else might have rebelled, unable to bear the terror of Nobunaga.
+@1273
+But since Heaven gave me the chance to fight, I could not wait.
+@1274
+Lord Tokugawa! It may not be too late even now. I beg you, surrender!
+@1275
+Absurd! Until I have defeated Nobunaga, I shall not be beaten.
+@1276
+{a660000}! You shall be the first blood I spill!
+@1277
+Hmph, so be it. I shall not hold back either!
+@1280
+Victory! We have won! Now, storm the castle!
+@1282
+Terrible news! I-Ieyasu is still alive! Fire on him!
+@1283
+Wait! Do not shoot!
+@1284
+Well done... Lord {a730000}...
+@1286
+Lord {a730000}... I am glad my last foe was you... was Nobunaga's army.
+@1287
+Even if I am defeated... my name...
+@1288
+...the name of Tokugawa Ieyasu... will be remembered as one who stood in the way of the ruler of the realm.
+@1289
+L-Lord Tokugawa!
+@1290
+As a gift... {w}for the underworld... {w}I could not... {w}hope for... {w}better than this...
+@1291
+Fare...{w}we...{w}ll...{w}...
+@1296
+Bury him with full honours!!
+@1299
+Lord Tokugawa... I shall not forget you...

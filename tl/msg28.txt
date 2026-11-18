@@ -1,0 +1,884 @@
+@450
+{a6d0000}, I am giving you Northern Ōmi.
+@451
+What?!
+@452
+I said I am giving you Northern Ōmi, the old domain of Azai Nagamasa.
+@453
+W-what... Such gracious words. I, Hideyoshi, humbly accept.
+@454
+You are now the master of a castle. To mark it, I also grant you the title of Chikuzen.
+@455
+To be given even a court title... I am overwhelmed, my lord.
+@456
+While we are at it, I permit you to take a new family name.
+@457
+A title, and now a name as well... Then Hidenaga may bear it too, of course?
+@458
+Of course. Now stop dawdling and choose a name!
+@459
+Very well\nPlease choose for me\nOda would be fine\nKeep my name as it is
+@460
+Very well...
+@461
+How would Hashiba be, my lord?
+@462
+Ha ha ha...! You took one character each from Niwa and Shibata and made Hashiba?! Have you no convictions of your own?
+@463
+I hoped to share in the good fortune of those two lords, so I chose the name Hashiba.
+@464
+All right, all right. Do as you please.
+@465
+Hmm, nothing comes to mind. My lord, please give me a good name.
+@466
+You cannot even decide for yourself...? Very well, I shall think of one.
+@467
+Hm, how about Hashiba? One character each from Niwa and Shibata: Hashiba Hideyoshi.
+@468
+To receive such a name... I shall strive all the harder to come closer to the two of them.
+@469
+Good. Do not forget those words.
+@470
+My lord, I would like to take the name {a730002}...
+@471
+What? You want my family name?
+@472
+Yes. To share the name of my lord, whom I so admire, would be the greatest happiness.
+@473
+No, no, this name I will not give. Think of another!
+@474
+I thought as much... Then how would Hashiba be?
+@475
+No, I am content with Kinoshita. I am rather fond of it.
+@476
+What...! I say I will give you a new name, and you refuse it?!
+@477
+I-I understand! Hashiba will do! Please let me call myself Hashiba!
+@478
+What... Hashiba, you say...
+@479
+There is one more thing I would ask.
+@480
+Hm, what is it? Say it.
+@481
+Please permit me to make Imahama my seat. And please allow me to change the name Imahama to Nagahama.
+@482
+Hm, Nagahama. A fine, spacious name. Permitted.
+@484
+Until a castle stands at Nagahama, I intend to govern Northern Ōmi from Odani.
+@485
+Good. Govern it well.
+@486
+\_\_\_\_- {e660057}: Lord's Room -
+@487
+So this is my castle... Splendid inside as well as out. Here I will build a town that even Lord Nobunaga will envy!
+@488
+Brother, Brother! Have you heard?
+@489
+What is it? Oh, Koichirō. Always in such a rush.
+@490
+Brother, have you heard that His Lordship is building a castle at Azuchi?
+@491
+So I have heard\nI have heard nothing of it\nThat is good news
+@492
+Yes, I have heard of it.
+@493
+And it does not trouble you? Once His Lordship comes to Azuchi, there will be no need for us to stay in {e730057}.
+@494
+No, I have heard nothing of it.
+@495
+Brother, this is serious. Once His Lordship comes to Azuchi, there will be no need for us to stay in {e730057}.
+@496
+What, that is good news! My lord is going to the trouble of building a castle for me!
+@497
+Nonsense... Brother, you are badly mistaken. His Lordship is building that castle for himself.
+@498
+Brother, this is serious. Once His Lordship comes to Azuchi, there will be no need for us to stay in {e730057}, you see.
+@499
+Hm? Why is that?
+@500
+Think about it. A land does not need two lords, does it?
+@501
+We may be put under Lord Shibata, and that will be the end of us...
+@502
+Brother, once Hokuriku is settled, His Lordship means to take the western provinces. I only hope he orders you to do it...
+@505
+Hm, {a6d0001}? And Lord {a6d003b} too... What brings you both here?
+@506
+Brother, have you seen it?
+@507
+I saw it, I saw it!\nWhat is this about?\nThat Omiyo everyone talks of...
+@508
+I saw it! I saw it clearly!!
+@509
+B-Brother... I have not said anything yet.
+@510
+Is that so?
+@511
+It is. Please calm yourself a little and hear me out.
+@512
+All right, all right. So what happened?
+@513
+Hm? What is this about?
+@514
+Oh, I saw her! You mean Omiyo, the talk of the castle town lately?
+@515
+That plump little bottom of hers is simply irresistible...
+@516
+Brother, who said anything about a woman? Look, even Lord Hanbee is appalled.
+@518
+{a6d003b}, stop looking at me like that...
+@519
+Brother, it is wonderful!
+@520
+What is wonderful?
+@521
+Azuchi Castle is finally complete! His Lordship has built an absolutely magnificent castle.
+@522
+My lord, in return for his constant favour, I think we should bring gifts to congratulate His Lordship and pay our respects.
+@523
+I have already prepared the gifts so we can leave at once.
+@524
+You are always ready, aren't you? Good, let us go right away.
+@525
+\_\_\_\_- Azuchi Castle: Lord's Room -
+@526
+{a6d0000}, is it? How do you find this castle?
+@527
+A magnificent castle\nIt is not yet grand enough\nPlease give it to me
+@528
+It is truly a magnificent castle.
+@529
+Of course it is. There is not another castle like it in the whole world.
+@530
+I am in a good mood today. Take this.
+@531
+Obtained Taishaku.
+@532
+Yes, my lord, thank you!
+@533
+No, it is not grand enough yet. My lord is a man who will rule the world, and as his residence this falls short.
+@534
+Ha ha ha... Do you say that Japan alone cannot satisfy me?!
+@535
+A lord without ambition would not be my lord at all.
+@536
+Hm... You say that only with ambition am I {a6d0002}? Perhaps that is true.
+@537
+It is truly a magnificent castle. Would you consider giving it to me?
+@538
+What? You want this castle? I built it for my ambitions. I cannot give it to you.
+@539
+Besides, your own {e660057} has only just been built.
+@540
+Ah, so it cannot be after all...
+@541
+Naturally! It would be wasted on you!
+@542
+By the way, there is something I wish to tell you.
+@543
+With the Azai and Asakura defeated, the Kinai region is nearly in my hands.
+@544
+The next trouble will be the Mōri of Chūgoku. I was wondering whom to set against them.
+@545
+Leave it to me\nLord Akechi is the man\nYou should go yourself
+@546
+Would you leave this to me, my lord?
+@547
+Hm? You say you can do it?
+@548
+Interesting! So you say you can face the Mōri.
+@549
+Very well. I will consider you as one of the candidates.
+@550
+You may go for today.
+@551
+I think Lord Akechi Mitsuhide is the right man.
+@552
+Mitsuhide? He cannot deal with the Mōri. He is always weak when it matters most.
+@553
+More to the point, can you not say "Let me do it"?
+@554
+What a pitiful fellow. Enough, begone!
+@555
+I think it would be best if you yourself took it on, my lord.
+@556
+There would be no point in my going.
+@557
+I must show all Japan that I can bring down the Mōri without going out myself.
+@558
+I thought you would step forward on your own... Well, you may go now.
+@559
+Lord {a730000}, Lord Nobunaga summons you. Please come to Azuchi Castle.
+@560
+My lord, you sent for me?
+@561
+Yes. I called you today to talk about Hokuriku.
+@562
+An unpleasant subject\nIs it about the Uesugi?\nHokuriku is a cold place
+@563
+Hokuriku is the domain of Lord Shibata Katsuie. An unpleasant subject.
+@564
+What, unpleasant?! Since when do you dare speak so grandly?!
+@565
+Return to {e730057} at once, make ready for war, and go to {a6d0003}.
+@566
+Is it about the Uesugi?
+@567
+Yes. The Uesugi are making suspicious moves, and {a6d0003} has sent a messenger asking for reinforcements.
+@568
+You will go too. Understood?
+@569
+If you tell me to go, I will go, but...
+@570
+What is this "but"?
+@571
+If you order me to go, I will go, but this battle cannot be won.
+@572
+What? Did you just say it cannot be won?!
+@573
+Yes. Hokuriku is narrow country, so small forces like the Uesugi's have the advantage over a large {a730002} army.
+@574
+But if we could lure them out onto the Ōmi plain, our greater numbers would give us the edge...
+@575
+Grr... You dare talk back to me?! Be silent, listen to what I say, and go to Hokuriku!
+@576
+Hokuriku is a cold place, they say. And the crab is supposed to be delicious...
+@577
+Hey, who is talking about crab? I am talking about what the Uesugi are up to lately.
+@578
+Katsuie has sent a messenger to say the Uesugi have begun to move and he wants reinforcements. So you will go too.
+@580
+Lord {a730000}, Lord {a6d0002} summons you.
+@581
+You sent for me?
+@582
+Yes. You may know this already, but there is a gunsmith in {e730057} named Kunitomo Ikkansai. Have him make cannon.
+@583
+What is a cannon, my lord?
+@584
+A cannon is a gun with a larger barrel, so that it can fire a bigger shot.
+@585
+The bigger the shot, the greater the power.
+@585.1
+I see. Brilliant as ever, my lord!
+@586
+Do not praise me yet. We cannot know its power until we use it. Is that not why I called you?
+@587
+Kunitomo Ikkansai is at the Smithy in {e730057}, Ōmi Province. That is your domain. Understood?
+@589
+My lord! The cannon is finished!
+@590
+Oh, this is a fine piece of work. Well done! Keep up the good effort.
+@591
+Yes, my lord!
+@592
+My lord, have you heard?
+@593
+Hm, know what?
+@594
+They say there are talented people here in {e730057}.
+@595
+Why not stroll around the town now and then between your duties?
+@596
+You are right. I will think about it.
+@597
+Hiyoshi!
+@598
+Mother! What is it?
+@599
+Today I have brought some young men with a bright future.
+@600
+They are young, but they are quite capable. Please make use of them.
+@601
+Pleased to meet you. I am Katō Kiyomasa.
+@602
+Pleased to meet you. I am Fukushima Masanori.
+@603
+Oh, a spirited pair by the look of them. I would like to see how far they can go.
+@604
+If you wish, I will show you. Come, Masanori!
+@605
+Yeah, here I come!
+@606
+Oh, you two! Do not be hasty.
+@622
+My lord, if you are idle, why not take a stroll through the castle town? I, Mitsunari, will go with you.
+@623
+Sounds good\nNo, it is a bother
+@624
+Sounds good. Walking about the castle town is part of a lord's work.
+@625
+Then shall we go, my lord?
+@626
+No, going out and walking about is a bother.
+@627
+Honestly... If you talk like that, you will be old before you know it.
+@628
+Really? That would be bad. All right! Mitsunari, come along!
+@630
+My lord, pardon the intrusion.
+@631
+Oh, {a6d0000}. What brings you today? Hm, who is that man?
+@632
+I came because I wished to introduce this man to you, my lord.
+@633
+I am Kuroda Kanbee, a retainer of the Akamatsu clan of Harima.
+@634
+What, Harima...? Hm. {a6d0000}, I wish to speak with this man. Leave us.
+@635
+\_\_\_\_\_\_\_\_- A few minutes later... -
+@637
+My lord, Lord Araki Murashige has rebelled! Lord Akechi tried to talk him round, but his mind was set and it came to nothing.
+@638
+What, Lord Araki...? There was a rumour that his retainers sold provisions to the soldiers besieged in Ishiyama Hongan-ji.
+@639
+Could it be that Lord Araki has done this out of fear of His Lordship's anger over that?
+@640
+Fortunately, Lord Araki and I know each other well. Leave this to me, to Kanbee. I will surely bring him round.
+@641
+Kanbee, I leave it to you\nDo not go\nI will go myself
+@642
+Very well... Kanbee, I leave it to you.
+@643
+Ah, thank you, my lord! If I go, Lord Araki will surely open his heart. Rest easy and wait.
+@644
+Do not go. He is in a rage. If you go carelessly, you may be killed.
+@645
+No, if I go to persuade him, Lord Araki will not lay a hand on me. I will surely persuade him.
+@646
+Very well. But do not do anything reckless.
+@647
+Yes, my lord. Leave it to me.
+@648
+No, I will go myself.
+@649
+Please wait, my lord. If you were lost, it would hamper all our battles to come.
+@650
+That is right. Please leave this to me.
+@651
+All right. But Kanbee, you must come back alive.
+@652
+God is with me. Rest easy and wait.
+@653
+Brother, about Lord Kanbee...
+@654
+I am worried\nHe has not been seen lately\nWho was he again?
+@655
+Yes, there has been no word this past month, and I am worried...
+@656
+Now that you mention it, he has not been seen lately.
+@657
+Did Lord Kanbee not go to persuade Lord Araki?! Had you forgotten?!
+@658
+Kanbee? Who was he again...?
+@659
+"Who was he again"?! Brother, is that not far too cruel?
+@660
+Sorry, I meant it as a joke...
+@661
+There are jokes that can be forgiven and jokes that cannot!
+@662
+I cannot believe persuasion would take this many days. Could he have been taken prisoner?
+@663
+They are no strangers to each other, so I cannot believe he has been killed...
+@664
+Either way, if this goes on, His Lordship may begin to suspect that Kanbee has betrayed us.
+@665
+Lord {a730000}, orders have come from Lord Nobunaga.
+@666
+"Kuroda Kanbee has betrayed the {a730002} clan. Execute the hostage at once."
+@667
+What?! What is the meaning of this?!
+@668
+Lord Nobunaga thinks he was most likely lured by Araki Murashige and has become his strategist...
+@669
+Wh-what a thing to do... Lord Kanbee is not such a man. We must not kill Lord Kanbee's son!
+@670
+I trust Kanbee\nI will obey Lord Nobunaga
+@671
+No, this is one order of Lord {a6d0002}'s that I cannot obey. I trust Kanbee.
+@672
+That will not do. You must execute him and deliver the body to Azuchi.
+@673
+In this matter, we have no choice but to do as Lord {a6d0002} says.
+@674
+...Deliver the body of the executed hostage to Azuchi.
+@675
+I take my leave!
+@676
+Brother, Lord Kanbee has not betrayed us.
+@677
+I know...{w} {a6d0001}, send for Hanbee.
+@680
+Hanbee, I expect {a6d0001} has told you. I wish to leave the matter of Kanbee's hostage to you.
+@681
+Understood... I will see to it in a way that rewards Lord Kanbee's service.
+@682
+I am counting on you.
+@683
+My lord... the matter of Lord Kanbee's hostage... has been settled without trouble... and I have reported it to His Lordship...
+@684
+Lord Hanbee, you look pained. Are you all right?
+@685
+Have you overdone it? Perhaps you should rest a little...
+@686
+No, my body is fine. It was my first journey in a long while, so the tiredness must have caught up with me.
+@687
+If you will excuse me, I shall take your kind advice and rest a little.
+@688
+My lord, Itami Castle has fallen! Araki Murashige seems to have fled the castle and gone into hiding.
+@689
+Kanbee! What of Kanbee?
+@690
+Lord Kuroda Kanbee was found confined in a cell and has been rescued. He is being treated now.
+@691
+Is he in a bad state?
+@692
+It was a narrow rock cell that never saw the sun, so he is badly plagued by fleas and lice, his flesh has wasted away, and his right leg is damaged.
+@693
+What... as bad as that? {a6d0001}! I am going to Itami Castle! I leave the rest to you.
+@694
+K-Kanbee! You are safe!
+@696
+Kanbee, forgive me...
+@697
+Interrupt him\nSay nothing
+@698
+Ah, my lord! I would like to take Kanbee to see his son now.
+@699
+What! His son...
+@700
+Th-then, my lord, if you will excuse me.
+@701
+Hey, wait, Hideyoshi!
+@702
+Kanbee, the truth is...{w} it concerns your hostage...
+@703
+My lord, I have brought Lord Kanbee's son.
+@704
+Hanbee!
+@705
+Oh!
+@706
+My lord, I would like to give father and son their reunion in private, so with your leave.
+@707
+Uh, yes... Hideyoshi, I have words for you. Stay here.
+@708
+Monkey! Defying my command in this matter is something I cannot forgive.
+@709
+But your quick wit saved me from cutting down an innocent man. For that, I thank you.
+@710
+Your words are too kind.
+@711
+After Harima is taken, I leave the Chūgoku region to you as well.
+@712
+Yes, my lord!
+@713
+Brother, Harima is pacified, and now it is at last the conquest of Chūgoku.
+@714
+An order has also come from His Lordship: "First pacify Tajima."
+@715
+From Tajima, is it...
+@716
+Starting with an easy one\nDo not let your guard down\nTajima means beef
+@717
+I see. It is Lord {a6d0002}'s consideration, to start us with the easy places first.
+@718
+Brother, if you talk like that, you will fail.
+@719
+We are fighting with our lives. It will not do for you to have such an attitude.
+@720
+Brother, please pull yourself together.
+@721
+It seems your mission is not yet over. This is no time to dawdle.
+@722
+Yes, my lord. Please forgive me.
+@723
+Oh, Koroku, Hanbee and {a6d0001}. What brings you all here together?
+@724
+Brother, we have been waiting! Have you heard that Lord Shibata has entered {e660051} to hold the north?
+@725
+Holding off the Uesugi...\nSnow-viewing sake...\nOff to flirt with the Uesugi?
+@726
+So he holds off the Uesugi... What is the situation in Hokuriku now?
+@727
+Speaking of the north, a cup of sake while viewing the snow. How elegant that would be.
+@728
+That is not it. We are talking about Lord Shibata.
+@729
+I see... Then what is the situation in Hokuriku?
+@730
+Did he go off to flirt with the Uesugi?
+@731
+No, that is not so.
+@732
+The Uesugi have their eye on Echizen, and Uesugi troops are famed for their strength.
+@733
+Putting Lord Shibata there to hold them is sound reasoning. As one would expect of His Lordship.
+@734
+Ah, Uesugi and Shibata, strength against strength... Just thinking of it makes me shiver. Ha ha ha...
+@735
+I think you too, my lord, should keep a close watch on movements in Echizen.
+@736
+Well then, we shall take our leave.
+@738
+Lord Niwa has become the lord of Sawayama Castle.
+@739
+That is good\nSo what?
+@740
+That is good. But what strategic value does Sawayama have?
+@741
+What of it?
+@742
+Sawayama is close to here, is it not?
+@743
+It seems we will be in Lord Niwa's debt again.
+@744
+But why a place like Sawayama...
+@745
+Sawayama is a key point for traffic by water and land. It seems His Lordship means to have great ships built there as a base for attacks on the water.
+@746
+How large a ship is a great ship?
+@747
+His Lordship said it is to be 13 ken long and 7 ken wide, with a fighting tower from bow to stern, and a lofty keep on top,
+@748
+and with iron plates all over it, a ship like an iron castle floating on the water.
+@749
+Oh, have I gone on too long? I'll be off, then.
+@750
+It is an easy place compared with the other provinces, but do not let your guard down.
+@751
+Even with the greater force, one can lose to a difference in the morale of the soldiers.
+@752
+Just as you say, Brother! In battle, the one who slackens loses.
+@753
+Well then, I shall put some spirit into myself. I will go and train outside for a while. With your leave...
+@754
+Tajima means beef. Yes.
+@755
+Brother, why does Tajima mean beef? And with a pot, too...
+@756
+Yes, why DOES Tajima mean beef? And why am I holding a pot...?
+@757
+Brother, who are you asking?
+@758
+Well... I feel as if someone made me say it...
+@759
+Brother, what is the matter? Are you seeing visions?
+@760
+No, it's nothing. I'm fine.
+@761
+More to the point, {a6d0001}: if you think Tajima will be easier to take than the other provinces, you will fail.
+@762
+In battle, the one who slackens loses. Stay sharp, I tell you - sharp!
+@763
+Hearing you say that, Brother, it's you I worry about...
+@769
+My lord!
+@770
+{a6d0001}? What is it?
+@771
+Hongan-ji Kōsa of Ishiyama Hongan-ji has surrendered.
+@772
+It seems Hongan-ji Kōsa has withdrawn from Ishiyama.
+@773
+So Ishiyama Hongan-ji has finally fallen... Hongan-ji Kōsa... a troublesome foe for Lord {a6d0002}.
+@774
+Now we can set about subduing the Mōri without distraction. Lord Nobunaga's unification of the realm is near.
+@775
+Also, Lord Sakuma Nobumori and Lord Hayashi Michikatsu have been banished.
+@776
+I can roughly guess why... Tell me.
+@777
+I hear His Lordship told them this:
+@778
+You did not attack Ishiyama in earnest. If you lacked the strength to take it, you should have won them over, yet you did not even do that.
+@779
+Furthermore, if you did not know how, you should have come and asked me, yet you did not do that either.
+@780
+I see, that is just like Lord Nobunaga... But I hope that removing both of them at this time does not hurt the Chūgoku campaign.
+@781
+My lord, please take care that you are not banished too.
+@782
+{a6d0001}, do not lump me in with Lord Sakuma and Lord Hayashi.
+@783
+I have capable aides like you, Hanbee and Kanbee, after all.
+@784
+Well, well... Please forgive me.
+@785
+My lord, Lord Ukita Naoie and Lord Akamatsu Norifusa have arrived.
+@786
+What! Ukita Naoie is one of the mightiest daimyō in Chūgoku! And Lord Akamatsu too!
+@787
+Both of them together... What could they want?
+@788
+They wish to speak with you in person and will not tell us why. They do not seem hostile, though...
+@789
+Well, nothing will come of it unless I meet them. Show them in.
+@791
+I am Ukita Naoie.
+@792
+I am Akamatsu Norifusa.
+@793
+What brings the two of you all this way?
+@794
+We have come because we wish to place ourselves under your banner.
+@795
+The Ukita are now caught between Oda and Mōri. If this goes on, we will be drawn into their struggle and crushed.
+@796
+I have a family I hold dear.
+@797
+To protect that family, I thought to seek refuge with Lord {a730000}.
+@798
+If Lord Ukita goes over to the Oda, our Akamatsu clan would vanish in an instant.
+@799
+Lord {a730000}, rather than waste strength to defeat us, make use of ours!
+@800
+So it is for your family, Lord Ukita. Cherish them well.
+@801
+Th-then you will take the Ukita into your service?
+@802
+Yes. I shall borrow the strength of Lord Ukita Naoie.
+@803
+Lord Akamatsu... I expect that you too will lend your strength to the {a730002} clan!
+@804
+Yes, Lord {a730000}. We are glad to be of service to you, and to Lord Oda.
+@805
+No, your decision averted a war and saved many lives. We thank you as well.
+@806
+You have both done well. Rest in the back room.
+@807
+Brother, this must be taken as proof that our strength has grown.
+@808
+With Lord Ukita's surrender, Mimasaka and Bizen were easily won.
+@809
+Yes, next is Bitchū at last.
+@810
+Please wait. I hear that Shimizu Muneharu of Bitchū-Takamatsu Castle is quite a formidable man.
+@811
+First let us attack Inaba, outflank the Mōri army and sap its spirit.
+@812
+Understood. We shall do as Kanbee says.
+@813
+Then please give the order to attack Inaba.
+@814
+My lord, a mission has come from His Lordship to conquer Awaji.
+@815
+Why Awaji?\nI've got it!
+@816
+Why does Lord {a6d0002} want Awaji...?
+@817
+It seems His Lordship intends to advance on Shikoku along with the Chūgoku campaign. Awaji is probably the foothold for that.
+@819
+I see! Lord {a6d0002} means to attack Shikoku. That is what Awaji is for!
+@820
+So we are to secure a route across to Shikoku.
+@821
+My lord, with Harima, Tajima and Inaba pacified and the Ukita and Akamatsu submitting to the {a730002} clan, the Chūgoku campaign is going smoothly.
+@822
+With this momentum, let us pacify Awaji!
+@823
+Good, tell the whole army at once!
+@824
+Oh, it's {a6d0001}. Were you waiting for me?
+@825
+Yes... Awaji is pacified, and I thought Bitchū would be next.
+@826
+Here is a letter from His Lordship as well.
+@828
+{a6d0000}, do not think you can rest just because you took Awaji. Hurry up and take Bitchū too.
+@829
+My, Lord Nobunaga is impatient. But it makes sense to attack while the army still has momentum.
+@830
+But Shimizu Muneharu is in Bitchū, and the Mōri will surely attack more fiercely than now.
+@831
+It will be a hard fight.
+@832
+I see... Is this Shimizu Muneharu such a formidable man?
+@833
+Well... I have not seen him myself, but I often hear it said that "Shimizu Muneharu is a sharp one."
+@834
+I see, he does sound formidable. But we cannot dwell on that. Begin preparing for battle at once.
+@835
+At once...? Understood.
+@836
+My lord! Lord Hanbee! Lord Takenaka Hanbee!!
+@837
+What is it? What about Hanbee?!
+@838
+Word has come that Lord Takenaka Hanbee has fallen gravely ill!
+@839
+What! Hanbee gravely ill! How can this be... Lord Hanbee...
+@840
+I am going to Hanbee's house now.{w} Hanbee, do not die...
+@842
+{a6d0000}, sit there. How many years have you served the {a730002} clan?
+@843
+Twenty years, my lord.
+@844
+Twenty years in service, and what is this shameful work of yours?!
+@845
+If you work like this, I shall have to reconsider how I treat you. Take that to heart and work hard!
+@847
+{a6d0000}! Have you forgotten what I told you before?! You work as shamefully as ever!!
+@848
+I-I am terribly sorry!
+@849
+If your attitude does not change after this, I will know what to do with you.
+@850
+Understand? Take that to heart and work hard!
+@853
+{a6d0000}! What are you doing?! Have you forgotten what I told you?!
+@854
+{d01}Smack!
+@855
+I-I am terribly sorry!
+@856
+Sorry is not enough! I had high hopes for you! And you... you...!
+@857
+{d06}Smack! Smack!
+@858
+Forgive me... Forgive me...
+@859
+I will not forgive you, I will not!
+@860
+{d02}Thud!
+@862
+I do not even want to see your face!
+@863
+My lord, you have been badly beaten this time. Are you all right?
+@864
+To be treated like this... It is time we struck out on our own.
+@865
+With a talent like yours, my lord, you could rival {a6d0002} himself. What will you do?
+@866
+Rebel\nStay with the Oda clan
+@867
+Hm... I will rebel against the Oda clan!
+@868
+Yes, my lord! The realm shall be yours!
+@869
+No, I cannot betray His Lordship's hopes. From now on I must mend my ways and work harder...
+@870
+Understood. If that is what you say, my lord, then we shall do so.
+@872
+To be treated like this... My lord, rebel! Raise the banner of revolt!!
+@873
+Please wait. Such an important matter must be thought over carefully.
+@874
+Besides, with our present strength we would be no match for them.
+@875
+No! If we let this pass, we lose face as men. My lord, let us rebel!
+@878
+Understood. We shall do as you say, my lord.
+@879
+My lord, {a660000} has come before you, as summoned.
+@880
+So you still do not understand what I tell you, eh?
+@881
+Your work these past years is truly unacceptable.
+@882
+I do not want to see your face! I banish you from the {a730002} clan!
+@883
+Get out of my sight!
+@884
+My lord, Lord Akechi Mitsuhide has come to see you.
+@885
+Lord Akechi is here! Splendid. Show him in at once.
+@887
+Ah! Lord Akechi! Welcome. Please come this way.
+@888
+Pardon my intrusion.
+@889
+What business has brought you all the way here today?
+@890
+In truth, Lord {a730000}, I have a matter on which I must consult you.
+@891
+I could understand my consulting you, Lord Akechi, but you consulting me? That is a surprise. Very well, let me hear it.
+@892
+Lord {a6d0002}'s attitude toward me is harsh. It seems he enjoys bullying me...
+@893
+Hmm...{w} The thing is, Lord Akechi, you are too serious.
+@894
+You must enjoy it, as I do, or you will never get along with Lord {a6d0002}.
+@895
+Is that how it is? I cannot see it so... It is only painful...
+@896
+Lord {a6d0002}'s wars destroy everything. Yet amid all that, you, Lord {a730000}, fight wars that let people live.
+@897
+If I must serve under someone, I would rather work under you, Lord {a730000}.
+@898
+Wh-what? Me, make use of you, Lord Akechi? Unthinkable!
+@899
+Not at all. To serve one such as you would fulfil my dearest wish.
+@900
+Hearing that, as a man I cannot refuse.
+@901
+Lord Akechi, let us build a good Japan together from now on.
+@902
+Thank you, Lord {a6d0000}!
+@903
+That aside, will Lord {a6d0002} permit this?
+@904
+We had better go and report to him at once.
+@905
+What, you want to make Mitsuhide your retainer?!
+@906
+{a6d0000}! To make Mitsuhide your retainer - what monstrous presumption!
+@907
+My lord, no. It was I who asked to become his retainer.
+@908
+What, are you dissatisfied with my treatment of you?
+@909
+Not at all, my lord.
+@910
+But when I was troubled, Lord {a730000} spoke kindly to me, gave me rare gifts and lifted my spirits.
+@911
+Touched by Lord {a730000}'s warmth, I came to want to be of help to this man.
+@912
+Hmm... Well, very well. You two might make an interesting pair.
+@913
+So be it, I allow it! {a6d0000} shall govern Mitsuhide's lands! I give Mitsuhide to {a6d0000}!
+@914
+Yes, my lord, thank you.
+@915
+My lord, I have something to tell you. May I have a little of your time?
+@916
+Ah, Hanbee. How rare for you to come yourself. Let us hear it.
+@918
+My lord, our Oda clan is under threat from the Uesugi in Hokuriku.
+@919
+His Lordship will probably ask you to march. But I do not believe we could beat the Uesugi, who are used to fighting in the narrow terrain of Hokuriku.
+@920
+When you meet His Lordship, please advise him to draw them to Ōmi, where the terrain favours us, and fight there.
+@921
+I-I am terribly sorry!
+@922
+Uesugi is making suspicious moves. Katsuie too has sent a request for reinforcements.
+@923
+Hmm... so we must attack here...
+@924
+My lord, please wait. If it comes to a castle siege, we shall suffer no small losses.
+@925
+True, we cannot afford to lose troops... Kanbee, what do you propose?
+@926
+Hideyoshi, Hideyoshi!
+@927
+Oh, Ma! You came!!
+@928
+Big brother, you really became a castle lord.
+@929
+Of course! From today you're a princess living in a castle. Ha ha ha...
+@930
+Come to think of it, I do not see Chikuami.
+@931
+Yes... When I woke this morning, he was already gone. I don't know where he went.
+@932
+I see, so he really doesn't want to live with me...
+@933
+I'm sorry, on such a happy day...
+@934
+No, it's all right. Surely he will come one day. Now, make yourself at home in my castle!
+@935
+I hope nothing has happened to Kanbee... But all I can do is trust Kanbee and wait.

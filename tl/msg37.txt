@@ -1,0 +1,298 @@
+@41
+Are you from a hostile daimyō clan...? Please leave as soon as your business is done.
+@149
+I have already held a tea gathering with this person this month. Nothing will come of it until the next month begins.
+@310
+\n\_\_\_\_\_\_- Takenaka Hanbee's Home -
+@900
+Why, Lord {a6d0000}! And Lord {a6d0001}, too. What brings you here?
+@901
+Ah, I came to ask your advice, {a6d0021}.
+@902
+Ha ha ha... My advice? Please, say what is on your mind.
+@903
+Well, you see, it is about the coming attack on Mino.
+@904
+The Hachisuka band took work in Mino too, so I expect you know the province well.
+@905
+So we hoped to borrow your wisdom, Lord {a6d0021}.
+@906
+If that is the matter, ask me anything. I just cannot say how much use I will be.
+@907
+Much obliged. Then let us come to the point at once.
+@908
+If the {a730002} clan marches on Mino, I doubt we can beat Mino's soldiers in a contest of arms.
+@910
+So first we must work on winning men over.
+@911
+What I want to ask you, {a6d0021}, is whom we should win over to deal the Saitō clan the greatest blow.
+@912
+In that case, it can only be the Mino Triumvirate, surely.
+@913
+Yes, if the {a730002} clan won over the Triumvirate, it would be a heavy blow for Mino.
+@914
+But there is a man in Mino greater than the Triumvirate!
+@915
+What?! A man greater than the Triumvirate?
+@916
+As far as I know, no one can match him in matters of strategy.
+@917
+I had no idea such a man existed... And what is his name?
+@918
+A man called {a66003b}.
+@919
+The truth is, this {a6d003b} seems to be dissatisfied with how the Saitō clan treats him.
+@920
+I see. So the Saitō clan, which prizes martial skill, does not value strategy...
+@921
+Just so. Why not go and see for yourself first?
+@922
+Yes, I think I shall go to Mino.
+@923
+Thank you, {a6d0021}!
+@924
+It is a small matter. Happy to help.
+@925
+Well, well. You must be Lord {a66003b}. I am {a660000} of Owari.
+@926
+Lord {a730000} of Owari, you say? And what business brings you to me?
+@927
+I have come today to hear the views of so famed a strategist as you, Lord {a73003b}.
+@928
+Ha ha ha... What a curious man you are. Coming to seek the views of an enemy officer...
+@929
+Ha ha ha... I am an unlettered man, so I call on all sorts of people to learn from them.
+@930
+Surely the {a730002} clan has men better than I?
+@931
+Not at all. Search all Japan, and you will find few men of your calibre, Lord Takenaka.
+@932
+You flatter me too much.
+@933
+I am not flattering you. I beg you, teach me.
+@934
+You and I are enemies. Ask no more of me, and kindly take your leave.
+@935
+Please, don't say that! Ah...
+@938
+Lord {a66003b}, it has been a long time. Today I have a request: please serve Lord {a6d0002}.
+@939
+What a sudden thing to ask... I have no wish to do so.
+@940
+Please, I beg you, I beg you, reconsider!
+@941
+Lord {a730000}, you must not ask the impossible of me. Please leave.
+@942
+You leave me nothing to hold on to. Very well, I will take my leave for today, but I shall come again.
+@943
+That would be a waste of your time.
+@944
+Lord {a66003b}, I have come again.
+@945
+You do stick at things, don't you? A most persistent man.
+@946
+I am not persistent. I am...
+@947
+Patient\nOn second thought...\nNot one for sticky food
+@948
+Patient, that is. However hard the task, I keep at it patiently.
+@949
+That is why Lord {a6d0002} is good enough to make use of me.
+@950
+Makes use of you? You make it sound as if he thinks of people as mere tools.
+@951
+But tools and men alike show their true worth depending on the one who uses them, do they not?
+@952
+A man shows his true worth depending on the one who uses him...
+@953
+Hm, then again, perhaps I am persistent after all.
+@954
+But that is my good point.
+@955
+Lord {a73003b}, can I not persuade you somehow?
+@956
+Please leave.
+@957
+No, today I mean to stick it out a little longer.
+@958
+However long you stick it out, the answer will be the same.
+@959
+I doubt that.
+@960
+I prefer light, plain food to anything heavy and sticky.
+@961
+Hm? Weren't we talking about food?
+@962
+Ha ha... What an amusing man. But I still cannot grant your request.
+@963
+Very well. I shall withdraw for today, but I will be back.
+@964
+Coming again will change nothing. You should stop wasting your time.
+@965
+Lord {a66003b}, third time lucky, they say. Please hear me.
+@966
+Lord {a730000}, you really are a persistent man.
+@967
+That is my one strength.
+@968
+Since I am being persistent anyway, let me say what I have come to say today.
+@969
+Talk money\nAppeal to feelings\nThreaten
+@970
+Lord {a73003b}, on what terms would you come to the {a730002} clan?
+@971
+I do not work for the sake of my own gain alone.
+@972
+Oh, no, that was a mistake... Then...
+@973
+Appeal to feelings\nThreaten
+@974
+Nothing for it. I must appeal to his feelings...
+@975
+Lord {a73003b}, let us build a new realm together, you and I!
+@976
+The realm...?!
+@977
+Yes, the realm.
+@978
+It would be a great waste to shut a man of your gifts away in these remote mountains, Lord {a73003b}.
+@979
+Lend your strength for the realm and for all its people.
+@980
+How much could I possibly do?
+@981
+Your strategy saves lives, Lord {a73003b}. Is that not wonderful in itself?
+@982
+Is that so...? ... ...
+@983
+Very well. For the sake of the realm, I shall lend my strength to you, Lord {a730000}.
+@984
+Ah, thank you! Then please meet Lord {a6d0002} at once.
+@985
+Good. Let us go.
+@986
+Lord {a73003b}, it seems I have no choice but to ask you by force.
+@987
+Think better of it. Such behaviour does not suit you, Lord {a730000}.
+@988
+He is a step ahead of me... Then...
+@989
+Talk money\nAppeal to feelings
+@990
+Why, my lord. What is the matter?
+@991
+Hanbee, I have a favour to ask. I want you to win over the Mino Triumvirate.
+@992
+Is this a mission from His Lordship? Even so, I cannot accept that order.
+@993
+Whatever I said, they are not men to change their minds. Let the three of them feel your own sincerity, my lord.
+@994
+If they feel your sincerity, their minds will surely change.
+@995
+Is that how it works...?
+@996
+That is how it works. You won me over, did you not? Have confidence.
+@997
+I see... If Hanbee says so, it must be true.
+@998
+Then I will go at once. Look after things while I am gone.
+@999
+My lord, one moment.
+@1000
+When you reach Andō Morinari, give him this letter. I think it will be of some use.
+@1001
+And do you know where the three have their castles? Lord Andō is at Iwamura Castle, Lord Inaba at Gujō-Hachiman Castle, and Lord Ujiie at Ōgaki Castle.
+@1002
+Understood. Thank you.
+@1010
+Hey, Lord Toshiie! Are you in?
+@1011
+Why, Lord {a6d0000}. What brings you here?
+@1012
+Ha! Lord Toshiie and Lady Omatsu, both here to greet me. What luck!
+@1013
+You mean you're lucky to see MY face, surely!
+@1014
+Ha ha ha... Quite right, quite right.
+@1015
+By the way, did you want something?
+@1016
+No, nothing in particular.
+@1017
+Oh, by the way, I heard all about Sunomata.
+@1018
+They say you did what Lord Sakuma and Lord Shibata failed to do...{w} Splendid!
+@1019
+Oh no, it was a gamble, all or nothing.
+@1020
+A newcomer like me has to take gambles like that, or no one will ever recognise him.
+@1021
+Admirable! That is the way of the warrior!
+@1022
+Oh, it was nothing...
+@1023
+Dear... Why didn't you put yourself forward...?
+@1024
+W-well, that is...
+@1025
+You spineless man!
+@1026
+N-not that again... S-stop it! Please stop!
+@1027
+Watch them fondly\nStep in for poor Toshiie
+@1028
+Omatsu's Finishing Move...{w} Hundred-Slap Barrage!!!
+@1029
+{d03}Smack-smack-smack-smack!{w} SMACK!
+@1030
+Guhh...
+@1031
+Lord Toshiie...{w} I look forward to the day we meet again...
+@1033
+L-Lady Omatsu, stop it!
+@1035
+Tōkichirō, are you all right? If you like, I can take you to my regular physician...
+@1036
+No...{w} Somehow...{w} I seem to be all right...
+@1037
+He took Omatsu's Hundred-Slap Barrage and is still standing... A fearsome man, Tōkichirō...
+@1039
+Take care on the way home.
+@1040
+Why, Lord {a6d0000}. Toshiie has received a mission from His Lordship and is away.
+@1041
+I see...{w} Then I shall come again.
+@1042
+Oh...{w} Please wait. Lady Nene is here.
+@1043
+What, Nene is visiting you?
+@1044
+My dear, shouldn't you be at work?
+@1045
+Well...{w} I am doing it, I assure you.
+@1046
+Are you really?
+@1047
+Honestly, Nene... What with Sunomata and all, your husband is doing splendid work.
+@1048
+Whereas my Toshiie has done nothing to speak of...
+@1049
+Nene, this looks like it will take a while, so I leave the rest to you.
+@1050
+Wh-what do you mean, the rest...?
+@1051
+Nene, I'm counting on you.
+@1052
+L-Lord Tōkichirō, where are you going?! We are not finished talking!
+@1374
+For good results, gather all of this information.
+@1377
+For good results, you will need all of this information.
+@1432
+I came to greet Lord {p00}, and what do I find but you trying to squeeze money out of him!
+@1436
+Enough! I refuse to believe that my husband holds friendship so cheap.
+@1464
+War funds in battle serve to raise units' morale and to pay for works such as flooding a castle or making repairs.
+@1488
+On rainy days the fuses go out, so gunner units cannot be used.

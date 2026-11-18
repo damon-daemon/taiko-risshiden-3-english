@@ -1,0 +1,258 @@
+@0
+Welcome!
+@1
+Thank you for coming.
+@2
+Hello, my lord! I am happy that the greatest lord in Japan has come to see us.
+@4
+Now, what would you like to do?
+@5
+Please tell me what you want to do.
+@6
+What can I do for you?
+@7
+I am sorry. We are sold out at the moment.
+@8
+I am very sorry. We are sold out right now.
+@9
+Oh! I beg your pardon. We are currently out of stock.
+@10
+Which one would you like?
+@11
+Which item do you wish to buy?
+@12
+Which item would you like to purchase?
+@13
+We have only one of that. I can sell it for {p00}. Will you buy it?
+@14
+There is only one of that. I will sell it for {p00}. Will you buy it?
+@15
+That is a rare piece, and we have only one. I can let you have it for {p00}. Will you take it?
+@16
+That one is {p00} apiece. How many will you buy?
+@17
+That is {p00} each. How many will you buy?
+@18
+That item is {p00}. How many would you like to purchase?
+@19
+That comes to {p00}. Will you buy it?
+@20
+That would be {p00}. Will you buy it?
+@21
+That comes to {p00}. Will you make the purchase?
+@22
+Then how about {p00}?
+@23
+Then how would {p00} be?
+@24
+In that case, would {p00} be acceptable?
+@25
+Hmm... Then how about {p00}?
+@26
+Hmm... Oh, all right. A special discount. How about {p00}?
+@27
+When you put it that way, I cannot refuse. Then, as a special favour, how about {p00}?
+@28
+Then how about {p00}? I cannot go any lower than this.
+@29
+Then how would {p00} be? I cannot make it cheaper than that.
+@30
+In that case, would {p00} do? I cannot go any lower than this.
+@33
+Thank you very much.
+@34
+Thank you very much indeed.
+@35
+Thank you so much. Please come again.
+@36
+Will you buy anything else?
+@37
+Is there anything else you wish to buy?
+@38
+Is there anything else you would like to purchase?
+@39
+I look forward to doing business again.
+@40
+I look forward to your custom.
+@41
+I hope we may continue to do business in future.
+@42
+I see... Very well.
+@43
+Understood... Perhaps another time.
+@44
+Is that so... What a pity. I will be waiting for you to visit again.
+@45
+Do not mock me! There are things I cannot do!
+@46
+I cannot do as you wish. Please leave.
+@47
+We have a business to run. I cannot do anything too unreasonable.
+@48
+Selfish people who ask for the impossible, please leave!
+@49
+You are putting me in a difficult spot. We are not your retainers. I cannot do anything too unreasonable.
+@50
+I am sorry, but I must ask selfish customers to leave.
+@51
+For an appraisal, I take 10 kan per item.
+@52
+An appraisal, then. I will take 10 kan per item.
+@53
+An appraisal, certainly. I will take 10 kan per item.
+@54
+Ah, wait... I have no unappraised Nanban goods.
+@55
+What is the matter?
+@56
+What happened?
+@57
+Is something wrong?
+@58
+Ha ha ha! I had nothing to be appraised. Forgive me.
+@59
+Ha ha ha! Please be careful next time.
+@60
+I see. Please do not make that mistake again.
+@61
+Ha ha ha! Even a lord such as yourself can make mistakes.
+@62
+Then I cannot appraise anything.
+@63
+Please come back when you have the money.
+@64
+Oh? You do not have enough money. Please come again when you do.
+@65
+Bravo!! Magnificent! This is {p00}! It is one of the finest treasures.
+@66
+Oh, this is surely {p00}! It is one of the finest treasures.
+@67
+Th-this is... Bravo! There is no doubt it is {p00}. A treasure among treasures!
+@68
+This is {p00}! A rare piece, the only one of its kind in the world!
+@69
+Oh, this is {p00}! A precious treasure, the only one in the world!
+@70
+This is {p00}. It is a precious treasure, the only one in the world.
+@71
+This is {p00}.
+@72
+This is surely {p00}.
+@73
+There is no doubt this is {p00}.
+@74
+There is nothing left to appraise.
+@75
+It seems you have nothing more to have appraised.
+@76
+You have nothing further to have appraised, I believe.
+@77
+Is there anything else to appraise?
+@78
+Is there anything else you wish to have appraised?
+@79
+Is there anything else you would like to have appraised?
+@80
+Thank you very much.
+@82
+Thank you so much. I hope to see you again.
+@83
+Is there anything else I can do for you?
+@84
+Anything else you want to do?
+@85
+Is there anything else you wish to do?
+@86
+Which one will you sell me?
+@87
+Which item will you sell?
+@88
+Which item would you like to sell to us?
+@89
+For that, I pay {p00}. Will you sell it?
+@90
+In that case, it comes to {p00}. Will you sell it?
+@91
+For that item, it would be {p00}. Would you care to sell it?
+@92
+For that, I pay {p00} each. How many will you sell?
+@93
+That item is {p00} each. How many will you sell?
+@94
+For that item, it is {p00}. How many would you care to sell?
+@95
+That comes to {p00}. Will you sell it?
+@96
+That would be {p00}. Will you sell it to us?
+@97
+That comes to {p00}. Would you care to sell it?
+@99
+I forgot the thing I meant to sell. Forgive me.
+@100
+Then how about {p00}? I cannot go any higher than this.
+@101
+Then how would {p00} be? I cannot go any higher than that.
+@102
+In that case, would {p00} do? I cannot go any higher than that.
+@103
+Good, I'll sell at that price.
+@104
+There is nothing left that you can sell.
+@105
+It seems there is nothing more you can sell.
+@106
+There is nothing more that you can sell.
+@107
+Is there anything else you wish to sell?
+@108
+Is there anything else you would like to sell?
+@109
+Is there anything else you care to sell?
+@300
+I heard that the medicine for the illness going around Ōmi is Nanban-made, so I came here.
+@301
+Hmm, we do not handle medicine here.
+@302
+Is that so... Do you know where I could get it?
+@303
+I do not know. I am very sorry.
+@304
+I see. But most Nanban ships should be moored at Sakai...
+@305
+It can't be that this town has none... I'll look elsewhere.
+@350
+Oh, I feel I have seen you somewhere...
+@352
+Ah, of course. I am {a660014}.
+@353
+By the way, what is that in your hand?
+@354
+This? It is a Nanban vessel. Such a beautiful shine and clarity...
+@355
+Er... I-is that so?
+@356
+I would like to shine like that myself...
+@357
+Lord {a730014}... Gone already.
+@358
+Why, if it isn't Lord {a6d0000}.
+@359
+Lord {a730014}, what a coincidence to meet you in a place like this.
+@369
+Oh, you are interested in this jar?
+@370
+Its indescribably weighty texture and vivid patterns... Splendid.
+@371
+Y-yes, indeed...
+@372
+A warrior should strive to live as beautifully as this.
+@374
+Well then, I should be going.
+@375
+Why, Lord {a6d0000}. Are you also interested in Nanban goods?
+@376
+Well, I suppose I am, a little.
+@377
+Then what do you think of a jar like this?
+@378
+Its indescribably weighty texture and vivid patterns... Do you not think it splendid?

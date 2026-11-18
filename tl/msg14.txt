@@ -1,0 +1,198 @@
+@0
+Welcome!
+@1
+Oh, Lord {a730000}! What an honour that you have come in person!
+@3
+Your training period has ended. Please come again whenever you wish to study further.
+@4
+Lord {a660000}, you have now reached the highest Development skill you can attain.
+@5
+Please use that power to make the people happy.
+@6
+You have learned the basics of Development.
+@7
+I think you now understand Development rather well.
+@8
+Perfect! There is nothing more I can teach you. Lord {a6d0000}, you have mastered Development.
+@10
+With this power, please make everyone's life easier.
+@12
+You are stopping now? Then let us continue another time.
+@13
+It seems you have run out of money. Please come back when you have saved some.
+@14
+If it is urgent business for your house, I understand. Please come again.
+@15
+What will you do?
+@16
+What should I be doing now? I would like your advice.
+@17
+I have no particular advice to give you.
+@18
+In that case, I ask for 5 kan as alms. Is that acceptable?
+@19
+Thank you very much. Then let me advise you.
+@20
+I see. If you ever lose your way in life, come and ask me.
+@21
+Oh, dear God... At this rate you will not be back by the deadline. Even so, you should return to the castle at once.
+@22
+I pray that Lord {p00} will forgive you.
+@23
+This won't do! I must hurry back!
+@24
+Yes. I think it would be best if you returned to the castle.
+@25
+Hm? True, counting the days it takes from here, I must be heading back soon.
+@26
+Your mission is already done, so you had better return to the castle.
+@27
+You should go and meet the rōnin warriors soon.
+@28
+Let me see... I heard that Lord {p00} is at {p01}.
+@29
+I have no news of any rōnin warriors. I am sorry.
+@30
+Perfect! With this, you should return and report at once.
+@31
+It is not perfect, but the result is satisfactory. You may return to the castle and report.
+@32
+There is still more to investigate, but reporting now would not be a failure.
+@33
+For now, please try going to {p00}.
+@34
+To learn about the land, please ask the farmers at a House.
+@35
+To learn about supplies, please ask a townsperson at an inn.
+@36
+To learn about military strength, please drink sake with an ashigaru at a tavern.
+@37
+There are no more enemy castles left to spread rumours in, so you should return and report.
+@38
+It would be good to spread rumours at {p00}.
+@39
+Continuing to buy and sell rice as long as time allows is the road to success.
+@40
+I hear prices are low in {p00} and {p01}, and high in {p02} and {p03}.
+@41
+It seems you have spent your whole budget. I think you should return to the castle and report.
+@42
+I hear it is cheaper in the north, but I do not know the prices well.
+@43
+As far as I know, {p00} and {p01} are cheap.
+@44
+Hmm... As far as I know, there is nobody who will sell you guns right now.
+@45
+I think you should try going further north.
+@47
+I think you should return to the castle and report.
+@48
+You have little money left. It would be good to return to the castle.
+@49
+I think you will find guns cheap at {p00}.
+@54
+I think you will find cannon cheap at {p00}.
+@57
+I wish to gain the Development skill, and I would like to study under you...
+@58
+Oh? You have already mastered Development completely. There is nothing more I can teach you.
+@59
+So I have. How careless of me. Ha ha ha!
+@60
+I am sorry, but more training will not improve your Development skill, so let us not train.
+@61
+As support for the faith, we receive a donation of {p00} per day.
+@62
+How long will you train, then?
+@63
+How many days will you train?
+@64
+{b00} day{s}, then. Is that correct?
+@65
+Understood.
+@66
+You will train until your Development skill improves. Is that right?
+@67
+Oh? It seems you do not have enough money.
+@69
+Is there anything else I can do for you?
+@70
+You have come at a good time. Father Frois is here today.
+@71
+He is going to explain a new technique. Please stay and listen.
+@72
+Then let me explain. Today I shall speak of a technique called Cupellation...
+@73
+...And so, Cupellation is very effective for Mine Work. I must go and preach now, so please excuse me.
+@74
+When given a Mine Work mission, you can now use Cupellation.
+@75
+Then let us begin. Today I will explain Nanban Refining, a new smelting technique...
+@76
+...As you see, Nanban Refining is very effective when doing Mine Work. Now, if you will excuse me.
+@77
+When given a Mine Work mission, you can now use Nanban Refining.
+@78
+Hm? Your mission deadline seems to have passed. You should return to the castle at once.
+@79
+You should go to Sunomata right away.
+@80
+I have no news. You should finish your mission quickly. I will return your 5 kan.
+@81
+I have no news. I will return your 5 kan.
+@82
+There is much more you can look into. You still have a long way to go.
+@83
+You must investigate the castles that {p00} owns.
+@84
+Hmm, I think it would be best to return to the castle.
+@85
+If you are hiring ashigaru, I think {p00} is the place to do it.
+@86
+If you mean to attack {p00}, now is a good time.
+@87
+Considering what comes after the battle, I think taking {p00} should wait until you have more troops.
+@88
+You should build up your forces before you attack {p00}.
+@89
+There seems to be no castle you can attack right now.
+@90
+If you are going to attack, I think {p00} is a good target.
+@300
+Is there a medicine here that works on the illness going around in Ōmi?
+@301
+Yes, we have that medicine.
+@302
+How much is it?
+@303
+It is 1 kan.
+@304
+Life matters more than money!\nI can't pay 1 kan!
+@305
+1 kan is steep for me right now, but it is nothing against Lady {a6d00e6}'s life.
+@306
+You will pay 1 kan? That is a fine spirit.
+@307
+You got the medicine!
+@308
+Good! I must take it to Lady {a6d00e6} quickly!
+@309
+May God's blessing be with you.
+@310
+Ugh, 1 kan is a bit much! Please, give me a discount! I beg you!
+@311
+You seem to be in great trouble. Very well. You seem to have your reasons, so I will let you have it.
+@312
+Oh, thank you! I will repay this kindness someday!
+@313
+All is as God wills.
+@314
+I bought it for 1 kan!
+@315
+Then whatever money you have on you will do.
+@316
+Ugh... (Blast, that backfired...) All right. Take it all.
+@317
+Yes, here is the medicine. Take care of yourself.
+@318
+For now, the Development skill is enough.

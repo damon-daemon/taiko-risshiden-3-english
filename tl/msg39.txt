@@ -1,0 +1,170 @@
+@87
+Lord {p00} will one day rule the realm. What do you say? Would you consider serving the {p01} clan?
+@213
+It does seem a little wasteful, but very well.
+@300
+{a6d003b}, are you in?
+@301
+Well, well... How did your talk with His Lordship go?
+@302
+Hm... I have been ordered to go to Hokuriku and help Katsuie.
+@303
+This is bad, very bad... Hanbee, even if we cannot win this battle, can we not at least fight it to a draw?
+@304
+That will be very difficult... Hmm...
+@305
+There is no hope of winning if we fight in Hokuriku, yet His Lordship seems set on fighting there...
+@306
+What is more, he appears to be sending most of the main armies to Hokuriku.
+@307
+Then Kinki will be left wide open!
+@308
+Can we not think of something...?
+@309
+For now, I see nothing for it but to go to Hokuriku and put it to Lord {a730003}.
+@311
+Hey! Hanbee, are you there, Hanbee?!
+@312
+Yes... I am here... Cough, cough...
+@313
+No, no, stay as you are. You should be resting.
+@314
+I have found a good medicine. Will you take it? It looks rather foul, though...
+@315
+Mm! Mmm... Gulp... Gulp...
+@316
+Has he fainted from the sheer foulness of it...?
+@317
+... Could he... could he have died of the foulness?
+@318
+Ugh... Foul...
+@319
+Oh, you are alive. Hanbee, are you all right?
+@320
+Ah... My lord... What happened to me...?
+@321
+Oh! My body feels strangely warm...
+@322
+What! Is the medicine taking effect? Hanbee, how do you feel?
+@323
+I feel as if strength is welling up in me.
+@324
+So strength is welling up! Then you are fine now.
+@325
+Now we need only wait for Hanbee's spirits to recover.
+@326
+I will be going home now, but take your time and rest until you are fully recovered.
+@327
+Hey! Hanbee! What has happened to Hanbee?!
+@328
+Please be quiet!
+@329
+S-sorry... So, how is Hanbee?
+@330
+He is in a most dangerous condition. He has five days at the most...
+@331
+What, only five days?! Is there nothing to be done?!
+@332
+Forgive me. This, I fear, is beyond my art...
+@333
+Curse you... you quack... ... What?!
+@334
+Lord Takenaka seems to have come to.
+@335
+Ah... Hanbee... Do you know me? It is I... {a6d0000}...
+@336
+M-my lord... It is you, my lord...
+@337
+Yes. Never mind that, Hanbee. How do you feel?
+@338
+It seems this is as far as I go...
+@339
+Don't lose heart like that...
+@340
+Did you not say we would serve His Lordship together and bring peace to the land...?
+@341
+But no man can outlive his appointed time...
+@342
+My lord... put your trust in Lord Kuroda Kanbee. He is a fine man.
+@343
+As a strategist, he is surely more gifted than I...
+@344
+What are you saying, Hanbee! I still need your strength!
+@345
+Cough, cough... My lord... a world in which all people can live in happiness... you must... you must...
+@345.1
+...
+@346
+Hey, Hanbee?! Hanbee! Hanbee! Answer me! Hanbee!!
+@347
+He has passed away...
+@348
+Don't talk nonsense! Hanbee cannot die! Isn't that so, Hanbee?!
+@349
+Damn... Hanbee... I understand... I will keep my promise to you, I swear it!
+@350
+Hanbee! Hanbee!! Pull yourself together!!!
+@351
+Please be quiet.
+@352
+Hey! Is Hanbee all right?!
+@353
+The medicine is working and he is resting now. But...
+@353.1
+But? What do you mean, "but"?!
+@354
+Yes... I fear Lord Hanbee has... a day at most...
+@355
+Wh-what?! That cannot be!!
+@356
+Hey! You quack! Don't talk such nonsense!
+@357
+Hanbee and I have shared joy and hardship for years. He is as dear to me as a brother of my own blood!
+@361
+My lord, I am sorry to be late.
+@363
+M-my lord...{w} Lord Hanbee is...
+@364
+Hanbee! Is there something you want to say?
+@365
+My... lord...
+@366
+Hanbee! I am here!
+@367
+M-my lord...{w} W-without fail...{w} t-take the realm...{w} Take the realm, I beg you...
+@368
+For you, my lord...{w} it is c-certain...{w} the realm... will be...{w} yours...
+@369
+I... Hanbee...{w} vouch for it...{w} so there is no...{w} doubt...
+@370
+What are you saying... We were to take the realm together, were we not...
+@371
+Forgive...{w} me...
+@372
+At the last... your...{w} voice...{w} my lord... to hear it...{w}{w} I am{w} glad...
+@373
+Hanbee?{w} Hanbee!{w} Hanbee!!
+@374
+Hanbeeeee!!!
+@383
+My lord...
+@384
+...Forgive me. I lost my composure.
+@385
+No, my lord, I understand how you feel. But it seems to me that Lord Hanbee was a happy man.
+@386
+He was not granted a warrior's death on the battlefield, but more than that...
+@387
+he ended his days with you watching over him, his loss mourned even as he went.
+@389
+Now it falls to us to carry on Lord Hanbee's wishes. My lord, this is no time to lose heart.
+@390
+...I understand. You are right, we cannot grieve forever.
+@391
+Hanbee, watch me! I swear I will defeat Nobunaga and take the realm!
+@400
+Hanbee, watch me! I swear I will take the realm!
+@1313
+Doing more is unlikely to raise my skill any higher.
+@1431
+Omatsu, what is it, all of a sudden?

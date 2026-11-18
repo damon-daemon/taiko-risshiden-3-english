@@ -1,0 +1,546 @@
+@1
+I am {a660000}, {p01} of the {p00} clan.
+@4
+So you are Lord {a660000}. I have heard much about you.
+@5
+So you are Lord {a660000}! Forgive my rudeness.
+@6
+Well, what do you want?
+@7
+Oh, and what brings you here?
+@10
+Welcome. We hear of your exploits as a pillar of the {p00} clan.
+@12
+What do you want?
+@17
+Your training period is over.
+@18
+Your training period has ended.
+@19
+Thank you for your efforts. Your training period has come to an end.
+@20
+You have learned the basics of gunnery.
+@21
+You have learned the basics of gunnery. Well done.
+@22
+Well done. You have now mastered the basics of gunnery.
+@23
+You should be quite skilled by now.
+@24
+You have gained considerable skill. Well done.
+@25
+You have become quite an expert. I think we may call you first-rate.
+@26
+You have reached the level of a master. Magnificent.
+@27
+You have perfected the art of the gun. Put that power to good use.
+@28
+You have reached an almost divine level. Use your ability to bring an end to this age of war.
+@29
+Urgent business for your house?! Then hurry home. Training can wait for another time.
+@30
+Urgent business for your house is a chance to shine. Go and show your full strength.
+@31
+Urgent business for your house?! Now is when your daily training will be tested. Please, show your full strength.
+@32
+It seems you are short of money. Come again.
+@33
+I am sorry, but with the money you have, you cannot train any further. Please come again.
+@34
+What is the matter? You do not have enough money. Please come again.
+@35
+Well, the agreed period is over.
+@36
+The agreed period is over. Come back if you need anything.
+@37
+The agreed period is over. Come again if you wish to improve your skill.
+@38
+The agreed period has ended. Please come again.
+@39
+You have finally learned the basics of gunnery.
+@40
+You have learned the basics of gunnery. Keep up the effort.
+@41
+You have learned the basics of gunnery, I see.
+@42
+You have learned the basics of gunnery. If you wish to gain greater skill, please come and train again.
+@43
+You have improved a lot. There is nothing more I can teach you.
+@44
+You have improved a lot. You will do well in battle. I have nothing left to teach you.
+@45
+Your training has paid off, and you have improved a great deal. I have nothing more to teach you.
+@47
+If you want to master the gun, go and see Master Kunitomo Ikkansai of {p00}.
+@48
+If you want to go further, go and see Master Kunitomo Ikkansai of {p00}.
+@49
+If you wish to improve your gunnery further, please visit Master Kunitomo Ikkansai of {p00}.
+@50
+If you wish to aim higher still, please call on Master Kunitomo Ikkansai of {p00}.
+@51
+Urgent business for your house? Then off you go.
+@52
+If urgent business has come up for your house, so be it.
+@53
+If it is urgent business for your house, I understand.
+@54
+If it is urgent business for your house, there is nothing for it. Please come again.
+@56
+Hm?! You seem to be out of money. Come back when you have saved some.
+@58
+Oh? It seems you are short of money. Please come again.
+@59
+{p00}? We don't handle those here.
+@60
+{p00}? Sorry, we don't make those here.
+@61
+{p00}? I am sorry, but we do not make those.
+@62
+{p00}? I am very sorry, but they are not made in these parts.
+@63
+{p00}? Sorry, but my lord has told me not to sell those to the {p01}.
+@64
+{p00}? I am sorry, but my lord has strictly forbidden me to sell those to the {p01}.
+@65
+{p00}? I am very sorry, but my lord has ordered me not to sell those to other clans, so I cannot sell them to you.
+@66
+{p00}? Can't sell 'em. My lord was strict about it: none for other clans.
+@67
+{p00}? Sorry, but my lord told me not to sell those to the {p01}.
+@68
+{p00}? I am sorry, but I have been told not to sell those to the {p01}.
+@69
+{p00}? I am very sorry, but I have been told not to sell those to other clans.
+@70
+{p00}? {b00} kan each, and I have {b01} ready.
+@71
+{p00}? {b00} kan each. I can sell you up to {b01}.
+@72
+For {b00} kan, the most{p00} you can buy is {b01}.
+@73
+{p00}? {b00} kan apiece. Got {b01} right now.
+@74
+{p00}? {b00} kan each. I've {b01} in the shop just now.
+@75
+{p00}? They are {b00} kan each, and we have {b01} at the moment.
+@76
+With {b00} kan, the most{p00} you can buy is {b01}.
+@78
+Next time, then.
+@79
+Perhaps another time, then.
+@80
+With {b00} kan you could buy up all my{p00} ({b01} in stock).
+@81
+Come on, give me a break. Don't forget your money next time.
+@82
+Come again when you have the money.
+@83
+Please do not forget your money next time.
+@84
+With {b00} kan, you could buy all our{p00} ({b01} in stock).
+@85
+Will you buy?
+@86
+Will you be buying?
+@87
+Would you care to make a purchase?
+@88
+You'll buy, right?
+@92
+Will you take {b01} for {b00} kan?
+@93
+Then I will sell you {b01} for {b00} kan. Is that acceptable?
+@94
+Then I shall sell you {b01} for {b00} kan. Will that be acceptable?
+@95
+{b01} for {b00} kan. You'll buy, right?
+@96
+Then how about {b01} for {b00} kan?
+@97
+Will you buy {b01} for {b00} kan?
+@98
+In that case, would you care to buy {b01} for {b00} kan?
+@99
+If you are only browsing, go home.
+@100
+If you are only browsing, please leave.
+@101
+I am sorry, but I must ask browsers to leave.
+@102
+What a miser. Then get out.
+@103
+That is out of the question. If you are only browsing, get out.
+@104
+If you are only browsing, I will have to ask you to leave.
+@105
+I am sorry, but I cannot allow that. Please go outside and think it over.
+@106
+A pity. Do buy something when you get the chance.
+@107
+I see. Please buy something next time.
+@108
+I see. Then please come again another time.
+@109
+I see. Next time, then.
+@110
+A pity. Next time, then.
+@111
+I see. Next time, please.
+@112
+Very well. I look forward to your next visit.
+@113
+How many{p00} are you after?
+@114
+How many{p00} will you buy?
+@115
+How many{p00} would you care to buy?
+@116
+So how many will you buy?
+@117
+How many{p00} you buying, then?
+@118
+How many{p00} will you buy?
+@119
+How many{p00} would you care to purchase?
+@120
+Thank you. I will have it delivered to the castle.
+@121
+Thank you very much. I will have it delivered to the castle.
+@122
+Thank you very much. I shall deliver it to the castle.
+@123
+Thanks. I'll have it delivered to the castle.
+@124
+Thank you. We will deliver it to the castle.
+@125
+Thank you very much. We will deliver it to the castle.
+@126
+Thank you very much. We shall deliver it to the castle.
+@128
+I would like training in gunnery to gain advanced skill...
+@129
+We don't keep guns here, so we can't train you in gunnery.
+@130
+Sorry, but we have no guns here. Try another smithy.
+@131
+We don't deal in guns here. Please try another smithy.
+@132
+I am very sorry, but we keep no guns here. Please try another smithy.
+@133
+There is nothing more I can teach you. Make good use of your mastery.
+@134
+What?! I have nothing to teach you. All that is left is to decide how to use your power.
+@135
+I have nothing more to teach you. Please use your power to the full to end this age of war.
+@136
+I understand. I will make full use of what you have taught me.
+@137
+Stop joking. You have already mastered the gun.
+@138
+There's nothing more to teach. You are perfect with a gun.
+@139
+Your gunnery is already perfect. There is nothing I can teach you.
+@140
+Hm? You seem to have mastered the gun already...
+@142
+I've nothing more to teach you. If you want to improve your gunnery, go and see Master Kunitomo Ikkansai of {p00}.
+@143
+I've nothing more to teach you. If you want to improve your gunnery, go to Master Kunitomo Ikkansai of {p00}.
+@144
+I have nothing more to teach you. If you wish to improve your gunnery, please visit Master Kunitomo Ikkansai of {p00}.
+@145
+I have nothing more to teach you. If you wish to improve your gunnery, please call on Master Kunitomo Ikkansai of {p00}.
+@146
+For you it is {p00} a day.
+@147
+For you I need {p00} a day.
+@148
+For you, I will take {p00} a day.
+@149
+You'll pay {p00} a day.
+@150
+I'll take {p00} a day.
+@151
+It will cost {p00} a day.
+@157
+How long will you train?
+@169
+So you will train for {b00} day{s}?
+@175
+Let us begin the training at once.
+@177
+All right, let's begin the training.
+@181
+So you'll train until your gunnery improves?
+@182
+Will you train until your gunnery improves?
+@183
+You wish to train until your gunnery improves, I take it?
+@184
+Until your gunnery improves, right?
+@185
+Will you train until your gunnery improves?
+@186
+Will you train until your gunnery improves?
+@187
+Will you train until your gunnery improves?
+@195
+Hey, you don't have enough money. I can't train you like this.
+@197
+Oh, what is the matter? You seem to be short of money. Please come again.
+@198
+You've no money. How could I train you?
+@210
+What do you want today?
+@213
+I'm busy here. Say what you want, and be quick.
+@214
+You've already bought. I can't restock that quickly.
+@215
+I am sorry, but we have no stock right now.
+@216
+I am very sorry, but we have no stock at present.
+@217
+You again? I sold it all to you, so there's no stock now.
+@218
+Sorry, we're sold out at the moment.
+@219
+I am sorry, but we are sold out at the moment.
+@220
+I am very sorry, but we are out of stock at present.
+@221
+Hmm, a pity. Well, it is your decision, so it's not for me to say anything.
+@222
+Hmm, a pity, but there it is.
+@223
+You are stopping? If you feel inclined again, please continue your training.
+@224
+If you want to stop, so be it.
+@225
+Stopping, eh? Well, that's your choice.
+@226
+It seems a little wasteful, but if you wish to stop, I will not argue.
+@227
+You wish to stop. Very well.
+@228
+To be frank, I don't think you have the talent to improve your gunnery however much you train. Let's not waste time.
+@229
+Forgive me, but you do not seem able to improve any further. So let us stop.
+@230
+A lord need not raise his own skills. What matters most for a lord is how well he uses those who have skill.
+@231
+I hate to say it, but I do not think you can improve any further. It would be best to stop...
+@232
+Let me be frank: however much you train, you will not improve. So I refuse to train you.
+@233
+It's hard to say, but you will not improve at gunnery however much you train. So let's stop.
+@234
+People have their strengths and weaknesses. You are not suited to the gun, so let us stop.
+@235
+Forgive me, but I do not think your gunnery can improve any further.
+@236
+I believe your hands are meant not to fire guns but to command the realm. You have no need of gunnery training.
+@237
+Well trained. You have gained the best gunnery you can learn at your present level.
+@238
+Your hard work has paid off, and your skill has improved. You have now gained the best gunnery you are able to learn at present.
+@239
+Your gunnery has improved. You have now acquired the best gunnery skill you can learn at present.
+@240
+You've improved. Oh, and with your Military, your gunnery can't grow any further.
+@241
+Oh yes, I have been doing a lot of research lately and have improved the farm tools.
+@242
+They should be useful when you develop new fields.
+@243
+Oh yes, I have been doing a lot of research lately and have improved the farm tools.
+@244
+I think they will be of use to you when you develop new fields.
+@245
+When you receive the New Fields mission, you can now carry out "Better Tools".
+@247
+With {b00} kan, the most{p00} you can buy is {b01}.
+@300
+Hm? Who are you?
+@302
+So what do you want with me? I am busy with my work.
+@303
+Oh, nothing in particular... But that load looks heavy.
+@304
+Pah! I'll not call a load like this heavy.
+@305
+Well, farewell.
+@306
+Why, Lord {a73000b}! What a coincidence, meeting you in a place like this.
+@307
+Oh, it's {a6d0000}. We meet often.
+@308
+By the way, what is that load you have?
+@309
+Good eye. This is something very important...
+@311
+Whoa!
+@312
+Damn! I dropped it! This is something very important...
+@313
+Very important?
+@314
+W-well, never mind. If a trifle like this made me flinch, I could never fight a battle.
+@315
+What on earth is that load...
+@316
+Ha ha ha... Never mind, never mind. Well, let us meet again somewhere.
+@319
+So what do you want with me? I am a little busy now.
+@325
+Are you working now?
+@326
+Never mind that. Wrapped in the air of a smithy like this, don't you feel as if you were on the battlefield?
+@327
+Indeed, it does feel that way.
+@328
+It is vital to stay alert at all times, so that you can fight whenever a battle breaks out.
+@329
+Well, I suppose I should be going.
+@330
+Well, I think my gunnery is good enough for now.
+@334
+Master Ikkansai, I have a special favour to ask.
+@335
+I would like you to make a cannon.
+@336
+A cannon, you see, is a gun with a larger barrel that fires a bigger shot for greater power...
+@337
+Please wait! I am afraid I have never made such a thing.
+@338
+No, no. I, {a6d0000}, have heard plenty about your remarkable skill as a gunsmith.
+@339
+Please, I am counting on your skill. The Oda clan will bear all the costs of development.
+@340
+Make it however you see fit, Master Ikkansai.
+@341
+What, I may do as I like? To tell the truth, I have always wanted to try making such a thing.
+@342
+Then I shall set to work at once. I cannot say whether it will go well, though...
+@343
+I feel quite excited...
+@344
+Please wait about a month. I will do my best to make something worthy of your expectations.
+@345
+Lord {a6d0000}! Lord {a6d0000}!!
+@346
+Oh, Master Ikkansai! Why are you in such a hurry?
+@347
+Ah, could it be...!
+@348
+Yes, just so! Take a look!
+@349
+Oh! So this is the cannon! How huge it is!
+@350
+Lord {a6d0000}, since we have it, shall we try a test shot?
+@351
+Oh yes! I was just thinking the same thing.
+@352
+Is there a wide open space around here?
+@353
+Unfortunately, not around here...
+@354
+I see... Then...
+@355
+Do it here\nSave it for later\nNot now
+@356
+Very well! Let's do it right here.
+@357
+Let's save it for later.
+@358
+No, wait... If the cannon misfires in front of our lord, there will be hell to pay...
+@359
+Let's try it here after all.
+@360
+Let's not.
+@363
+Here? In a place like this? How do you plan to do it?
+@364
+Isn't it obvious? We shall fire over the wall.
+@365
+W-what?!
+@366
+Luckily there are few houses in this direction. Turn the muzzle this way...
+@367
+Stop! Not in that direction!!!
+@368
+No arguments\nOn second thought, no
+@369
+Having come this far, I cannot turn back. Such is the sad nature of a man...
+@370
+What nonsense are you talking? Stop, please stop! In that direction there is...
+@371
+Here we go! Fire!
+@372
+Aaaaah!!!
+@373
+{d10}BOOM!!!
+@374
+We did it! A success!
+@375
+Oh no, my house, my house!
+@376
+Master Ikkansai! Did you see? The power of the cannon!!!
+@377
+Boo hoo hoo... My house... my house...
+@378
+What, was that Master Ikkansai's own home?!
+@379
+This has turned awkward... W-well, I must be going!
+@380
+My house...
+@381
+Let's not test it here after all. But will it really fire?
+@382
+It will, I assure you. Trust my skill.
+@383
+I see, I see... Our lord will be delighted! Now, I must take my leave.
+@390
+\n\_\_\_\_\_\_\_\_- {e660057}: Smithy -
+@391
+Excuse me!
+@392
+What is your business?
+@393
+Master Ikkansai, I want you to sell me a cannon.
+@394
+I do not sell cannon to anyone outside the Oda clan, and especially not to you, who have become the Oda's enemy...
+@395
+I knew that you would say so.
+@396
+I came here knowing that all the same. I shall not move from this spot until you change your mind!
+@397
+Sigh... What a predicament.
+@398
+Master Ikkansai... Why are you so devoted to the Oda clan?
+@399
+Nobunaga destroys anyone he deems an enemy, utterly, even the weak who cannot resist.
+@399.1
+...
+@400
+The burning of Mount Hiei, the massacre of the Ikkō sect...
+@401
+Your cannon would take part in that slaughter! Can you live with that?
+@403
+The coming age belongs to me, {a6d0000}. I will avoid pointless wars and cherish my men and my people.
+@404
+Let us put your cannon to use in building a peaceful world!
+@405
+It is true... Lord Nobunaga's conduct of late has been beyond the pale.
+@406
+...Let me think it over a little.
+@407
+Very well. Then I will see you later.
+@501
+Excuse me! Is Master Ikkansai in?
+@513
+The coming age belongs to me, Hideyoshi. I will avoid pointless wars and cherish my men and my people.
+@514
+Let us put your cannon to use in building a peaceful world!

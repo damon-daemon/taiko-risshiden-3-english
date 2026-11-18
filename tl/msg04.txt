@@ -1,0 +1,216 @@
+@2
+Welcome. We have heard tales of your exploits.
+@3
+Why, Lord {a6d0000}! What an honour, to have the lord of the {a730000} clan visit us.
+@4
+You still seem a little tired. Please come again.
+@5
+You seem much recovered. Stay with us again when you are tired.
+@6
+You seem fully recovered.
+@8
+You wish to stay? That is 200 mon a night.
+@9
+I cannot afford even one night with the money I have.
+@10
+Then please come another time.
+@11
+How long will you stay?
+@12
+{b00} day{s} will come to {p00}. Is that acceptable?
+@14
+Hm... I have changed my mind.
+@15
+I see. Then let me ask you again.
+@16
+I am sorry, but I shall not stay this time.
+@17
+Hm? What can I do for you?
+@18
+You look like a traveller. If you would, could you tell me about the castles you have seen on your journeys?
+@19
+Hm... Very well.
+@20
+I passed through {p00} the other day. Let me tell you about it.
+@22
+When I went to {p01} in {p00}, there was a rōnin there called {p02}.
+@23
+I did not see any rōnin where I travelled.
+@24
+Is that so? Many thanks.
+@25
+I hear the {p00} clan is {p01}.
+@26
+Hm... come to think of it, rice was cheap in {p00} Province.
+@27
+Oh yes, warhorses were cheap in {p00} Province.
+@28
+Is there any interesting news?
+@29
+I may not look it, but I do go up to the castle now and then.
+@30
+Let me tell you what I have seen of the castle.
+@31
+A rōnin called {p00} lives in this town.
+@32
+They say this castle is {p00}.
+@33
+Have you heard of {p00}? They say it is {p01} of the first rank.
+@34
+In this province they sell rice for {b00} kan per 100 koku.
+@35
+In this province horses sell for {b00} kan a head.
+@36
+That is very helpful. Many thanks.
+@37
+I am rather busy right now. Sorry, I have no time to talk.
+@38
+Gone already... Oh well.
+@49
+You are leaving? I am afraid we cannot refund the fee once paid.
+@50
+Some grave matter for your house, I take it. Do come again when you are tired.
+@51
+Oh, as a resident of this town you must know that already...
+@52
+Ha ha ha... You saw through me. Well, excuse me.
+@53
+Then I cannot put you in a guest room. There is a storeroom, though. Will that do?
+@54
+You may not get much rest, but please put up with it.
+@55
+In the town of Sakai in Settsu there were a Nanban Trading House, a Nanban Temple, a Tea Master's Home and more.
+@56
+In the town of Hakata in Chikuzen there were a Nanban Trading House, a Nanban Temple and more.
+@57
+In the town of Kyōto in Yamashiro there were a Noble's Home, the Imperial Palace and more.
+@58
+Near {p00} in Ōmi lived a famous smith called Kunitomo Ikkansai.
+@59
+In the town of Sakamoto in Ōmi there are the Anō masons, masters of stone walls.
+@60
+In the castle town of Iga-Ueno in Iga there were a Dōjō, a Mysterious Manor and more.
+@61
+In the big castle towns there were a Merchant House, a Physician's Home, a Temple, a Dōjō, a Smithy and more.
+@62
+In the taverns of Kaga, Iga, Yamashiro and Chikuzen they sell fine sake as well as doburoku. Each province has its own brand.
+@63
+A daimyō's seat is usually in a big town like these.
+@70
+A castle's Population is the number of people living in its castle town: farmers, townsfolk and so on.
+@71
+Every year in the 9th month, rice tax is paid according to the Yield.
+@72
+I hear the Yield rises when you carry out missions such as New Fields or Land Survey.
+@73
+A castle's Commerce affects the income the castle receives each month.
+@74
+I hear carrying out the Commerce mission raises the castle's Commerce.
+@75
+A castle's Mines affect the income the castle receives each month.
+@76
+I hear carrying out the Mine Work mission raises the castle's Mines.
+@77
+A castle's Support affects the income the castle receives each month.
+@78
+I hear you can raise Support by carrying out the Win Hearts mission.
+@79
+A castle earns gold every month according to its Commerce and Mines, and rice in the 9th month according to its Yield.
+@80
+I hear the higher a castle town's Yield and Support, the more rice it brings in.
+@81
+The larger a castle town's Population, the better its Commerce and the higher its Support, the more gold the castle takes in each month.
+@82
+I hear the more troops, the higher the Defence and the larger the castle, the higher its monthly upkeep.
+@83
+Rice and horse prices change at the start of each month. Even if you check them, within a year your information is stale and you no longer know the prices.
+@300
+Oh? And who might you be?
+@302
+You are Lord {a6d0000}? I am {a660018}.
+@303
+Lord {a730018}, is it? I look forward to your friendship.
+@304
+No, no, the pleasure is mine. By the way, Lord {a6d0000}, I have something to tell you...
+@305
+What is it?
+@306
+Well... Ah, no, it is nothing. Please forget it.
+@307
+Now I am curious... What can it be?
+@308
+No, it is nothing important. Well, excuse me.
+@309
+Ah, Lord {a730018}!
+@310
+Why, Lord {a730018}. To meet you in a place like this!
+@311
+Lord {a6d0000}! By the way, Lord {a6d0000}, I have something to tell you...
+@327
+Is that not Lord {a730018}?
+@328
+Oh, Lord {a6d0000}. What are you doing here?
+@329
+Well, this and that... But what are you doing, Lord Kanamori?
+@330
+How should I put it... Hmm... It is work... and yet not work...
+@331
+What do you mean? Lord Kanamori, you are not very clear.
+@332
+...That is just it. I am poor at talking to people... It is truly shameful...
+@334
+No, forgive me for my rudeness.
+@335
+It is quite all right, Lord Tōkichirō. That is how I am. Well, excuse me.
+@350
+Lord Inaba told me. You are the one who will look for our "Tami", are you?
+@351
+"Tami"? I promised to look for a cat, not to search for a daughter.
+@352
+Ha ha... "Tami" is not our daughter's name. It is the cat's name.
+@353
+Can I really trust this to a man like him...
+@354
+Do not worry! Leave it to me!
+@355
+Still haven't found her? Come on, try harder.
+@356
+Oh, Tami! Where were you? Mummy was so lonely.
+@357
+You really found her! I'll be sure to tell Lord {a730039} all about this.
+@358
+I only arrived today. I do not know this place.
+@359
+Oh, she has been found? That is good.
+@360
+A cat? I do not know.
+@361
+Good that she was found.
+@364
+Thank you.
+@365
+\_\_\_\_\_- Inn, Gujō-Hachiman Castle -
+@400
+\_\_\_\_\_\_\_\_- Inn -
+@401
+Even so... What on earth is there for us in Echizen?
+@402
+For him to say all of a sudden that we must leave Mino for Echizen, he must have a weighty reason...
+@404
+{a6d0000}, so you were here. {w}...Ow, ow, ow...
+@405
+Father! I told you not to overdo it!
+@406
+I have grown so feeble... In the old days, a journey this short would never have worn me out...
+@407
+...Compared to me... {a6d0000}, you have grown up so well... You have grown so tall.
+@408
+That is all thanks to you, Lord Morinao, for raising me with such care, though I am not your own son...
+@409
+I see... But perhaps it is nearly time for you to stand on your own.
+@410
+!! What are you saying, all of a sudden?
+@411
+No, a child leaves his parents one day. Even between you and me, adopted son and father, that will not change...
+@412
+...I am weary today. Let us rest for tomorrow.

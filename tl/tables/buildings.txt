@@ -1,0 +1,20 @@
+# buildings (town menu): key<TAB>English (tools/rectab.py)
+0	Castle
+1	Rice Dealer
+2	Stables
+3	Tavern
+4	Inn
+5	House
+6	Samurai Home
+7	Merchant House
+8	Physician's Home
+9	Tea Master's Home
+10	Temple
+11	Dōjō
+12	Smithy
+13	Mysterious Manor
+14	Nanban Temple
+15	Nanban Trading House
+16	Noble's Home
+17	Imperial Palace
+bug	Bug

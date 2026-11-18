@@ -1,0 +1,208 @@
+@3
+Oh, so you are the one... I have heard your name as a man of promise.
+@4
+So you are {a660000}. I have heard you are the finest commander of the {p00} clan.
+@5
+Then you are the head of the {a730000} clan. Welcome to such a remote place.
+@7
+I have heard of your exploits as a pillar of the {p00} clan. Welcome.
+@8
+Welcome. It is good of you to come.
+@9
+Welcome.
+@10
+Good of you to come. I have heard of your exploits as a pillar of the {p00} clan.
+@11
+Lord {a660000}, welcome. It is good of you to come.
+@12
+Your training is over. See that you keep up your efforts.
+@13
+Your training period ends here. If you wish to raise your ninjutsu, come and train again.
+@14
+Your training period has ended. When you have time to spare, please come again.
+@15
+You have learned the basics of ninjutsu.
+@16
+If you wish to gain higher skill, come and train again.
+@17
+With this, you have learned the basics of ninjutsu.
+@18
+If you wish to gain higher ninjutsu skill, come and train again.
+@19
+With this, you have learned the basics of ninjutsu.
+@20
+To gain higher skill, please come and train again.
+@21
+For now, you have gained the skill of a full-fledged ninja.
+@22
+You may now call yourself a full-fledged ninja. If you wish to master the way of the shinobi, come and train again.
+@23
+You have gained a full-fledged ninja's skill. If you wish to aim higher still, please come and train again.
+@24
+You have endured the harsh training well. As of today, I grant you the full transmission of our art.
+@25
+Magnificent. There is nothing more I can teach you.
+@26
+You have endured the harsh training well. I have taught you everything I had to teach.
+@29
+Now is the time to show the fruits of your daily efforts. We shall leave the training for another time.
+@30
+If it is urgent business for your house, then so be it. Let us continue the training another time.
+@31
+It seems your money has run out. Money talks, even in hell. Come back when you have some.
+@32
+Hm? It seems you have run out of money. This training ends here.
+@33
+Oh? It seems your funds have run out. Please come again.
+@34
+Which castle do you want to know about?
+@35
+Which castle would you learn about?
+@36
+Which castle would you like information on?
+@37
+That is your own castle. There is no need to investigate it.
+@38
+What is the matter? That is your own castle. There is no need to investigate it.
+@39
+That is one of your own castles. There is no need to investigate it.
+@40
+The information comes in three grades by detail: Pine, Bamboo and Plum. Which will you choose?
+@41
+There are three grades, Pine, Bamboo and Plum, in order of detail. Choose one.
+@42
+The information is divided into Pine, Bamboo and Plum, in order of detail. Which will you take?
+@43
+Then I will tell you for {b00} kan. Agreed?
+@44
+In that case, I will tell you for {b00} kan. Is that acceptable?
+@45
+In that case, I shall share it for {b00} kan. Would that suit you?
+@46
+Oh? I seem to have too little on me...
+@47
+If you are short of money, I cannot tell you.
+@48
+I am sorry, but without money I cannot tell you.
+@49
+Forgive me. Even for Lord {a660000}, I cannot tell you without funds.
+@50
+I'll pass this time.
+@51
+As for {p00}, this is how it stands.
+@52
+This is the information on {p00}.
+@53
+This is how things stand at {p00}.
+@57
+As for {p00}, this is how it stands.
+@60
+Do you want to see other castles too?
+@61
+Is there another castle you wish to see?
+@62
+Is there another castle you would like to see?
+@63
+Hm... So you would manage it by your own efforts. That is well enough too.
+@64
+I see. Very well.
+@65
+I see. Understood.
+@66
+I already have this castle's information, so there is no need to gather any.
+@67
+Even Plum gets you the minimum information.
+@68
+If you want more detailed information, you must choose Pine.
+@69
+Choosing Pine or Bamboo gets you more detailed information.
+@73
+With your Military, your ninjutsu cannot improve any further. So I shall not train you.
+@74
+With the Military you were born with, you can go no further. Better to give up the training.
+@75
+I am truly sorry, but I believe that further training will not improve you.
+@76
+You would do well to employ those with high ninjutsu skill.
+@77
+Oh yes, let me tell you something interesting.
+@78
+With explosives made by this method, you can blow up stone walls when you receive the Sabotage mission.
+@79
+When you receive the Sabotage mission, you can now carry out "Blast Walls".
+@124
+Would you teach me the arts of the shinobi?
+@125
+Then I will teach you for {p00} a day.
+@126
+I will teach you for {p00} a day.
+@127
+Then I shall teach you for {p00} a day.
+@128
+I have nothing more to teach you. You have received the full transmission.
+@129
+There is nothing more I can teach you. You have received the full transmission.
+@130
+You have already mastered the way of the shinobi. There is nothing I can teach you.
+@131
+Ah, of course. How careless of me. Ha ha ha.
+@132
+How long will you train?
+@133
+And how long do you mean to train?
+@134
+For how long would you like to train?
+@136
+How many days will you train?
+@137
+How many days would you like to train?
+@138
+You will train for {b00} day{s}?
+@139
+Then you will train for {b00} day{s}?
+@140
+Then you will be training for {b00} day{s}, is that right?
+@141
+Let us begin the training.
+@142
+Then let us begin the training.
+@143
+Very well, let us begin your training.
+@144
+Until your ninjutsu improves?
+@145
+Then you will train until your ninjutsu improves?
+@146
+Then you will train until your ninjutsu improves, is that right?
+@150
+You have no money. Come again.
+@151
+You do not have enough money. People do not move without profit. Come again.
+@152
+It seems your funds are short. Please come again.
+@154
+Anything else?
+@155
+Anything else you need?
+@156
+Is there anything else I can do for you?
+@159
+What brings you here?
+@160
+What can I do for you?
+@161
+Your ninjutsu has improved. This is the highest ninjutsu you can learn with your Military.
+@162
+You have trained hard. This is the highest ninjutsu you can learn with your Military.
+@163
+You have improved. With your Military, Lord {a660000}, this is the utmost ninjutsu you can attain.
+@164
+From now on, training will not improve your ninjutsu. Please be aware of that.
+@165
+Stopping, are you? I trust you understand what comes of quitting halfway.
+@166
+I see. It is your decision. Let us leave the training for another time.
+@167
+You will break off, then. It is your own decision, so be it. Let us continue another time.
+@300
+Well, my ninjutsu is good enough for now.

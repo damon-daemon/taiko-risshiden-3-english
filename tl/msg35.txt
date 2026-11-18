@@ -1,0 +1,138 @@
+@300
+There's no place like home... Yawn... I'm getting sleepy...
+@306
+Yes, it's been a long time. Have you been well?
+@307
+See for yourself. And you, have you been well?
+@309
+By the way, I hear you led the Ikkō followers and raised quite a storm.
+@350
+Nobunaga had it made... Then a man who left the Oda cannot hope to get one.
+@360
+Lord {a730000}! Is Lord {a660000} within?
+@364
+Oh, it is nothing. I merely wish to keep up friendly relations with you, Lord {a730000}.
+@367
+Ever since Nobunaga lost you, Lord {a730000}, his power seems to weaken with each passing day.
+@369
+Lord {a730000}... will you join hands with me?
+@374
+Then the realm is as good as ours!
+@380
+Quite so. But this is the hour when each of us needs a comrade to take his hand.
+@391
+Lord {a730000}, are you well?
+@393
+I came to see how you fare, Lord {a730000}. I had not seen you about of late...
+@398
+So today I have brought a tea said to ease the weariness of body and mind.
+@407
+No, I mean that he cast aside a man as able as you, Lord {a730000}...
+@410
+Whether the conquest of Mino or the defeat of the Azai and Asakura, all of it was owed to your strength, Lord {a730000}.
+@411
+And were I to count your other achievements, Lord {a730000}, there would be no end.
+@416
+Personally, I should like to deepen my friendship with you from now on, Lord {a730000}.
+@430
+This is cause for joy! Nobunaga fears me, which means he has acknowledged me, does it not?
+@440
+(Three of them...){w} Whose men are you?!
+@445
+Die, {a6d0000}!
+@446
+{a660000}, prepare to die!
+@447
+...Cut him down...
+@448
+Do you think such poor skill can cut {a6d0000}, who learned from Lord Yagyū?!
+@450
+(I cannot strike back without a weapon...)
+@451
+{d01}Ugh...{w} Only a scratch...
+@452
+{d01}Gah...{w} I could not dodge that one.
+@453
+Finish him!!
+@456
+{d05}Swish...
+@458
+Lord {a6d0000}, are you hurt?
+@464
+Good, well done. And you are...?
+@465
+Lord Ganmaku asked me to keep watch around you, my lord.
+@466
+But my lord, those men just now...
+@469
+And what is your name?
+@470
+Why do you ask?
+@471
+I wish to know the name of the one who saved my life.
+@472
+My name is Akatsuki. One who waits for the dawn in the dark...
+@473
+Akatsuki... A fine name.{w} Hm? Gone already...
+@479
+I'm the one who got a fright! Akatsuki told me the whole story. Oda men attacked you, I hear.
+@501
+Lord {a6d0000}, I have served many daimyō and betrayed them again and again.
+@503
+Ha ha ha... Perhaps I am too small a fish to be worth betraying?
+@504
+Or is it that you are getting on in years, Lord Matsunaga, and no longer have the spirit to betray?
+@506
+I am done with being Matsunaga Hisahide the betrayer. From now on I, Hisahide, wish to devote myself to you, Lord {a6d0000}.
+@517
+So you've seen right through me. Maybe it's time I changed my entrance?
+@527
+Lord {a730000}, it has been a long time.
+@539
+Lord Akechi is a Toki by birth. "Time" is read "toki", so "the time" stands for Lord Akechi himself, and "to know all under heaven" means to rule the realm.
+@545
+Ganmaku's tale that Akechi Mitsuhide harbours thoughts of rebellion against Nobunaga...
+@548
+I think that is the reasonable conclusion.
+@560
+\_\_\_\_\_- Sakamoto Castle: Lord's Room -
+@567
+Heh... You seem to see through everything, Lord {a730000}. Very well, I will tell you.
+@569
+It began with the Azai and Asakura, then the burning of Mount Hiei, the slaughter of the Ikkō sect...
+@573
+Lord {a730000}, you overrate me. I would only hold you back.
+@580
+So Lord Mitsuhide has come over to our side. That went well.
+@582
+Ganmaku?
+@583
+Congratulations, Lord {a660000}.
+@584
+Oh, Lady Akatsuki...
+@585
+Lord Ganmaku was pleased as well. He said it was worth telling you.
+@587
+Ah, wait a moment...{w} Dear me, gone already.
+@590
+My lord, there is an interesting rumour about you. Have you heard it?
+@591
+What rumour is that?
+@592
+That you, my lord, should take the highest court office, that of Regent.
+@593
+How bold!
+@594
+Lord Hidenaga, bold it is, but it is not impossible.
+@596
+There is a court noble, Lord Kikutei Harusue, who is said to take no small interest in you, my lord.
+@600
+My lord, Lord Kikutei Harusue has come from Kyōto!
+@601
+What, Lord Kikutei Harusue himself, come to a place like this! Receive him with every courtesy!
+@604
+That you should take the trouble to come all this way! I, {a6d0000}, am truly delighted.
+@626
+When I think of it, so much has happened...
+@627
+To bring those battles to an end soon, I shall defeat Oda Nobunaga!!

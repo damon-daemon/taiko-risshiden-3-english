@@ -1,0 +1,362 @@
+@300
+Nene, now that I am a daimyō, I want many more generals in my service.
+@301
+Is there no such man to be found anywhere...
+@302
+Hee hee... Why, what about Lord Maeda?
+@303
+Lord Toshiie?!{w}
+@303.1
+But Toshiie is an Oda retainer to the bone. I cannot imagine him turning.
+@304
+You do not understand, my dear. It is such a simple matter...
+@305
+A simple matter? What is it?
+@306
+Lady Omatsu. If you win over Lady Omatsu, that will do it.
+@307
+Lady Omatsu?{w} Of course! Lord Toshiie can never go against what Lady Omatsu says!
+@308
+Thank you, Nene.
+@310
+Brother! Have you heard?
+@311
+What is all this commotion? What are you talking about?
+@312
+Nobunaga has built a castle at {e73005a}.
+@313
+Hm, so Nobunaga has built a castle.
+@314
+And it is a magnificent one. How shall I put it... Hmm, words cannot describe it.
+@315
+You should go and see it with your own eyes. You may be so amazed that your knees give way.
+@320
+Hideyoshi!
+@321
+Why, it is Ganmaku. What do you want?
+@322
+I heard an interesting rumour about the Oda clan, and I came to tell you.
+@323
+Well? What is this interesting news?
+@324
+It seems Akechi Mitsuhide is harbouring thoughts of rebellion against Nobunaga.
+@325
+Give him a little poke, and something terrible might happen.
+@326
+Mitsuhide turning his blade on Nobunaga, eh...
+@327
+Well? Sounds like fun, doesn't it?
+@328
+Why not give it a try?
+@329
+Yes, let's try it\nI won't use such a trick
+@330
+Yes, let's try it.
+@331
+That's the spirit! Ha ha ha!
+@332
+I'll dig a little further. You go and meet Mitsuhide and see how he is.
+@333
+I do not want to use such a trick. I want to face Nobunaga fair and square.
+@334
+Fine. If that is how you think, so be it.
+@335
+But Nobunaga is a tough one. Are you ready for it?
+@336
+...{w}...{w}...{w} Nothing I say seems to get through.
+@337
+Well, do as you see fit. Do your best.
+@340
+Lord Akechi, is Lord Akechi in?
+@341
+Why, Lord {a730000}. To what do I owe the visit?
+@342
+Oh, nothing. I had business nearby, and your face came to my mind.
+@343
+And then I simply had to see you...{w} Am I intruding?
+@344
+Ha ha... You are kind to say so, Lord {a730000}.
+@345
+I seem to be shunned within the clan.
+@346
+As for Lord Nobunaga, at times I even feel that he hates me.
+@347
+Surely not...{w} Not you, of all people...
+@348
+But it is so!
+@349
+I... {w}do not know... {w}what to do...
+@350
+Lord Mitsuhide...
+@351
+I understand. Strike down Nobunaga.
+@352
+!{w} Lord {a6d0000}, what are you saying?!
+@353
+Is it not so? Is that not the only way to free you from your suffering?
+@354
+And it would serve the people too. As long as Nobunaga lives, the people will suffer under his tyranny.
+@355
+Just as you do now, Lord Mitsuhide...
+@356
+Lord {a730000}...
+@357
+I have imposed on you far too long. Now, I shall take my leave.
+@360
+{a6d0000}! Hey, {a6d0000}!
+@361
+Why, Ganmaku. What happened, to put you in such a flap?
+@362
+How can I not be flustered?! Akechi Mitsuhide - Mitsuhide has struck down Nobunaga!
+@363
+Nobunaga, his heir Nobutada, his page Mori Ranmaru and others have been slain.
+@364
+{a6d0000}, how did you egg Mitsuhide on?
+@365
+No, I only joked with him a little...
+@366
+I see, I see... Well, that must have been the trigger.
+@367
+But Mitsuhide is not out of danger yet.
+@368
+Nobunaga may be dead, but the Oda still have men like Shibata Katsuie, Niwa Nagahide and Takigawa Kazumasu.
+@369
+He may even have been killed already.
+@370
+What?!
+@371
+Ganmaku! Go to Lord Mitsuhide at once and bring him here.
+@372
+You mean to protect him?
+@373
+It would be too great a loss to lose a man like Lord Mitsuhide here.
+@374
+Ganmaku, I beg you!
+@375
+All right. I'll see what I can do, but forgive me if I am too late.
+@380
+{a6d0000}, I have brought Lord Akechi.
+@381
+Lord {a730000}... I...
+@382
+I was moved only by hatred, and I acted rashly.
+@383
+I never gave a thought to what would come after striking Nobunaga...
+@384
+Lord Mitsuhide, do not lose heart. You are alive. Let us look ahead.
+@385
+{a6d0000}, I have brought him, but what do you mean to do with Lord Akechi now?
+@386
+Lord {a730000}...{w} Will you keep me in your service?
+@387
+Under me? Heavens, I could not ask that of you!
+@388
+But I owe my life to you, Lord {a730000}. I want to repay the debt somehow.
+@389
+With you at my side, nothing could be more reassuring... Are you truly sure?
+@390
+Yes. Use me as you see fit.
+@395
+Why, it is Hanbee. What brings you here?
+@396
+I came because I wished to speak with you a little, my lord.
+@397
+Before we knew it, the realm had come almost wholly into your hands, my lord, and you became its true ruler.
+@398
+But that alone is not enough.
+@399
+Hm? What is lacking?
+@400
+The authority of the Imperial Court. You do not have the Court's authority.
+@401
+Court rank...{w} If only you held the post of Regent...
+@402
+They would never grant the post of Regent to the likes of me.
+@403
+No, my lord. From what I have learned, you are well regarded at Court, and there is even talk of making you Regent.
+@404
+If we approach them, I believe your appointment as Regent is certain.
+@405
+Truly? Hanbee, will you do it?
+@406
+Yes, my lord. Leave it to me.
+@410
+My lord, Lord Hanbee has brought Lord Kikutei Harusue from the Court.
+@411
+What, Lord Kikutei Harusue himself, coming to a place like this! We must receive him without any discourtesy!
+@412
+Lord {a730000}, pray, such consideration is quite unnecessary.
+@414
+That you should deign to come all this way - I am deeply honoured.
+@415
+Lord {a730000}, let us speak without preamble. Today I have come as an envoy of the Court.
+@416
+His Majesty the Emperor has decided to appoint you Regent, Lord {a730000}.
+@417
+Looking over Japan today, there is no daimyō whose power matches yours.
+@418
+The realm is already in your hands.
+@419
+Pray take the post of Regent now, lend your strength to the Court, and bring peace to all the people of the realm.
+@420
+I, Regent... Is it right for one such as I to accept so great a duty?
+@422
+I beg you, please accept.
+@423
+Very well. I humbly accept.
+@426
+Now then, Lord {a730000}, let us proceed to the Imperial Palace.
+@430
+My lord, let us build a new castle to show the realm the power of the {a730000} clan.
+@445
+Ah, so you are {a660000}.{w} I have heard rumours of your exploits.
+@447
+I took you into our house for one reason: I thought your strength was needed to win the realm.
+@448
+My lord, you overrate me.
+@449
+No. You may not realise it yourself, but you have that much strength.
+@450
+Hear me: lend me your strength. Understood?
+@455
+Lord {a730000}, His Lordship summons you.
+@456
+Hm, understood. I shall come at once.
+@460
+My lord, {a660000} reporting as summoned.
+@461
+Good. I shall come straight to the point.
+@462
+I want you to become a Province Lord. Is that agreeable?
+@463
+Leave it to me\nCan I do it?
+@464
+Leave it to me.
+@465
+Good. See that you do it well.
+@466
+Can I do it?
+@467
+Yes, I ask because I judge that you can. Trust yourself more.
+@468
+Trust myself...{w} Understood. I humbly accept.
+@469
+Good. Apply yourself.
+@475
+Nene, Nene! Listen, I have been appointed Province Lord!
+@476
+My, congratulations.
+@477
+Yes, but as a Province Lord I want many more generals. Is there not some excellent man somewhere...
+@491
+Oh, Ganmaku. It is rare for you to come here. What is it?
+@492
+I came because I wanted to hear what is in your heart.
+@493
+Do you mean to end your days serving another?
+@494
+Hm? What do you mean?
+@495
+I am telling you to become a daimyō and take the realm.
+@496
+Me? Ha ha... What nonsense is this?
+@497
+Who but you could rule the realm?
+@498
+You are the only one who can bring peace to this world. Make up your mind!
+@499
+Yes, only I can!\nI'll see my lord take the realm
+@500
+Yes, only I can! Ganmaku, let's do it!
+@501
+So, you have decided!
+@502
+You need do nothing. Leave it all to me.
+@503
+I'll come back here in 30 days. Heh heh... I look forward to that day.
+@504
+What are you saying?! I will see my lord take the realm.
+@505
+I see...{w} If that is how you feel, so be it.
+@506
+And I thought you could take the realm.
+@507
+Sorry to have bothered you.
+@510
+Hey, {a6d0000}. The preparations for the takeover are made.
+@511
+The rumours have worked, and I have won over the men of the clan.
+@512
+All that remains is for you to seize real power at the council.
+@513
+I see... Well done. My thanks.
+@514
+No thanks needed. The rest is up to you, so do it well.
+@516
+Well then, I'm off.
+@520
+Gentlemen, thank you for gathering despite your busy schedules.
+@521
+I have called you today about our lord.
+@522
+You have surely heard it already, but discontent with our lord overflows in the castle town.
+@523
+I cannot overlook this.
+@524
+I think His Lordship should step down...
+@525
+What say you all?
+@526
+W-wait, {a6d0000}! What is this? I do not understand at all!
+@527
+In the castle town they say our lord fattens his own purse, indulges in pleasures, and neglects governance: a worthless daimyō.
+@528
+What?! I have done no such thing!
+@530
+But rumours are fearsome things. They take on a life of their own.
+@531
+And once they do, there is nothing to be done.
+@532
+At this rate an uprising may break out. Then not only our livelihoods, but even this house...
+@533
+Ugh...{w} What do the others...{w} What do the others think?
+@534
+Well? Does anyone wish to object to me?
+@536
+So it is. Step down quietly.
+@538
+I do not wish to turn my blade on you, my lord. Please...{w} please...
+@539
+Ugh.{w} Very well... I will do as you say.
+@545
+Brother, are you in?
+@546
+Oh, Hanbee and Hidenaga. What is it?
+@547
+A messenger from His Lordship came just now, saying you should go to the castle at once...
+@548
+What, our lord summons me? What can it be?
+@549
+Have you heard anything?
+@550
+They say an envoy has come from the Imperial Court...
+@551
+An envoy from the Court?
+@552
+Could they mean to grant His Lordship a court title? Perhaps even Shogun...
+@553
+What, that is momentous! I must go at once.
+@556
+Yes, it seems the Court means to appoint me to the office of Shogun.
+@557
+Congratulations.
+@558
+I think this is thanks to your hard work. I thank you.
+@559
+Your words are too kind. I am deeply honoured.
+@560
+Now, I am thinking of going to Kyōto with you. What say you?
+@561
+By all means, let me accompany you.
+@562
+Good. Then make ready; we leave at once.

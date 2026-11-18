@@ -1,0 +1,17 @@
+# column heads of the people tables in buildings: key<TAB>English (tools/rectab.py); skills 2 letters, abilities 4
+skill0	Ac
+skill1	Bl
+skill2	Dv
+skill3	Sp
+skill4	Et
+skill5	Te
+skill6	Ma
+skill7	Ri
+skill8	Gu
+skill9	Ni
+skill10	Sc
+skill11	Ta
+ability0	Dom
+ability1	Dip
+ability2	Mil
+ability3	Cha

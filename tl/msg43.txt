@@ -1,0 +1,64 @@
+@7
+A man of the {p00} clan, our sworn ally! Welcome, welcome.
+@8
+From the {p00} clan? You are welcome here.
+@20
+Lord {a660000}, is it? Well met.
+@21
+Lord {a660000}, is it? You are welcome.
+@28
+Welcome to my castle. We serve different houses, but you are a friend. I am glad you came.
+@29
+If you do not report within the time limit, the mission is not truly done. I will let it pass this time, but take care in future.
+@45
+You say you cannot do it? Very well, I will let it go this time. But take care in future.
+@157
+Lord {p00}, I have come today as an envoy of my lord.
+@158
+Lord {p00}, I have come today because I have something to discuss.
+@201
+As one who shares your wish to end this war, I have brought a gift.
+@204
+Oh? And what sort of thing is it?
+@300
+\_\_\_- Kitanoshō Castle: Lord's Room -
+@301
+I am Shibata Katsuie. Speak, if you have business with me.
+@302
+Pardon the intrusion. I am {a660000}...
+@303
+Hm. I hear you have something to show me?
+@304
+Yes, my lord. Here is the letter.
+@305
+Let me see...
+@308
+...{a660000}...{w} you said?
+@309
+...You did come from Mino? That is the truth?
+@310
+Y-yes, my lord...
+@311
+I understand everything. From today you serve me as my retainer.
+@313
+Y-yes, my lord! I am most grateful...
+@314
+Good. In the Oda clan, loyal service comes first. Take that to heart before anything else.
+@315
+Y-yes, my lord...
+@316
+Then live in this castle town from today. I will have someone show you the place.
+@317
+And when word of a council comes, report to the castle at once.
+@318
+For now, rest well. I can hardly give you work with a face that tired.
+@319
+D-do I look that bad, my lord?!
+@320
+Ha ha ha! Take a good look at your own face. That is all, you may go.
+@1001
+If you are tired, I will make something nourishing. Please rest well, dear.
+@1070
+Now, how shall I threaten them?
+@1072
+The gap between our two clans in {p00} is plain to see. Be sensible and come under my clan.

@@ -1,0 +1,202 @@
+# items: key<TAB>English (tools/tables.py)
+0	Muramasa
+1	Masamune
+2	Onimaru
+3	Honebami
+4	Sadamune
+5	Nihongō
+6	Dōjigiri
+7	Kanemitsu
+8	Kikuichimonji
+9	Munechika
+10	Heshikiri
+11	Daihannya
+12	Kagehide
+13	Sadatoshi
+14	Kagemitsu
+15	Tonbogiri
+16	Amakuni
+17	Jikkinshō
+18	Odenta
+19	Teikin Ōrai
+20	Fukuoka Blade
+21	Sarashina Diary
+22	Izayoi Diary
+23	Nagamitsu
+24	Tale of Ochikubo
+25	Tale of Utsubo
+26	Osafune Sword
+27	Kunimitsu
+28	Ōmi Wakizashi
+29	Kikuchi Spear
+30	Red Spear
+31	Plain Spear
+32	Plain Wakizashi
+33	Black Gomaido
+34	Gold Lamellar
+35	Gold Armour
+36	Red O-Yoroi
+37	Sugake Armour
+38	White Sugake
+39	Red Haramaki
+40	Hanada Armour
+41	Nanban Armour
+42	Chain Armour
+43	Matsukaze
+44	Taishaku
+45	Hōjō Tsukige
+46	Shiroishi
+47	Kurokumo
+48	Hoshizaki
+49	Tsukumo Nasu
+50	Matsushima Jar
+51	Matsumoto
+52	Hiragumo
+53	Jukō Nasu
+54	Mikazuki Jar
+55	Matsuya Caddy
+56	Hatsuhana
+57	Narashiba
+58	Nitta Caddy
+59	Jōō Nasu
+60	Otogoze
+61	Yamanoi Caddy
+62	Asakura Caddy
+63	Seitaka Caddy
+64	Star Temmoku
+65	Hayabune Bowl
+66	Tsutsuizutsu
+67	Sōgo Nasu
+68	Plover Censer
+69	Aoido Shibata
+70	Jukō Caddy
+71	Hashidate Jar
+72	Hashihime
+73	Kitano Nasu
+74	Hachibiraki
+75	Karatsu Bowl
+76	Fuji Nasu
+77	Uchigumori
+78	Nitari Nasu
+79	Korean Bowl
+80	Tanba Jar
+81	Inaba Temmoku
+82	Oido Kaga
+83	Hail Kettle
+84	Kissa Yōjōki
+85	Akae Caddy
+86	Cochin Caddy
+87	White Temmoku
+88	Ashiya Kettle
+89	Kiseto Bowl
+90	Kiseto Vase
+91	Tenmyō Kettle
+92	Ōkagami
+93	Black Raku
+94	Red Raku
+95	Celadon Vase
+96	Autumn & Winter
+97	Pine and Hawk
+98	Nachi Falls
+99	Ink Bamboo
+100	Wind and Rain
+101	Sunset View
+102	Village Dusk
+103	Flower & Bird
+104	Bamboo & Fowl
+105	China Scroll
+106	Kyōto Scenes
+107	Merrymaking
+108	Maple Viewing
+109	Cypresses
+110	Pine Forest
+111	Sun Tzu Lore
+112	Wu Zi Lore
+113	Wu Zi
+114	Art of War
+115	Mencius
+116	Analects
+117	3 Strategies
+118	Six Teachings
+119	Zhanguo Ce
+120	Han Feizi
+121	Shiji
+122	3 Kingdoms
+123	Water Margin
+124	Taiheiki
+125	Tale of Heike
+126	Book of Han
+127	Tongjian
+128	Gukanshō
+129	Nihon Shoki
+130	Kojiki
+131	Tale of Genji
+132	Tales of Ise
+133	Pillow Book
+134	Kagerō Diary
+135	Eiga Tales
+136	Bamboo Cutter
+137	Man'yōshū
+138	Hōjōki
+139	Tsurezuregusa
+140	Kokin Wakashū
+141	World Map
+142	Silver Watch
+143	Chime Clock
+144	Gold Watch
+145	Table Clock
+146	Pocket Watch
+147	Rosary
+148	Glass Jar
+149	Luzon Jar
+150	Telescope
+151	Globe
+152	Gold Cross
+153	Star Globe
+154	Bible
+155	Silk Cloth
+156	Silver Cross
+157	Woollen Cloth
+158	Carpet
+159	Konpeito
+160	Castella
+161	Bolo Biscuits
+162	Butter
+163	Biscuits
+164	Gunpowder
+165	China Tea
+166	Tobacco
+167	Ceramics
+168	Cotton Cloth
+169	Perfume
+170	Sugar
+171	Wine Glass
+172	Hemp Cloth
+173	Glass Beads
+174	Jewel Crown
+175	Diamond
+176	Ruby Ring
+177	Jade Jewel Box
+178	Gold Nugget
+179	Great Pearl
+180	Amber
+181	Iwami Silver
+182	Sado Gold
+183	Gold Grains
+184	Doburoku
+185	Kiku Sake
+186	Nerizake
+187	Temple Sake
+188	Fine Sake
+189	Clear Sake
+190	Red Wine
+191	Araki Spirits
+192	Rikyū Sake
+193	Grape Wine
+194	Gosen Wakashū
+195	Wonder Drug
+196	Cold Medicine
+197	Sōjintan
+198	Azuma Kagami
+199	Seibatan
+bug	Bug

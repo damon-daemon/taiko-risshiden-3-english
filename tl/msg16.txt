@@ -1,0 +1,284 @@
+@0
+Who goes there?
+@2
+{p00} {a660000}, at your service.
+@3
+I am {a6600ed}.
+@4
+I see. I am {a6600ed}, if you please.
+@5
+Forgive my rudeness. I am {a6600ed}.
+@6
+What brings you here? I shall deign to receive you myself.
+@7
+Ah, {a660000}.
+@9
+Lord {a660000}, is it? Well met.
+@10
+My friend, Lord {a660000}! How good of you to come.
+@11
+Lord {a660000}. Welcome.
+@12
+Dear Lord {a660000}. How good of you to call.
+@15
+And what would you be about today?
+@17
+I have already given a gift this month. Another gift will have no effect until next month.
+@19
+What is the matter?
+@20
+How may I help you?
+@22
+You bring me tribute? Most welcome.
+@23
+A gift for me, is it? I am in your debt.
+@24
+You would give me a gift? Thank you most kindly.
+@25
+Now, what shall I give him?
+@27
+No gift? Then I have no business with you. Be gone.
+@28
+No gift, you say? And I was so looking forward to it. Enough. Pray take your leave for today.
+@29
+No gift for me? How sad I am. I am so sorrowful I can scarcely stand.
+@30
+I regret to say that I must ask you to take your leave.
+@31
+Now, what shall I give?
+@34
+My thanks.
+@35
+I shall gladly accept it.
+@36
+I shall gratefully accept it.
+@37
+Ho ho, what a curious thing you bring.
+@38
+A most curious thing, I do declare.
+@39
+Thank you for such a curious thing.
+@40
+If you insist on giving it, I shall take it.
+@41
+...Hmm. Since you mean it kindly, I shall accept it.
+@42
+...Thank you.
+@43
+You give me such a splendid thing? I, {a6d00ed}, thank you from my heart.
+@44
+How splendid! Harusue thanks you from his heart.
+@45
+Such a splendid thing... Thank you. I offer you my heartfelt thanks.
+@46
+This is a fine thing. I accept it gladly.
+@47
+A fine thing indeed, I do declare. I shall gladly accept it.
+@48
+For such a fine gift, I am grateful.
+@49
+My thanks to you.
+@50
+How delightful. I thank you.
+@51
+Thank you. Your kindness, Lord {a660000}, never ceases to move me.
+@52
+You offer me something so costly as tribute? My thanks.
+@53
+Such a costly thing... I am grateful.
+@54
+What a costly piece this is. Thank you.
+@55
+Ho ho, a rather fine piece. I shall gladly accept it.
+@56
+A rather fine piece, I do declare. I shall gladly take it.
+@57
+A rather fine piece, indeed. I shall gratefully accept it.
+@58
+It seems costly. I shall take it, for now.
+@59
+A costly piece, it would seem. Since you are so kind, I shall accept it.
+@60
+It is a costly piece. I shall accept it for now.
+@61
+I have no reason to refuse. I shall take it.
+@62
+There is no reason not to take it, I suppose. I shall accept it.
+@63
+I have no reason to refuse. I shall accept it.
+@64
+I have no suitable tea ware, so it cannot be done.
+@65
+I have only {p00}.
+@66
+Now, which should I choose?
+@67
+Something of high value would be best... I shall use {p00}.
+@70
+I would like his help, but I have no money to offer the Court. I would need at least 1,000 kan.
+@71
+I mean to offer {b00} kan to the Imperial Court.
+@72
+I should like to ask for your good word on the matter. Might I trouble you?
+@73
+Very well. I shall put in a word for you, as a special favour.
+@74
+Hmm, I cannot refuse when asked. I shall take it on.
+@75
+I cannot refuse your request. I shall be glad to put in a word.
+@76
+If it is you who asks, I cannot refuse.
+@77
+We both grieve for this land. I cannot refuse your wish. I shall speak for you.
+@78
+How could I refuse Lord {a660000}'s request? I shall gladly speak for you.
+@79
+A man like you, to seek an audience with the Emperor? How presumptuous! Begone at once!
+@80
+To bring one such as you before the Emperor is out of the question. Know your place and leave now!
+@81
+I am sorry, but I must decline.
+@82
+I would grant your request if I could, but I cannot put in a word for you. Go home for now.
+@83
+I would gladly grant your request, but some requests cannot be granted. Pray come back another time.
+@84
+It is hardly my place to put in a word. Why not go to the Imperial Palace yourself?
+@85
+Even for you, I cannot grant it this time. Forgive me. Pray go home for now.
+@86
+This once, I fear I cannot grant that request. Pray go home for now.
+@87
+I am sorry, but I must decline. Please go home for today.
+@88
+That Your Majesty is in good health is the greatest of joys.
+@89
+Today, Lord {a660000} of the {p00} clan humbly presents {b00} kan.
+@90
+You have done well to come. We are pleased.
+@91
+Your words are far too kind.
+@92
+We are pleased with the service of {p00}, and hereby grant the rank of {p01} and the title of {p02}.
+@93
+Thank you. I am sure my lord will feel honoured as well.
+@94
+I am most grateful.
+@95
+Now then, we shall go back.
+@96
+Now then, let us go back.
+@97
+Then shall we go back?
+@99
+Pray, is there anything else?
+@100
+Is there anything else you need?
+@101
+How much shall I donate? Donations to the Court must come in units of 1,000 kan.
+@102
+Maybe I should give up the donation.
+@103
+No, on second thought, I will decline.
+@104
+How very regrettable.
+@105
+He seems a little displeased.
+@107
+It seems to have had a fair effect.
+@108
+It does not seem to have done much, but it is better than nothing.
+@109
+I have already held a tea gathering this month. A gift will have no effect until next month.
+@110
+I have already given a gift this month. A tea gathering will have no effect until next month.
+@111
+I have already held a tea gathering this month. Another will have no effect until next month.
+@112
+Thanks to all I have done, he seems to have opened his heart to me as far as anyone could.
+@113
+After all I have done, I seem to have won a good deal of his trust.
+@117
+Shall I offer the money Lord {p00} entrusted to me, or my own?
+@118
+I would like to offer 1,000 kan, but I do not have it. I shall give up this time.
+@119
+Right, I shall offer my own money!
+@300
+\n\_\_\_\_\_\_- Kikutei Harusue's House -
+@301
+Pardon me. Is Lord Kikutei Harusue at home?
+@302
+And who might you be?
+@303
+I am Hashiba Hideyoshi.
+@304
+Lord Hashiba...! Please wait a moment.
+@305
+Lord {a730000}, you have come from afar. Well met.
+@306
+What brings you to call today?
+@311
+The Oda clan has been destroyed. Without a master to rule the realm, will the world fall into chaos again?
+@312
+Indeed. Lord Oda was fierce of temper, yet he governed the realm well.
+@313
+Now that its pillar is lost, the world will fall into disorder once more.
+@314
+But there is a way to prevent it.
+@315
+Someone who surpasses Lord Oda in ability must become ruler of the realm and govern it.
+@316
+For that reason I am urging the Emperor to make you Regent.
+@317
+Is that true?
+@318
+It is. For the sake of peace in the land, you must achieve even greater things than before.
+@319
+I understand. I count on your help.
+@400
+\n\_\_\_\_\_\_- After the Tea Gathering -
+@401
+My friends, thank you for coming today.
+@402
+Then, Lord Akechi, the usual opening verse of the linked poem...
+@403
+Yes...
+@404
+The time is now...
+@405
+The time is now...
+@406
+To rule beneath the heavens...
+@407
+...to rule beneath the heavens.
+@408
+...F-forgive me. Excuse me for a moment.
+@411
+Lord Akechi, what happened a moment ago...?
+@412
+Ah, my apologies... I had a sudden cramp.
+@413
+But it seemed to me that poem held a deep meaning...
+@414
+...Lord {a730000}, you are overthinking it. Ha ha ha.
+@415
+Now, I must take my leave. Thank you for coming so far.
+@417
+Hm... Is that not Lord Toshimitsu? Lord Toshimitsu! Lord Toshimitsu!
+@418
+Ah, Lord {a730000}. Is there something you need?
+@419
+About Lord Akechi's poem just now. It seemed to carry some grave resolve, or meaning...
+@420
+Is that so...? I am unlearned, so I cannot tell what a poem means.
+@422
+Now, if you will excuse me.
+@423
+...I think I shall return to {e730051}.
+@503
+I am {a660000}.
+@504
+Lord {a730000}...! Please wait a moment.
+@505
+Lord {a730000}, well met.

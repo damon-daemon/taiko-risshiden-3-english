@@ -1,0 +1,138 @@
+@301
+Well, well, if it isn't Lord {a660000}! I have heard all sorts of rumours about you.
+@302
+Oh? What sort of rumours? I am curious.
+@303
+Everyone says you are the great fool who dared to defy Lord Nobunaga himself.
+@304
+And you? What do you make of this {a6d0000}?
+@305
+Ha ha ha... What do I make of you, you ask?
+@306
+No need to hold back. Say what you think.
+@307
+I, too, take you for a great fool, Lord {a730000}.
+@308
+And coming from me, a man everyone calls a fool, you can be sure of it.
+@309
+Ha ha... A fool passing judgement on a great fool! Ha ha ha ha ha...
+@310
+Lord Hashiba, would you care to make use of me?
+@311
+I should like to see the realm a fool builds.
+@312
+Interesting. Come with me\nEnough of calling me a fool!
+@313
+Interesting. Come with me.
+@315
+Fool, fool, fool, all this while! Say it once more, and I will not take it as a joke!
+@316
+Wh-what has come over you all of a sudden?
+@317
+Hmph. You offend me. I shall take my leave.
+@320
+Hey, Nagamasa! Is Lord Nagamasa in?
+@321
+Oh, Lord {a6d0000}! What brings you to a place like this?
+@322
+Though we now stand on opposite sides, are we not brothers, with Lord Nagakatsu as our father?
+@323
+Now and then I simply want to see your face.
+@324
+Ha ha ha... How kind of you to say so.
+@325
+Let's take the realm together\nWell then, I'll be going
+@326
+Lord Nagamasa, let us take the realm together, you and I.
+@327
+You would have me betray the Oda clan?
+@328
+Lord Nagamasa, this pains me...
+@329
+L-Lord {a6d0000}?
+@330
+If this goes on, you and I will become enemies, will we not?
+@331
+Once the fighting starts, neither of us will come out unscathed. When I think how Nene would feel then, I...
+@332
+Lord {a6d0000}...
+@333
+Nor do I wish to make Nene suffer.
+@334
+Very well, Lord {a730000}. I will lend you my help.
+@335
+No, seeing you looking so well has set my mind at ease. Now I shall take my leave.
+@336
+Are you leaving already? Do stay a little longer.
+@337
+No, this is enemy ground, after all. I shall be going.
+@338
+I see. Then do come again.
+@340
+For a man who rebelled against the Oda clan to walk alone into an enemy general's castle... that is bold indeed.
+@341
+May I take that as praise?
+@342
+Of course. Now, is there something you wanted of me?
+@343
+Become my retainer\nLet's chat
+@344
+Please become my retainer.
+@345
+Pray, do not jest.
+@346
+I decline. Lending you my strength would gain me nothing.
+@347
+I will take the realm, without fail. And then I may well have occasion to visit the Imperial Palace.
+@348
+So that I do not disgrace myself then, I would like you to teach me etiquette.
+@349
+Oh ho, you will take the realm without fail? Bold words.
+@350
+Lord Hosokawa, I truly believe it.
+@351
+I know it. You, I think, could achieve it.
+@352
+I cannot say why, but that is how it seems to me.
+@353
+Pray, allow me to dream of the realm alongside you.
+@354
+R-really?! Thank you!
+@355
+Then I shall make ready and follow. Please go on ahead.
+@357
+Oh, nothing. I thought we might just chat...
+@358
+I have no time for that. Please leave.
+@370
+Toshiie! Is Maeda Toshiie not here?
+@375
+I think the world of Toshiie. I need his strength.
+@378
+Ah, I knew I could count on you, Lady Omatsu.
+@381
+Oh! It has been a long time. Good to see you well. I was worried when you vanished so suddenly.
+@382
+Toshiie, I have a serious favour to ask. Come and work for me.
+@383
+What? I could never betray Lord Nobunaga.
+@384
+I know. I am asking all the same. Will you not bet on me?
+@390
+Toshiie! Thank you!!
+@396
+Why, Lord {a730000}. What brings you to a place like this?
+@408
+Is that not so? Is there any other way for you to be free of this torment, Lord Mitsuhide?
+@412
+Ha ha ha... I fear I carried the joke too far, Lord Mitsuhide.
+@413
+Ha ha ha... You gave me quite a start.
+@438
+Bet on you? What about you am I supposed to bet on?
+@439
+I served the {a7303e7} clan and became a province lord, and I will rise further still. Will you not bet on this life of mine?
+@442
+Of course I do. A man ought to try a wager or two in his life.
+@443
+If you cannot even do that, you are a coward.

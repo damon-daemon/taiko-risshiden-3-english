@@ -1,0 +1,248 @@
+@0
+And who might you be?
+@1
+I am {a660000}.
+@2
+Lord {a660000}, you say? Of the {p00} clan, are you not?
+@3
+How did you know?
+@4
+Ho ho. I had heard that a man of promise served within the {p00} clan.
+@5
+So you are Lord {a660000}.
+@6
+You know my name?
+@7
+Yes, I am told you will one day carry the {p00} clan on your shoulders.
+@8
+Ah, so you are Lord {a660000}. Your name has reached my ears.
+@9
+It is an honour to hear such words.
+@10
+To think that Lord {a660000}, the man all of the {p00} clan speak of, would call on me...
+@11
+Ah, so you are the head of the {a730000} clan.
+@12
+Indeed, I am {a6d0000}, head of the {a730000} clan.
+@13
+I have long heard you are a man with the power to change this land.
+@15
+Ah, Lord {a660000}. Welcome, welcome.
+@16
+Welcome, Lord {a660000}.
+@17
+Welcome. I always hear tales of your exploits.
+@18
+Why, Lord {a660000}. Thank you for coming all this way.
+@19
+Ah, Lord {a660000}. I have been expecting you.
+@20
+Welcome, Lord {a660000}. Shall we speak of "wabi" again today?
+@21
+Welcome. I always hear tales of your exploits. Truly admirable.
+@22
+Welcome, Lord {a660000}. Thank you for honouring this humble place.
+@23
+Well done. Your training is complete.
+@24
+I believe you have come to understand a little of "wabi". Please keep up your efforts.
+@25
+You have made fine progress. That was a splendid tea.
+@26
+I have nothing more to teach you. I trust you have grasped the heart of the Way of Tea.
+@27
+I owe this to Master {a6d00ec}. Thank you for everything.
+@28
+Not at all, Lord {a6d0000}. It is the fruit of your own efforts.
+@29
+If your house has urgent business, so be it. Please come again another time.
+@30
+If it is urgent, then so be it. We shall speak of "wabi" when the occasion allows.
+@31
+A man of high office has great duties. When you have fulfilled them, please come again.
+@32
+If your house has urgent need of you, of course. Please do come again.
+@33
+I am afraid your funds will not stretch any further... Please come again another time.
+@34
+I am sorry, but I have no tea ware to part with now.
+@35
+Which would you like to see?
+@36
+Ugh... I do not have enough on me. I cannot buy this.
+@37
+This is a rare piece, and there is only one. I will let you have it for {p00}.
+@38
+Will you buy it?
+@40
+What a pity.
+@41
+Would you like to see anything else?
+@42
+Which would you like to sell?
+@44
+What is the matter?
+@45
+Forgive me. I have forgotten what I meant to sell.
+@46
+Then there is nothing to be done. Next time, perhaps.
+@47
+For {p00}, I can offer {p01}.
+@48
+Will you sell it?
+@49
+Will you sell anything else?
+@50
+An appraisal of art, then. I usually charge 10 kan for each piece, but...
+@51
+You have been so kind a patron, Lord {a6d0000}, that there will be no charge.
+@52
+An appraisal of art, then. It costs 10 kan for each piece.
+@55
+Forgive me. I have nothing to be appraised. Ha ha...
+@57
+Ugh... I do not have enough on me...
+@58
+I am sorry, but then I cannot appraise it.
+@59
+Ah, this is {p00} ({p01}). A wonderful piece, one that enriches the heart of all who see it.
+@60
+This is {p00} ({p01}). It has true elegance, as one would expect.
+@62
+Is there anything else to appraise?
+@64
+This is no time for training.
+@65
+I wish to master the Way of Tea. Please instruct me.
+@66
+You jest. You have surely mastered the heart of "wabi" already. I have nothing left to teach you.
+@67
+So I have. How forgetful of me. Ha ha...
+@68
+You do not seem to have any tea ware. If you wish to master the Way, please bring some.
+@69
+If you wish to master the Way of Tea further, please bring tea ware of value 3 or higher.
+@70
+I would gladly serve tea to someone of your skill, but...
+@71
+To master the Way of Tea further, you need tea ware of value 5 or higher.
+@72
+When you have obtained such tea ware, please come again.
+@73
+Which tea ware will you use?
+@74
+Shall I go with this one?
+@75
+Oh ho... Well, well... {p00}, I see.
+@76
+{p00}, is it? Quite a celebrated piece.
+@77
+Why, {p00}! How wonderful...
+@79
+{p00}! I would expect no less of you.
+@80
+Oh ho, {p00}. A master knows a masterpiece... A fine piece, worthy of Lord {a6d0000}.
+@81
+Mastering the Way of Tea costs {p00} a day.
+@82
+Then how long will you devote yourself to training?
+@83
+Then, for how many days will you train?
+@84
+Then {b00} day{s} it shall be, correct?
+@86
+Then you will train until you have gone deeper in the Way of Tea?
+@87
+It seems you lack the funds.
+@88
+Hm? Pardon me. Ha ha...
+@91
+What will you do?
+@92
+What would you like to do?
+@93
+What can I do for you?
+@94
+How may I be of service today?
+@95
+You wish to stop? Very well.
+@96
+A shame. Let us speak of "wabi" another day.
+@97
+If you wish to stop, then so be it. We shall continue another time.
+@98
+You wish to stop, then. I shall await the day you resume your training.
+@99
+Just as tools suit some uses and not others, so people suit some paths and not others.
+@100
+I am afraid you will progress no further in the Way of Tea. I think it best that you stop...
+@101
+The Way of Tea is deep. Each person masters a different depth, and each has a depth that suits them.
+@102
+{a660000}{p00}, I believe the level you have reached this time is the depth best suited to you.
+@103
+Today, let me tell you something useful for a Land Survey.
+@104
+For a Land Survey, they say it helps to use one standard for measuring tax rice. In Kyōto, the Kyō Measure is used.
+@105
+When you receive a Land Survey mission, you can now carry out "Kyō Measure".
+@106
+That is {p00} each. How many will you buy?
+@107
+Then let us make it {p00}.
+@109
+It cannot be helped... Let us make it {p00}.
+@110
+I can go no further than this. I am sorry, but I must ask you to leave for now.
+@111
+How many will you sell?
+@112
+Only {p00} can be used for training.
+@300
+For now, I have no need of more Tea skill.
+@301
+Master Rikyū, please teach me the tea ceremony.
+@302
+Ah, Lord Hideyoshi, welcome. Then let us begin your tea training.
+@303
+It begins with courtesy and ends with courtesy... That is the spirit of the tea ceremony...
+@304
+Scratch, scratch...
+@305
+Now, now. That tool is not an ear pick. Please stop.
+@306
+Nene has not cleaned my ears for a while, you see.
+@307
+At a tea gathering, one sits quite still.
+@308
+Er, right...
+@309
+You must not sleep while you wait.
+@310
+Zzz...
+@311
+...Now, now. No sleeping just after I said so.
+@312
+Oh! Ohh... Forgive me, somehow I always fall asleep in a place like this.
+@313
+...Even so, you fall asleep far too easily.
+@314
+Now, first the tea. Turn the bowl in your hand before you drink.
+@315
+Turn it and drink, I see. Here goes!
+@316
+Splash!
+@317
+It all spilled...
+@318
+Not vertically. Turn it sideways.
+@319
+Now, you must not hold that sweet in your hand... Place it on the paper and eat it.
+@320
+Come, come, do not be so stiff. ...Munch, munch... Delicious!
+@322
+But then how am I to get a laugh?
+@323
+You need not aim for one. Please sit still for a moment.
+@324
+You are far too restless. This is a problem that comes before the tea ceremony itself...

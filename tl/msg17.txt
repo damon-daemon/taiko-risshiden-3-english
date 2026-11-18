@@ -1,0 +1,154 @@
+@0
+Lord {a730000}. Thank you for making the journey all this way.
+@1
+You are Lord {a730000} of the {p00} clan, are you not? Welcome.
+@2
+So, you have come.
+@4
+I would like to donate, but I lack the means. I would need 1,000 kan.
+@5
+As you know, the Court has ever so many expenses. You will make a donation, of course?
+@6
+A fine attitude. You will make a donation, of course?
+@7
+I shall offer {b00} kan.
+@8
+The Emperor will surely be pleased by the devotion of the {p00} clan.
+@9
+Thank you for your service as a loyal subject.
+@10
+The Emperor has recognised the service of Lord {p00}, and granted the rank of {p01} and the title of {p02}. Congratulations.
+@12
+Then I shall take my leave.
+@13
+How much shall I donate?
+@15
+No, on second thought, I will decline.
+@17
+I may have offended the Emperor.
+@300
+{a6d0000}, good of you to come. The Emperor is about to appoint {a6600e1} Shogun.
+@301
+A momentous day. Watch closely.
+@301.1
+Hideyoshi, over here. Your seat is beside mine.
+@302
+So Lord Toshiie was summoned too. I have never attended an occasion like this before...
+@303
+I must steel myself\nI'll just relax completely
+@304
+At an occasion like this, I must steel myself.
+@305
+Oh, the Emperor has arrived.
+@306
+We shall now hold the ceremony appointing {a6600e1} Shogun.
+@307
+Lord {a6600e1}, this way.
+@310
+Oh no, I was so nervous that I fell asleep!
+@311
+...Then devote yourself to the office of Shogun...
+@313
+At such an occasion, looking relaxed might make me seem as dignified as anyone here.
+@314
+Don't be ridiculous. Oh, the Emperor has arrived.
+@315
+We shall now hold the ceremony appointing {a6600e1} Shogun.
+@319
+{a6d0000}, {a6d0000}...
+@320
+Hm? Oh no, I relaxed so much that I fell asleep!
+@321
+For now, wipe off your drool.
+@322
+...Then devote yourself to your duties as Shogun...
+@324
+What, it is already over?!
+@330
+\n\_\_\_\_\_\_\_- Kyōto Imperial Palace -
+@331
+I have brought Lord Oda Nobunaga.
+@332
+You have done well.
+@334
+Oda Nobunaga, your achievements so far have been splendid.
+@335
+You honour me.
+@336
+We trust you will continue to govern diligently and support the Court.
+@337
+You may rely on Nobunaga. I promise the Court still greater prosperity.
+@338
+Is that so? We are reassured to hear it.
+@339
+Today, We appoint Oda Nobunaga Shogun.
+@340
+At your command!
+@341
+My lord...
+@350
+I have brought Lord {a730000}.
+@351
+You have done well.
+@353
+Hashiba Hideyoshi, you have brought order to a troubled realm and restored peace. We hold your achievement in high esteem.
+@355
+We trust you will continue to govern diligently and support the Court.
+@356
+Yes, Your Majesty. Leave it to me.
+@357
+Good. We are reassured to hear it.
+@358
+Today, We appoint Hashiba Hideyoshi Regent.
+@359
+Yes, Your Majesty!
+@366
+My lord, what is the matter?
+@367
+Nothing. I am not used to this, so I am a little nervous.
+@368
+What, even you get nervous, my lord?!
+@369
+Hm? Hanbee, did you say something?
+@370
+Pfft... It is nothing. Heh heh...
+@371
+My lord, it seems to be starting.
+@374
+{a660000}, you have brought order to a troubled realm and restored peace. We hold your achievement in high esteem.
+@379
+Today, We appoint {a660000} Regent.
+@385
+Well, {a6d0000}? Feeling nervous?
+@386
+Not at all\nI am a little nervous
+@387
+Not at all, my lord.
+@388
+That's my {a6d0000}! I am nervous myself.
+@389
+I am a little nervous, my lord.
+@390
+Oh? Even you get nervous, {a6d0000}!
+@391
+Your words wound me, my lord!
+@392
+Ha ha, I jest. Forgive me.
+@393
+{a6d0000}, it seems to be starting.
+@394
+We shall now hold the investiture of {a6603e7} as Shogun. {a6603e7}, come forward.
+@396
+{a6603e7}, your recent achievements have been splendid.
+@397
+You have brought peace to this turbulent age of war.
+@398
+In recognition of this, We appoint you Shogun. Strive on, so that war may be no more.
+@400
+My lord... Congratulations.
+@401
+And so, through {a6603e7}, the age of war came to an end.
+@402
+And {a660000} left his name in history as the warrior who supported that great enterprise.
+@409
+Oda Nobunaga, your service since you took office as Right Minister has been splendid.

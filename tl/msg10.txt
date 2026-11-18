@@ -1,0 +1,388 @@
+@0
+What do you want?
+@1
+What brings you here?
+@2
+Welcome, welcome.
+@4
+Your period of training is over.
+@5
+Your period of training is over. Come again.
+@6
+Your training period has ended. We shall continue another time.
+@7
+The agreed period has ended. Whenever you wish to train again, you are always welcome here.
+@8
+You seem to have mastered the basics of etiquette.
+@9
+You have mastered the basics of etiquette.
+@10
+It seems you have the basics of etiquette now.
+@11
+You have mastered the basics of etiquette, sir.
+@12
+Your manners would do you credit anywhere now.
+@13
+You seem to understand etiquette quite well now.
+@14
+I believe you now understand etiquette quite well.
+@15
+I believe you now have a good grasp of etiquette.
+@16
+I have nothing more to teach you. You have mastered etiquette.
+@17
+You have trained most diligently. I have nothing more to teach you about etiquette.
+@18
+I have nothing more to teach you. You have mastered etiquette completely.
+@19
+Flawless. There is nothing more I can teach you. You have mastered etiquette, Lord {a730000}.
+@21
+Etiquette is what keeps society in order. In these troubled times, it may be what is needed most.
+@22
+Etiquette is what keeps society in order. In this age of war, it may be what is needed most.
+@23
+Etiquette is what keeps society in order. In this troubled world, it may be what is needed most.
+@24
+Etiquette brings order. With your skill, please lead this world to peace. I believe you can do it.
+@25
+I shall take your words to heart.
+@26
+If your house needs you, so be it.
+@27
+If it is urgent business for your house, there is nothing for it.
+@28
+It seems urgent business has arisen at your house. Please come again.
+@29
+If your house has urgent business, I understand. Please come again.
+@30
+Without alms, a temple cannot be kept up. Come again.
+@31
+I am sorry, but without alms the temple cannot be kept up. Come again.
+@32
+I am sorry to say it, but without alms the temple cannot be kept up. Please come again.
+@33
+I am sorry to say it, but without alms the temple cannot be kept up. Please come again.
+@34
+You want a book appraised? I ask 10 kan in alms for each one.
+@35
+I ask 10 kan in alms for the appraisal of each book.
+@36
+An appraisal of a book, is it? I ask 10 kan in alms for each one.
+@37
+An appraisal of a book, is it? We ask 10 kan in alms for each one.
+@39
+Hm? What is the matter?
+@40
+What is it?
+@41
+What is the matter?
+@42
+What is the matter?
+@43
+I have nothing to be appraised. Please excuse me.
+@44
+If you are so careless, you will not last long in this age of war.
+@45
+The careless do not live long. Take heed.
+@46
+Hmm... I see.
+@47
+Oh my. Well, if that is the case, never mind.
+@49
+Then I cannot appraise it.
+@50
+A pity, but then I cannot appraise it.
+@51
+Then I cannot appraise it.
+@52
+I am terribly sorry, but I cannot appraise it like that.
+@53
+This is "{p00}".
+@54
+This is "{p00}", without a doubt.
+@55
+This one is "{p00}".
+@56
+This, sir, is "{p00}".
+@57
+This is "{p00}". A rather valuable book.
+@58
+Oho... This is one of the rather valuable books: "{p00}".
+@59
+This is "{p00}". A fine piece indeed.
+@60
+This is called "{p00}". It is a most valuable book.
+@61
+Th-this is "{p00}"... One of the very finest!
+@62
+Splendid! This is "{p00}", no doubt of it! One of the most valuable books there is.
+@63
+Th-this is... "{p00}"... One of the most valuable books there is.
+@64
+Oh... This is "{p00}". A superb book, worthy of you, sir.
+@65
+Is there anything else to appraise?
+@66
+Is there anything else to appraise?
+@67
+Is there anything else to appraise?
+@69
+Hmm...
+@70
+Understood.
+@74
+I wish to learn etiquette, and so to study under you...
+@75
+But you have already mastered etiquette.
+@76
+What?! You have already mastered etiquette. I have nothing to teach you.
+@77
+You have already mastered etiquette. I have nothing to teach you.
+@78
+Oh my! You seem to have mastered etiquette completely already. I have nothing to teach you.
+@79
+So I have. How careless of me. Ha ha ha...
+@80
+I ask {p00} in alms for each day.
+@81
+I ask {p00} in alms for each day.
+@82
+I ask {p00} in alms for each day.
+@83
+We ask {p00} in alms for each day.
+@84
+How long will you train?
+@85
+Then how long will you train?
+@86
+How long will you train?
+@87
+Then how long will you devote yourself?
+@88
+How many days will you train?
+@89
+Then how many days will you train?
+@90
+Then how many days will you train?
+@92
+{b00} day{s}, then?
+@93
+You will train for {b00} day{s}, is that right?
+@94
+{b00} day{s}, is that acceptable?
+@95
+Then {b00} day{s}, if that is acceptable?
+@96
+You will train until your etiquette improves?
+@97
+You will train until you reach a higher level of etiquette?
+@98
+Will you train until you reach a higher level of etiquette?
+@99
+You will devote yourself until you reach a higher level of etiquette?
+@100
+Hm? You haven't enough for the alms, it seems.
+@101
+You haven't enough for the alms, it seems.
+@102
+Huh? That is not enough for the alms.
+@103
+Forgive me, but... I fear you have not enough for the alms.
+@105
+Is there anything else?
+@106
+Anything else?
+@110
+What will you do?
+@111
+What would you like to do?
+@112
+What would you like to do?
+@114
+You cannot raise your etiquette any further. So I cannot let you train.
+@115
+It pains me to say it, but more training will not improve your etiquette. Let us stop the training.
+@116
+I am sorry to say that more training will not improve your etiquette. So let us end the training.
+@117
+I am truly sorry, but I do not believe more training will improve your etiquette.
+@118
+Your etiquette has improved. This is the limit your Diplomacy allows.
+@119
+You have now reached the finest etiquette your Diplomacy allows. Make good use of it.
+@120
+Your etiquette has improved. This is the finest etiquette your Diplomacy allows.
+@121
+Your etiquette has improved, sir. This is the highest etiquette your Diplomacy can attain.
+@122
+Use it to help bring the age of war to an end.
+@123
+If you wish to stop, so be it.
+@124
+It seems a pity to stop here, but the decision is yours.
+@125
+Let us continue another time.
+@126
+You are stopping for now, then. We shall continue another time.
+@127
+Training in etiquette requires a Japanese Book. It seems you have none.
+@128
+Training in etiquette requires a Japanese Book. I am afraid you do not have one.
+@129
+Training in etiquette requires a Japanese Book, but you do not seem to have one.
+@130
+I am terribly sorry, but you do not seem to have a Japanese Book. Training in etiquette requires a Japanese Book.
+@131
+Ah, so it seems. Forgive me.
+@132
+To improve your etiquette further, you need a Japanese Book of value 3 or more.
+@133
+To improve your etiquette further, you need a Japanese Book of value 3 or more.
+@134
+To improve your etiquette further, you need a Japanese Book of value 3 or more.
+@135
+To improve your etiquette further, a Japanese Book of value 3 or more is required.
+@136
+Ah, I have no such book. Forgive me.
+@137
+To master etiquette, you need a Japanese Book of value 5 or more.
+@138
+To master etiquette, you need a Japanese Book of value 5 or more.
+@139
+To master etiquette, a Japanese Book of value 5 or more is required.
+@140
+To master etiquette, a Japanese Book of value 5 or more is required.
+@143
+This is all I have.
+@144
+Oho... "{p00}", eh?
+@145
+"{p00}"... A fine piece indeed.
+@146
+Why, is that not "{p00}"? A splendid thing you have there.
+@147
+Oho... This is "{p00}", I see.
+@148
+"{p00}", is it... A fine piece indeed.
+@149
+Why, is this not "{p00}"? Truly splendid.
+@150
+Oho... So this is "{p00}".
+@151
+"{p00}", is it... A very fine piece indeed.
+@152
+Why, is this not "{p00}"? Truly a wonderful thing.
+@153
+Ah yes, let me tell you something too.
+@154
+People do their best when made to compete. For repairs, the Work Teams method, giving each team its own section, is efficient.
+@155
+Ah, that's right. There was something I wished to teach you.
+@156
+People do their best when made to compete. For repairs, the Work Teams method, giving each team its own section, works well, I think.
+@157
+I heard something interesting of late. Let me tell you.
+@158
+People do their best when made to compete. For repairs, they say the Work Teams method, giving each team its own section, works well.
+@159
+You can now carry out "Work Teams" when given a Repairs mission.
+@300
+Oh, who might you be?
+@302
+So you are Lord {a6d0000}... I shall remember you. My name is {a660012}.
+@303
+Lord Oda Urakusai, is it? I look forward to knowing you.
+@304
+Well then, I must be on my way.
+@305
+Ah, Lord {a6d0000}. A fine day again today.
+@306
+Indeed it is. On a day like this, I would like a stroll.
+@307
+Well then, I shall be going.
+@311
+I look forward to knowing you.
+@313
+Ah, Lord {a6d0000}. How are you?
+@314
+Oh, I manage well enough.
+@315
+Good, good. I am glad. Well then, I shall be going.
+@316
+\n\_\_\_\_\_\_\_\_- Komakiyama Castle: Temple -
+@317
+(Nene... What is she doing?)
+@318
+Merciful Buddha, I pray you, keep my husband safe... I beg you, I beg you...
+@319
+(I see, Nene. She is praying for me...)
+@320
+I will surely come back safe. Wait for me, Nene!
+@350
+Excuse me.
+@351
+Ah, Lord {a730000}. Welcome, welcome.
+@352
+I am parched. Might I trouble you for a cup of tea?
+@353
+That is no trouble. Mitsunari, serve tea to Lord {a730000}.
+@355
+Your tea.
+@356
+Mm, this tea is a little lukewarm. Gulp, gulp, gulp.
+@357
+Forgive me, but I would like another cup.
+@358
+Yes, at once.
+@359
+Mm, this tea is just hot enough. Delicious. Gulp, gulp.
+@360
+Forgive me once more, but I would like one more cup.
+@362
+This tea is a little hot, but delicious. Gulp.
+@363
+Ah, that was truly fine tea. Thank you.
+@364
+But why did you serve the tea like that?
+@365
+Yes, the first cup was lukewarm so that you could grow used to the heat.
+@366
+With a second and a third cup you would grow used to the heat, so I made each one hotter.
+@367
+I see.
+@368
+I also served more in the first cup because you were thirsty at first and would drink a great deal.
+@369
+With each cup your thirst would ease, so I gave you less each time.
+@370
+What thoughtfulness... This boy might prove useful...
+@371
+Reverend, would you let me take this boy in?
+@372
+If Lord {a730000} asks it of me, I cannot refuse. Please take good care of this boy.
+@373
+Oh! You agree! I shall make a fine warrior of him, I promise.
+@374
+Lord {a730000}, I look forward to serving you.
+@375
+Well, I need no more etiquette lessons for now.
+@401
+Well, well, a guest? Welcome, welcome.
+@402
+I am Hashiba. I have walked all the way and am parched. Might I trouble you for a cup of tea?
+@403
+That is no trouble. Mitsunari, serve tea to our guest.
+@407
+Forgive me, but I would like another.
+@410
+Forgive me once more, but I would like one more.
+@412
+This tea is a little hot, but good. Gulp.
+@414
+But why did you serve the tea like that?
+@420
+What thoughtfulness... This boy might prove useful...
+@421
+Monk, would you let me take this boy in?
+@422
+If Lord {a730000} asks it of me, I cannot refuse. Please take good care of this boy.

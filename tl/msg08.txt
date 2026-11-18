@@ -1,0 +1,308 @@
+@0
+What brings you here?
+@1
+And what can I do for you today?
+@2
+I have heard tales of your exploits. What brings you here today?
+@3
+Well, well... Welcome indeed. What can I do for the head of the {a730000} clan?
+@4
+Looks like you are cured.
+@5
+You seem entirely recovered.
+@6
+It seems the illness has passed.
+@7
+I see you have made a full recovery.
+@8
+Thank you for your help.
+@9
+Value your life, now.
+@10
+Ruin your health and you lose everything. It pays to rest in moderation.
+@11
+Not at all, no thanks needed. You only have one life... Do take care of it.
+@12
+You are the man who must carry this land. Please take good care of yourself.
+@13
+Treatment? There is nothing wrong with you. You are in perfect health.
+@14
+Eh?! There is nothing wrong with you at all.
+@15
+There is nothing wrong with you at all.
+@16
+I see nothing in particular wrong with you...
+@17
+Then make me a body that never falls ill, even without rest.
+@18
+Don't be absurd. Without proper rest, you will certainly fall ill.
+@19
+I have no time for your nonsense. If you have no business here, be off with you.
+@20
+You ask too much. A man who never rests will wear himself out. That should be plain enough.
+@21
+I am a busy man too. If you have no business here, go home.
+@22
+That is not possible... The secret of staying well is to rest in moderation.
+@23
+No treatment is needed. Please go home.
+@24
+That is quite impossible, I am afraid. Nothing beats moderate rest.
+@25
+I believe your best course is to rest at the castle. Other patients are waiting, so I must ask you to leave.
+@26
+I feel unwell, but this is no time for treatment.
+@27
+For a case like this, the fee is {p00}.
+@28
+In this state, that'll be {p00}.
+@29
+In this condition, the fee will be {p00}.
+@30
+For a condition such as this, the fee comes to {p00}.
+@31
+Hm? Not a single mon on you? Oh, very well. I'll treat you free of charge, just this once.
+@32
+Not a single mon on you? How careless. Oh, very well. This time I'll treat you for nothing.
+@33
+That a man of your standing should forget... Very well. I shall treat you free of charge, as a special favour.
+@34
+A clan head without a single mon! Very well. I shall treat you free of charge as a favour.
+@35
+You seem short of money. Very well. This once, I'll treat you for whatever you have.
+@36
+Is that all right?
+@37
+Hm?! You cannot pay the fee. Very well. As a special favour, I will treat you for what you have.
+@38
+Is that acceptable?
+@40
+Oh, you are short of money. Very well. I will treat you for what you have.
+@42
+Medicine is the art of mercy. I cannot leave the sick alone just because they have no money.
+@43
+I cannot abandon the sick just because they have no money.
+@44
+I cannot abandon the sick just because they have no money.
+@45
+Medicine is the art of mercy. I cannot leave the sick alone.
+@46
+Then let us begin the treatment at once.
+@47
+Then I shall start the treatment.
+@48
+Let us begin the treatment at once.
+@49
+Then let us begin the treatment at once.
+@50
+Money matters more than health, then...
+@51
+It is the path you have chosen. Do not regret it.
+@52
+You need not be so stingy over this...
+@53
+It is your decision, and not for me to question. Do take care of yourself, at least.
+@54
+You will not be cured? Your illness does not threaten your life, to be sure, but...
+@55
+Left untreated, though, your abilities will not work as well. Please remember that much.
+@56
+Leaving it untreated... That is your decision, Lord {a6d0000}. I shall say nothing.
+@57
+But you are the man who holds up this land. Please do not forget that...
+@58
+You cannot carry any more medicine.
+@59
+You already carry more than enough medicine, do you not? You cannot carry any more.
+@60
+You cannot carry any more medicine.
+@61
+I am sorry, but you cannot carry any more medicine.
+@62
+Oh, how careless of me.
+@63
+Which medicine will you buy?
+@65
+Which medicine will you buy?
+@66
+Which medicine would you care to buy?
+@67
+I cannot afford any of them...
+@68
+Come back when you have money.
+@69
+Come back when you have enough money to buy medicine.
+@70
+Please come back with enough money to buy medicine.
+@71
+When you next visit, please be sure to bring enough money to buy medicine.
+@72
+You cannot afford this medicine.
+@73
+I am sorry, but you cannot afford this medicine.
+@74
+You do not have enough money for this medicine.
+@75
+I am sorry, but you do not have enough money to purchase this medicine.
+@76
+I thought as much...
+@77
+How many will you buy?
+@79
+How many will you buy?
+@80
+How many would you care to buy?
+@81
+That comes to {p00}. Will you buy?
+@82
+That comes to {p00} in all. Buying?
+@83
+That will be {p00}. Will you buy?
+@84
+That comes to {p00} in total. Would you like to buy?
+@85
+Medicine may only be taken once a day. Take care of yourself.
+@86
+Medicine may only be taken once a day. Take care of yourself, now.
+@87
+Medicine may be taken only once a day. Please look after your health.
+@88
+Medicine may be taken only once a day. Please, above all, take care of your health.
+@89
+Still buying?
+@90
+Buying more?
+@91
+Would you like to buy more?
+@93
+Anything else?
+@95
+Is there anything else?
+@96
+Is there anything else I can do for you?
+@98
+What do you want to do?
+@99
+What will it be?
+@100
+What would you like to do?
+@101
+What would you like to do?
+@300
+Hey, give me some medicine!
+@301
+What is this, all of a sudden?
+@302
+Tell me the symptoms first, or I cannot know what to give you.
+@303
+A sudden high fever, and the shaking will not stop... Those are the symptoms.
+@304
+Hmm... That is the sickness going around Ōmi lately...
+@305
+You know it?! Then give me the medicine quickly!
+@306
+But we have none here. They say it is hard to find even in Ōmi itself.
+@307
+Do you know of anywhere else?
+@308
+Hmm... I cannot say.
+@309
+I see... Sorry to trouble you.
+@310
+No, I am sorry I could not be of use.
+@350
+Hm, who is that? Excuse me?
+@351
+Wh-who's there?! W-who are you? What do you want with me?
+@352
+I am {a660000}. Pleased to meet you.
+@353
+{a6d0000}? Never heard of you. Honestly, you startled me. I am Hayashi Michikatsu.
+@354
+Lord {a730017}, is it? But there is no need to be so startled...
+@355
+I-I am not startled! I just remembered an errand. Excuse me!
+@356
+Why, is that not Lord {a730017}? Excuse me?
+@357
+Wh-who is it?! W-what... It is only {a6d0000}. You startled me.
+@358
+I only called out to you. There is no need to be so startled...
+@361
+Wh-who's there?! W-who are you? What do you want with me?
+@363
+{a6d0000}? Ah, that {a6d0000}. Honestly, you startled me. I am {a660017}.
+@367
+Wh-who is it?! W-what... It is only {a6d0000}. Do not call out so suddenly!
+@368
+... You have gone pale. Are you all right?
+@369
+I have not gone pale! I just remembered an errand. Excuse me!
+@400
+Oh? Is that not {a6d0001}? What are you doing in a place like this? Are you unwell?
+@401
+No, I am not the one who is ill.
+@402
+In fact, Lord Hanbee's illness seems to have become quite serious lately, so I came to consult a physician.
+@403
+But what brings you here, my lord?
+@404
+Just happened by\nMy strength is failing...\nWorried about Hanbee...
+@405
+No, I just happened to stop in. But is Hanbee's condition really that bad?
+@406
+With age, my strength has been failing of late. I feel I am letting Nene down... So I came to ask for a good medicine.
+@407
+Never mind that. Is Hanbee's illness really that bad?
+@408
+I came because I am worried about Hanbee too.
+@409
+It seems far worse than I had thought...
+@410
+His household say he gets up only for meals or to use the privy...
+@411
+What, that bad? Physician! Can you do nothing?
+@412
+When it is that bad, I cannot...
+@413
+How dare a physician say such a thing!
+@414
+Oh, please, no violence!
+@415
+Excuse me, sir. On my travels I heard of a medicine said to cure incurable illnesses.
+@416
+What?! Tell me more about it!
+@417
+Yes. It is a rumour I heard when I stopped in the castle town of Fukasawa in Suruga...
+@418
+Fukasawa in Suruga, then\nWhere is that?!
+@419
+So the medicine is in Fukasawa in Suruga.
+@420
+Yes, I am fairly sure it was Fukasawa... I recall seeing Mount Fuji to the west.
+@421
+Understood. The tale is uncertain, but worth a visit.
+@422
+Um... Will there be no reward for me?
+@423
+You dare ask for money for such uncertain news?!
+@424
+Forgive me! Eeeek!
+@425
+Where is it?!
+@426
+As I said, Fukasawa in Suruga.
+@427
+I know it is Fukasawa! I want to know where Fukasawa is!
+@428
+Eek! E-east of Mount Fuji! At the foot of Fuji, a cure for the "fuji", the incurable... Heh, just a joke...
+@429
+Are you making a fool of me?!
+@430
+Not at all! Eeeek!
+@431
+My lord, he ran off in fright.
+@432
+But with only "somewhere in Fukasawa in Suruga" to go on, can we really find it?
+@433
+It seems we will not know until we go and see.

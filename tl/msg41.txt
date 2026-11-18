@@ -1,0 +1,794 @@
+@2
+The truth is, the castle I was sent for has fallen, so I can no longer complete my mission.
+@30
+I come as an envoy of the {p00}. Please announce me at once.
+@61
+As it happens, yes. Break it to our lord gently for me, will you?
+@73
+Good, a fine job, if I say so myself. Our lord should be satisfied with this.
+@100
+- About the Castle Town Screen -\n A castle town has many "buildings", such as the "Castle" and "Rice Dealer". The kinds of building differ from castle to castle.
+@102
+To enter a "building", press Square to show the list of buildings and choose one, or select one with R1 / L1.
+@103
+To visit the home of "Maeda Toshiie", select "Samurai Home". Then choose "Maeda Toshiie" from the list.{c09}
+@137
+...You would introduce someone you do not even know? Meddling like that only gets in the way of an important mission.
+@165
+What! Now that is useful information! I will go there at once. My thanks, Lord {p00}.
+@301
+Right, I will build my castle here and make this the finest town in Japan!
+@302
+Right! Until the castle goes up at Nagahama... hmm, about a year, I would say. Until then I will give Odani everything I have!
+@303
+Brother, the castle is finally finished!
+@304
+Is it? Then I must go and see it at once!
+@305
+Lord Hashiba, an urgent council has been called. Please come to Gifu Castle at once.
+@306
+Well, if it isn't a kunoichi! In ninja garb... how tempting... N-no, my hands are moving on their own!!!
+@307
+Eek! Where are you touching?!
+@309
+This is a disaster... For now, I had better consult Hanbee.
+@311
+{a6d0000}, wait! I do understand what you are saying, but here you must apologise to Lord {a6d0003}...
+@312
+Lord {a6d0013}, this is farewell in this life.{w} Live long enough for the two of us!
+@314
+My lord... From today, until His Lordship's messenger arrives, make a commotion every day.
+@315
+In your case, making a racket will show His Lordship you harbour no thoughts of rebellion better than sitting quietly in confinement.
+@316
+Is that not Lord {a660000} over there?
+@317
+Hm? And who might you be?
+@318
+I am Ishida Mitsunari. I have long wished to serve under Lord {a6d0000}.
+@319
+Drawing on my days as a page in a temple, I wish to be of use to you, my lord, with my wits.
+@320
+Hm! He looks quite bright. Very well, follow me.
+@321
+Thank you! From now on, command me as you will!
+@323
+Ah... what a terrible time I had...
+@330
+My lord, the town of {e730057} has grown splendid. Merchants gather from every land, and all manner of goods can be had.
+@331
+Oh? My lord, someone I do not know is approaching from over there.
+@332
+Ah, so this must be Lord {a660000}.
+@333
+I am Kuroda Kanbee, in the service of the Akamatsu clan of Harima.
+@334
+And what business brings you to me, Lord Kuroda?
+@335
+Of late I have wished to meet the man known as Lord {a660000}, whose fame has reached my ears.
+@336
+Ah, you came all the way from Harima just to see me...
+@337
+Before long the {a730002} clan will go to war with the Mōri. And in this war, the side I join will win.
+@338
+What's that? You claim to be such a man?
+@339
+At the very least, I know what goes on in Chūgoku.
+@340
+If I were in your place, Lord {a730000}, I would not fail to put it to use.
+@341
+An interesting fellow\nA cheeky fellow\nA suspicious fellow
+@342
+Hm, you are an interesting fellow. I will introduce you to Lord {a6d0002}. Come with me.
+@343
+A cheeky fellow! But your confidence seems well founded. Very well, I will introduce you to Lord {a6d0002}.
+@344
+A suspicious fellow, but you do not seem to be lying. Very well, I will introduce you to Lord {a6d0002}.
+@345
+\_\_\_\_\_\_\_- {e66009b} -
+@346
+Hey, Brother!
+@347
+Hidenaga... In front of others, call me "my lord", not "Brother".
+@348
+Of course. Then, my lord! About {e66009b}... is it not too small to serve as the base for the Chūgoku campaign?
+@349
+The walls are low and weak, and the moat is shallow.
+@350
+If a great army surrounded it, it would fall in no time.
+@351
+That leaves me rather uneasy. Let us renovate it.
+@352
+Right! {a6d0001}, I leave it to you.
+@353
+\_\_\_\_\_\_\_- {e66007d} -
+@354
+My lord... Araki... Araki Murashige... I failed to persuade him...
+@355
+That hardly matters. It is enough that you are alive, Kanbee.
+@357
+Kanbee, I want you to meet Lord {a6d0002}. I have prepared a palanquin. Will you come?
+@358
+Of course...
+@359
+My lord! The renovation of {e66009b} is complete.
+@360
+Look! A magnificent three-tiered keep!
+@361
+Oh! To think it would become such a fine keep! {a6d0001}, well done!
+@362
+What do you think? A majestic castle, is it not?
+@363
+Splendid! Even if an army of a hundred thousand came, it would not budge.
+@364
+My lord, this brings the Chūgoku campaign one step closer.
+@365
+My lord! While we tarried, Lord Shibata went and slew Akechi Mitsuhide at Shōryūji Castle!
+@366
+I failed...\nNo use crying over it\nNot yet...
+@367
+I failed... To be beaten to it...
+@368
+My lord, from now on Lord Shibata's influence within the {a730002} clan will only grow.
+@369
+No use crying over it. It only shows how strong Lord Katsuie is.
+@370
+To me, it seemed you, my lord, lacked the spirit to avenge our late lord...
+@371
+Not yet... not yet... I will win it back from here on...
+@372
+\_\_\_\_\_\_\_- {e66005f} -
+@373
+Masanori, I will show no mercy.
+@374
+Kiyomasa, that is my line.
+@375
+I will make that sharp tongue of yours fall silent.
+@376
+You will be sorry.
+@377
+Raaaaah!
+@378
+Yaaaaah!
+@379
+Slash! Crack!!!
+@380
+Still not good enough, Masanori.
+@381
+Look who's talking, Kiyomasa!
+@382
+Do not think this is all it takes to beat me. I have not shown my true strength yet.
+@383
+Interesting. Show me your real strength.
+@384
+Take this!!!
+@385
+Enough. I understand your strength very well.
+@386
+From now on, you will both serve me, {a6d0000}.
+@387
+Yes, my lord!
+@389
+Well, well, how nice for you both.
+@390
+My lord... a report has come in.
+@391
+Hanbee, what is it?
+@392
+The Nagashima Ikkō uprising has been put down.
+@393
+What! Has Lord Nobunaga finally done it?
+@394
+Against the rebels holed up in the Nagashima temple, he carried out a thorough siege, and many reportedly starved to death.
+@395
+Then he set the temple on fire and seems to have wiped out over twenty thousand Ikkō followers.
+@396
+W-what a terrible battle... It is like Lord Nobunaga, though...
+@397
+By the way, Brother, my ninja say they saw Ganmaku among the rebels.
+@398
+Ganmaku... I hope he is alive.
+@399
+Brother, Brother! Terrible news!!
+@400
+Why, if it isn't {a6d0001}! Why the hurry?
+@401
+Bessho Nagaharu of {e660098} has rebelled!
+@402
+What! {e660098} lies behind {e73009b}... At this rate the road will be cut off!
+@403
+Right, back to the castle at once for a war council. {a6d0001}, call Hanbee for me.
+@404
+My lord, my lord! Huff, huff... Oh, Lord {a6d0001}, you are here as well!
+@405
+Lord Kanbee, why are you out of breath like that?
+@406
+My lord, good news. Lord Bessho Nagaharu of Miki Castle has said he will submit to the {a730002} clan!
+@407
+What? Lord Kanbee, did you win him over?
+@408
+Not at all. Think of it as a mere gift for entering the {a730002} clan's service.
+@409
+Lord Kanbee, you are quite capable.
+@410
+No, no, this is only the beginning. Look forward to my future work! Ha ha ha...
+@411
+Kuroda Kanbee is a most dependable man.
+@412
+Lord {a730000}, Lord Nobunaga summons you. Please hurry to {e66005a}.
+@413
+\_\_\_\_\_\_\_- {e660073} -
+@414
+Well now. I have never seen such a splendid funeral.
+@415
+The number of troops mobilised, the number of monks, the magnificence of the coffin... in every respect it must be the finest funeral ever held.
+@416
+The funeral is splendid, but it is a pity that the body itself is missing.
+@417
+In life, Lord Nobunaga often used to say, "It is like a dream, an illusion."
+@418
+When one dies, nothing remains. How like him, is it not?
+@419
+Lord Nobunaga, watch over me. The day this Monkey commands the whole realm...
+@420
+\_\_\_\_\_\_\_- {e660059} -
+@421
+This was Lord Toshiie's castle, was it not?
+@422
+Hm, is there no way to avoid fighting Lord Toshiie?
+@423
+Better to try than to fret. Right, I will go and meet Lord Toshiie!
+@424
+Lady Omatsu is formidable\nThat was frightening...\nH-hey... Lord Toshiie!
+@425
+That fire... Lady Omatsu is truly formidable.
+@426
+Spare me. Think of what it is like for me, living with her every day.
+@427
+But that strong temper is also one of the things I love about her...
+@428
+That was frightening... Is Lady Omatsu always like that?
+@429
+Yes, always like that. As head of the household, my dignity is, you could say,{w} nonexistent...
+@430
+It is much the same in my house...
+@431
+H-hey... Lord Toshiie, Lord Toshiie!
+@432
+...W-what is it?
+@433
+What is the matter? You were staring off into space.
+@434
+Omatsu seemed even more imposing than usual today...
+@435
+Even Lord Toshiie is helpless before Lady Omatsu, I see. Ha ha ha...
+@436
+\_\_\_\_\_\_\_- {e660052} -
+@437
+It seems it went well somehow...
+@438
+Oda Nobunaga's funeral was a grand ceremony without equal in history.
+@440
+\_\_\_\_\_\_\_- {e66004c} -
+@441
+This castle has grown cramped. I think it is time we had a castle fit to proclaim our supremacy over the realm.
+@442
+Close to Sakai and close to Kyōto... how about Ishiyama in Settsu Province?
+@443
+Ishiyama? Where Hongan-ji used to stand?
+@444
+Indeed. That land excels in land and sea transport and distribution, a place blessed by geography. I believe it is truly ideal.
+@445
+Lord Kanbee is quite right. Why not pay it a visit?
+@446
+Agreed, let us visit\nWe stay in this castle
+@447
+Yes, let us go and take a look.
+@448
+No need, this will do. It is no inconvenience, and I am fond of it.
+@449
+Very well. If you change your mind, do pay it a visit.
+@450
+This is where Ishiyama Hongan-ji once stood.
+@450.1
+Hongan-ji... it reminds me of Lord Sakuma Nobumori.
+@451
+He struggled in the war with Hongan-ji, finally incurred Lord Nobunaga's wrath, and was banished.
+@452
+That was because this land is a hub of land and sea traffic, easy to supply and well suited to defence.
+@453
+If we build a large castle here, it will be impregnable.
+@454
+My lord, let us build a magnificent castle here that will go down in history!
+@456
+Right! Here I will build a castle so splendid that the whole realm will speak of it!
+@457
+Hidenaga, I leave this work to you. You will do it, won't you?
+@458
+Understood. Leave it to me!
+@459
+\_\_\_\_\_\_\_- {e66007f} -
+@460
+My lord! Look! This peerless, majestic castle!
+@461
+This keep of five tiers and seven storeys! And with this great moat, no enemy could break through!
+@462
+Well done, Hidenaga! Now my power is secure.
+@463
+Then I shall have the move prepared at once.
+@463.1
+Yes, I leave it to you.
+@464
+Lord Niwa will not submit... Then we have no choice but to fight...
+@465
+That was perilous, my lord.
+@466
+Yes, this should be safe now. Though the matter of the court title failed.
+@467
+With Lord Niwa taking over Echizen, people will think Lord Niwa has become your subordinate.
+@468
+Exactly. Well, shall we go back?
+@469
+Lord Niwa, it has been a long time.
+@470
+Are you quite recovered from your illness?
+@470.1
+Yes, much better than before...{w} Ugh...
+@471
+Ah! Lord Niwa! Are you all right?
+@471.1
+Yes, I am fine. My stomach pains me now and then. It is nothing new...
+@472
+I see. As long as you are all right... Please take care.
+@473
+Lord Niwa, in that condition, is sake out of the question?
+@474
+No, it is long since we last met. I shall keep you company.
+@474.1
+Ah, that is the spirit! I will have preparations made at once.
+@475
+\_\_\_\_\_\_\_- {e660065} -
+@477
+Ah, Lord Niwa.
+@478
+About that meeting just now... I cannot accept it.
+@479
+I agree. But most of them simply do as Katsuie says.
+@480
+Yes, just so. It is galling, but nothing can be done.
+@481
+For now I will return to my castle and work out countermeasures with my men. Lord Niwa, please watch Katsuie's movements as well.
+@482
+I understand. Until next time.
+@485
+My lord! Look! This peerless, magnificent castle!
+@486
+Oh! What a splendid castle!
+@487
+It is like a tower reaching up to heaven.
+@488
+Born a man, I always wanted to command the realm from such a vast castle...
+@489
+And now it has become reality! Hidenaga! From the bottom of my heart, I am glad to be alive!
+@490
+Yes, much has happened since I first took you, Brother, as my lord, but I never imagined we would come this far...
+@491
+I feel the same. Anyway, let us go inside!
+@492
+Yes, today let us tour every corner of this castle!
+@493
+Oh, my. You two are like children...
+@494
+Lord {a730000}, it has been some time.
+@495
+Ah, Lord Tokugawa, I have been waiting for you! Come, this way.
+@497
+I have had a pleasant time after so long. I shall never forget today.
+@498
+Oh! It is the same for me.
+@499
+Then I look forward to the day we meet again.
+@500
+He should be my enemy, yet before I knew it we had warmed to each other.
+@512
+Hideyoshi! Weeping on such a joyous day - what is this!
+@513
+When I look at you, my lord, now that you are Shogun...
+@514
+I feel as though all the hardships I have borne are blown away.
+@515
+Monkey! Do not get conceited!
+@516
+What have you done? You brought the realm to heel, that is all, and you speak of hardship? You are a hundred years too green for that!
+@517
+Laugh! Laugh, Monkey!
+@518
+A realm taken by a fool and a monkey together - how ridiculous!
+@520
+I will work you to the bone from now on! Monkey, brace yourself!
+@521
+Yes! This Monkey will be your hands and feet, my lord,
+@522
+and if there is cheap rice in the east, I will spend every coin buying it all,
+@523
+and if rebellion sprouts in the west, I will fly there and nip it in the bud,
+@525
+and if a gold mine appears in the north, I will dig to the very bottom of hell!
+@526
+Ha ha ha, you are a monkey indeed! Leave you alone and you get carried away at once!
+@527
+A show-off like you needs a taste of the moxa! Follow me!
+@528
+N-no, my lord, forgive me!
+@530
+Look over there, a crowd has gathered, hasn't it? They are all badmouthing you, my lord!
+@531
+What...
+@532
+{a6d0000} is a traitor who betrayed Nobunaga! I have travelled all the provinces, but never seen such a vile lord!
+@533
+Well, well. To think there's someone even worse than me. The world must be ending.
+@534
+Damn that Hideyoshi! Forgetting all he owed Lord Nobunaga for raising him up! Hic!
+@535
+Hey, you! Drinking too much in broad daylight! Hic!
+@536
+Did you hear that? If we do not act quickly, there will be trouble!
+@537
+Go and answer them!\nGo back and plan a response!
+@538
+Right, I will go and answer them!
+@538.1
+M-my lord! Wait!
+@539
+You lot! I will not tolerate any more insults against me!
+@541
+Oh, if it isn't Hideyoshi, the incarnation of evil!
+@542
+What! You treacherous, wicked daimyō! You have some nerve showing your face!
+@543
+That's right, that's right!{w} What excuse have you got, then?
+@544
+You seem to think that I betrayed Nobunaga, but nothing could be further from the truth!
+@545
+In the Oda clan I worked myself to the bone. I have merit to my name, and I recall nothing that deserves blame.
+@546
+To begin with, this affair was caused by Nobunaga beating me soundly and treating me unjustly.
+@547
+By nature, Nobunaga had a habit of venting his temper on his retainers whenever things did not go his way.
+@548
+Countless men besides me left the Oda clan because of it...
+@549
+Next it may be you commoners who fall prey to him! Is that all right with you?!
+@550
+Hmm... that would be a problem...
+@551
+If that happens, I would be the first to be targeted...
+@552
+I cherish the people. I swear to develop this town more than it grew under Nobunaga's rule.
+@553
+Choose me or choose Nobunaga, it is one or the other. There is nothing to agonise over!
+@553.1
+Sounds rather suspicious to me.
+@555
+If it turns out to be a lie, I will cut you to pieces with my Crescent Moon style!
+@556
+Very well! Soon I will show you the proof! Wait and see!
+@557
+Hmm... For now I will withdraw and plan a response!
+@558
+{a6d0001}, are you there?
+@559
+Yes, I am here.
+@560
+Bad rumours about me have spread through the castle town. Is there anything we can do?
+@561
+Well, how about encouraging those who lost family in the wars, and the poor, by handing out money and rice?
+@562
+In any age, caring for the weak naturally raises one's reputation.
+@563
+It is a commonplace method, but it should work.
+@564
+Hm, true...
+@565
+Encourage the needy\nGive rice\nGive money\nDo nothing
+@566
+Let us encourage the needy.
+@567
+Then I shall start at once.
+@568
+Your reputation did not rise much, but now no one will complain.
+@569
+Let us hand out rice to the needy.
+@571
+Your reputation is fair. Now no one will complain.
+@572
+Let us hand out money to the needy.
+@574
+Your reputation seems quite good. Now no one will complain.
+@575
+Do nothing.
+@576
+Are you sure about this?
+@577
+No, I'll reconsider\nYes, leave it be
+@578
+On second thought, forget that.
+@579
+Then let us encourage the needy.
+@580
+Leave it. If we ignore them, it will soon die down.
+@582
+My lord! Disaster! The people have rioted and raided the rice storehouse inside the castle!
+@584
+We have caught some of them. What shall we do with them?
+@585
+Pardon them\nCrucify them
+@586
+Pardon them.
+@587
+In this matter, I am also to blame for taking no measures against the people's discontent.
+@588
+Understood. I shall do as you say.
+@589
+My lord, your leniency this time has raised your reputation.
+@590
+Unforgivable! Crucify every one of them in front of the castle!
+@591
+My lord! If you do such a thing...
+@592
+Hidenaga, say nothing.
+@593
+P-please forgive me!
+@594
+Hmph! Boil me or roast me, do as you please.
+@595
+My lord, the riot has been suppressed, but distrust of you has grown.
+@597
+Excuse me, may I ask you something?
+@598
+Yes, if it is something I can answer...
+@599
+...{w} ...{w} ...
+@600
+Oh, what is the matter?
+@601
+Ah! N-nothing at all!
+@602
+I am looking for a man called Ōtani Yoshitsugu. Would you happen to know him?
+@603
+Lord Ōtani? I know him. Turn that corner there, and it is the house on the right.
+@604
+I see... Many thanks.
+@606
+She was so beautiful that I stared and forgot to ask her name...
+@607
+Now, where was the rice dealer?
+@608
+Hey there, mister. Looking for rice? Then buy it from me!
+@609
+Rice is 10,000 kan a koku! Don't you dare say no!
+@610
+Hmph! You there! Such wickedness, with no fear of the authorities... You clearly do not know who I am.
+@611
+Down on your knees! Do you not know whose presence you are in?! This monkey face that roams the roads by night - do not dare pretend you have forgotten it!
+@612
+Oh! Can it be... Lord {a730000}?! Mercy, mercy! Forgive me!
+@613
+Selling rice and radishes at outrageous prices, a life of wickedness - truly unforgivable!
+@614
+Therefore I sentence you to be paraded through the town, then beheaded and your head displayed.
+@616
+Oops, I have no time for this. {a6d0001}, let us go.
+@618
+How did this happen... I am not of samurai birth, let alone with any tie to the Imperial Court.
+@619
+The son of a mere farmer has become Regent... I have become Regent!
+@620
+That's right, Brother! Ah, thinking of the old days, I called you Brother again.
+@621
+Today it is fine. Call me Brother or whatever you like!
+@622
+Brother, looking at all of history, no one has risen as far as you. And perhaps none will hereafter.
+@623
+That is how great a deed you have done!
+@624
+That you achieved this feat, my lord, is owed to your virtue alone.
+@625
+I followed you because I wanted to see you in all your glory, my dear.
+@626
+I will not forgive you for leaving me behind!
+@627
+Yikes! Sorry, forgive me!
+@629
+Hm? Did someone call?
+@630
+It is I, Hanbee... My lord, congratulations.
+@631
+The day we waited for has come at last. I am deeply moved.
+@632
+But the hard part begins now. Please make a world where everyone can live happily.
+@633
+I shall watch over it from heaven.
+@634
+H-Hanbee! Wait!
+@635
+Brother! Brother, what is wrong?!
+@636
+Hm? What about you, Hidenaga? Why are you shouting like that?
+@637
+Don't "what is wrong" me! You have been standing there in a daze all this time...
+@638
+No, I was talking with Hanbee...
+@639
+Brother, what are you dreaming about...
+@640
+Lord Hanbee passed away long ago!
+@641
+That's right, my lord. Could the joy have addled your head...
+@642
+How can you two say such things... Lord Hanbee is always watching over us.
+@643
+Isn't that so, my dear...
+@644
+Yes, even beyond the grave, he worries for this unreliable master of his.
+@645
+I will build that world, I swear it!
+@648
+Hanbee, thank you. A land where everyone can live in happiness, the dream you and I shared.
+@649
+Now, back to our castle! Everyone, do not fall behind!
+@651
+Hongan-ji... a tough enemy it was.
+@652
+\_\_\_\_\_\_\_\_- {e66005c} -
+@653
+I am {a660000}. Please announce me to Lord Akechi Mitsuhide.
+@654
+Please leave. Lord Mitsuhide has ordered that no one be admitted to the castle.
+@655
+Never mind that. Tell Lord Akechi that this {a6d0000} has come to see him!
+@657
+The very existence of the Akechi clan is at stake! Hurry!
+@658
+Y-yes... Please wait.
+@659
+Lord {a730000}! Please forgive my rudeness.
+@660
+Not at all.
+@661
+Please, come inside.
+@665
+Now that I have received a court title too, perhaps I should dress the part.
+@666
+Heh heh... Nene will surely be surprised.
+@667
+Hm, rather stiff and formal... Well, it will feel right once I am used to it.
+@668
+My dear!!!
+@669
+N-Nene?! Wh-what are you doing here?!
+@670
+Well, I heard you had risen greatly, and I could not wait, so I came.
+@671
+Oh, yes! My surname is now Hashiba! And I have even been granted the title of Chikuzen!
+@672
+And... a castle will be built here at Nagahama! My own castle!
+@673
+Oh... your dream is coming true... Congratulations.
+@674
+Oh? Hee hee...
+@675
+Hm? What is so funny?
+@676
+No, it is just that your clothes have changed...
+@677
+You are different from usual too. You seem rather distant.
+@678
+W-well... I bought this kimono so as not to shame you, as the wife of a man who has risen so high...
+@679
+Nene... I will rise higher still, and buy you beautiful kimono.
+@680
+Yes, I will wait for you always.
+@681
+Good! I am counting on you, Nene, now and always!
+@682
+Yes, my dear!
+@683
+S-sorry, my hands are moving on their own... Oh! A-again, my hands!!!
+@684
+Eek!!! N-not there...
+@685
+F-forgive me... my body moves by itself... A-again!!!
+@686
+{d09}Swoosh...
+@687
+Tr-trust a ninja... she never misses a vital spot...
+@688
+...Honestly! I shall take my leave!!!
+@689
+Phew, a kunoichi's allure is a fearsome thing... Oh, I must hurry to Gifu Castle.
+@690
+Hey, Brother!!!
+@691
+Oh, Hidenaga! You came too?
+@692
+Yes, we have been given our own town. I cannot sit still.
+@693
+Indeed, this town will surely become the finest in Japan.
+@694
+Right, let us call Ma and the others here too, and all live here together.
+@695
+Yes, that is a good idea. Shall we go and fetch them at once?
+@696
+Many have fallen under your charm, my lord. Farmers, townspeople, merchants, warriors, court nobles... people of every kind have been captivated by you.
+@696.1
+I too am one of those drawn to your charm...
+@698
+Ha ha ha... Me too! You really are a strange one, my lord!
+@699
+Being praised to the skies like this feels creepy... as if something bad were about to happen...
+@701
+N-Nene! Why are you in a place like this?
+@702
+My lord! The renovation of {e66009b} is complete.
+@704
+Oh! What a magnificent keep! {a6d0001}, well done!
+@705
+Indeed. Does it please you?
+@706
+Yes, splendid! Even if an army of a hundred thousand came, it would not budge.
+@707
+My lord, this brings the unification of the realm one step closer.
+@708
+Hee hee... I will not leave your side from now on, my dear.
+@709
+Yes, let us stay as close as ever. I am counting on you, Nene!
+@711
+But I still cannot spend any quiet time with Nene for a while...
+@712
+There is still a mountain of things left undone. Until they are done, I cannot say I have truly taken the realm.
+@713
+It looks like we will stay busy. Everyone, I am counting on you.
+@714
+Of course. I will keep working hard.
+@715
+I too ask you to work me harder than ever.
+@716
+Yes. Thank you, everyone...
+@717
+Now, back to the castle. Tonight I shall hold a banquet such as no one has ever held!
+@718
+Ha ha ha! That is my lord! That is what I wanted to hear!
+@719
+Let us go! Everyone, do not fall behind!
+@723
+But there will be no rest for a good while yet.
+@724
+There is still a mountain of things left undone. Until they are done, I cannot say I have truly taken the realm.
+@725
+Everyone, keep lending me your strength.
+@726
+Of course. I will keep working hard.
+@728
+My lord, this castle has grown cramped. Do you not think we need a castle fit to proclaim our supremacy over the realm?
+@729
+Close to Sakai and close to Kyōto... Ishiyama in Settsu Province would be good, I think.
+@731
+I hear that land is excellent for travel and trade by land and sea, truly blessed by its position.
+@732
+There is no better place for a ruler of the realm to put his castle. Why not pay it a visit?
+@743
+Lord Hashiba, I bring a message from Lord Nobunaga.
+@744
+Hm?{w} A message from Lord Nobunaga...{w} What could it be?
+@745
+Yes. "Where is the great cannon?" is the message.
+@746
+I know. Kunitomo Ikkansai is hard at work on it now. Ask Lord Nobunaga to be patient a while longer.
+@747
+Understood. Lord Hashiba, please urge Ikkansai to finish as soon as possible.
+@748
+Yes, I know.
+@749
+Listen, be sure to tell Lord Nobunaga to rest assured and wait.

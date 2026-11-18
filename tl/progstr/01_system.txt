@@ -1,0 +1,92 @@
+# Title menu, new game
+PROG:800b7cd0	Press any button
+PROG:800b44ec	New Game
+PROG:800b44fc	Continue
+PROG:800b450c	Music Player
+PROG:800b451c	Settings
+PROG:800cfa48	Hideyoshi
+PROG:800cfa50	Special
+PROG:800cf904	Strategist
+PROG:800cf90c	Hero
+PROG:800b4598	Custom
+PROG:800b458c	Points left
+# Triangle menu and its submenus
+PROG:800cf6dc	People
+PROG:800cf6e4	Powers
+PROG:800cf6ec	Records
+PROG:800cf6f4	Mission
+PROG:800cf6fc	System
+PROG:800cf6bc	Save
+PROG:800cf6c4	Load
+PROG:800cf6cc	Settings
+PROG:800cf6d4	Quit
+PROG:800cf68c	Rice Prices
+PROG:800cf694	Horse Prices
+PROG:800cf69c	Rumours
+PROG:800cf6a4	By Province
+PROG:800cf6ac	By Daimyō
+PROG:800cf6b4	This Castle
+PROG:800b2e6c	People
+PROG:800b2e78	Factions
+PROG:800b2e84	Retainers
+PROG:800b2ea8	Belongings
+PROG:800b2ef0	All Castles
+# Settings
+PROG:800b2e3c	Sound
+PROG:800b2e48	Reports
+PROG:800b2e54	Stereo
+PROG:800b2e60	Mono
+PROG:800cf65c	Music
+PROG:800cf664	Vibration
+PROG:800cf66c	OK
+PROG:800cf674	On
+PROG:800cf678	Off
+PROG:800cf67c	Full
+PROG:800cf684	Brief
+# Save / load
+PROG:800b76d4	System Memory
+PROG:800b76e0	Memory Card
+PROG:800cfa84	save to
+PROG:800b76f0	load from
+PROG:800b76fc	Where do you want to %s?\nChoose from the menu.
+PROG:800cfa58	Saving
+PROG:800cfa60	Loading
+PROG:800cfa6c	Empty
+PROG:800b7374	-
+PROG:800b73a0	%s\nCannot save in this state.
+PROG:800b73c0	%s complete.
+PROG:800b73d4	%s\n%s cancelled.
+PROG:800b73e8	Checking the Memory Card.\nDo not remove the Memory Card\nor the controller.
+PROG:800b7440	Not enough space.
+PROG:800b7454	No data.
+PROG:800b7468	%4u/%2u/%2u
+PROG:800b7478	Choose where to save.
+PROG:800b7498	Choose the data to load.
+PROG:800b74bc	A new save will be created.\nSave here?
+PROG:800b74f8	Overwriting will erase\nthe previous data.\nSave here?
+PROG:800b7544	Load this data?
+PROG:800b75a4	%s...\nDo not remove the Memory Card\nor the controller.
+PROG:800b75e8	The Memory Card is not formatted.\nFormat it?
+PROG:800b7620	Formatting...\nPlease wait.
+PROG:800b764c	Loading...
+PROG:800b765c	The data is corrupted.
+PROG:800b7674	Loading complete.
+PROG:800b768c	Save here?
+PROG:800b76ac	Saving...
+PROG:800b76bc	Saving complete.
+PROG:800b6f58	The Memory Card is working.
+PROG:800b6f74	No Memory Card in\nMEMORY CARD slot 1.
+PROG:800b6fb0	Failed to access the Memory Card.
+PROG:800b6fd8	The Memory Card was removed.
+PROG:800b6ff8	The Memory Card is not formatted.
+PROG:800b7020	The Memory Card is not formatted.\nFormat it when saving.
+PROG:800b7064	Not enough free space on the Memory Card.
+PROG:800b708c	No data to load.
+PROG:800b70ac	The save data is corrupted.
+PROG:800b70c8	Failed to write the data.
+PROG:800b70e8	Failed to read the data.
+PROG:800b7108	An error occurred.
+PROG:800b7120	Formatting complete.
+PROG:800b713c	The Memory Card was changed.
+# Speaker box
+PROG:800b6848	§ Drunk Man §

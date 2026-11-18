@@ -1,0 +1,3 @@
+# clan-name getter (tools/strbuf.py): key<TAB>English
+suffix	 clan
+fallen	Fallen

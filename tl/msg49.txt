@@ -1,0 +1,244 @@
+@208
+Your {p00} has improved. I'd say you've mastered it, as far as you can for now.
+@245
+Winning men over is not to my taste, but it is sometimes effective. Not necessarily now, though.
+@248
+Rather than fighting, perhaps we should think of making the people prosper.
+@300
+What do you want?
+@301
+Ask about Echizen's problems\nAsk for sword instruction\nNothing in particular
+@302
+Lord Sakuma, where do you think the problem of Echizen lies at present?
+@303
+What a thing to ask, out of the blue... Let me see... Hmm...
+@304
+We need more training for the army, to be ready for war, I would say.
+@305
+They say the Oda soldiers are weak. A lamentable state of affairs.
+@306
+Hm, I see.
+@307
+Is that all you came for? Then be off with you.
+@308
+Today I was hoping you might give me some sword instruction, Lord Sakuma.
+@309
+Hmph. Can a weakling like you even handle a sword?
+@310
+Well, no matter. Just for today, I will humour you.
+@311
+{d02}Raaaah!
+@312
+Ow, ow, ow...
+@313
+Pathetic, truly! You could not even take a blow like that. Ha ha ha!
+@314
+(I only asked for instruction... Oh dear.)
+@315
+You are no match for me with a sword. Now go on, off with you!
+@316
+No, I have no particular business...
+@317
+What, you came with no business at all? How I envy your idle hours. Now go, go!
+@322
+Lord Katsutoyo?
+@323
+Hm? Lord {a730000}, is it? What do you want of me?
+@324
+Ask about Echizen's affairs\nAsk about Katsutoyo
+@325
+Lord Katsutoyo, where do you think the greatest problem lies in Echizen's domestic affairs?
+@326
+Well, the Ikkō sect problem must be solved if we are to rule Hokuriku in the years ahead.
+@327
+We must also consider the danger when the peasants unite, and act quickly, I think.
+@328
+I see, thank you. Now, if you will excuse me.
+@329
+Lord Katsutoyo, you are Lord Katsuie's adopted son, are you not?
+@330
+Yes, I am... But our lord... {w}No, {w}it is nothing.
+@331
+Now, if you have no business, please leave.
+@339
+So you were taunted. But it is true that having no retainers is inconvenient in many ways...
+@344
+He lives in the castle town of Fuchū, so do pay him a visit.
+@348
+Is anyone there?
+@349
+Oh, a face I do not know. And you are?
+@350
+Are you Lord Maeda Keiji?
+@351
+When asking another's name, should one not give one's own first?
+@352
+Ah, forgive me. I am {a660000}.
+@353
+So you are Lord {a730000}. I have heard about you from my uncle.
+@354
+And what do you want with me?
+@355
+I will be frank. Would you lend me your strength?
+@356
+Ha ha ha! You mean I, Keiji, should become your retainer?
+@357
+Y-you will do it?
+@358
+N-{w}o-{w}pe.
+@359
+!...
+@360
+Or so I thought... But may I ask you one thing?
+@361
+Y-yes...
+@362
+Suppose you ruled this land, no, the whole realm. What would you wish for then?
+@363
+...If I... ruled the realm...
+@364
+Peace\nProsperity\nI do not know
+@367
+I know neither father nor mother. And I have lost people dear to me in war.
+@368
+I do not know whether I could rule the realm, but I wish to do all I can to make this world peaceful.
+@369
+Hm...\nI see...
+@370
+I have known neither father nor mother since birth. And I have lost people dear to me in war.
+@371
+I do not know whether I could rule the realm.
+@372
+But I hope for a prosperous world in which everyone can be happy.
+@373
+Taking the realm... I had never even thought of it.
+@374
+All I want now is to work for Lord Katsuie, and for the people of this world.
+@375
+Ha ha ha! You are an honest man.
+@376
+Though I have no idea what I could actually do to be of use...
+@378
+Then let me tell you my dream. It is to become the greatest man in Japan.
+@379
+The greatest man in Japan?
+@380
+...Big words, I know, but I am not sure myself how one becomes that.
+@381
+To meet a good lord, show matchless skill with the spear, and fall gloriously.
+@382
+I doubt that alone makes the greatest man in Japan...
+@383
+Do you think so...?
+@384
+Well, the first step, meeting a good lord, I may have managed already.
+@386
+You have a dream, Lord {a730000}. I, Keiji, could feel it.
+@387
+Then let me aim first to be the finest spear-carrier in Japan. My lord, I am counting on you!
+@388
+Th-thank you... The pleasure is mine.
+@389
+Then I shall go ahead to Kitanoshō. Farewell.
+@394
+Pardon me. Hm? Is no one here...?
+@395
+Can I help you?
+@396
+Ah, er... Are you... Lord Okumura Nagatomi?
+@397
+Yes.
+@398
+Er, I have come on the introduction of Lord Shibata Katsuie.
+@400
+(He is throwing me off...) Would you lend me your strength as my retainer?
+@402
+Eh... ah, er... Then I look forward to working with you...
+@410
+Lord {a730000}, you have come all this way. I am truly sorry to put you to such trouble.
+@411
+No, never mind that. How is your health? You do not look very well.
+@412
+I cannot say I am perfectly well... but lately I have been much better.
+@413
+More to the point, is this wise? If Lord Katsuie learned you had come to visit a man like me, would he not scold you?
+@414
+Ha ha. It would certainly be a disaster if my lord found out.
+@415
+Ha ha ha!
+@417
+I truly enjoyed myself today.
+@418
+And I am relieved to see you looking better than I expected, Lord Hanbee.
+@419
+I cannot lie abed for ever.
+@420
+A strategist must always be ready to die on the battlefield: so I have long held. I mean to return to the front soon.
+@421
+To die on the tatami is no fitting end for a warrior...
+@422
+...Please take care not to overdo it.
+@423
+Lord {a730000}... Thank you for your kindness.
+@424
+Ah, yes. Let me give you this, Lord {a730000}...
+@425
+Obtained the Shiji.
+@427
+This is... Are you sure?
+@428
+Please, do not hold back. A thing has value only when it is used.
+@429
+Apply yourself, Lord {a730000}. As things stand, Lord Katsuie cannot hope to win the realm.
+@430
+Eh...?
+@431
+Ha ha, I jest.
+@432
+...\nThen take care of yourself.
+@434
+Lord {a730000}, I am grateful for your concern, but please return to Lord Katsuie now.
+@442
+\_\_\_\_\_\_- Mitsuhide's Kyōto Residence -
+@443
+Well then, I take my leave. Pray see to it, without fail.
+@444
+...Yes, I understand...
+@445
+(Hm, someone is coming. I must hide!)
+@446
+...Lord Mitsuhide, what will you do about this...?
+@447
+Hm...\n...
+@448
+So the Imperial Court, after all...
+@449
+Hm...\nBut...
+@450
+(I can't hear them well.)
+@451
+My lord... I, Toshimitsu, will follow you to the very end. Do it...
+@452
+So it must be done...
+@453
+(I must slip out soon.)
+@459
+Lord Mitsuhide.
+@460
+Ah, Lord {a730000}, welcome. I am in the midst of business, so I cannot give you much attention...
+@461
+I heard about the transfer of your domain... I hardly know what to say...
+@462
+No, it no longer matters. I take it as our lord's rebuke: a scolding that I must work harder.
+@463
+Besides, being told that Izumo and Iwami are mine for the taking is an honour...
+@464
+Well, I do feel deeply about Tanba... {w}...No, that is past now.
+@466
+Lord {a730000}, thank you for troubling to come.
+@467
+I have business today, so please excuse me.
+@468
+Ah...
+@469
+Oh, well. I may as well go home.

@@ -1,0 +1,372 @@
+@300
+My lord, Mitsuhide turned out to be no great foe after all. Ha ha ha...
+@301
+Come, Kanbee, do not laugh so. Mitsuhide had his own sorrows.
+@304
+My lord, a letter has come from Lord Shibata Katsuie.
+@305
+Bring the letter here.
+@307
+You may go.
+@308
+Lord {a6d0001}, what does the letter say?
+@309
+He wishes to discuss the future of the {a730002} clan, and asks us to come to Kiyosu Castle...
+@310
+That Katsuie, how presumptuous...
+@311
+Yet we can hardly stay away.
+@312
+Here we should rely on someone dependable... Lord Niwa Nagahide, perhaps. Why not seek his help?
+@313
+Yes, Lord Niwa may well advise us.
+@314
+My lord, this meeting will decide who takes the lead of the Oda clan. We must brace ourselves.
+@315
+\_\_\_\_- {e66009b}: Lord's Room -
+@316
+\_\_\_\_- Sawayama Castle: Lord's Room -
+@317
+Well, well, Lord {a730000}. You look well, I am glad to see.
+@318
+And you, Lord Niwa, look in fine health...
+@319
+Since you came in person, Lord {a730000}, is it about the Kiyosu Council?
+@320
+You saw right through me\nNo!\nI came just to see you
+@321
+That's Lord Niwa for you. You guessed right.
+@322
+I had been wanting to talk with you too.
+@323
+No. I care nothing for this Kiyosu Council.
+@324
+I came to tell you that I wish to work with Lord Niwa from now on to build up the Oda clan.
+@325
+Ha ha ha... I am glad, even if it is a lie. Now, then...
+@326
+What are you saying? I came because I wanted to see Lord Niwa.
+@327
+Ha ha ha... Do not say such sickening things.
+@328
+Ha ha ha... I was jesting.
+@329
+Look, I have goosebumps...{w} Well, never mind...
+@330
+This Kiyosu Council... Katsuie's scheme to seize the lead of the Oda clan is plain to see.
+@331
+I dislike how he tries to seize the real power of the Oda clan without lifting a finger.
+@332
+After all, was it not you, Lord {a730000}, who defeated Mitsuhide?
+@333
+He was off in Hokuriku glaring at the Uesugi and barely lifted a finger, was he not?
+@334
+Listen, Lord Hashiba. Let us cooperate and not allow Katsuie to seize the lead.
+@335
+Lord Niwa, I will gladly cooperate.
+@336
+Good. Katsuie will surely back Lord Nobutaka as heir.
+@337
+We would like someone to set against Lord Nobutaka.
+@338
+If we back the second son, Lord Nobukatsu, there is too little in his favour.
+@339
+Just so. So we would at least like Lord Nobukatsu made Lord Nobutaka's guardian.
+@340
+If that could hold Katsuie's actions in check, it would do...
+@340.1
+I know! Lord Hashiba, how about this plan?
+@341
+Understood. Let us do so.
+@342
+Well then, shall we set out?
+@343
+If we go together, the secret pact may be discovered. Lord {a730000}, you leave first.
+@344
+Lord Niwa, the Oda clan has someone more fit to be heir than Lord Nobutaka.
+@345
+What! And who is that?
+@346
+Lord Nobutada's eldest son, Lord Sanbōshi.
+@347
+What, you propose Lord Sanbōshi as heir!
+@347.1
+Ha ha ha... I had not thought of Lord Sanbōshi.
+@348
+Very well. I too shall work to have Lord Sanbōshi chosen.
+@348.1
+Lord Hashiba, the arrangements for the Kiyosu Council are as follows...
+@349
+Understood. Then, so it shall be...
+@350
+Mm. Then let us set out.
+@351
+If we go together, our secret pact may come out. Lord {a730000}, you leave first.
+@352
+\_\_\_\_\_- Kiyosu Castle: Lord's Room -
+@353
+Lord Sanbōshi! Is Lord Sanbōshi here?
+@354
+Lord {a730000}, what business have you with Lord Sanbōshi?
+@355
+I wish to see him, for the future of the Oda clan.
+@357
+Argh! While you stand there talking, the future of the Oda clan...
+@358
+Y-yes, I understand. I shall bring him at once.
+@359
+Lord {a730000}, I have brought him.
+@360
+Ohh, Lord Sanbōshi, how adorable you are...
+@361
+Giggle, giggle...
+@362
+Look, look, it is Mr. Monkey! Peekaboo!
+@364
+Hm, Lord Sanbōshi should have taken to me now. Now to the Council Hall.
+@365
+Phew. The rest Lord Niwa will do, as we agreed beforehand...
+@366
+Lord {a730000}, the heir of the Oda clan has been decided: Lord Sanbōshi.
+@367
+Truly?! That's Lord Niwa for you!!
+@368
+Do not flatter me.{w} We are now deciding the distribution of domains. Come, you too.
+@369
+My lord, a messenger has come from Lord Shibata Katsuie.
+@370
+A messenger from Katsuie? Do you know his business?
+@371
+Yes. "Lord Nobunaga's funeral will be held at Gifu, so please attend," he says...
+@372
+Hm...{w} Katsuie may mean to summon you, my lord, and kill you.
+@373
+Gifu and Kiyosu are within Katsuie's sphere. The funeral must be held within ours.
+@374
+Mitsunari, tell this messenger... Listen...
+@375
+Of course I shall attend the funeral. But to hold it at Gifu or Kiyosu is wrong.
+@376
+Gifu and Kiyosu are places connected to Lord Nobunaga. That is all.
+@377
+To mourn Lord Nobunaga, is not splendid Kyōto the fitting place?
+@378
+Tell him those are your lord's words. Have you got it?
+@379
+Yes, I have it!
+@380
+Good. Now go.
+@382
+My lord, there you are. I have been looking for you.
+@383
+Ah, I have just returned. What is it?
+@384
+Yes, it concerns Lord Sanbōshi. On the way from Kiyosu Castle to Azuchi Castle, he stopped at Lord Nobutaka's {e66005f}...
+@385
+and it seems he is being held there still.
+@386
+Damn! Nobutaka... Detaining a small child out of lust for real power...
+@387
+He has been boasting since the Kiyosu council that he is the Oda heir...
+@388
+He has finally used force... Unforgivable... Unforgivable!
+@389
+My lord, what must we do to hold Shibata Katsuie in check?
+@390
+Before my lord gives his opinion, a word of my own.
+@391
+I shall build a strong {a730000} clan by winning over the capable warriors who served the Oda clan.
+@392
+Hm, Kanbee's words are sound. For a while, let our clan's policy be Intrigue.
+@393
+My lord, we have heard nothing since Lord Shibata's messenger left.
+@394
+Lord Shibata is throwing away a fine chance.
+@395
+Holding the funeral is the best opportunity to show the realm who Lord Nobunaga's successor is...
+@396
+Yes, Katsuie cannot grasp that.
+@397
+Really, did he see our late lord's funeral as nothing but a chance to assassinate you?
+@398
+It was only Katsuie's shallow cunning. Ha ha ha.
+@399
+Let us hold, with our own hands, a funeral more magnificent than any before.
+@400
+And show plainly that it is you who will rule the realm.
+@401
+My lord, the preparations for our late lord's funeral are complete.
+@402
+Good. Then we go to Kyōto.
+@403
+My lord, relations between Lord Nobutaka and Lord Nobukatsu seem to be going well.
+@404
+So it seems\nNo! It is all a pretence\nI cannot tell
+@405
+So it seems. I hope it goes on well like this...
+@406
+My lord, Lord Oda Nobukatsu has been killed!
+@407
+What?! Who killed him?
+@408
+Lord Oda Nobutaka.
+@409
+What... We were only just saying that relations were good...
+@410
+No! Those two feign friendship, but in truth each is watching for the other's weak point.
+@411
+To move so soon... Nobutaka, you were hasty...
+@412
+I cannot tell... What are those two plotting...
+@413
+Why such a thing... I never thought Nobutaka so rash...
+@414
+My lord, this is serious. As it stands, Katsuie, who backed Lord Nobutaka, will gain momentum.
+@415
+Let us attack Nobutaka and sap the spirit of the Shibata forces.
+@416
+Yes, we cannot leave it as it is.
+@417
+My lord, only you or Shibata Katsuie can now take the realm.
+@418
+Do you intend to go on with the alliance with the Shibata clan?
+@419
+No, I will defeat Katsuie\nContinue the alliance
+@420
+Good, now is the time to defeat Katsuie! Kanbee, we break the alliance with the Shibata clan!
+@421
+Spoken like my lord! Let us defeat Shibata Katsuie and take the realm!
+@422
+It is too early to fight Katsuie. We should continue the alliance.
+@423
+But at this rate Lord Shibata will take the realm...
+@424
+My lord! Terrible news!
+@425
+What is it, {a6d0001}?!
+@426
+Shibata Katsuie has broken the alliance with the Hashiba clan!
+@427
+Is that true?! So Katsuie has finally made his move!
+@428
+My lord, we cannot let Lord Shibata take the realm.
+@429
+Right! I shall defeat Katsuie! It is I who will carry out Lord Nobunaga's will!
+@430
+Oh, Lord {a6d0000}!
+@431
+Lord Toshiie! It has been a long time!
+@432
+Truly, a long time! Wahahaha...
+@433
+Ha ha ha... Lord Toshiie! Since we are reunited, let us warm our old friendship with sake.
+@434
+Yes, let us, let us.
+@435
+Sooner or later I will have to fight Lord Shibata.
+@436
+Lord Toshiie serves under him; we may cross blades on the battlefield...
+@437
+What, you worry over so trivial a thing! Wahaha...
+@438
+What is so funny?\nTrivial, you say!\nLord Toshiie, I...
+@439
+Lord Toshiie, what is so funny? I am in earnest distress here!
+@440
+What, trivial, you say!
+@441
+Lord Toshiie, I...
+@442
+The one thing I do not want is to kill Lord Toshiie with my own hands.
+@443
+If you make peace with Lord Katsuie, you will be spared that painful thought.
+@444
+I beg you, {a6d0000}! Make peace with Lord Katsuie! If this peace is not made, I came prepared to cut my belly!
+@445
+...Understood. If Lord Toshiie says so much, I cannot refuse. I leave the matter of peace to you.
+@446
+So you agree. Then I need not cut my belly. Hideyoshi, tonight we drink till dawn!
+@447
+Of course! Let us drink our fill! Here, a cup, down in one go...
+@448
+Oh, thank you.
+@449
+Well, you have taken good care of me. I look forward to meeting again.
+@450
+I shall be at Fuchū Castle. Drop in if you are ever nearby.
+@451
+Lord Toshiie, take care on the road.
+@452
+Yes. Farewell.
+@453
+My lord, a letter has come from Lord Shibata Katsutoyo.
+@454
+Let us hear it. Read it out.
+@455
+Yes, let me give you the gist...
+@456
+"The people of {e730057} are deeply loyal to Lord {a730000}, and however hard I try, I cannot win their trust..."
+@457
+Hm, Lord Katsutoyo seems troubled.{w} Let us talk to the people. Yoshitsugu, go to {e730057} and persuade them.
+@458
+Yes, understood.
+@459
+My lord, I have persuaded the people of {e730057}. Lord Shibata Katsutoyo was most grateful.
+@460
+And there is something I overheard...
+@462
+Inside the castle at {e730057} I heard a rumour that relations between Lord Katsutoyo and Lord Shibata Katsuie are not good.
+@463
+Lord Katsuie sets aside his adopted son Lord Katsutoyo and treats Lord Sakuma Morimasa as though he were his heir.
+@464
+That is why Lord Katsutoyo must harbour distrust toward Lord Katsuie.
+@465
+My lord, now is the chance to win over Lord Katsutoyo. Please assign this task to me.
+@466
+Yes, try it. Spend as much money as you need. Use any means.
+@468
+My lord, we have won over Lord Shibata Katsutoyo.
+@469
+Lord Katsutoyo will sever the tie of father and son with Lord Shibata Katsuie and swear loyalty to you.
+@470
+Good. Well done.
+@471
+My lord, Shibata Katsuie seems to be on the move.
+@472
+The battlefield will probably be Shizugatake. Give the order to march at once!
+@473
+Yes, have them prepare at once. As soon as they are ready, we march!
+@474
+Toshiie! Is Lord Toshiie here? Is no one here?
+@475
+What?! I wondered at the noise, and it is Hideyoshi!
+@476
+Walking alone into an enemy castle... How bold.
+@477
+Surely you do not think Lord Toshiie would kill me, his close friend?
+@478
+Who knows. If I killed you now, my rise would be assured.
+@478.1
+More than that, I might even take the realm.
+@479
+Lord Toshiie, why not be a little more honest?
+@480
+O-Omatsu! What, I am not being contrary!
+@481
+But you are being contrary, are you not? When in truth you are worried sick about Lord {a730000}...
+@482
+Am I wrong?
+@483
+Ugh, nngh...
+@484
+Listen: you will help Lord {a730000} and make the Maeda clan prosper. Is that clear?
+@485
+Y-yes!
+@486
+A very good answer. Then Lord Hashiba, I leave him in your care.
+@487
+Of course. That is exactly what I had hoped for.
+@488
+\_\_\_\_- Fuchū Castle: Lord's Room -
+@489
+So he has finally moved. Losing {e730057} has woken the bear of Hokuriku from its hibernation.

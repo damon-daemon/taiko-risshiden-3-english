@@ -1,0 +1,210 @@
+@0
+Lord {a660000}, the council will begin soon. Be sure to come to the castle within 5 days.
+@1
+Lord {a660000}, the council is in 30 days.
+@2
+Lord {a660000}, the council is in 15 days.
+@3
+Lord {a660000}, the council is in 5 days.
+@4
+Lord {a660000}, you have missed the council. Please return to the castle at once.
+@5
+Lord {a660000}, your mission is due in 30 days.
+@6
+Lord {a660000}, your mission is due in 15 days.
+@7
+Lord {a660000}, your mission is due in 5 days.
+@8
+Lord {a660000}, your mission's deadline has passed. Please return and report at once.
+@9
+Lord {a660000}, {p00}'s forces are closing in on our {p01}.
+@10
+Phew... I don't feel well at all.
+@11
+{a660000} has fallen ill. Abilities are reduced.
+@12
+Lord {a660000}, Lord {p00} of our clan has passed away.
+@13
+Lord {a660000}, {p01} of the {p00} clan seems to have died.
+@14
+Lord {a660000}, it seems {p00} has inherited the headship.
+@16
+Lord {a660000}, the {p00} clan has been destroyed.
+@17
+Lord {a660000}, Lord {p00} of our clan has come of age.
+@18
+Lord {a660000}, I hear {p01} of the {p00} clan has come of age.
+@19
+What is this...?{w}{w} Why has everything gone dark?
+@20
+My lord...{w}{w} I have come to fetch you...
+@21
+W-what? Why are you here, {a6d003b}? You are dead!
+@22
+Come now... Hurry, this way...
+@23
+No, I still have things to do... Could you wait a little longer?
+@24
+Everyone is waiting for you... Come now...
+@26
+Thus ended the turbulent life of {a6d0000}, at the age of 62...
+@27
+Lord {a660000}, Imai Sōkyū sends 30 kan in thanks for the rice market information.
+@28
+Lord {a660000}, Shimai Sōshitsu sends 30 kan in thanks for the horse market information.
+@30
+Lord {a660000}! This is grave news!
+@31
+Our {p00} is besieged by {p01}'s forces! Please take command of the battle!
+@32
+Very well. Tell the ashigaru to prepare for battle!
+@33
+Yes, at once!
+@36
+Stop learning?
+@37
+Stop the lessons?
+@38
+Stop your stay?
+@39
+Stop resting?
+@40
+Lord {a660000}, it seems {p00} has been granted the court rank of {p01}{p02}.
+@41
+Lord {a660000}, someone seems to be spreading strange rumours in the castle town of {p00}.
+@42
+Lord {a660000}, someone seems to have set fire to {p00}.
+@43
+Choose a new castle to live in.
+@44
+Alas, what a disaster! I have lost the castle I relied on. Is this the end of my dream...?
+@45
+It is said that {a660000} later died at the hands of straggler hunters, aged {b00}.
+@46
+Alas, what a disaster! How can I face Lord {p00} now?
+@47
+Even if I faced him, I could not escape seppuku... Nothing for it. I had better flee somewhere...
+@48
+After that, the name of {a660000} never appeared in history.
+@49
+Lord {a660000}, our {p01} has fallen to an attack by the {p02} clan.
+@50
+Lord {a660000}, the {p00} clan's {p01} has fallen and passed to the {p02} clan.
+@51
+The {p00} clan has been destroyed.
+@52
+The {p00} clan was destroyed.
+@53
+Well done, everyone. Return to the castle town and rest. Dismissed!
+@54
+Lord {a660000}, the council is in session, but you are ordered to skip it and put your mission first.
+@55
+Lord {a660000}, the {p00} clan's {p01} has fallen and is now ours.
+@56
+Lord {a660000}, I have a message from Lord {p00}.
+@57
+His Lordship says: "Well done taking {p01}. Develop your lands until further orders."
+@59
+His Lordship says: "You need no longer take {p01}."
+@60
+His Lordship says: "Take {p01}."
+@61
+Lord {a660000}, thanks to Lord {p03}'s efforts, you have been granted the court rank of {p01}{p02}.
+@62
+Lord {a660000}, Lord {p00} has been granted the court rank of {p01}{p02}.
+@63
+Select your story. The left one is {c02}Hideyoshi's Tale{c09}, the right one is {c02}the Special Tale{c09}.
+@64
+The hero of the Special Tale can be renamed. Change the name?
+@65
+The hero's name is {a660000}. Is that all right?
+@66
+Now to decide your natural abilities. Select the hero's type.
+@67
+This type excels in Domestic and Diplomacy. Choose this type?
+@68
+This type excels in Military and Charm. Choose this type?
+@69
+Set the abilities yourself?
+@70
+Cough, cough... I have felt so sluggish lately. Is it a sign of old age...?
+@71
+What?! Is that true?!
+@72
+Lord Asano, who looked after me so well, is gone...{w}{w} Nene must be heartbroken.
+@73
+I see... We have lost a fine man.
+@74
+The rise of Toyotomi Hideyoshi, the future Taikō, from humble beginnings. Play this story?
+@75
+A short fictional story in which you serve Shibata Katsuie, Hideyoshi's great rival, as his retainer. Play this story?
+@76
+What is this strange feeling...? It feels as if I am floating in the air...
+@77
+Hm? Who is lying down there...?{w}{w} I-{w}it's me!
+@78
+Could it be... that I have died?
+@79
+Looking back, I wasted my life. Had I used my time better, it might have been a fruitful one...
+@80
+I die and leave Nene behind...{w}{w} Forgive me, Nene.
+@81
+Thus ended the turbulent life of {a6d0000}, at the age of 37.
+@82
+{p03}'s merit rose by {b00}.
+@83
+Lord {a660000}, Lord {p03} has taken the {p00} clan's {p01}.
+@84
+Lord {p03} has subdued {p00} and completed the mission.
+@85
+{p00} has been subdued, so Lord {p03}'s mission is cancelled.
+@86
+Lord {p03} has completed his mission to defeat a daimyō.
+@87
+The target castle has fallen, so Lord {p03}'s mission is cancelled.
+@88
+The target daimyō clan has been destroyed, so Lord {p03}'s mission is cancelled.
+@89
+Lord {a660000}, Lord {p00} has successfully won over Lord {p02}, castle lord of {p01}.
+@93
+Distribute the remaining ability points.
+@94
+You lack the points, so this cannot be changed.
+@95
+Set the value of {p00}.
+@96
+Some points are still left to distribute. Is this all right?
+@97
+Is this all right?
+@98
+How could this be...? What were we fighting for...?
+@99
+{p00}'s army is about {b00} strong. Troops left at {p01}: {b01}. What shall we do?
+@100
+Hmm... Should we sally out?
+@101
+Right, we sally out! Tell the troops to prepare for battle!!
+@102
+We will hold the castle and meet them there! Tell the troops to prepare for battle!!
+@103
+The enemy will be here soon. Hurry and prepare for the siege!!
+@104
+The enemy has sallied out. Prepare for a field battle.
+@105
+The enemy seems to be holding the castle. Prepare to storm it.
+@106
+They have fled into the castle. Shall we press on and attack it?
+@107
+We will take the castle in one stroke!
+@108
+We withdraw for now.
+@109
+A draw, then. Let us withdraw for now.
+@110
+So {p00} has come out in person! A moth to the flame! We will crush him!
+@111
+{p00}, the castle lord himself, has taken the field. Stay alert.
+@112
+We cannot sally out with our present strength. We will hold the castle and meet them!
+@115
+Lord {p00} seemed pleased.

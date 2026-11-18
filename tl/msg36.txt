@@ -1,0 +1,366 @@
+@300
+My lord, a word, if I may.
+@301
+If you are to take the lead in the Oda clan from here on, I suggest summoning the other retainers and holding a conference.
+@302
+Quite. It would be bad to let Katsuie seize the initiative.
+@303
+Kanetsugu, if we hold a conference, where would be best?
+@304
+At {e73005a} or {e73005f}, we risk stirring up resentment.
+@305
+With our late lord gone, how about Kiyosu, to signify a return to our roots?
+@306
+I see. Hanbee thinks of everything.
+@307
+Then I shall write the letters at once. Let us set the date for about 20 days from now.
+@308
+Good. Is anyone there?
+@309
+Yes, my lord, what do you require?
+@310
+I want you to deliver this letter. It is an important one, so handle it with care.
+@315
+My lord, what are you doing? Is there not a conference at Kiyosu?
+@316
+So there is! I will go at once. Make ready.
+@320
+Welcome home, dear.
+@322
+By the way, dear, it is about Lady Oichi...
+@323
+What of Lady Oichi?
+@324
+She seems about to leave here...
+@325
+What?!
+@326
+I think it would be best for Lady Oichi to stay on at {e73005a}.
+@327
+Hmm... I think so too, but this is for Lady Oichi to decide. If she says no, that is that.
+@328
+Well, I will try to persuade her.
+@329
+Lord {a730000}, what did you wish to speak of?
+@330
+If it suits you, Lady Oichi, I would like you to stay on here at {e73005a}...
+@331
+I see... Very well.
+@332
+Then you will remain at {e73005a}?
+@333
+I have nowhere else to go...
+@334
+If you want for anything, tell me. I, {a6d0000}, will do all I can.
+@335
+Thank you.
+@336
+...Well, if you will excuse me.
+@337
+Ah, yes, of course.
+@338
+Nene, did you hear? Lady Oichi said "thank you" to me!
+@339
+Dear, what are you so excited about?! Lady Oichi will now be in the care of you, her brother's retainer.
+@340
+And you are the very man who drove her husband, Lord Azai Nagamasa, to his death. Show more understanding of Lady Oichi's heart.
+@341
+Yes, of course. You are right.
+@345
+My lord, I have something to tell you.
+@346
+Oh, Hanbee. What is it? Let me hear it.
+@347
+My lord, has our late lord's funeral not yet been held?
+@348
+Ah! So it has not. I forgot a grave matter.
+@349
+Someone, call Hidenaga.
+@350
+Did you want me, my lord?
+@351
+Yes. I mean to hold Lord Nobunaga's funeral, and I want to leave the preparations to you.
+@352
+I see.{w} And what exactly should I do?
+@353
+It is Lord Nobunaga's funeral. It will be grander and more lavish than any before.
+@354
+The place should befit him: Kyōto, the centre of the realm. We will show the whole land the might of the Oda.
+@355
+Hidenaga, will you do it?
+@356
+It sounds interesting. I will give it a try.
+@357
+By the way, when is the funeral to be held?
+@358
+Let me see... In 30 days.
+@359
+Understood, in 30 days. I will prepare at once and set out for Kyōto.
+@360
+If we leave it to Lord Hidenaga, there is nothing to worry about.
+@361
+True. I look forward to it a month from now. Don't start without me!
+@365
+My lord, Lord Nobunaga's funeral is about to begin. We must hurry to Kyōto.
+@366
+Right. Let us hurry.
+@369
+Oda Nobunaga's funeral was the grandest in history, and it impressed upon the whole realm that {a6d0000} was Nobunaga's successor.
+@370
+My lord, Lord Shibata did not appear.
+@371
+Indeed. I suppose he disliked my running the affair.
+@372
+Even so, Lord Hidenaga did well to prepare so magnificent a funeral.
+@373
+Indeed, he is my brother, after all. Ha ha ha.
+@375
+My lord, someone seems to be spreading rumours in the castle town, and unrest has spread among the people.
+@376
+Fortunately we noticed early, so it did not become very serious.
+@377
+What? Who on earth...? I have no idea.
+@378
+It is hard to imagine Katsuie using such a method.
+@379
+I have already had my men look into it, but...
+@380
+What is it? You seem reluctant to say.
+@381
+...There is a report that ninja who once served the Oda have infiltrated.
+@382
+...So you mean there may be a viper in our own bosom.
+@383
+I see. I will bear it in mind.
+@385
+My lord, word has come of unrest among the Shimazu.
+@386
+They are thought to be about to invade Chūgoku at last.
+@387
+I see. Then we must be ready to send out troops at any time.
+@388
+Understood.
+@389
+My lord, word has come that the Shimazu have their eyes on Chūgoku.
+@391
+Indeed. So we shall.
+@395
+My lord, our great enterprise has come a long way.
+@397
+Let us hold a grand banquet and share this joy with everyone.
+@398
+A fine idea. Hidenaga, make ready.
+@399
+Yes, my lord. I will prepare at once.
+@402
+My lord, everyone has gathered.
+@403
+I see. Then let us go.
+@405
+I wondered how it would turn out, but the banquet has ended without trouble.
+@406
+Yes, I wondered that myself.
+@407
+My lord, thinking of the future, it is dangerous to leave the Tokugawa unchecked.
+@408
+Unless we ready our forces and bring them down swiftly, they will only grow stronger.
+@409
+True. You are right, Hanbee. Let us act at once.
+@410
+Thank you for hearing me. Then, by your leave.
+@451
+Dear, Lord Hidenaga, Lord Takenaka and Lord Hachisuka have come.
+@453
+Lord Shibata has set up Lord Oda Nobutaka as head of the Oda clan, but all agree that the realm no longer belongs to the Oda.
+@454
+If we sit on our hands, we shall have acknowledged Lord Shibata's rule of the realm.
+@456
+I will not share the realm with Katsuie! Now is the time to rise!
+@458
+Brother, well said!
+@460
+Brother, what are you saying?
+@462
+If Lord Shibata takes the realm, it means our decline!
+@465
+We must strike Katsuie down before he strikes us!
+@470
+Right! Forge a false will of Lord Nobunaga! In it, name Lord Nobukatsu heir to the Oda!
+@472
+Understood. Leave it to me.
+@473
+My lord, I have an idea.
+@475
+Brute force is not the only way to wage war. Better to break up the Shibata forces by winning men over, and then give battle.
+@477
+As the saying goes, "To shoot the general, first shoot his horse." It would be wise to win over those around him.
+@485
+My lord, we have a problem.
+@486
+It is rare for you to be troubled. Hanbee, what is it?
+@487
+Katsuie has allied with the Mōri!
+@488
+What?! Is it true?! Hmph, Katsuie! He is shrewder than I took him for.
+@489
+At this rate we may be caught in a pincer attack...
+@490
+Truly it is a tiger at the front gate and a wolf at the back.
+@491
+We should strike one of them rather than face both at once.
+@492
+But while we strike one, we must leave troops behind so the other cannot attack us.
+@496
+Urgh... Is this the end?
+@510
+They say they will see out their duty at your side, my lord, to the very last...
+@511
+I see... Like their master, they are all fools, it seems!
+@513
+Oh, Oichi. You too should flee quickly.
+@515
+I have made my daughters ready to flee.
+@516
+Oichi...
+@517
+...Please take Oichi with you.
+@518
+...Very well. I will say no more.
+@519
+Gloom does not suit me. Gather everyone and hold a drinking party. Make it as splendid as you can!
+@525
+Brother.
+@526
+Oh, Hidenaga. What is it?
+@527
+The Tokugawa's recent movements trouble me. Why not try probing them?
+@529
+Since Lord Nobunaga died, that man has not even come to pay his respects, but has busied himself building up his strength.
+@532
+Good. Then, Hanbee, I leave it to you.
+@544
+Lord {a730000}, you are mistaken.
+@545
+The very reason I have acted as I have is to carry on Lord Nobunaga's will to unify the realm.
+@546
+I, Ieyasu, am working body and soul to fulfil the dream Lord Nobunaga pursued...
+@548
+You, Lord Hashiba, who have likewise taken up Lord Nobunaga's will, will surely understand how I feel.
+@549
+I beg you to trust your humble Ieyasu.
+@551
+Then we cannot condemn what Ieyasu has done. We underestimate him at our peril, more than ever.
+@552
+Just so.
+@558
+Good. I leave it to you, Hanbee.
+@561
+I will not join hands with the Tokugawa. Thinking of the future, we must bring them down now.
+@563
+My lord, an envoy has come from the Tokugawa. He says they will accept a meeting.
+@566
+What is it, Hidenaga?
+@567
+The envoy we sent to the Tokugawa... it seems he was cut down.
+@568
+How will you deal with the Tokugawa? Is it not time to decide?
+@576
+Yes, I remember it well. At Kanagasaki the Azai betrayed us, and you, Lord {a730000}, served as the rear guard.
+@579
+No, I merely helped a little. It was entirely your skill, Lord {a730000}, that brought us out safely.
+@586
+No, no. By the way...
+@589
+Let us go on carrying out Lord Nobunaga's will and serve the realm.
+@597
+"You greedy brat!" he shouted at me.
+@598
+But when I answered, "I have two companions," Lord Nobunaga laughed and gave me two more.
+@599
+To me, living lonely as a hostage, the taste of that melon was special. I cannot forget it even now.
+@601
+Otherwise, how could I, {a6d0000}, be here now...? Ugh... Lord Nobunaga...
+@603
+Forgive me... I was overcome and made an unseemly show of myself.
+@607
+Ha ha ha! Forgive me. Hidenaga, pour Lord Tokugawa some sake!
+@608
+Yes, Brother.
+@609
+Heavens, no! To have Lord Hidenaga pour for me is too great an honour...
+@617
+No, no... Your retainers are famous generals all, Lord {a6d0000}. I would be of no use to you.
+@626
+But you looked to be in some danger then, Lord {a730000}.
+@627
+So you noticed? Ha ha...
+@641
+Tokugawa Ieyasu... There is nothing for it but to destroy him...
+@646
+Oh, it is the usual kunoichi. What business have you?
+@647
+An order from His Lordship. You are to unify Shikoku.
+@648
+Understood.
+@650
+Pardon me, Lord {a730000}.
+@651
+A new order from Lord Nobunaga?
+@652
+Ah, yes. You are to unify Chūgoku.
+@653
+Chūgoku... Understood.
+@657
+His Lordship summons you. Please come to {e66005a} at once.
+@661
+My power has grown until it may be said I have no rival in the realm.
+@662
+Indeed, my lord.
+@663
+Yet there are still those who will not follow me, Nobunaga.
+@664
+In the east, the one that catches my eye is...{w} the Hōjō!
+@665
+So, I order you to subdue the Hōjō!
+@666
+I leave the details to you. But I will not tolerate failure.
+@670
+Lord {a730000}, an order from Lord Nobunaga: come and report on the subjugation of the Hōjō.
+@677
+That was settled quite easily. The Hōjō must have been weak.
+@679
+Ha ha ha, you seem to have grown skilled at flattery while in the Kantō.
+@682
+T-the Tokugawa... Tokugawa Ieyasu has betrayed us!
+@684
+Just now... Lord Takigawa...
+@685
+M-my lord... I went to the Tokugawa as envoy, and was attacked without warning...
+@686
+I barely made it back alive...
+@687
+That man... has he been putting on an act all this time?!
+@690
+Enough, I know! Don't you presume to lecture me, Monkey!
+@691
+I, Nobunaga, cannot go out myself now.
+@693
+Damn Ieyasu... he chose his moment of betrayal well! He must have been watching for his chance all along!
+@697
+Hmm... It cannot be helped! I leave it all to you. Make a clean end of Ieyasu.
+@706
+Hidenaga? What is it?
+@711
+My lord, I have subdued Lord Tokugawa Ieyasu.
+@712
+Lord Ieyasu set fire to his castle and took his own life. For that reason I could not take his head.
+@714
+The ambition of a man who lived in the Sengoku age... that is what ruled Lord Tokugawa.
+@715
+I see... He too was a man of rare talent as a general. Well done.
+@716
+And another thing... Just now, the Shimazu have surrendered.
+@719
+Ha ha ha, {a6d0000}! You have taken to transparent flattery. Flattery will get you nothing!
+@729
+I was told nothing of it...

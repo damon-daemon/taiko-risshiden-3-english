@@ -1,0 +1,274 @@
+@302
+My lord! This is no time to be lost in thought!
+@304
+Let us run wild to our hearts' content, afraid of no one!
+@305
+Just so! From now on you can command as you please, my lord!
+@306
+You are right. But Nobunaga will not let this pass.
+@312
+But we must not lose heart! Everyone! Lend this {a6d0000} your strength a while longer!
+@320
+So you have become a daimyō at last, my lord.
+@321
+Yes, and from now on you will have to be steadier than ever.
+@322
+What? I am always steady.
+@323
+Ha ha ha... All we have to do is follow our ever-steady lord, eh?
+@324
+My lord, I look forward to serving you from here on.
+@325
+Thank you, all of you.
+@326
+Brother, why are you crying?
+@327
+I am not crying. It is snot, snot!
+@328
+Huh. Funny sort of snot, that.
+@335
+\_\_\_\_\_- Kiyosu Castle: Council Hall -
+@337
+I have asked you here today to consult you all on the future of the Oda clan.
+@338
+I intend to carry on Lord Nobunaga's wishes and strive to see Tenka Fubu achieved.
+@339
+What say you, gentlemen?
+@340
+Of course! There is no need to ask such a thing at all.
+@341
+Lord Shibata, forgive me.
+@342
+Then here is what I would put to you all: that you, Lord Shibata, you, Lord Niwa, and I each stand on our own and support the Oda clan together.
+@343
+And let Lord Nobutaka succeed to the Oda clan.
+@344
+Hm, if those three support it, it is secure. I have no objection. After all, it was Lord {a6d0000} who struck down Mitsuhide.
+@345
+Monkey, do not presume to run this meeting with that smug look!
+@346
+Let me have my say too. On the division of domains, I shall take Mitsuhide's domain!
+@347
+Lord Niwa, you shall govern Shikoku. And you, {a6d0000}, can take Hokuriku.
+@348
+There, it is settled. This meeting is over.
+@349
+That Katsuie... he says his piece and walks out.
+@351
+Now, Lord Sakuma, Lord Hayashi: I would ask you to watch over Lord Nobutaka and Lord Nobukatsu respectively. What say you?
+@352
+Hm, no objection.
+@353
+That suits me.
+@354
+Then, as for which lands Lord Nobutaka and Lord Nobukatsu should govern...
+@355
+I suggest one each of Owari and {e73005f}, the lands where the Oda clan rose.
+@356
+I see. Then Lord Nobutaka shall govern {e73005f} and Lord Nobukatsu Owari.
+@357
+{a6d0000}, you shall enter {e73005a} and take command.
+@358
+We have word from Lord Tokugawa that he will continue his alliance with us even after Lord Nobunaga's passing!
+@359
+Any questions?
+@361
+It seems there are no objections. Then we shall close.
+@362
+Lord Niwa, thank you.
+@363
+Hm. {w}Do not misunderstand. I merely took the best course for myself. I did not do it for you.
+@364
+I shall take my leave as well.
+@365
+You have certainly come up in the world. As for me, it seems I am to serve under Lord Nobukatsu.
+@366
+More to the point, I heard a rumour that Lord Katsuie has been sending letters to Lady Oichi. Do you know anything about it?
+@367
+No, this is the first I have heard of it. Is Lord Shibata the sort to do such a thing?
+@368
+True. One cannot imagine Lord Katsuie penning love letters.
+@369
+Ha ha ha... Quite so, quite so.
+@375
+Thanks to our joint efforts, unifying the realm now truly looks within reach.
+@376
+I believe it is because your shared resolve to carry on Lord Nobunaga's wishes and fulfil them has borne fruit.
+@377
+Ahem! Well, enough of stiff greetings. Let us drink and make merry to our hearts' content!
+@378
+{a6d0000}, you are quite something. From a mere ashigaru to a daimyō now.
+@379
+No, no. All this is thanks to Lord Nobunaga. That is why I want to fulfil his dream.
+@380
+Our late lord must be rejoicing too, I am sure. Ha ha ha.
+@381
+Toshiie, forgive me. I need a word with {a6d0000}.
+@382
+Ah, yes. Excuse me.
+@383
+Monkey... no, {a660000}. There is something I must speak to you about.
+@384
+What is it?
+@385
+You are a fellow I cannot stand, but you are quite something. The rest I leave to you: do as you see fit.
+@386
+Is... is that truly so?
+@387
+A samurai does not go back on his word. But I would ask something in return...
+@388
+Will you give Lady Oichi to me?
+@389
+What, Lady Oichi?!
+@390
+Yes, Lady Oichi. If I have Lady Oichi, I want no more land than I hold now.
+@391
+But that is not for me to decide. It is for Lady Oichi to decide. Please ask her.
+@393
+Lady Oichi, will you not come and live with me?
+@394
+Oh...
+@395
+I beg you, I beg you to grant this Katsuie's wish.
+@396
+Lord Katsuie...
+@397
+{a6d0000}, die!
+@398
+My lord, look out! {w}Guh!
+@399
+Koroku!
+@400
+Bah, a wound like this is nothing! I, Hachisuka Koroku, won't so much as flinch!
+@401
+Tch! I missed!
+@402
+Lord Nobukatsu has gone mad! Everyone, seize him!
+@403
+My lord! Please step back!
+@404
+Lord Nobukatsu, be sensible, drop your sword and surrender.
+@405
+Ha ha ha... Me, at a disadvantage?
+@406
+Fool, it is you who are at a disadvantage. Look outside.
+@407
+Brother... this castle is surrounded...
+@408
+Whose army is it?!
+@409
+The... {w}The Tokugawa?!
+@410
+After Father died, I stirred him up. "No one but you can take the realm next," I told him.
+@411
+Ha ha ha ha, how delightful! Even Shibata Katsuie, the famed fierce general, cuts a sorry figure like this!
+@412
+{a6d0000}, you at least I will finish off with my own hands!
+@413
+Lord Nobukatsu, why would you do this?!
+@414
+Hmph. I want the realm!
+@415
+I went to the trouble of inciting Akechi to kill Father, and then you came and got in the way...
+@416
+Still, it spared me the trouble of unifying the realm myself, so I shall call it even.
+@417
+Wh-what did you say?!
+@418
+Our late lord's son or not, to do such a thing... I, Katsuie, will not forgive it... I will never forgive it!
+@419
+I do not need your forgiveness. You are all about to die anyway. Ha ha ha.
+@420
+Ngh...
+@421
+Ha ha ha ha ha! It has begun, it has begun!
+@422
+All of you will die! All of you will die!
+@423
+Hm... It has gone quiet.
+@424
+Lord Tokugawa! Why have you stopped the attack?
+@425
+There is no sign of the Tokugawa army... {w}Ah!
+@426
+What is it, Hidenaga?
+@427
+Another army is coming... {w}No, that is the Date army.
+@428
+Damn you! To think you killed our late lord... I will not forgive it!!
+@429
+Slash!
+@430
+Ngh... If only the Date... had not come... So...{w} this...{w} is...{w} the end...{w} then...
+@431
+Monkey. As you see, I have cut down Lord Nobukatsu.
+@432
+However guilty Lord Nobukatsu was... it does not change the fact that I cut down Lord Nobunaga's child.
+@433
+I must cut my belly...
+@434
+Lord Shibata!!
+@435
+Lord Katsuie, wait!
+@436
+Do you mean to leave me behind? I will not allow a samurai to go back on a word once spoken!
+@437
+Lady Oichi...
+@438
+Oichi does not wish to be left behind again. You understand, Katsuie...
+@439
+{a6d0000}, thank you for all you have done. Now, Lord Katsuie, let us go.
+@440
+Farewell.
+@441
+So this is the end... So be it.
+@443
+He cut his own belly...
+@444
+I shall go and apologise to Father in the next world. Fare... well.
+@445
+Lord {a730000}, are you unharmed?
+@446
+Ah, that was a close call. Had you not come, Lord Date, everyone here would have been cut down.
+@447
+By the way, Lord Date, how did you know we were being targeted?
+@448
+After Lord Nobunaga's death, there was a change in the Tokugawa's movements.
+@449
+I thought it only a matter of time before his hand reached Tōhoku, and was probing him when...
+@450
+I see. And so you learned of today's events.
+@451
+Just so.
+@452
+Well then, now that Lord Date has joined us, let us start drinking afresh!
+@453
+Hurrah!
+@473
+The other day, Lord Nobunaga was struck down by Akechi Mitsuhide and passed away... A most regrettable thing...
+@478
+As it stands, Lord Shibata, you seem not to be uniting the Oda clan but throwing it into disorder.
+@483
+So, make one the heir and set the other beside him as guardian.
+@484
+If the two of them run the Oda clan together, it will be secure.
+@487
+There is no need to bother with such a thing! Lord Nobutaka is young but wise, truly fit to head the clan.
+@488
+Lord Nobukatsu, on the other hand, is poor in letters and arms next to Lord Nobutaka, and has little standing. He lacks the talent to head the clan!
+@495
+Gentlemen, if you think I am wrong, step forward.
+@498
+There! Now you understand! A mere Monkey putting himself forward! Ga ha ha ha...
+@503
+For that reason I have shared out the domains in small portions among as many commanders as possible, so that none may threaten the realm.
+@504
+Lord Nobutaka will move from {e73005a} to {e73005f}.
+@506
+As for Ōmi, Ise, Tanba, Tango, Settsu, Yamashiro, Izumi, Yamato, Kii, Kawachi and the rest, I shall take them over myself.
+@507
+For Akechi's remnants may still be lurking there!
+@518
+I can put it to everyone once more, if you like. Though I think it would be a waste of time.
+@530
+Each of you, flee the castle and live. Then the day will come when you bloom. This is my last order to you.

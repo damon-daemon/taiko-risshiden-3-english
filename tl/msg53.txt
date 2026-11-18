@@ -1,0 +1,454 @@
+@93
+{c01}If you know where you are going, select the place directly and you will head there.
+@97
+{c01}While you hold a mission, "Mission" is handy: it lists only the castles the mission involves.
+@1000
+\_\_\_\_\_\_\_- Echizen: The Border -
+@1001
+Phew... we have finally made it this far. Ow, ow...
+@1002
+Are you all right, Lord Morinao? Setting off for Echizen so suddenly... What on earth is going on?
+@1003
+... Yes, I suppose I must tell you the whole story now...
+@1004
+Let us take lodgings in the town below and wash off the dust of the road. Then we can talk at leisure.
+@1005
+...Very well. Here, I will carry your bags. Go down this slope and we are in the castle town of Kitanoshō.
+@1009
+{a6d0000}! How does it feel, on the eve of your first battle?
+@1010
+I am nervous\nNot at all
+@1011
+Ah... W-well, yes. I am nervous.
+@1012
+Ha ha ha! Everyone stiffens up the first time.
+@1013
+But this is a battlefield. Stake your life every moment and fight with all you have, or it is your own head that will fly.
+@1014
+Whether you live or die depends on your own mettle and resolve. Fight as if your life were forfeit, and grow strong.
+@1016
+No, it is nothing. I am quite all right!
+@1017
+Ha ha ha! Putting on a brave face! Everyone is nervous the first time.
+@1018
+Listen well. Once on the battlefield, fight like a man possessed. Cast off pity and doubt.
+@1019
+Harbour such feelings, and they will cost you your life.
+@1020
+Listen, do not die.
+@1021
+Good, let us go. Sortie!
+@1025
+Phew... I barely escaped...
+@1026
+Hmph, so you saved your skin. A lucky fellow.
+@1030
+Not bad for a first battle. Now the others will acknowledge you.
+@1031
+Do not grow arrogant, though. Understood?!
+@1032
+Yes, I understand.
+@1033
+Good! All troops, back to the castle! We feast the moment we return!
+@1034
+Thus Katsuie's army returned to Kitanoshō in triumph. {a6d0000} was praised for his deeds in this first battle and promoted to Ashigaru General.
+@1036
+Father, are you all right? You must not push yourself too hard.
+@1037
+Here, I will carry your bags. Once we are down this slope, we are in Echizen. Let us find an inn and rest for today.
+@1038
+Sorry to trouble you... Ow, ow...
+@1040
+{a6d0000}! Are you ready? We attack Itami Castle.
+@1042
+Lord Katsuie told us to be back in Echizen ninety days after setting out. Then let us finish this with a short campaign!
+@1044
+Well done, {a6d0000}.
+@1046
+Now even Lord Sassa cannot complain.
+@1047
+Then let us return to Echizen.
+@1048
+Lord {a730000}! There is a man in the castle dungeon!
+@1049
+What?!
+@1050
+Ah... {w}Ugh...
+@1051
+This is... What in the world...
+@1052
+Hm, is this not Lord Kuroda Kanbee? Hey! Tend to him quickly!
+@1053
+Lord Kuroda Kanbee?
+@1054
+Yes, one of Hideyoshi's men. They said he had gone over to Araki Murashige...
+@1055
+To stay loyal until he is reduced to this... Hideyoshi is a fortunate man indeed.
+@1056
+Come, leave the rest to others and let us return to Echizen.
+@1057
+Yes, let us.
+@1062
+Right! Then let us hurry back to Kitanoshō!
+@1063
+What is it?!
+@1064
+My lord, it seems the people of our domain are attacking us.
+@1065
+Damn, at such a critical time...!
+@1066
+Lord Katsuie, leave this to me. Whether we persuade them or attack, my unit alone is enough for this.
+@1067
+Hm... Very well. I leave it to you.
+@1068
+"I want to deal with the uprising" indeed. A mere excuse to run from the mighty Uesugi, surely.
+@1069
+All mouth, but a coward at heart.
+@1070
+But that only gives you more chances to win glory, does it not? Ha ha ha!
+@1071
+Then, everyone, let us move out!
+@1076
+My lord, it seems the farmers of our domain are attacking us.
+@1077
+Damn, at such a critical time...! Did the Uesugi and the Hongan-ji put them up to this?!
+@1078
+No help for it. We settle this quickly!
+@1079
+We will not be held up in a place like this. Advance!
+@1080
+We took a beating, but... there is no time to turn back. To the battlefield!
+@1084
+{a6d0000}, at last we face the Uesugi! How does it feel, with so formidable a foe before you?
+@1085
+I am itching to fight\nI am trembling
+@1086
+{d04}It is precisely because the foe is formidable that I am itching to fight.
+@1087
+Hm, well said! Spoken like my...
+@1088
+"Like your..."?
+@1089
+L-like my retainer, that is! Ha ha ha!
+@1091
+{d04}Against so great a foe, I cannot help but tremble.
+@1092
+That is what we call a warrior's tremor. Show everyone your strength in this battle!
+@1093
+Everyone, now is our chance to strike the Uesugi! Scatter them! Forward!
+@1094
+So those are Nobunaga's troops... To think that man has come this far.
+@1095
+Well, no matter. Let us show them our way of war.
+@1096
+All units, deploy! We shall give them a thorough beating!
+@1100
+{a6d0000}, well done.
+@1101
+My lord, you honour me too much.
+@1102
+Even so, our army has taken heavy losses. I would like to press the enemy, but... let us stop here for now.
+@1103
+Let us gather the troops and withdraw to Kitanoshō for the moment.
+@1105
+Lord {a6d0000}! Ah, how good to see you safe...
+@1106
+Thanks to Lord Hideyoshi holding back the rebels, we somehow managed to win.
+@1107
+Not at all. I could never have thought of a way to win this battle.
+@1108
+It was only because you were here, Lord {a6d0000}, that we won. Ha ha ha!
+@1109
+Heavens, no. And if you say such things so loudly, our lord will be angry.
+@1110
+Oops, quite right.
+@1111
+Speaking of which, how was Lord Kenshin's command?
+@1112
+Ah, it was truly chilling.
+@1113
+I can well imagine.
+@1114
+By fighting a formidable foe, one grows stronger in war.
+@1115
+To have fought Lord Kenshin, called the god of war, was a fine lesson for you.
+@1116
+Yes, you are right.
+@1117
+Now, Hanbee, Hidenaga, back to Nagahama. Lord {a6d0000}, until we meet again.
+@1118
+Everyone, fall back! Fall back!
+@1119
+Everyone, retreat, retreat!
+@1121
+Mastered the Wheel formation.
+@1125
+Lord {a730000}, a message from Lord Katsuie: "Come to Kitanoshō Castle when the 12th month arrives."
+@1127
+Lord {a730000}, a message from Lord Katsuie: "Come to Kitanoshō Castle at once."
+@1128
+I have a horse ready. Let us go at once.
+@1129
+Uh, y-yes. Understood...
+@1133
+What?! He settled it before I even reached the battlefield?
+@1134
+Damn, we were neatly outdone! Everyone, pull out!!
+@1135
+Everyone, we now strike Akechi Mitsuhide, to avenge Lord Nobunaga!
+@1138
+Is Mitsuhide still not found?! Whoever takes his head will be rewarded. Everyone, search, search!
+@1139
+...To think I would let Mitsuhide slip away...
+@1140
+(...Lord Akechi...)
+@1142
+I report! It seems Lord Hashiba Hideyoshi is fighting Akechi Mitsuhide at Shōryūji Castle!
+@1143
+Impossible... Was Hashiba not fighting the Mōri in Chūgoku?!
+@1144
+Lord Hashiba learned of Akechi Mitsuhide's treachery from a letter to the Mōri army carried by a secret envoy, and made peace with the Mōri at once, it is said!
+@1145
+But however fast he hurried from the Mōri front, he could not be back this soon!
+@1146
+That is... they say he loaded the armour and weapons on carts and had his soldiers run all the way to the field...
+@1147
+S-surely not! That is absurd!
+@1148
+But it is the truth.
+@1149
+We ought to think now of what to do should Lord Hideyoshi be defeated.
+@1150
+... You are right...
+@1155
+Mitsuhide the traitor, slain!
+@1156
+I report! Lord Hashiba has taken Shōryūji Castle!
+@1157
+To be unable to lift a hand with the enemy before our eyes!!
+@1158
+However, it seems Akechi Mitsuhide has escaped from the castle and has still not been found!
+@1159
+What, is that true?! Everyone, search, search! Do not let a mere Hideyoshi get ahead of us!
+@1165
+I report! Lord Hashiba Hideyoshi has slain Akechi Mitsuhide at Shōryūji Castle!
+@1166
+Damn... We were completely outdone...
+@1167
+Everyone, back to Kitanoshō! There is nothing for us here now.
+@1168
+Thus Shibata Katsuie's army returned to Kitanoshō without ever seeing the capital of Kyōto.
+@1180
+Oho, so Katsuie has come.
+@1181
+All units, ready? Show them your strength!
+@1183
+Ugh, retreat, retreat!
+@1185
+Well done, everyone! Now, after them...
+@1186
+Please wait, my lord! Pursuing now will only throw away our men.
+@1187
+Then what would you have me do?
+@1188
+Let us withdraw to Azuchi for now and ask Lord Niwa and Lord Ikeda for help. Is that not the proper course?
+@1189
+For a siege we will need Lord Sassa's strength too. I think we should wait for his return.
+@1190
+True... We should issue a formal order to subjugate him and put him down as a traitor to the Oda clan...
+@1191
+Hm... Then, everyone, we return to Azuchi!
+@1196
+Everyone, give it all you have! Follow me!!
+@1199
+{a6d0000}... you did well.
+@1200
+...But...
+@1201
+I know what you want to say. But this too is a warrior's lot...
+@1202
+E-excuse me!
+@1203
+Hm, what is it?!
+@1204
+T-the castle... Himeji Castle!!
+@1205
+What!
+@1207
+And so Hashiba Hideyoshi's life came to an end in Himeji Castle. The gold stored there whirled up in the blast, a glittering adornment for his final moments...
+@1208
+W-what... Lord Hideyoshi...
+@1209
+...How like the man... ... A splendid end, is it not...
+@1210
+... Such is the fate of a warrior in these times...{w} I suppose...
+@1212
+...We must build a peaceful world. For Lord Nobunaga, Lord Nobutaka, and for Hideyoshi too...
+@1220
+...No... I wanted so much... to reach... Lord Hideyoshi...
+@1222
+{a6d0000}!! Are you safe?!
+@1223
+L-Lord Katsuie... Forgive... me...
+@1224
+...I was not... strong enough... to take Himeji Castle...
+@1225
+Fool! What man shows mercy to an enemy on the battlefield?!
+@1226
+Leave the rest to me. ...In any case, I am glad you live.
+@1227
+Fa...{w}ther...
+@1228
+Everyone, the decisive battle! Follow me!!
+@1229
+Ngh...{w} Ugh...
+@1240
+I have returned!
+@1241
+You are back. So, what did Lord Niwa say?
+@1242
+That is...
+@1243
+...Well, no matter. We will see where Lord Niwa stands on the battlefield soon enough.
+@1247
+Lord Toshiie, why such a solemn face?
+@1248
+...Hm, {a6d0000}. So we must fight Hideyoshi after all...
+@1249
+...I did not want to fight either, if I could help it.
+@1250
+But if we who lead the troops are like this, it will harm morale.
+@1251
+Either way, we have no choice but to fight each other in earnest.
+@1252
+Lord Toshiie...
+@1261
+First, Morimasa, you will hold the right wing on Mount Gyōichi.
+@1263
+Next, Toshiie. You will lead the front line on Mount Bessho.
+@1265
+Then Nagachika. Pitch camp to the left of Toshiie's front line.
+@1267
+Last, {a6d0000}. You will take the left wing.
+@1270
+Now, everyone, to your posts!
+@1274
+I report! Lord Niwa Nagahide's army has appeared to the west of our army!
+@1275
+So he has come at last... If Lord Niwa does not side with that wretch Hideyoshi, we still have a chance of victory...
+@1280
+I report!
+@1281
+Lord Niwa Nagahide's army, which was deployed to the west of our army, seems to have returned to Wakasa!
+@1282
+He heard my plea...
+@1283
+Lord Niwa... I thank you.
+@1285
+\_\_\_\_\_\_\_- Hashiba Army: Headquarters -
+@1287
+What on earth has happened to Lord Niwa?! Was he not supposed to join us?!
+@1288
+Men's hearts are ever changing...
+@1289
+More to the point, we must first keep the enemy from learning that our lord is absent! We must calm the soldiers' unrest!
+@1291
+The enemy is badly shaken. Is it because of Lord Niwa's withdrawal?
+@1292
+No... even so, something is not right...
+@1293
+Lord Katsuie! We have scouted the enemy headquarters: their commander, Hashiba Hideyoshi, appears to be absent!
+@1294
+!! Send word to Morimasa at once! "Strike Hideyoshi's army with a surprise attack immediately!"
+@1296
+Everyone, sortie!!
+@1297
+Ha ha ha! Did you see that! This is the true strength of the Shibata elite!
+@1300
+T-terrible news! A large Hashiba force has appeared on the east side of the field!
+@1301
+East?! ...Has he taken Lord Nobutaka's Ōgaki Castle and come back?
+@1302
+That Monkey, he is a sly one! To march at such speed...
+@1303
+We must not let our advantage be reversed! Bring Morimasa's force back at once!!
+@1305
+Lord Hidenaga, i-it is an enemy surprise attack!
+@1306
+What?! Everyone, do not panic!
+@1307
+... It is... already too late.
+@1308
+The enemy has broken through our front line!
+@1309
+Damn! To think our lord is absent at a time like this!!
+@1310
+I report!
+@1311
+Lord Niwa Nagahide's unit, deployed to the west of our army, appears to be siding with the Hashiba army!
+@1312
+Lord Niwa...
+@1315
+Damn! How long must we keep glaring at each other like this...
+@1316
+But... if we lose patience and move, we will surely be defeated...
+@1317
+Now is the time to hold firm...
+@1319
+\_\_\_\_\_- Meanwhile: Sakuma Morimasa's Camp -
+@1321
+I can bear no more! Everyone, charge!!
+@1322
+Curse Morimasa, charging off on his own...!!
+@1327
+Bring Morimasa's force back at once!!
+@1328
+Lord Sakuma's unit is nearly wiped out! It is too late now!!
+@1330
+Lord Hidenaga, it is an enemy surprise attack!
+@1331
+So they lost patience at last and came at us!
+@1332
+The enemy is attacking on momentum, nothing more.
+@1333
+The main force need not even move.
+@1334
+Yes. Just a little longer until our lord arrives!
+@1335
+\_\_\_\_\_\_- Maeda Toshiie's Camp -
+@1336
+What! Has Hideyoshi's army finally come?!
+@1337
+Yes! The force on the east of the field is Hideyoshi's army, back from attacking Ōgaki Castle!
+@1338
+So I must fight Hideyoshi... What am I to do...
+@1340
+Lord Toshiie's unit is retreating?! ...
+@1341
+Toshiie... To think his kind heart would be his undoing...
+@1342
+Well...{w} so be it...{w}
+@1343
+Everyone!! Give Hideyoshi's army no rest! All forces, attack now!
+@1344
+I will strike Hideyoshi myself!! {a6d0000}, take your unit against the troops deployed to the south!
+@1350
+Everyone, show your worth for our lord's sake! Now, let us go.
+@1352
+Good, we did it! Well done, everyone.
+@1354
+{a6d0000} wiped out the unit led by Hidenaga. At the same moment the main force also defeated Hideyoshi's unit, and the Hashiba army was driven back to Himeji Castle.
+@1356
+Everyone, we pursue that Hideyoshi! Follow me!
+@1360
+What! To think we would be defeated...
+@1361
+Everyone, retreat! Retreat!!
+@1363
+With the defeat of {a6d0000}'s unit, the main force's order collapsed. Katsuie's unit was also destroyed, and the Shibata army was driven back to Kitanoshō Castle.
+@1365
+Lord Sakuma Morimasa's unit has charged the enemy and seems to be hard pressed!
+@1366
+What! The fool!!
+@1367
+...Was it a mistake to entrust him with the main force...?

@@ -1,0 +1,295 @@
+# 02_data
+PROG:800b156c	Travel
+PROG:800b1578	March
+PROG:800b1584	Sakai & Hakata
+PROG:800b1590	On a Mission
+PROG:800b159c	Katsuie's Theme
+PROG:800b15ac	Rosy Mood
+PROG:800b15b8	Hideyoshi's Theme
+PROG:800b15c8	Game Over
+PROG:800b15d8	Oichi's Theme
+PROG:800b15e8	Victory
+PROG:800b15f4	Defeat
+PROG:800b1668	Shishi-odoshi
+PROG:800b1694	Cancel
+PROG:800b16a0	Click
+PROG:800b16ac	Count
+PROG:800b16b8	Level Up
+PROG:800b16c8	Rumour
+PROG:800b16d4	Dice
+PROG:800b16e0	Bump
+PROG:800b16f0	Punched
+PROG:800b16fc	Attack
+PROG:800b1708	Charge
+PROG:800b1714	Gunfire
+PROG:800b1720	Volley
+PROG:800b172c	Damage
+PROG:800b1738	Unit Move
+PROG:800b1744	Spy Move
+PROG:800b1750	Cannon Shot
+PROG:800b175c	Cannon Hit
+PROG:800b1768	Infiltration
+PROG:800b1778	Unity
+PROG:800b1784	Wall Spikes
+PROG:800b1790	Pitfall
+PROG:800b179c	Flood Works
+PROG:800b194c	Tilling
+PROG:800b1958	Levelling
+PROG:800b1964	Logging
+PROG:800b1970	Irrigation
+PROG:800b197c	Flood Control
+PROG:800b1988	Oxen & Horses
+PROG:800b1994	Better Tools
+PROG:800b19a0	Better Strains
+PROG:800b19cc	Expand Town
+PROG:800b19d8	Abolish Tolls
+PROG:800b19e4	Post Towns
+PROG:800b19f0	Road Works
+PROG:800b19fc	River Works
+PROG:800b1a08	Train Artisans
+PROG:800b1a14	Specialities
+PROG:800b1a20	Free Markets
+PROG:800b1a4c	Hire Miners
+PROG:800b1a58	Hire Prospectors
+PROG:800b1a64	Mining Methods
+PROG:800b1a70	Cupellation
+PROG:800b1a7c	Nanban Refining
+PROG:800b1a9c	Expand Baileys
+PROG:800b1aa8	Repair Moat
+PROG:800b1ab4	Timber Supply
+PROG:800b1ac0	Stone Supply
+PROG:800b1acc	Repair Interior
+PROG:800b1ad8	Repair Walls
+PROG:800b1ae4	Work Teams
+PROG:800b1af0	Anō Masonry
+PROG:800b1b1c	Tour Domain
+PROG:800b1b28	Policing
+PROG:800b1b34	Alms
+PROG:800b1b40	Harsh Penalties
+PROG:800b1b4c	Debt Relief
+PROG:800b1b58	Sword Hunt
+PROG:800b1b7c	Declarations
+PROG:800b1b88	Survey East
+PROG:800b1b94	Survey West
+PROG:800b1ba0	Survey South
+PROG:800b1bac	Survey North
+PROG:800b1bb8	Survey Rod
+PROG:800b1bc4	Kyō Measure
+PROG:800b1bec	Sentries
+PROG:800b1bf8	Granary
+PROG:800b1c04	Stables
+PROG:800b1c10	Armoury
+PROG:800b1c1c	Interior
+PROG:800b1c28	Blast Walls
+PROG:800b1c4c	Basic Drill
+PROG:800b1c58	Spear Drill
+PROG:800b1c64	Cavalry Drill
+PROG:800b1c70	Gun Drill
+PROG:800b1c7c	Fieldwork Drill
+PROG:800b1c88	Formation Drill
+PROG:800b1ebc	Till the wasteland.
+PROG:800b1ecc	Level the ground.
+PROG:800b1ee0	Fell the trees.
+PROG:800b1ef0	Channel river water to the fields.
+PROG:800b1f18	Build dykes to stop the rivers flooding.
+PROG:800b1f38	Use oxen and horses to work faster.
+PROG:800b1f58	Improve the ploughs and hoes.
+PROG:800b1f7c	Breed rice strains with higher yields.
+PROG:800b1fbc	Enlarge the castle town.
+PROG:800b1fd4	Abolish the toll gates set up by shrines.
+PROG:800b1ffc	Set up inns along the roads.
+PROG:800b2020	Build roads that ease trade.
+PROG:800b2038	Deepen the rivers so boats pass easily.
+PROG:800b205c	Increase the number of artisans.
+PROG:800b2070	Promote high-value local specialities.
+PROG:800b2090	Guarantee free trade.
+PROG:800b20c8	Hire labourers for the mines.
+PROG:800b20e4	Hire experts to find groundwater.
+PROG:800b2104	Improve mining methods.
+PROG:800b211c	Spread the new cupellation method.
+PROG:800b2140	Spread the Nanban refining method.
+PROG:800b2178	Expand the castle's baileys.
+PROG:800b2194	Repair the moat.
+PROG:800b21a4	Procure timber for interior repairs.
+PROG:800b21c4	Procure stone for wall repairs.
+PROG:800b21e4	Repair the storehouses and the keep.
+PROG:800b2208	Repair the stone walls.
+PROG:800b2218	Split the work and make teams compete.
+PROG:800b2234	Have Anō masons build the walls.
+PROG:800b227c	Go round hearing complaints.
+PROG:800b2294	Root out bandits in the domain.
+PROG:800b22b0	Give money to the people.
+PROG:800b22c4	Punish tax defaulters more harshly.
+PROG:800b22e4	Decree that sold land is returned free.
+PROG:800b2308	Confiscate the peasants' weapons.
+PROG:800b2344	Have everyone declare their land.
+PROG:800b235c	Survey the east of the domain.
+PROG:800b2374	Survey the west of the domain.
+PROG:800b238c	Survey the south of the domain.
+PROG:800b23a4	Survey the north of the domain.
+PROG:800b23bc	Standardise the survey rod.
+PROG:800b23e4	Standardise on the Kyō measure.
+PROG:800b2420	Post sentries at key points.
+PROG:800b243c	Burn the granary to destroy rice.
+PROG:800b2458	Burn the stables to kill horses.
+PROG:800b2478	Burn the armoury to destroy guns.
+PROG:800b2498	Set fires inside to lower defence.
+PROG:800b24b8	Blast the walls to lower defence.
+PROG:800b24f0	Drill to build basic fitness.
+PROG:800b250c	Drill with the spear.
+PROG:800b2520	Drill in horsemanship.
+PROG:800b2538	Drill in firing guns.
+PROG:800b2550	Drill in building palisades.
+PROG:800b256c	Drill in keeping formation.
+PROG:800b25bc	-
+PROG:800b25c8	Officer
+PROG:800b25d4	Skills
+PROG:800b25e0	-
+PROG:800b25f0	-
+PROG:800b2618	Left: %4u kan
+PROG:800b2668	Unassign
+PROG:800b2678	Switch info
+PROG:800b2684	Commander
+PROG:800b2690	Is this all right?
+PROG:800b26c8	Offer a bribe
+PROG:800b26d4	Fake my rank
+PROG:800b26e0	Distract them
+PROG:800b26fc	Abandon mission
+PROG:800b270c	Continue mission
+PROG:800b271c	Really abandon
+PROG:800b272c	Don't abandon
+PROG:800b2738	Report results
+PROG:800b2748	Not yet
+PROG:800b2758	Advise
+PROG:800b2764	Part ways
+PROG:800b2774	Clan
+PROG:800b2780	-
+PROG:800b278c	-
+PROG:800b2798	Mission
+PROG:800b27a4	Target
+PROG:800b27b0	Days left
+PROG:800b27bc	Daimyō Info
+PROG:800b27c8	Awaiting report
+PROG:800b27d4	Last day
+PROG:800b27e0	No deadline
+PROG:800b27ec	Court Standing
+PROG:800b27f8	Other clan
+PROG:800b2858	%3u/%3uk
+PROG:800b2864	Prices are in kan per 100 koku of rice.
+PROG:800b2890	Prices are in kan per horse.
+PROG:800b28bc	Switch info
+PROG:800b28cc	You know no one.
+PROG:800b28e8	Vassal
+PROG:800b28f4	Share %2u.%u％
+PROG:800b2904	Unknown
+PROG:800b2970	About %s
+PROG:800b297c	No information
+PROG:800b2990	New Fields
+PROG:800b299c	Commerce
+PROG:800b29a8	Mine Work
+PROG:800b29b4	Sabotage
+PROG:800b29dc	Oxen & Horses
+PROG:800b29e8	Better Tools
+PROG:800b29f4	Better Strains
+PROG:800b2a00	Free Markets
+PROG:800b2a0c	Cupellation
+PROG:800b2a18	Nanban Refining
+PROG:800b2a24	Anō Masonry
+PROG:800b2a30	Blast Walls
+PROG:800b2a90	-
+PROG:800b2a9c	Mission
+PROG:800b2aa8	Target
+PROG:800b2ab4	Result
+PROG:800b2ac0	Expired
+PROG:800b2acc	No deadline
+PROG:800b2ad8	Rice left
+PROG:800b2ae4	Funds left
+PROG:800b2af0	Impossible
+PROG:800b2afc	No result
+PROG:800b2b08	Horse prices only
+PROG:800b2b14	Rice prices only
+PROG:800b2b20	Survey done
+PROG:800b2b2c	Found %u rōnin
+PROG:800b2b40	Learned a fair amount
+PROG:800b2b58	Learned everything in detail
+PROG:800b2b74	Did slight damage
+PROG:800b2b8c	Did some damage
+PROG:800b2ba4	Did heavy damage
+PROG:800b2bb8	Did massive damage
+PROG:800b2bcc	Bought %u koku
+PROG:800b2bdc	Sold for %u kan
+PROG:800b2bec	Bought %u horses
+PROG:800b2bfc	Bought %u guns
+PROG:800b2c0c	Bought %u cannon
+PROG:800b2c1c	Yield up %u koku
+PROG:800b2c30	Commerce up %u
+PROG:800b2c40	Mines up %u
+PROG:800b2c50	Defence up %u
+PROG:800b2c64	Castle built
+PROG:800b2c70	Support up %u
+PROG:800b2c84	Found %u koku hidden
+PROG:800b2c98	Mission impossible
+PROG:800b2ca8	Learned a little
+PROG:800b2cc0	Learned a lot
+PROG:800b2cd8	Scouted every castle
+PROG:800b2cf0	Diplomacy succeeded
+PROG:800b2d00	Envoy succeeded
+PROG:800b2d0c	Court standing up %u
+PROG:800b2d24	Recruited %s
+PROG:800b2d38	Hired %u ashigaru
+PROG:800b2d4c	Training up %u
+PROG:800b2d60	Held for the full term
+PROG:800b2d7c	Began guarding
+PROG:800b2d90	Held for %u days
+PROG:800b2da0	Conquest succeeded
+PROG:800b2db0	Conquering (%u castles left)
+PROG:800b2dc8	Cornered the rice
+PROG:800b2dd8	Won him over
+PROG:800b2de8	Recruited Takenaka Hanbee
+PROG:800b2e04	Won over %y of the Mino Trio
+PROG:800b2e20	Won over all the Mino Trio
+PROG:800b2eb4	Special Works
+PROG:800b2f74	Clan
+PROG:800b2fe0	Days to wait
+PROG:800b301c	{C2}In battle{C0}
+PROG:800b302c	Takes %u days
+PROG:800b303c	Unreachable
+PROG:800b35c8	None
+PROG:800b3690	Bug
+PROG:800b3a64	-
+PROG:800b4164	Stakes (%u kan for 8)
+PROG:800b4584	-
+PROG:800b4678	-
+PROG:800b4a58	-
+PROG:800b4a74	-
+PROG:800b4a90	-
+PROG:800b4aac	-
+PROG:800b4ac8	-
+PROG:800b4ae4	-
+PROG:800b4b00	-
+PROG:800b4b1c	-
+PROG:800b4b54	-
+PROG:800b7cec	Japanese Book
+PROG:800b7cf8	Sr 6th Lower
+PROG:800b7d04	Jr 5th Lower
+PROG:800b7d10	Jr 5th Upper
+PROG:800b7d1c	Sr 5th Lower
+PROG:800b7d28	Sr 5th Upper
+PROG:800b7d34	Jr 4th Lower
+PROG:800b7d40	Jr 4th Upper
+PROG:800b7d4c	Sr 4th Lower
+PROG:800b7d58	Sr 4th Upper
+PROG:800b7d64	Ashigaru Capt.
+PROG:800b7d70	Ashigaru Gen.
+PROG:800b7d7c	Develop Lands
+PROG:800b7d88	Defend Lands
+PROG:800b7d94	Take Castle
+PROG:800b7da0	Defeat Daimyō
+PROG:800b7dac	Unify Province
+PROG:800b7db8	Defend Province
+PROG:800b7dc4	Unify Region
+PROG:800b7dd0	Defend Region
+PROG:800b7ddc	Unify Japan
+PROG:800b7de8	Negotiate
+PROG:800b7df4	Accept
+# skill / ability column heads: tools/rectab.py (tl/tables/columns.txt) writes them

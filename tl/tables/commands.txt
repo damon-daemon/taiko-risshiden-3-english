@@ -1,0 +1,42 @@
+# commands: key<TAB>English (tools/tables.py)
+0	Build Sunomata
+1	Check Prices
+2	Horse Prices
+3	Find Rōnin
+4	Scout Castle
+5	Rumours
+6	Warrior Training
+7	Buy Rice
+8	Sell Rice
+9	Buy Horses
+10	Buy Guns
+11	Buy Cannon
+12	New Fields
+13	Commerce
+14	Mine Work
+15	Repairs
+16	Build Castle
+17	Win Hearts
+18	Land Survey
+19	Sabotage
+20	Scout Daimyō
+21	Diplomacy
+22	??
+23	Envoy
+24	Court Lobbying
+25	Recruit
+26	Hire Ashigaru
+27	Train
+28	Guard Castle
+29	Take Castle
+30	Take Prov.
+31	Take Region
+32	Corner Rice
+33	Win Over Lord
+34	Recruit Hanbee
+35	Win Over Trio
+36	Take Daimyō
+37	Reserved 2
+38	Reserved 3
+39	Reserved 4
+bug	Bug

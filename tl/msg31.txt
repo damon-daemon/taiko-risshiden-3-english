@@ -1,0 +1,564 @@
+@300
+\_\_\_\_- Oyama Castle: Lord's Room -
+@301
+Kaga is a fine place indeed, my lord.
+@302
+You like it, then! Splendid.
+@303
+By the way, my lord... what will you do about Lord Sassa Narimasa?
+@304
+Back in Owari and Mino, Lord Narimasa used to bully you, as I recall...
+@305
+I will not kill Narimasa\nIt's coming back to me now!
+@306
+True, he heaped abuse on me, but he was once a comrade.
+@307
+I believe I understand how the man feels. That is why I will not kill him.
+@308
+But he hates you, my lord.
+@309
+Even so. In time he will come to understand me.
+@310
+Then you will spare Lord Narimasa?
+@311
+Yes. I want to meet Narimasa and talk. Bring him here.
+@312
+Grrr... Now I remember! That Narimasa!
+@313
+I will cut him down!
+@314
+Wait, my lord. Now that the fight with Shibata is settled, more killing is pointless.
+@315
+Besides, unlike Shibata, Lord Narimasa can never become a threat to you.
+@316
+Take him into your service for now and work him hard. Would that not do?
+@317
+Work him hard, eh... Not a bad idea. Toshiie, summon Narimasa!
+@318
+My lord, I have brought Lord Sassa Narimasa.
+@319
+Ah! Lord Narimasa, it has been a long time. Welcome, welcome.
+@321
+In Owari and Mino, you and Lord Shibata Katsuie both took such good care of me.
+@322
+...
+@323
+Lord Narimasa says he will enter your service, my lord.
+@324
+Oh?
+@325
+Forgive him\nDo not forgive him
+@326
+After all you did to me, you have the nerve to come crawling before me?
+@327
+My lord, did you not mean to forgive Lord Narimasa?!
+@328
+A jest, Toshiie. Lord Narimasa, rest here at your ease. If we gain more provinces, I may have you govern one.
+@329
+Lord Hashiba... Are you sure of this?
+@330
+Yes, of course.
+@331
+Hm... That does not sit right with me.
+@332
+Lord Narimasa, are these terms not to your satisfaction?
+@333
+No... Do as you see fit. I take my leave.
+@334
+Well then, I shall go home too.
+@335
+My lord, thank you for sparing Lord Narimasa's life.
+@336
+After what you did, you dare show your face here?
+@337
+My lord! Did you not mean to forgive Lord Narimasa?!
+@338
+I meant to forgive you, but seeing your face changed my mind. Letting you live would only invite trouble later...
+@339
+As I thought... I am ready. Do what you will.
+@340
+Very well. As a samurai's mercy, I grant you seppuku. Die with honour!
+@344
+Toshiie! I leave the rest to you...
+@345
+My lord... ... ...Understood.
+@346
+So the Shibata clan has finally fallen.
+@347
+Indeed. Now we can sleep soundly.
+@348
+By the way, my lord.
+@349
+What is it, {a6d0001}?
+@350
+The Shibata clan is gone, but the officers who backed them must be scattered across the land as rōnin.
+@351
+If we draw them to our side, your hold on the realm will be unshakable.
+@352
+Yes, I was thinking the same. Let us start by approaching the officers of Echizen.
+@354
+My lord, to show the realm the might of the Hashiba, let us build a new castle.
+@355
+Very well\nNo need
+@356
+Yes, let us build a new castle.
+@357
+I thought you would say so. I have already surveyed the land at {e66007f}. It is ideal for a castle.
+@358
+Ha ha, how well prepared! Very well, Hidenaga! I leave the rest to you!
+@360
+There is no need to go to the trouble of building a new castle.
+@361
+Is that so... What a pity.
+@362
+We have many other things to do.
+@364
+My lord! Ōsaka Castle is finally complete. Please come and see it at once.
+@366
+What is it, {a6d0001}?
+@367
+Of the old Oda retainers, Shibata Katsuie and the other leading men have died.
+@368
+But Lord Niwa Nagahide is still hale. In the Oda clan he always stood level with Shibata.
+@369
+So he may still look down on you, my lord...
+@370
+If this goes on, you will lose the dignity you must show the realm.
+@371
+More daimyō may even turn against you.
+@372
+It would be wise to take some measures.
+@373
+I have an idea\nWhat should I do?\nLeave it
+@374
+I have an idea.
+@375
+What sort of idea?
+@375.1
+Yes, we can use court rank.
+@376
+I will give him a rank lower than mine and make him understand his place in the realm.
+@377
+Excellent idea. Let us obtain an office for Lord Niwa and hurry to Sawayama at once.
+@378
+Hidenaga, what should I do?
+@379
+Calm yourself, my lord. How about using court rank, for example?
+@380
+Court rank?
+@381
+Yes. Beside court rank, the order of the Oda clan means nothing.
+@382
+By granting him a rank lower than yours, let us make him understand his own place.
+@383
+I see, a fine idea. I will arrange a rank for Niwa Nagahide at once and go to Sawayama.
+@384
+Leave it.
+@384.1
+But at this rate the sparks will only spread.
+@385
+Why not try using court rank instead?
+@388
+Give him a rank lower than yours and make him understand his own place.
+@390
+{a6d0000}, what business brings you to a place like this?
+@391
+I have come to thank you, Lord Niwa, for your help in the fight against Shibata.
+@392
+That is no matter... You surely have other business. Speak.
+@393
+...{w}I wish to cede Echizen to you, Lord Niwa. Soon you will also be granted the title of Echizen.
+@394
+Do you understand what this means?
+@396
+If you join hands with us, Lord Niwa, the realm will settle of its own accord. Please, make your decision!
+@397
+Very well...{w}I gratefully accept your offer.
+@398
+Ah, I am grateful. I, {a6d0000}, feel a weight lifted from my shoulders.
+@399
+If it suits you, please do visit my castle. You will be welcome.
+@400
+Yes. But my health has been poor of late. I will visit in due time.
+@401
+Understood. I shall take my leave for today.
+@402
+Do not get above yourself! I helped you only because Katsuie stood in my way!
+@403
+Do not think the realm is yours just because Katsuie is dead!
+@404
+This displeases me. Get out of this castle!
+@405
+My lord! Terrible news!
+@406
+What is it, {a6d0001}?!
+@407
+There is no court rank left to give Lord Niwa! Either his rank is too high or yours is too low.
+@408
+What?! Why did we not notice until now?!
+@409
+I might ask you the same, my lord!
+@410
+Never mind. Leave this to me!
+@411
+What are you muttering about in my room all this while?!
+@412
+Forgive me.
+@413
+{a6d0000}, what do you want of me?
+@420
+My lord, Shibata Katsuie has been slain, but Oda Nobutaka still remains.
+@421
+If left alone, someone may yet raise Nobutaka up and rebel against you.
+@422
+We must take some step before he becomes an obstacle to you...
+@423
+Hm... I dislike killing, but without killing Nobutaka there will be no peace...
+@424
+Kanbee, I leave this task to you. With your wits, make Nobukatsu strike down Nobutaka!
+@425
+Yes, my lord. Lord Nobukatsu shall do our work for us a while longer.
+@426
+My lord, I have returned.
+@426.1
+Last night Lord Oda Nobutaka was killed by Lord Oda Nobukatsu.
+@427
+Hm, it seems things went as you planned.
+@428
+Because of this, Lord Nobukatsu seems to be coming to trust you, my lord.
+@429
+Hm... So he is still worth using.
+@430
+My lord! Shall we sound out the Tokugawa?
+@430.1
+Hm? Tokugawa, all of a sudden? What is the matter?
+@431
+If you are to take the realm, my lord, Lord Tokugawa will one day stand in your way.
+@432
+Once Lord Tokugawa is beyond handling, it will be too late. We must build good relations while we can...
+@433
+Yes, do it\nNo, let it be
+@434
+Yes, do it. Hidenaga, I leave the rest to you.
+@435
+Then I will send an envoy at once.
+@437
+Why? Lord Tokugawa will only grow stronger and mightier. By then it will be too late.
+@438
+Understood. Then I will say no more.
+@439
+My lord, an envoy has come from Lord Tokugawa.
+@439.1
+An honour to make your acquaintance. My name is Ishikawa Kazumasa.
+@440
+Hm? Is this truly the first time we have met, Lord Ishikawa?
+@441
+Well, never mind. What business brings you today?
+@442
+My master, Tokugawa Ieyasu, wishes to bring his friendship with you, Lord Hashiba, closer still.
+@443
+As a token of that friendship, I was told to present you with this tea ware.
+@444
+Well, well! A piece chosen by Lord Tokugawa indeed: how refined it is!
+@445
+Am I really permitted to accept so splendid a gift?
+@446
+But now I cannot possibly send you home like this, Lord Ishikawa.
+@447
+I want to entertain you lavishly in thanks. Is that all right?
+@447.1
+Very well. Then I will take you at your word.
+@448
+Ha ha ha! Lord Ishikawa, drink more!
+@449
+L-Lord Hashiba, forgive me. I cannot drink any more!
+@450
+Well then, Lord Hashiba, I must be taking my leave.
+@451
+What! Leaving already?
+@452
+No, no, I have been feasted quite enough.
+@453
+Besides, I must return quickly and report to Lord Ieyasu.
+@454
+Is that so... What a pity. Come again any time. I will welcome you like a brother.
+@455
+S-so much as that...? Th-thank you. I will never forget this day as long as I live.
+@456
+My lord, since sending Ishikawa Kazumasa, Ieyasu has sent no word of greeting.
+@457
+Perhaps so. But he is a hard man to bring down by force... Is there no way to deal with him...?
+@458
+Is there no good plan? No good plan...
+@459
+My lord, as with Lord Niwa, why not try using court rank?
+@460
+If he is offered court rank, the dutiful Ieyasu can hardly refuse to come up to Kyōto.
+@461
+If Ieyasu comes to Kyōto, the world will think he has entered your camp.
+@462
+If we are to give him one, the rank of "Junior Fourth Upper" should do for now.
+@463
+But I cannot imagine a man like Ieyasu coming to Kyōto so easily...
+@464
+True... But I think it well worth trying.
+@464.1
+Very well. I leave the arrangements to you, Kanbee.
+@465
+My lord, it seems Ieyasu has declined the rank of "Junior Fourth Upper".
+@466
+My lord, please stop. My plan to summon Ieyasu with court rank was too naive.
+@467
+Even if we petition for a high rank, I do not think Ieyasu will come out.
+@468
+Is that so...\nNo, that is not it\nI want it for myself
+@469
+Is that so... Then what must I do to summon Ieyasu...?
+@470
+I have no sure means to propose.
+@471
+My lord, word has come that Tokugawa's army is marching on {e660064}!
+@472.1
+Damn Ieyasu...{w} He has finally moved!
+@473
+Hold the castle and buy time. Tell them on no account to leave the castle!
+@474
+My lord, terrible news! The troops at {e660064} took Ieyasu's bait, left the castle and began to fight!
+@475
+Fools! I told them not to leave the castle!
+@476
+The army at {e660064} has been defeated by Tokugawa's forces!
+@477
+Grr, Ieyasu... he is good, I grant him that.
+@478
+We will retake {e660064}. Follow me!
+@479
+We have given Ieyasu a beating. He will not dare move rashly for a while. Now I will wear him down bit by bit!
+@480
+My lord, Ieyasu's side offers peace, on condition that they send hostages.
+@481
+Send an envoy for peace from our side as well. And for now we will not break the alliance.
+@483
+Ieyasu! This is not the end... not the end.
+@484
+My lord, Tokugawa's army has attacked {e660064}!
+@484.1
+Damn Ieyasu... So he has finally come out for the decisive fight...
+@485
+Good, go out and meet them! Never let them near the castle!
+@487
+Ieyasu! I will not forget this! I will repay the debt without fail!
+@488
+My lord, word has come that Tokugawa's army is marching on {e660058}!
+@489
+What! What was Nobukatsu doing?!
+@490
+It seems Lord Nobukatsu allied with Tokugawa and allowed the march.
+@491
+Damn Nobukatsu, he has betrayed me! Hold the castle and buy time. Tell them on no account to leave the castle!
+@493
+My lord, terrible news! The troops at {e660058} took Ieyasu's bait and are fighting outside the castle!
+@494
+F-fools... I told them not to fight...
+@495
+My lord, the army at {e660058} has collapsed, and {e660058} has fallen to Tokugawa.
+@496
+Grr, Ieyasu.
+@497
+Now we retake {e660058}. Follow me, all of you!
+@498
+My lord, Tokugawa's army has attacked this castle!
+@499
+What! What was Nobukatsu doing?
+@501
+Damn them, they betrayed me! We sally out! March at once!
+@503
+No word at all from the envoy sent to Lord Niwa... What can have happened?
+@504
+It seems Lord Niwa is still bedridden with illness.
+@505
+That is bad. If Nagahide stays shut up in Echizen, the world will say he has turned traitor.
+@506
+Depending on how the rumour spreads, the daimyō might all rise at once.
+@507
+If only Lord Niwa would come soon...
+@508
+Lord Niwa has come!
+@509
+What, truly?!
+@510
+We cannot dawdle. Let us welcome Lord Niwa!
+@511
+We have managed to win Lord Niwa over. Next is Oda Nobukatsu, but how should I handle him...
+@512
+Perhaps I should consult Kanbee...
+@512.1
+Someone, send for Kanbee!
+@513
+My lord, you called?
+@513.1
+Yes, I need your counsel.
+@514
+It concerns Oda Nobukatsu. Is there no way to make him do as we say?
+@515
+Lord Nobukatsu... Hmm...{w}Then let us flatter him.
+@516
+Hm? Flatter him? What do you mean by flattering?
+@517
+Lord Nobukatsu grew up as His Lordship's son, fussed over by everyone around him.
+@518
+So if you flatter him, my lord, he may warm to the idea and come to rely on you.
+@519
+Call Nobukatsu out in secret and tell him you are a retainer sworn in loyalty to him.
+@520
+I see. I need only make Nobukatsu believe it.
+@521
+But that alone is not enough. Let us also win over Nobukatsu's officers.
+@522
+They are dutiful men, loyal to an Oda clan on the verge of ruin.
+@523
+My lord, Nobukatsu will meet you. He has named the riverbank west of {e66006d} as the place.
+@524
+Good. The place hardly matters. What matters is whether I can win Nobukatsu over.
+@525
+Most of your men are former Oda retainers, my lord. You must not look down on Lord Nobukatsu, who has Oda blood.
+@526
+Yet unless you keep your dignity, my lord, you will lose face before your officers and men...
+@527
+If you proceed as planned, it will surely go well.
+@528
+Understood. Leave the rest to me.
+@529
+Nobukatsu has been handled, after a fashion. All that remains is to make the Tokugawa submit...
+@530
+Leave it to me, my lord. I have already sent an envoy.
+@531
+Now that Nobukatsu is our vassal, Ieyasu has no pretext to fight. His surrender is only a matter of time.
+@532
+My lord, I have a report about Ieyasu.
+@532.1
+Hm, has Ieyasu made some move?
+@533
+"Has he made some move?" does not begin to cover it, my lord. He has sent word that he will submit to you.
+@534
+Submit to me...{w}Th-then, Ieyasu is to become my vassal?
+@534.1
+B-but why would Ieyasu, of all men...
+@536
+Ieyasu is a man who never fights a battle he cannot win. He is not fool enough to stand against the might of the Hashiba.
+@537
+I see, that is Ieyasu all over. He judges the situation well. He is a man who never takes undue risks.
+@538
+My lord, Lord Kikutei Harusue has come from Kyōto.
+@539
+What! Lord Kikutei Harusue, here in a place like this! See that he is received with every courtesy!
+@541
+Hm, so Ieyasu will not move for a rank this low after all...
+@542
+Very well, Kanbee, petition the court for the rank of "Senior Fourth Upper".
+@543
+I see! Well, that will do.
+@545
+Hm, I am not keen on it, but we cannot leave things as they are.
+@546
+Kanbee, you have some plan, do you not?
+@547
+Yes. Why not have Lord Oda Nobukatsu do it?
+@548
+Lord Nobukatsu?!
+@549
+Lord Nobukatsu longs to become the heir of the Oda clan.
+@550
+If we put the idea in his head, he will surely act at once.
+@551
+Very well\nEnough of your nagging!
+@552
+Very well. I leave it all to you. Do as you like.
+@553
+Silence! Enough of your nagging!
+@554
+It may be a trap to make us lower our guard.
+@555
+But Lord Ishikawa did not seem to be lying that day.
+@556
+This is Ieyasu we speak of. He may be deceiving even his own men.
+@557
+Yes, my lord. Leave it to me.
+@558
+There is no help for it. Petition the court for the rank. It is better than doing nothing.
+@559
+Understood. I will arrange it so.
+@560
+No, that is not it. The rank was simply too low to interest Ieyasu.
+@561
+I understand how you feel, my lord, but I think we had better find some other means.
+@562
+No, try it once more. Is that clear, Kanbee?
+@563
+Understood. If you say so, my lord, let us try.
+@564
+No, no! I want it for myself!
+@565
+My lord, do you truly mean that?
+@566
+Hm... Pretend you did not hear that...
+@567
+Understood. I shall petition the court for the rank of "Senior Fourth Upper".
+@568
+Good. I count on you.
+@569
+So stress that Nobukatsu's safety is guaranteed, and persuade him.
+@570
+And gradually win his trust. Then we can also use it to keep an eye on Nobukatsu.
+@571
+I take your meaning, but will Nobukatsu come strolling out merely because we summon him?
+@572
+Nobukatsu is greed itself. Tell him he may have the tea ware he covets, and he will come out gladly.
+@573
+Understood. Set about it at once.
+@574
+Yes, my lord. But do not let your guard down.
+@575
+He is a man who always eyes the realm, waiting for an opening.
+@576
+Understood. I will bear it in mind.
+@577
+By the way, my lord, look at this map. Everything in sight lies under our power.
+@578
+Ah, so it does. We have come a long way...
+@580
+Lord Kikutei Harusue! I am ever in your debt.
+@583
+I do declare, Lord Hashiba: His Majesty the Emperor has seen fit to appoint you Regent.
+@584
+The realm already lies in your hands, Lord Hashiba. Pray, take up the office of Regent now, lend your strength to the Court, and bring peace to all the people of the land.
+@587
+Indeed. None but you can rule the realm.
+@588.1
+Very well. I humbly accept.
+@589
+We thank you. A ceremony shall be held at the Imperial Palace. Pray, will you attend?
+@592
+Come, one more cup.
+@594
+By the way, Lord Niwa, I have lately heard a certain rumour...
+@595
+That Niwa Nagahide plans to rebel against Hashiba Hideyoshi... they say.
+@596
+And that your shutting yourself up in your castle, ill, may be preparation for a rebellion...
+@597
+W-what nonsense... There could be no such thing!
+@598
+Yes, I know. But I am only human, and rumours do trouble me.
+@599
+So it was only a rumour after all.
+@600
+Y-yes... Lord Hashiba, I trust we shall go on well together.
+@601
+Yes, and I with you.
+@602
+Looking over Japan today, I see no daimyō with power to match yours, Lord Hashiba.
+@605
+Hokuriku is quite a fine place too, is it not?
+@606
+Yes, the cold bites to the bone, but it is good land.

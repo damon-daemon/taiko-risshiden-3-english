@@ -1,0 +1,1490 @@
+@0
+You may change the army's organisation. When you are done, select End.
+@1
+You may check the army's organisation. When you are done, select End.
+@2
+Is this organisation acceptable?
+@3
+Some troops are unassigned. Please assign them to a unit.
+@4
+Then we go to battle with the {p00}. Fight with all your strength, every one of you!
+@5
+We go to battle with the {p00} now. If we lose this fight, there is nothing left for us! Steel yourselves and fight!
+@6
+{p00}! I am giving you command of the cavalry. Show them your fury!
+@7
+Yes, my lord! I am honoured! Let us crush the enemy!
+@8
+{p00}! I am giving you command of the gunner units. Show them the power of our guns!
+@9
+Yes, my lord! I am honoured! I will finish them off without fail!
+@10
+{p00}! I entrust {p01} to you. Do not fall behind the others!
+@11
+Yes, my lord! I will win glory without fail!
+@13
+You may change the troop count and unit type. When you are done, select Back.
+@14
+When you are done checking, select Back.
+@15
+Select a unit type.
+@16
+Select a unit type. A Cannon unit needs as many guns as it has troops, plus 1 cannon.
+@17
+There are not enough unassigned horses for a cavalry unit.
+@18
+There are not enough unassigned guns for a gunner unit.
+@19
+There are not enough unassigned guns for a cannon unit.
+@20
+You do not own enough cannon for a cannon unit.
+@21
+Change the number of troops.
+@30
+End the story?
+@40
+Hmph! We do not even have men enough to fight?!
+@41
+Then pages, anyone at all will do! Gather everyone who can fight!
+@43
+{p00}, prepare to sortie! We must hold this castle at all costs!
+@44
+Leave it to me, my lord. I will not fail your expectations!
+@45
+Yes, my lord! I will serve you well!
+@50
+Select the officers to send out.\n\_\_\_\_ shows an officer's details.
+@51
+Are these the officers to send out?
+@52
+The Leader cannot be removed from the sortie.
+@53
+Send {p00} out?
+@54
+Cancel {p00}'s sortie?
+@55
+No more can be sent out.
+@200
+(Message for after the battle)
+@201
+The enemy Leader has retreated, and the enemy army has collapsed. You won the battle.
+@202
+The enemy Leader has been destroyed, and the enemy army has collapsed. You won the battle.
+@203
+Your Leader has broken through, and the enemy army has collapsed. You won the battle.
+@204
+Your Leader has retreated, and your army has collapsed. You lost the battle.
+@205
+Your Leader has been destroyed, and your army has collapsed. You lost the battle.
+@206
+The enemy Leader broke through your lines, and your army has collapsed. You lost the battle.
+@207
+10 days have passed. The battle is over.
+@210
+With its Leader in retreat, the enemy army has collapsed. You won the battle.
+@211
+The enemy Leader has fled in disorder, and the enemy army has collapsed. You won the battle.
+@212
+The enemy Leader abandoned the castle and retreated. You won the battle.
+@213
+The enemy Leader has fled in disorder, and the enemy castle has fallen. You won the battle.
+@214
+The enemy castle has surrendered and opened its gates. You won the battle.
+@215
+You have taken the enemy castle. You won the battle.
+@216
+Your Leader has retreated, and the castle has fallen to the enemy. You lost the battle.
+@217
+Your Leader has fled in disorder, and the castle has fallen to the enemy. You lost the battle.
+@218
+You accepted the demand to surrender and opened the castle. You lost the battle.
+@219
+The enemy has taken your castle. You lost the battle.
+@220
+You gave up the siege and retreated. You lost the battle.
+@221
+Your Leader has fled in disorder, and your army has withdrawn. You lost the battle.
+@222
+90 days have passed. You end the battle and withdraw.
+@223
+90 days have passed. You held the castle.
+@230
+To be defeated in a place like this...
+@231
+So the fate of my army has run out...
+@232
+Looking back, it was a life both long and short.
+@233
+Nene, live well...
+@235
+To be defeated in a place like this...
+@236
+Heaven did not favour my army...
+@237
+Yet I have no regrets in my life!
+@240
+At the age of {b00}, {p00} ended a life full of turmoil...
+@500
+The battle is going very badly. Decide the army's policy.
+@501
+The battle is going somewhat against us. Decide the army's policy.
+@502
+The battle is nearly even. Decide the army's policy.
+@503
+The battle is going in our favour. Decide the army's policy.
+@506
+The whole army will advance and attack the enemy units. Is this all right?
+@507
+The whole army will attack with full force and aim to break through the enemy lines. Is this all right?
+@508
+The army will hold its position and meet the enemy there. Is this all right?
+@509
+The whole army will retreat in order. Is this all right?
+@512
+The army has fewer than 5 units, so a formation cannot be chosen.
+@513
+Line formation has been chosen.
+@514
+Select the formation the army should take.
+@516
+My lord, with your present Tactics you cannot use the stronger formations. As your strategist, let me lend you my Tactics.
+@518
+Form the {p00}{p01}! The whole army advances!
+@519
+All forces, advance! Crush the enemy!
+@520
+Form the {p00}{p01}! Attack with all your strength and break through the enemy lines!
+@521
+All forces, charge! Pierce the enemy's lines!
+@522
+Form the {p00}{p01} and meet the enemy!
+@523
+All forces, prepare to intercept! Draw them in close before you strike!
+@524
+Form the {p00}{p01}! The whole army, fall back in order!
+@525
+All forces, retreat in order! Knowing when to withdraw is part of the art of war!
+@528
+Army policy: {p00}. What will this unit do?
+@529
+The units will act according to the army's policy. Is this all right?
+@530
+The unit will advance and attack the enemy units. Is this all right?
+@531
+The unit will advance with full force and attack the enemy. Is this all right?
+@532
+The unit will hold its ground and meet the enemy. Is this all right?
+@533
+The unit will fall back and retreat from the battlefield. Is this all right?
+@537
+Gunner units, fire! Fire and keep on firing!
+@538
+Cavalry, charge! Scatter the enemy!
+@539
+This is our chance! Cut in with all your strength!
+@542
+Damn! Curse it, this is the end...
+@543
+Damn! No choice. All forces, retreat!
+@544
+Wh-what?! Hey! Do not run away!
+@545
+Damn! No choice. Fall back!
+@546
+{p00} has fled in disorder.
+@548
+Wh-what?! Hey! Do not panic!
+@549
+{p00} has fallen into confusion.
+@552
+There is no help for it. All forces, withdraw...
+@553
+Bitter as it is, we must retreat.
+@554
+The Leader of the {p00} has retreated.
+@555
+{p00} has retreated.
+@558
+Everyone, raise a war cry! One last push!
+@559
+The rally succeeded. Morale rose.
+@560
+The rally failed. Morale did not rise.
+@561
+Those who win glory will be rewarded. Work hard and do not fall behind the others!
+@564
+Everyone, laugh at that coward!
+@565
+Damn it! That insolent wretch!
+@566
+The taunt succeeded. The enemy's morale seems to have dropped.
+@567
+Ha, the fool. Let him say what he likes.
+@568
+{p00} ignored your taunt.
+@569
+Ha ha ha! Laugh at that blockhead!
+@570
+Grr... curse you, {p00}!
+@571
+You were taunted by {p00}. The unit's morale dropped.
+@572
+Fool. I have no ear for insults.
+@573
+You ignored {p00}'s taunt.
+@576
+Good, we have broken through the enemy lines! Now trample them in one stroke!
+@577
+Good, we have broken through the enemy lines! Now throw their rear into disorder!
+@578
+{p00} has broken through the enemy lines. Your army's morale rose.
+@579
+Good, we have broken through the enemy lines! Now I will throw their rear into disorder!
+@580
+{p00} broke through your lines. Unrest spread among your men and morale dropped.
+@600
+Night has fallen, but this is a chance to break through. Continue the battle?
+@601
+Night has fallen, but the battle is in our favour. Continue the battle?
+@602
+Now is the time to press them. Continue the battle?
+@603
+The whole army is retreating at present. Continue the battle?
+@604
+Night has fallen. The men seem tired. Make camp?
+@605
+Night has fallen. Make camp?
+@608
+Now is the chance to push the enemy back! Fight without rest!
+@609
+Now is the chance to strike the enemy down! Fight without rest!
+@610
+Retreat in order under cover of night. There is no time to rest!
+@611
+The enemy seems set to fight on through the night. You will fight back.
+@612
+Good, pull back to camp for today!
+@613
+Dawn is near. Make camp for a while and rest!
+@614
+This is where we hold on! Fight without rest!
+@615
+Draw the enemy in and fight without rest!
+@617
+{p00} Choose the policy for tonight.
+@618
+The whole army will rest and recover from fatigue. Is this all right?
+@619
+All but the watch units will rest. Is this all right?
+@620
+Select a unit to make a night raid on the enemy camp. Is this all right?
+@621
+No officer has the Ninjutsu skill, so this cannot be chosen.
+@622
+An officer with the Ninjutsu skill will be ordered to throw the enemy camp into confusion. Is this all right?
+@625
+Well done today. Rest tonight and heal the weariness of battle.
+@626
+Serve sake to the men to raise their morale?
+@627
+You do not have enough war funds. Regrettably, you cannot serve sake.
+@628
+Then we shall serve sake to the men. It will cost {b00} kan. Is this all right?
+@629
+I have prepared sake here. Drink your fill and recover your spirit!
+@630
+Oh, what a Leader we have! Now we can work hard again tomorrow!
+@631
+The army's morale rose.
+@634
+The enemy may attack tonight. Rest, but stay on your guard.
+@635
+Select the unit to keep watch.
+@636
+{p00} will keep watch. Is this all right?
+@637
+Oh well. I suppose I will keep watch myself tonight.
+@638
+Understood. Rest well, my lord.
+@641
+Tonight we shall make a night attack on the enemy. We will give those sleepy fools a good scare!
+@642
+Select the unit to make the night raid.
+@643
+{p00} will make the night raid. Is this all right?
+@644
+Good, I will show you how a night raid is done.
+@645
+Understood. Let us give the enemy a good scare.
+@648
+Tonight I mean to spread rumours among the enemy. We will confuse them and lower their morale.
+@649
+Select the unit to spread the false reports.
+@650
+{p00} will spread the false reports. Is this all right?
+@651
+Good, I will show you what a ninja's work is.
+@652
+Understood. Let us throw the enemy into great confusion.
+@657
+My unit will command the watch. Rest easy.
+@658
+Also, tonight's watch will centre on {p00}.
+@659
+Tonight we shall make a night attack on the enemy. We will give those sleepy fools a good scare!
+@660
+My unit will carry out the raid. I will show you how a night raid is done.
+@661
+The raid falls to {p00}. Go and run riot!
+@663
+My unit will spread tonight's false reports. I can already picture the confusion.
+@664
+The false reports fall to {p00}. Go and sow confusion among the enemy!
+@666
+Shall I volunteer for tonight's {p00} duty?
+@667
+Understood. Rest well, my lord.
+@668
+Understood. I will go and run riot!
+@669
+Understood. Let us make them panic.
+@670
+Wait, my lord. Leave this duty to me!
+@671
+Hm, a commendable attitude. Then I will entrust this duty to {p00}.
+@672
+Yes, my lord! I am honoured.
+@673
+Hm, a fine spirit, but for today, leave it to {p00}.
+@674
+Yes, my lord! I understand.
+@675
+Hm, if you insist, I will entrust this duty to {p00}.
+@676
+But mind you, if you doze off, you will answer for it.
+@677
+Yes, my lord! I understand.
+@678
+Hm, a fine spirit, but the men need rest too. For today, leave it to {p00}.
+@679
+Hm, {p00}, is it? Very well, I will leave it to {p01}. Let us see what you can do.
+@680
+Yes, my lord! I am honoured. I will run riot among them!
+@681
+Fool! Do not overstep yourself!
+@682
+Yes, my lord! Forgive me...
+@683
+Hm, if you are confident, I will entrust this duty to {p00}.
+@684
+But mind you, if you fail, you will answer for it.
+@685
+Yes, my lord! I understand. I will do my utmost!
+@686
+Hm, I like your spirit. But for today, leave it to {p00}.
+@687
+Fool! Only a man with some knowledge of ninjutsu can carry out this duty!
+@688
+Yes, my lord! Forgive me... (Oh dear...)
+@689
+Oh, {p00}, is it? Good, I will entrust this duty to {p00}.
+@690
+Yes, my lord! I am honoured. I will throw the enemy into confusion!
+@691
+Hm, a fine spirit, but for today, leave it to {p00}.
+@692
+Yes, my lord! I understand. I will throw the enemy into great confusion!
+@698
+Good, then let us set out for the night attack.
+@699
+What?! An enemy raiding unit?! It cannot be helped, we must fight back!
+@700
+Good, that will do. We pull back.
+@701
+You ran into the enemy on the way and a skirmish began. The night raid failed.
+@702
+Hm?! Enemy attack!
+@703
+Damn, there was a watch!
+@704
+Ah, come what may! Everyone, charge!
+@705
+No choice. We pull back for today.
+@706
+The night raid was called off.
+@707
+Splendid, the enemy are all fast asleep! Everyone, charge! Wreak havoc!
+@708
+Whoa! The enemy!
+@711
+The night raid on the resting enemy succeeded. The enemy suffered heavy losses.
+@712
+The night raid on the resting enemy succeeded. The enemy suffered losses.
+@713
+You were hit by an enemy night raid. Your army suffered heavy losses.
+@714
+You were hit by an enemy night raid. Your army suffered losses.
+@715
+You were spotted by the enemy watch and met with a counterattack. The night raid failed.
+@716
+You fought the enemy raiding unit. You prevented the enemy night raid.
+@717
+The watch unit fought the enemy raiding unit. The enemy night raid was prevented.
+@718
+You found the enemy raiding unit and fought it. You could not spread false reports, but you prevented the enemy night raid.
+@719
+The unit sent to spread false reports met the enemy raiding unit and fought it. The enemy night raid was prevented.
+@723
+Good, then let us go and spread a rumour in the enemy camp.
+@724
+Hm! These footsteps... Damn, an enemy night raid! Quickly, tell the main camp!
+@725
+The enemy also seems to have spread false reports. Unrest is spreading among your men.
+@726
+The enemy also seems to have spread false reports, but there was no damage.
+@727
+You there! Have you heard the rumour that reinforcements are coming for the enemy?
+@728
+What?! That is serious news. What are we to do...
+@729
+It is obvious! Tell everyone about it quickly!
+@730
+R-right, you are right. We must hurry!
+@731
+Excellent, they fell for it completely. The enemy army will be shaken now.
+@732
+Unrest is spreading in the enemy army. The false reports succeeded.
+@733
+What?! That is serious news. Hm... I have not seen your face before.
+@734
+What are you talking about? Is this the time for that? Go and tell everyone, quickly!
+@735
+Do not toy with me! You are an enemy spy! Hey! An intruder!
+@736
+D-damn! Time to make a run for it!
+@737
+The enemy caught on. The false reports failed.
+@738
+Let me see... Why, they are all fast asleep. We cannot spread a rumour like this.
+@739
+You could not spread false reports to the enemy.
+@744
+I hope nothing happens today...{w} No, those footsteps...
+@745
+Oh dear, I hope nothing happens today...{w} No, those footsteps...
+@746
+An enemy attack! We will cut them down!
+@747
+Good, I shall stand watch without sleeping tonight.
+@748
+Terrible news! They say enemy reinforcements are arriving one after another!
+@749
+What?! That is serious! We must think of a countermeasure at once!
+@750
+You fell for the enemy's false reports. Unrest is spreading among your men.
+@752
+What are you saying?! This is no time for such leisurely talk!
+@753
+Did you think I would be fooled by such play-acting? Seize this spy!
+@754
+You saw through the enemy's false reports.
+@755
+Hm, it seems nothing will happen tonight. The enemy must be wary of our movements too.
+@756
+Oh dear, it seems nothing will happen tonight.
+@762
+You met the enemy raiding unit on the way and a skirmish began. The night raid failed.
+@763
+The raiding unit was spotted by the enemy and withdrew.
+@764
+The unit heading for the enemy camp met the enemy raiding unit. The enemy raiding unit seems to have withdrawn.
+@765
+The false reports succeeded, and unrest is spreading in the enemy army.
+@766
+The enemy also seems to have spread false reports. Unrest is spreading among your men.
+@767
+The unit was spotted by the enemy and the false reports failed.
+@768
+You were spotted by the enemy and the false reports failed.
+@769
+You spread false reports to the enemy, but they had no effect.
+@770
+The enemy night raid was prevented by the watch unit.
+@771
+A strange rumour is going around. Unrest is spreading among your men.
+@772
+An enemy spy seems to have slipped in, but there was no damage.
+@773
+Nothing happened tonight.
+@783
+Your Leader has fled in disorder, and your army has collapsed. You lost the battle.
+@789
+Yes! First in merit!
+@790
+{p00}, you fought splendidly. Keep striving all the more.
+@791
+Yes, my lord! Your words honour me. I mean to serve with all my strength from now on.
+@792
+{p00}, splendid work. See that you keep it up.
+@793
+Yes, my lord! Your words honour me. I will keep working for you.
+@794
+Well done in this battle. Keep lending me your strength.
+@795
+Well done in this battle. Keep striving all the more.
+@800
+The clan the enemy army served has been destroyed. The enemy troops abandoned the castle, so you won the battle.
+@801
+The clan the enemy army served has been destroyed. The enemy troops fled in disorder, so you won the battle.
+@802
+Hm, in this battle, what if we set up horse barricades so the gunner units can do their work to the full...?
+@803
+You can set up horse barricades. It costs 300 kan. Set them up?
+@804
+Then no horse barricades will be set up.
+@805
+Good, we set up horse barricades between us and the enemy lines! Gunner units, fire at the enemy without pause!
+@809
+{p00}: reorganise the units?
+@810
+Our {p00} has suffered losses. We shall arrange our lines as follows.
+@813
+Hm, the enemy cannot form up either. That makes it an even fight.
+@814
+If we cannot form up, so be it. Hold out somehow!
+@815
+The enemy has lost units and cannot form up. Now is the time to attack!
+@816
+Damn! So the enemy is in {p00} formation! We cannot avoid a disadvantage...
+@817
+Hmm... so the enemy comes in {p00} formation... Our {p01} is at a disadvantage, but we must endure it.
+@818
+Hm, the enemy has come in the same formation. Today it will be a contest of the units' abilities.
+@819
+Hm, the enemy comes in {p00} formation. Then the formations are even. Today it will be a contest of the units' strength.
+@820
+Good, the enemy is in {p00} formation. Our formation has the advantage!
+@821
+Good, the enemy is in {p00} formation. We could not ask for a better match-up. Today the day is ours!
+@824
+Good, use the horse barricades and pour gunfire into the enemy!
+@825
+Hm, the horse barricades will not hold any longer. Fall back for today!
+@828
+Morale is high enough. There is no need to rally the troops.
+@829
+Your unit will rally itself to raise morale. Is this all right?
+@830
+Your unit will taunt the enemy unit to lower its morale. Is this all right?
+@831
+The unit will stand by where it is and do nothing. Is this all right?
+@832
+The unit will pull back from where it is. Is this all right?
+@835
+Which would you like to view?
+@840
+Listen well, everyone. Today our tactics will be: {p00}.
+@841
+Now then, what shall our formation be today...? {p00}, what do you think?
+@842
+Army policy: {p00}. Which formation will you propose?
+@843
+Army policy: {p00}. You will propose {p02} ({p01}). Is this all right?
+@844
+Yes, my lord. I believe the {p00} formation would be best here.
+@845
+Hm, you think so too? Good, we go with the {p00} formation.
+@846
+Hm, {p01}, is it...? Good, we go with that!
+@847
+Hm... {p01}, is it...? No, today we go with the {p00} formation!
+@848
+Hm, {p01}, is it...? That might be interesting too. Good, we go with that!
+@849
+Hm, {p01}, is it...? No, that would be a little weak. Today we go with the {p00} formation!
+@850
+No, a defensive formation is better for intercepting. Today we go with the {p00} formation.
+@851
+No, an offensive formation is the standard way to break through. Today we go with the {p00} formation.
+@999
+From line 1000 on, messages for sieges
+@1000
+(Defender's initial policy)
+@1001
+The enemy's forces are overwhelming. There is not enough rice to hold the castle. What will you do?
+@1002
+The enemy's forces are overwhelming. There is about two months of rice stored. What will you do?
+@1003
+The enemy's forces are overwhelming. There is enough rice to hold the castle, but what will you do?
+@1004
+The enemy's forces are somewhat greater than ours. There is not enough rice to hold the castle. What will you do?
+@1005
+The enemy's forces are somewhat greater than ours. There is rice to hold out for about two months. What will you do?
+@1006
+The enemy's forces are somewhat greater than ours. There is enough rice to hold the castle. What will you do?
+@1007
+The enemy's forces are about equal to ours. There is not enough rice to hold the castle. What will you do?
+@1008
+The enemy's forces are about equal to ours. There is rice to hold out for about two months. What will you do?
+@1009
+The enemy's forces are about equal to ours. There is enough rice to hold the castle. What will you do?
+@1010
+Our forces are the stronger. There is not enough rice to hold the castle. What will you do?
+@1011
+Our forces are the stronger. There is rice to hold out for about two months. What will you do?
+@1012
+Our forces are the stronger. There is enough rice to hold the castle. What will you do?
+@1013
+Units will sally from the castle and attack the enemy units aggressively. Is this all right?
+@1014
+Units will deploy around the castle and hold firm so the enemy cannot surround it. Is this all right?
+@1015
+You will hold the castle and meet the enemy there. Is this all right?
+@1016
+You will abandon the castle and retreat. Is this all right?
+@1018
+We shall meet the enemy outside the castle now. Drive them off!
+@1019
+Sally out now and hold firm around the castle! Do not let the enemy near it!
+@1020
+We shall hold the castle and meet the enemy now. Drive off any enemy who approach the castle!
+@1021
+It is bitter, but we cannot hold the castle like this. Each of you, leave the castle and retreat...
+@1023
+Will Lord {p00} fight outside the castle too?
+@1024
+Select the unit to defend the castle.
+@1025
+Will Lord {p00} defend the castle?
+@1026
+Have {p00} defend the castle?
+@1030
+(Attacker's initial policy)
+@1031
+The defenders have sallied out of the castle. How will you attack?
+@1032
+You will attack the enemy units outside the castle. Is this all right?
+@1033
+You will fight, putting the castle before the enemy units. Is this all right?
+@1034
+You will give up the siege and retreat. Is this all right?
+@1035
+The enemy seems to be coming out of the castle. We shall meet them outside too!
+@1036
+The enemy seems to be coming out of the castle. Ignore the units outside and take the castle!
+@1037
+Curse it, we cannot take the castle like this. Retreat for now!
+@1038
+Hm, perhaps it would be interesting to try flooding this castle...
+@1039
+My lord, rather than a direct assault, how about flooding this castle?
+@1040
+The defenders are preparing to hold the castle. What will you do?
+@1041
+You will surround the castle and storm it. Is this all right?
+@1042
+You will surround the castle and wait them out. Is this all right?
+@1043
+Flooding costs about 5000 kan. Carry it out?
+@1045
+The enemy will hold the castle. Surround it and take it by storm!
+@1046
+The enemy will hold the castle. Surround it and wear them down bit by bit!
+@1047
+The enemy will hold the castle. Surround it and build watchtowers for a long siege!
+@1048
+Good, we shall now flood the castle. Every unit, move to your post!
+@1050
+The enemy seems to be abandoning the castle and fleeing. Pursue them and strike them down thoroughly.
+@1052
+We shall now surround the enemy castle. Every unit, move out!
+@1053
+Will Lord {p00} take position away from the castle?
+@1060
+(For the hero's meddling)
+@1080
+(Siege retreat messages)
+@1082
+Damn, we could not hold it...
+@1083
+Damn, no choice. All forces, withdraw!
+@1085
+Damn! There is nothing more to be done. Abandon the castle and flee!
+@1086
+Damn! This is as far as my unit goes...
+@1087
+{p00} has withdrawn.
+@1088
+{p00} has been destroyed.
+@1093
+If this goes on, our losses will only grow. All forces, withdraw!
+@1094
+Curse it! Abandon the castle, all forces, and retreat!
+@1095
+Curse it, we cannot fight any more. Retreat!
+@1100
+(Raising morale)
+@1101
+How will you raise morale?
+@1102
+You will go among the troops and encourage them to raise morale. Carry it out?
+@1103
+You will hand out plenty of rice to raise morale and reduce fatigue. It costs {b00} koku. Carry it out?
+@1104
+You will hold a banquet to raise morale and reduce fatigue. It costs {b00} kan. Carry it out?
+@1105
+You will distribute all the money and rice in the castle. There will be nothing left afterwards. Carry it out?
+@1110
+(Encouraging the troops)
+@1111
+Everyone, fight to the death!
+@1112
+One more push! Hold on!
+@1113
+Attack, attack! Scatter the enemy!
+@1114
+Everyone, fight to the death, to the very last!
+@1115
+Hold on a little longer! Stand firm!
+@1116
+This castle will not fall. Be at ease!
+@1117
+The morale of each unit rose.
+@1118
+You encouraged the troops, but it had no effect.
+@1120
+Today there is a special meal for all! Eat your fill and restore your spirits!
+@1121
+Oh, what a lord we have! One cannot fight on an empty belly, after all!
+@1122
+The troops' morale rose and their fatigue fell.
+@1124
+Tonight we hold a banquet. Come, drink and sing!
+@1125
+Oh, what a lord we have! Now we can work again tomorrow!
+@1126
+The banquet raised the troops' morale and reduced their fatigue.
+@1128
+Whoever wins glory will be rewarded on the spot. Come, take what you like!
+@1129
+Oh, gold, gold! Right, here we go!
+@1130
+The lure of rewards changed the look in the troops' eyes. The morale of each unit rose.
+@1131
+Listen well, everyone! From now on, whoever wins glory will be rewarded. Give it your all!
+@1138
+I will give a reward to whoever finishes the work at his post early. Come, first come, first served!
+@1139
+Oh, we must hurry! A reward, a reward!
+@1140
+The lure of rewards changed the look in the troops' eyes. Morale rose and the work progressed.
+@1143
+(Castle repairs)
+@1144
+No unit is able to repair the castle.
+@1145
+You will repair the castle to restore its Defence. It costs about 300 kan. Is this all right?
+@1146
+Select the unit to repair the castle.
+@1147
+Repairing the castle will cost about 300 kan. Proceed?
+@1148
+{p00} will repair the castle. It will cost about 300 kan. Is that all right?
+@1149
+The castle will need repairs soon...
+@1150
+Right, I order {p00} to repair the castle.
+@1151
+Right, the damaged parts must be mended at once.
+@1152
+Understood. We shall begin repairs immediately.
+@1153
+Good, the repairs are done. Defence is back up by {b00}.
+@1154
+{p00} has finished repairing the castle. Defence is up by {b00}.
+@1155
+The castle repairs are finished. Defence is up by {b00}.
+@1158
+(Castle traps)
+@1159
+There is no unit able to set traps.
+@1160
+Set traps to defend the castle. Is that all right?
+@1161
+Select the unit to set the traps.
+@1162
+{p00} cannot set traps.
+@1163
+{p00} will set the traps. Is that all right?
+@1164
+Now, what shall I set up...
+@1165
+Understood. Now, what shall we set up?
+@1166
+Drops rocks on enemy units that attack the castle. It will cost 80 kan. Is that all right?
+@1167
+A trap to repel those who try to sneak into the castle. It will cost 50 kan. Set it?
+@1168
+Pits dug around the castle to damage enemy units that close in. It will cost 100 kan. Set them?
+@1169
+Right, let us set up a rockfall trap.
+@1170
+Then we shall start on the rockfall trap at once.
+@1171
+Right, let us set the wall spikes. The enemy will not slip in now.
+@1172
+Then we shall start on the wall spikes.
+@1173
+Right, let us dig pitfalls without the enemy noticing.
+@1174
+Then we shall start on the pitfalls.
+@1175
+Perhaps I should set some traps in the castle...
+@1176
+I order {p00} to build the {p01} trap!
+@1178
+Good, the rockfall trap is ready. I can picture the enemy panicking.
+@1179
+{p00} has finished the Rockfall trap. Any enemy who attacks the castle will suffer losses.
+@1180
+The Rockfall trap is complete.
+@1182
+Good, the wall spikes are done. Spies will not slip in so easily now.
+@1183
+{p00} has finished the Wall Spikes. They will stop spies sneaking into the castle.
+@1184
+The Wall Spikes are complete.
+@1186
+Good, the pitfalls are done. I can picture their astonished faces.
+@1187
+{p00} has finished the Pitfall trap. Any enemy who attacks the castle will suffer losses.
+@1188
+The Pitfall trap is complete.
+@1193
+(Surprise attacks)
+@1194
+Launch a surprise attack on the enemy castle. Is that all right?
+@1195
+Which surprise attack will you launch?
+@1196
+All units next to the castle will make a Night Raid. Is that all right?
+@1197
+Select the unit to sneak into the castle and spread False Reports.
+@1198
+Will you sneak in yourself and spread False Reports?
+@1200
+Right, then I shall sneak in.
+@1201
+Understood. The enemy will be thrown into confusion.
+@1202
+Select the unit to sneak into the castle and set fires.
+@1203
+Will you sneak in yourself and set fires?
+@1204
+{p00} will set the fires. Is that all right?
+@1205
+Right, time to make a real commotion.
+@1206
+Understood. I can picture the enemy panicking.
+@1208
+Tonight we sneak into the enemy castle and set it ablaze. We must give the enemy no chance to rest!
+@1209
+This time I shall sneak in myself. Sit back and watch the enemy castle go up in flames.
+@1210
+I leave this mission to {p00}. Cause as much havoc as you can!
+@1211
+Yes, my lord! I will see it through!
+@1212
+Tonight I mean to sneak into the enemy castle and throw it into confusion with false reports.
+@1213
+This time I shall sneak in myself. I will throw the enemy castle into utter confusion.
+@1214
+I leave this mission to {p00}. Go and throw the enemy castle into utter confusion!
+@1215
+Shall I volunteer?
+@1216
+Fool! This mission needs someone skilled in both ninjutsu and scheming!
+@1217
+Yes, my lord! I am deeply grateful. I will give the enemy a fright.
+@1219
+Right, now to sneak into the enemy castle!
+@1220
+Good, I'm slipping in nicely...{w}{w} Whoa!!
+@1221
+Caught in the Wall Spikes. The unit has suffered losses and the False Report failed.
+@1222
+{p00} failed to spread a False Report.
+@1223
+An enemy spy trying to sneak into the castle was caught in the Wall Spikes. Our morale has risen.
+@1224
+...Huh? A shadow on the wall... Ah! An enemy ninja! To arms, to arms!!
+@1225
+Damn, I've been caught! Pull back!
+@1226
+Spotted by an enemy lookout. The False Report failed.
+@1227
+{p00}'s False Report was noticed by an enemy lookout and failed.
+@1228
+An enemy spy seems to have sneaked in, but he was caught.
+@1229
+Good, I'm in.
+@1230
+Now, which shall it be...
+@1231
+Shall I lower the enemy's morale with false rumours...
+@1232
+Shall I make a commotion in the castle and tire the enemy out...
+@1233
+Shall I push the enemy troops to desert...
+@1234
+Shall I ruin their rice supplies...
+@1235
+Hey, you. Have you heard that enemy reinforcements are coming?
+@1236
+What? Then what will become of this castle?
+@1237
+Well, even if we do our best... four or five days more, I'd say...
+@1238
+Wh-what... What will become of us...
+@1239
+Excellent, the rumour will spread and the enemy's morale will drop.
+@1240
+The False Report succeeded. Unrest has spread through the castle and enemy morale has fallen.
+@1241
+What? Where did you hear that? Now that I look, you seem suspicious...{w} An enemy spy! Seize him!
+@1242
+Damn! Time to run for it!
+@1243
+The False Report failed. Enemy morale could not be lowered.
+@1244
+Help!!! An intruder has sneaked in!
+@1245
+What is it! Where is the intruder!
+@1246
+He ran off over there! Quick, after him!
+@1247
+Right, leave it to me! Intruder! Where are you hiding!
+@1248
+Excellent, they will be in an uproar tonight and worn out.
+@1249
+The False Report succeeded. The castle is in an uproar and enemy fatigue has risen.
+@1250
+What is it! What's going on!
+@1251
+An intruder, over there! Quick, chase him!
+@1252
+R-right, leave it to me! Hm!? Haven't I seen you somewhere... Intruder, you won't fool me with this!
+@1253
+D-damn! Time to run for it!
+@1254
+The False Report failed. The enemy could not be tired out.
+@1255
+Hey, you there. This is just between us...
+@1256
+Hm!? Don't keep me waiting, tell me.
+@1257
+Well, the rumour is that this army's commander will soon abandon the castle and flee.
+@1258
+Maybe we should cut our losses early too...
+@1259
+Wh-what... We can't dawdle, then!
+@1260
+Excellent, now some of the troops will desert.
+@1261
+The False Report succeeded. Soldiers seem to be slipping out of the castle.
+@1262
+Don't talk rubbish! Our commander would never abandon his men!
+@1263
+You! Now that I look, I don't know your face! You must be a spy!
+@1265
+The False Report failed. Desertion could not be encouraged.
+@1266
+Hey, it's terrible! The enemy has put poison in our rice!
+@1267
+Wh-what! This is a disaster! What are we to do?
+@1268
+Anyway, it will be too late once people fall ill! Let's throw the rice away.
+@1269
+Y-yes... We can't dawdle!
+@1270
+Good, their rice stores will shrink now.
+@1271
+The False Report succeeded. The enemy's rice seems to have dwindled.
+@1272
+Wh-what! That is a disaster...{w} N-no, that can't be true.
+@1273
+Wh-what are you saying! It will be too late once the damage is done!
+@1274
+No, you are the suspicious one! You must be a spy! To arms! To arms!
+@1276
+The False Report failed. The enemy's rice could not be damaged.
+@1277
+{p00} succeeded with a False Report. Unrest is spreading in the enemy castle.
+@1278
+An enemy spy seems to have sneaked in. Unrest is spreading in the castle.
+@1279
+The False Report spread by {p00} was seen through by the enemy and failed.
+@1280
+An enemy spy seems to have sneaked in, but he was caught.
+@1282
+Right, we sneak into the enemy castle now and set it on fire!
+@1283
+Caught in the Wall Spikes. The unit has suffered losses and the arson failed.
+@1284
+{p00} failed to set the fires.
+@1285
+Spotted by an enemy lookout. The arson failed.
+@1286
+{p00}'s arson was noticed by an enemy lookout and failed.
+@1287
+Now, where shall I set the fire...
+@1288
+Shall I set fire inside the castle and lower the enemy's morale...
+@1289
+Shall I set fire to the castle walls and lower their defence...
+@1290
+Shall I set fire to the rice storehouse and cut their rice...
+@1291
+Right, burn the castle interior! Wake the sleepers with a bang!
+@1292
+Right, burn the walls first! Strip this castle bare!
+@1293
+Right, find the rice storehouse and burn it! Turn the enemy's rice to ash!
+@1294
+Hm? Something smells scorched... Whoa! F-fire!
+@1295
+Good, a success. Pull out about now!
+@1296
+Arson inside the castle succeeded. Enemy morale has dropped and fatigue has risen.
+@1297
+Hm? Something smells scorched... Ah! Fire! Bring water, quick!
+@1298
+Hmph, they put it out... A pity, but we withdraw this time.
+@1299
+Arson inside the castle failed. The enemy took no damage.
+@1300
+Hm, it's bright outside... N-no, the walls are on fire! This is terrible!
+@1301
+Arson on the castle walls succeeded. The castle's defence and more have been damaged.
+@1302
+Hm, it's bright outside... N-no, the walls are on fire! Water, quick! Put it out!
+@1303
+Damn, the fire spread too slowly... A pity, but we withdraw this time.
+@1304
+Arson on the castle walls failed. The enemy took no damage.
+@1305
+Hm, what a fragrant smell of toasting rice... N-no, the storehouse is on fire! This is terrible! M-my rice!
+@1306
+Ha ha ha! Look at them scramble! Right, pull out!
+@1307
+Arson at the rice storehouse succeeded. The enemy's rice has been damaged.
+@1308
+Hm, what a fragrant smell of toasting rice... N-no, it's the storehouse on fire! Put it out quick! Protect the rice!
+@1309
+Damn, we were noticed... A pity, but we withdraw this time.
+@1310
+Arson at the rice storehouse failed. The enemy took no damage.
+@1311
+{p00} succeeded in setting fires. The enemy's troops and rice have been damaged.
+@1312
+Enemy spies set fires. Troops and rice inside the castle have suffered.
+@1313
+{p00}'s fires were put out. The arson failed.
+@1315
+Right, then we launch a Night Raid on the enemy castle. Wake those sleepy fools with a bang!
+@1316
+Right, make a Night Raid on the enemy castle tonight. Wake those sleepy fools with a bang!
+@1317
+A Night Raid!? What are the lookouts doing! Fight them off at once!
+@1318
+Damn! Everyone, fight them off at once!
+@1319
+Fools, we saw your Night Raid coming! Drive them back!
+@1320
+Hm, so they came for a Night Raid after all! Right, men on guard, fight them off at once! Drive them away!
+@1321
+You caught the enemy off guard. The Night Raid succeeded.
+@1322
+The Night Raid was detected and had little effect.
+@1323
+The enemy caught us by surprise and their Night Raid succeeded.
+@1324
+You detected the enemy's Night Raid in advance and reduced the damage.
+@1327
+Right, attack the castle! No, wait! What is that...
+@1328
+Everyone, there is a rockfall trap! Run!
+@1329
+Right, we take the castle! Hm?{w} What is that...
+@1330
+That's a rockfall trap!! Get away from the castle!!
+@1331
+You saw through the enemy's Rockfall trap.
+@1332
+The enemy saw through your Rockfall trap.
+@1333
+Right! Attack the castle...
+@1334
+Damn, a rockfall! Run!
+@1335
+Right, charge the castle...
+@1336
+Whoa!! S-stones are falling! Help me!!
+@1337
+Caught in the Rockfall trap. The unit has suffered losses.
+@1339
+Right, attack the castle! No, wait! This ground...
+@1340
+Everyone, there are pitfalls! Fill them in!
+@1341
+Right, we take the castle... Hm? This soil looks odd...
+@1342
+It's a pitfall!! Fill it in at once!
+@1343
+You saw through the enemy's Pitfall trap.
+@1344
+The enemy saw through your Pitfall trap.
+@1346
+Whoa! W-what is it!
+@1348
+Whoa!! D-don't push!!
+@1349
+Fell into the Pitfall trap. The unit has suffered losses.
+@1352
+The enemy castle will be under water soon. Once the flooding is complete, the castle is as good as fallen.
+@1353
+Damn... The castle swallowed by water... We are helpless...
+@1354
+Good, the flooding is complete. Now we wait for enemy morale to drop and, at the right moment, demand their surrender.
+@1357
+The enemy has surrounded your castle. If this goes on, your troops will lose morale and grow tired.
+@1358
+You have surrounded the enemy castle. This should lower the morale and raise the fatigue of the troops inside.
+@1359
+You have surrounded the enemy castle. You can now lower the morale and raise the fatigue of the troops inside.
+@1362
+There is no officer able to demand a surrender.
+@1363
+Demand that the enemy surrender. Is that all right?
+@1364
+Select the unit to demand the surrender.
+@1365
+That unit cannot do this.
+@1366
+Will you go to demand the surrender yourself?
+@1367
+Send {p00} to demand the surrender. Is that all right?
+@1368
+Right, then I shall go and persuade them to surrender.
+@1369
+Understood. We shall go to the enemy camp at once.
+@1370
+I have come to urge your surrender. You no longer have any hope of winning. Yield the castle peacefully.
+@1371
+Do you think I would surrender!? Be gone at once!
+@1372
+Even with the commander himself coming, we cannot surrender. Please leave.
+@1373
+Phew, no good... The surrender demand has failed.
+@1374
+I am sorry. The enemy's will to fight has not weakened... The demand failed.
+@1375
+...Hmm. I cannot let any more of my men die... I shall hand over this castle.
+@1376
+Ah! I see how deeply you care for your men. Then kindly open the gates.
+@1377
+Rejoice! The enemy accepted the demand and opened the castle!
+@1382
+Hand out rewards to raise morale. It will cost {b00} kan. Proceed?
+@1383
+Pay a bounty to raise morale and speed up the flooding. It will cost {b00} kan. Proceed?
+@1390
+Hm, how shall we attack... Does anyone have an opinion? Speak up!
+@1391
+Will you offer an opinion on tactics?
+@1392
+On which tactical policy will you offer an opinion?
+@1393
+My lord, I think we should thoroughly crush the enemy units outside the castle.
+@1394
+Hm, that is the textbook move, and you are right.
+@1395
+Yes, my lord! I shall give the orders at once.
+@1396
+Hm, crushing the enemy outside is the textbook move... but it will not do here.
+@1397
+Yes, my lord. I will take it to heart.
+@1398
+My lord, I think a full assault on the castle is best.
+@1399
+Hm, well seen, {p00}. There is no other way here.
+@1400
+Yes, my lord! Then I shall give the troops their orders at once!
+@1401
+Hm, attacking the castle is the textbook move... but it will not do here.
+@1403
+My lord, I think the best course is to surround the enemy castle and watch for now.
+@1404
+I think the best course is to keep up the siege and wait for enemy morale to drop.
+@1405
+Hm, that may be best... Right, we go with your plan.
+@1406
+Yes, my lord, I am most grateful!
+@1407
+No, that is wrong. Train your eye to read the battle.
+@1408
+Yes, my lord, I am sorry...
+@1409
+Forgive me, but I think the best course is to have the courage to pull back.
+@1410
+Hm, well seen, {p00}. You are right.
+@1411
+Fool! In this battle I will never allow a retreat!
+@1412
+Yes, my lord. I am sorry...
+@1413
+Fool! What idiot pulls back in this situation!
+@1414
+Yes, my lord, forgive me...
+@1415
+Hm, you have a point. But we cannot give up the fight yet.
+@1416
+Yes, my lord, I will take it to heart...
+@1417
+We should thoroughly crush the enemy units outside the castle.
+@1418
+I think a full assault on the castle is the only move.
+@1419
+I think we should surround the enemy castle and see how things go.
+@1420
+Forgive me, but I think we should retreat and regroup.
+@1422
+{p00}, what do you think?
+@1423
+My lord, this is... a difficult situation...
+@1424
+...Hmm. Here...
+@1425
+A full assault... no, a siege... Hmm...
+@1426
+Hopeless fool. I shall never ask you again!
+@1427
+Hm, if no one has an opinion, I shall decide.
+@1429
+Right, ignore the enemy outside! Take the enemy castle in one stroke!
+@1430
+Right, assault the castle in force! Take it in one stroke!
+@1431
+Right, the enemy has lost heart! Storm the castle in one stroke!
+@1432
+Surround the enemy castle! Do not lift a hand until I give the word.
+@1433
+Right, we wait for the enemy to move! Do not lift a hand until I give the word.
+@1434
+Right, crush the enemy outside the castle! Settle this in one stroke!
+@1435
+It is a bitter thing, but this castle will not fall like this. All forces, withdraw...
+@1438
+What orders will you give the army?
+@1439
+The army is retreating. What orders will you give it?
+@1440
+The castle is surrounded by the enemy. What orders will you give the army?
+@1444
+You are surrounding the enemy castle. What orders will you give the army?
+@1454
+Good, the work seems to have advanced a little.
+@1455
+Hm, the flooding will be done before long.
+@1456
+Good, the flooding is complete. Now we need only wait for the enemy castle to sink and weaken.
+@1460
+Which order will you give your own unit?
+@1461
+The unit is retreating. This is no time to rest.
+@1462
+The unit is already well rested. This is no time for more rest.
+@1463
+The unit is fighting an enemy unit. The troops cannot rest.
+@1464
+Resting the troops lowers fatigue, but may also lower morale. Proceed?
+@1465
+Good, I grant you a special rest today. Shake off your weariness and prepare for the battles ahead.
+@1466
+The unit's morale is already high. There is no need to raise it.
+@1467
+Rally the troops to raise the unit's morale?
+@1468
+Everyone, raise a battle cry! Do not fear the enemy!
+@1469
+The castle's soldiers are nothing much. Scatter them!
+@1470
+Do not fall behind the other units! Show some fight!
+@1471
+Everyone, raise a battle cry! Our unit will not lose!
+@1472
+Enemies like that are nothing to fear! Rest easy.
+@1473
+Before our unit, the enemy is nothing to fear! Fight with a calm heart.
+@1474
+The unit's morale has risen.
+@1475
+You cheered on the troops, but it had no effect.
+@1476
+The unit is retreating. This is no time to stand by.
+@1477
+Do nothing and stand by. Is that all right?
+@1479
+Cancel the night orders?
+@1480
+Which orders?
+@1481
+Cancel the orders?
+@1482
+Follow the army plan?
+@1486
+N-no!! The cannon is broken!!
+@1487
+Wh-whoa! The cannon is broken!! It is no use to us now.
+@1488
+{p00}'s cannon is broken. From now on it fights as Gunners.
+@1498
+Advice lines
+@1500
+The enemy has no fight left in them. Why not try demanding their surrender?
+@1501
+Enemy morale is low and some are running away. Let us crush them in one blow.
+@1502
+The enemy's rice has run out. It is only a matter of time before they cry for mercy.
+@1503
+The enemy has very little rice left. We could keep our hands off and wait for them to collapse on their own.
+@1504
+The enemy castle is under water. Now we can simply wait at our leisure.
+@1505
+The difference in strength is plain. Command as you see fit.
+@1506
+The battle favours us. It may be time to attack the castle.
+@1507
+The battle is evenly matched. Waiting for enemy morale to drop is one plan.
+@1508
+The battle goes against us. Attacking the castle would only add to our losses. Let us shake them with a Night Raid or the like.
+@1509
+The battle is very much against us... Withdrawing is part of the art of war. Please decide.
+@1510
+The battle is very much against us... Steel yourself and fight on.
+@1511
+The difference in strength is plain. First surround the castle, then command as you see fit.
+@1512
+The battle favours us. I suggest we first surround the castle and see how things go.
+@1513
+The battle is evenly matched. I suggest we first surround the castle and wait for enemy morale to drop.
+@1514
+The battle goes against us. I suggest we first surround the castle and shake them with a Night Raid or the like.
+@1517
+The enemy's strength is not great. We may fight outside the castle or defend within it.
+@1518
+The enemy's strength is not to be underestimated. Please decide with care.
+@1519
+The enemy's strength is overwhelming... Abandoning the castle may be one option...
+@1520
+The enemy's strength is overwhelming... Please prepare yourself.
+@1521
+The castle is now surrounded by the enemy, but our soldiers' morale is high. Rest assured.
+@1522
+The castle is now surrounded by the enemy. Our soldiers' morale is still high, but do not be careless.
+@1523
+The castle is now surrounded by the enemy. Our soldiers' morale is fair, but take care that it does not fall further.
+@1524
+The castle is now surrounded by the enemy. Our soldiers' morale is fair, but the situation is not one to take lightly.
+@1525
+The castle is now surrounded by the enemy. Our soldiers' morale is not quite up to the mark. Why not raise it?
+@1526
+The castle is now surrounded by the enemy. Our soldiers' morale is not rising, and I fear the situation is somewhat dangerous.
+@1527
+The castle is now surrounded by the enemy. Our soldiers' morale is falling. Unless you raise it, we may lose the castle!
+@1528
+The castle is now surrounded by the enemy. Our soldiers' morale is falling. If this goes on, I fear the worst.
+@1529
+The castle is now surrounded by the enemy. Our soldiers' morale is low and they may run away at any moment. This is dangerous.
+@1530
+The castle is now surrounded by the enemy. Our soldiers are losing the will to fight. If this goes on, we will lose the castle!
+@1531
+The flooding works are complete. The castle will gradually be swallowed by the water.
+@1532
+The flooding works are under way. Please wait a little longer.
+@1539
+(The defenders' castle is surrounded by the enemy and the policy must be changed)
+@1540
+Enemy units have surrounded the castle. You have no choice but to hold the castle and meet them.
+@1541
+Enemy units have surrounded the castle. Please change the army plan.
+@1542
+Meet the enemy with your units outside the castle. Is that all right?
+@1543
+Pull your units outside back into the castle. Is that all right?
+@1544
+We have no choice but to hold the castle now... Hold out somehow.
+@1545
+Units outside the castle, engage them! Break through this somehow!
+@1546
+Units outside the castle, return to the castle! Attack anything in your way!
+@1550
+(The attackers' policy is flooding and the flooding is complete, so the policy must be changed)
+@1551
+The flooding works are complete. You will attack the enemy units remaining outside the castle.
+@1552
+The flooding works are complete. Please change the army plan.
+@1553
+Attack the enemy units remaining outside the castle. Is that all right?
+@1554
+Watch quietly as the enemy castle falls. Is that all right?
+@1555
+Build watchtowers around the castle and watch quietly. It will cost 100 kan per unit. Is that all right?
+@1556
+Give up the siege and retreat. Is that all right?
+@1557
+Build watchtowers around the castle and watch quietly. Is that all right?
+@1558
+Now, crush the enemy units remaining outside the castle!
+@1559
+The enemy castle is as good as fallen. Surround it and watch the flooding quietly!
+@1560
+Build watchtowers around the castle! See the castle sink beneath the water!
+@1564
+(The attackers' policy is a long siege or watchtowers, and the enemy is outside)
+@1565
+Enemy units have come out of the castle. Please change the army plan.
+@1566
+Attack the enemy units outside the castle. Is that all right?
+@1570
+Resume the flooding works. Is that all right?
+@1572
+The enemy seems to be coming out of the castle. Ignore the units outside and assault the castle in force!
+@1574
+Right, we resume the flooding works now. Each unit, get to your posts!
+@1579
+(The attackers' policy is to attack the enemy, and no enemy remains outside the castle, so the policy must be changed)
+@1580
+No enemy units remain outside the castle. Please change the army plan.
+@1600
+(Defender's army plan change command)
+@1601
+Current plan: {p00}. Which plan will you change to?
+@1602
+Attack the enemy with the units outside the castle. Is that all right?
+@1603
+Attack the enemy units aggressively. Is that all right?
+@1604
+Units outside the castle, attack the enemy! Drive them away!
+@1606
+Strengthen the defences around the castle! Keep the enemy from the castle!
+@1607
+Hold the castle and meet the enemy. Is that all right?
+@1614
+(Attacker's army plan change command)
+@1625
+Right, crush the enemy units outside the castle! Settle this in one stroke!
+@1629
+Right, surround the castle! Besiege it and wear them down bit by bit!
+@1631
+Build watchtowers around the castle! See the castle sink beneath the water!

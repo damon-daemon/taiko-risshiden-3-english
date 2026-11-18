@@ -1,0 +1,272 @@
+@2
+Welcome. We always hear of your exploits as a pillar of the {p00}.
+@3
+Why, Lord {a660000}! The lord of the {a730000} clan comes in person. What an honour.
+@4
+Well done. Your training period is over.
+@5
+Your riding has improved a great deal. Well done.
+@6
+You seem able to handle a horse as you please now. Well done.
+@7
+Horse and rider as one: that saying was made for Lord {a660000} in the saddle. Magnificent.
+@8
+If it is urgent business for your house, so be it.
+@9
+Urgent business for your house? Then off you go.
+@10
+If something urgent has come up for your house, I understand. We shall continue another time.
+@11
+If urgent business has arisen for your house, I quite understand. Please do come again.
+@12
+I am sorry, but with the money you have I cannot lend you a horse any longer. Please come again.
+@13
+There is a horse I would like you to see.
+@14
+Oh yes, a very fine horse has come in.
+@15
+You must see this horse. A miracle of a horse, one might say.
+@16
+The price is {p00}. Will you buy it?
+@17
+Then let me knock the price down for you. How about {p00}?
+@19
+Hmm, what a pity. And such a rare chance, too.
+@20
+I am terribly sorry, but I have no warhorses to sell right now.
+@21
+My apologies, but we are done trading for today.
+@22
+Of course, ha ha. (Only one trade a day.)
+@23
+Warhorses are sold in lots of ten. The price is now {b01} kan a horse, and I can sell you up to {b00} horse{s}.
+@24
+Ugh... I cannot buy at that price.
+@25
+That is a pity. Next time, then.
+@26
+For {b01} kan you can buy {b00} horse{s}.
+@27
+With that budget you could buy {b00} horse{s} and still have some left.
+@28
+Will you buy them?
+@29
+Then how about {b00} horse{s} for {b01} kan?
+@30
+Then how about {b00} horse{s} for {b01} kan in gold?
+@31
+Hm... Your enthusiasm has won me over. I shall make you a special price.
+@32
+You are a true judge of horses, sir. I am no match for you.
+@33
+I see... Please come again some other time.
+@34
+We have a business to run. I can go no lower, I am afraid. I must ask you to leave.
+@35
+This is no time for training.
+@36
+I wish to train in riding. Would you lend me a horse?
+@37
+What? You have already mastered riding. There is no need to train now.
+@38
+So I have. How careless of me, ha ha.
+@39
+Then I will lend you one for {p00} a day. How long will you train?
+@40
+How many days will you train?
+@41
+Then {b00} day{s} it is. Is that right?
+@43
+Then you will train until your riding improves?
+@44
+Oh, it seems you do not have enough money.
+@45
+Hm? Of course. Forgive me.
+@46
+Horses in this province go for {b00} kan a head.
+@47
+Is there anything else?
+@49
+What will you do?
+@50
+You are stopping? A bit of a waste, but so be it.
+@51
+If you must stop, so be it. We shall continue another time.
+@52
+You wish to stop? Very well. Come again when you have more time to spare.
+@53
+If you wish to stop, very well. Please come again.
+@54
+It pains me to say this, but I fear you are not suited to riding.
+@55
+Everyone has what suits them and what does not, and, well... I think your riding will improve no further.
+@56
+So I must decline to lend you horses for training. I am very sorry.
+@57
+Your riding has improved. You have reached the highest Riding skill your Military ability allows.
+@58
+So now I know the horse price of the province I was ordered to survey. The rice price is next.
+@59
+I heard an interesting story lately. Let me tell you.
+@60
+I hear that using oxen and horses when developing new fields brings great results.
+@61
+When you receive a New Fields mission, you can now carry out "Oxen & Horses".
+@62
+Well then, how about {p00}?
+@63
+Hm... very well. I will cut it to the bone: how about {p00}?
+@64
+We have a business to run. I can go no lower. Let us forget this deal.
+@300
+Hm? What do you want?
+@301
+My name is {a6d0000}, at your service.
+@302
+You look like a monkey. Hardly a samurai at all.
+@303
+At any rate, just do not get in the way of my work.
+@304
+Ah, he has gone.
+@305
+Is that not Lord {a730006}?
+@306
+Hm, the Monkey. Do not get in the way of my work.
+@307
+But since we have met here, it must be fate...
+@308
+What do I care...
+@309
+Who are you?
+@311
+Hm... I see...
+@311.1
+Ah, he has gone...
+@312
+Oh, is that not Lord {a730006}?
+@313
+Oh, the Monkey. I did not wish to see that face in a place like this.
+@314
+What are you doing in a place like this?
+@315
+It is a secret. I have nothing to tell you...
+@317
+And who are you?
+@319
+Hm. And what do you want with me?
+@320
+No, nothing in particular...
+@321
+What! You dare speak to me so casually? The insolence!
+@322
+Oh, is that not Lord {a730008}?
+@323
+Hm... I have nothing to say to a monkey. Go away.
+@324
+You tell me to go away, but...
+@325
+If you will not go, I will. Honestly, stop pestering me.
+@331
+Oh, the Monkey. I am busy with work. Go away.
+@333
+I am at work now! Hey, stable master! I will buy warhorses. How much?
+@334
+That comes to 1200 kan.
+@335
+Hey, do you know who I am? I am Sakuma Nobumori! Make it cheaper.
+@336
+Even so, that is the lowest I can go...
+@337
+Hmph! Then I will buy in another province! This is all that pest's fault.
+@338
+I did nothing...
+@339
+Oh, no time to play with monkeys. The mission deadline will pass!
+@340
+Why, he has not yet completed his mission...
+@345
+Well, well. Is that not Lord {a6d0000}?
+@346
+Ah, Lord {a730025}. How do you find life as a warrior?
+@347
+As a warrior I think only of working as hard as I can.
+@348
+Quite right.
+@349
+Well, I am in the middle of my work, so I must excuse myself.
+@350
+Lord {a730025}! What a surprise to meet you here.
+@351
+Why, Lord {a6d0000}. What brings you here?
+@352
+Well, the truth is, I heard there is a horse here that can talk, so I came to see it with my own eyes.
+@353
+What! Is that true? Then I shall go and look for it!
+@354
+Lord Tōkichirō, sadly I could not find a talking horse.
+@355
+Ha ha ha! Of course not, of course not. It was only a joke.
+@356
+What! A joke? Lord Tōkichirō, how wicked of you!
+@357
+Ha ha ha. Forgive me.
+@358
+Never mind... Oh, I have no time for this.
+@359
+I shall take my leave, then.
+@365
+Oh, is that not Lord {a6d0000}?
+@366
+At work, are you?
+@367
+The results are slow to come, and I am frustrated.
+@368
+These things never go smoothly. By the way, the proper manner when mounting a horse is to take off your footwear.
+@369
+I see! That would look more polite! Then I shall do so at once...
+@370
+Lord Tōkichirō, it is rather hard to ride like this...
+@371
+Ha ha ha ha! Just a little joke!
+@372
+What! Lord {a6d0000}, how wicked of you...
+@373
+Oh, I am in the middle of my work. Excuse me.
+@374
+Well, I no longer need to train in riding.
+@400
+A cat?! Keep it away, it frightens the horses!
+@401
+You really brought one, damn you!
+@402
+Stable master! Are you well?
+@403
+Very much so! And it is all thanks to Lord {a6d0000}.
+@404
+You flatter well, stable master. By the way, among those who come to buy horses, is there a sturdy young man?
+@405
+And why would that be?
+@406
+Well, I am gathering men. I want someone I can use as a commander.
+@407
+Then I have just the man.
+@408
+Where?
+@409
+Look, right behind you, Lord {a6d0000}.
+@410
+Sir!
+@411
+Whoa!
+@412
+My name is Katō Yoshiakira.
+@413
+Oh, what a dependable young man!
+@414
+I need every strong ally I can find. I beg you, serve this {a6d0000}!
+@415
+Your words are too kind. I shall serve you with my life.
+@416
+Splendid, I am grateful to you. Come, let us go.
+@417
+At once!

@@ -1,0 +1,100 @@
+@301
+You sent for me, my lord?
+@302
+{a6d0000}, a letter has come for you from Lord Akechi.
+@303
+For me, my lord?
+@304
+Yes. Here.
+@305
+Let me see... "I intend to hold a tea gathering in Kyōto, and it would be my honour to receive you, Lord {a730000}, as my guest..."
+@306
+My lord, this is an invitation to a tea gathering in Kyōto.
+@307
+What, Lord Akechi has invited you to a tea gathering? {a6d0000}, do you know of any reason why?
+@308
+No... What shall I do, my lord?
+@309
+The Uesugi have grown restless of late. I need your strength to guard against them, but...
+@310
+What can Lord Akechi be thinking? I hardly dare suppose it, but...
+@311
+Suppose what, my lord?
+@312
+No... Of late I have heard a number of unsavoury rumours.
+@313
+Well, I leave it to your judgement. What will you do, {a6d0000}?
+@314
+The letter says I should come to Kyōto within 30 days of its arrival...
+@315
+Attend the tea gathering\nStay in Echizen
+@316
+The Uesugi will not move just yet. I shall attend the gathering and learn what Lord Akechi truly intends.
+@317
+Hm. Still, the Uesugi trouble me. Be back in Kitanoshō in about 30 days.
+@320
+The Uesugi trouble me after all. I shall stay in Echizen and keep watch on them.
+@321
+Well said. I will have you lend your strength to the campaign against the Uesugi.
+@330
+I have returned, my lord.
+@331
+Good work. So, how did Lord Akechi seem?
+@332
+He may be dangerous\nThere was no problem
+@334
+Lord Akechi may indeed be dangerous now.
+@335
+He did not reveal any intent to rebel, but here and there in his words I sensed distrust of Lord Nobunaga.
+@337
+N-no, there was no problem at all, my lord.
+@338
+...{a6d0000}. Are you hiding something?
+@339
+... ...Yes... I believe Lord Akechi is dangerous.
+@342
+I see... Very well.
+@344
+...Some time ago, when I called at Lord Akechi's residence in Kyōto, I also saw him receive what looked like a secret letter from the Imperial Court.
+@345
+What! ... We must be ready for the worst. I shall send a spy to watch Mitsuhide.
+@346
+Let no one hear of this.
+@352
+My lord! Pardon my intrusion!
+@353
+{a6d0000}, why such haste? What has happened?
+@354
+L-Lord Nobunaga... has died at Honnō-ji...
+@355
+What! Is that true...?!
+@356
+...Lord... Nobunaga...
+@357
+...According to our spy, yesterday Lord Akechi rose in revolt at Honnō-ji, and Lord Nobunaga took his own life.
+@359
+...Call everyone. I will hold an emergency council.
+@367
+L-Lord Nobunaga... they say he has taken his own life at Honnō-ji!
+@372
+...Call everyone. I will hold an emergency council.
+@380
+Good of you to come.
+@381
+My lord, what did you wish of me?
+@382
+Well, I have come by a fine horse, and I thought to have you deliver it to Lord Nobunaga. That is why I called you.
+@383
+A horse...?
+@384
+Yes. Did you not know? Lord Nobunaga is fond of horses...
+@385
+Pardon me. An urgent messenger has come from Lord Oda Nobutaka.
+@386
+Hm. Very well, send him in.
+@388
+Lord Shibata, pardon me.
+@389
+Akechi Mitsuhide has risen in revolt at Honnō-ji... Lord Nobunaga is dead.
+@390
+W-what?!

@@ -1,0 +1,1944 @@
+@0
+Cough, cough... I don't know who you are, but I'm unwell today. Go home.
+@1
+Cough, cough... I don't know who you are, but I'm not well today. Would you leave?
+@2
+Cough, cough... I do not know who you are, but I am indisposed. Might I ask you to leave?
+@3
+Cough, cough... Sorry, but I'm not well today.
+@4
+Cough, cough... I'm not well today. Forgive me.
+@5
+Cough, cough... I'm feeling poorly today. I am sorry.
+@6
+Cough, cough... Good of you to come, but I've fallen ill today.
+@7
+Cough, cough... To think you would call on me here. Alas, I have fallen ill today.
+@8
+Some medicine might cure him... Shall I give him some?
+@9
+Which one shall I choose?
+@10
+Shall I give him the {p00}?
+@11
+Drink this and get your strength back.
+@12
+Here, please drink this and regain your strength.
+@13
+Oh, thank you. I am in your debt.
+@15
+Oh, this is kind of you. I'm in your debt.
+@16
+Th-thank you! I will never forget this kindness...
+@17
+I'll be going, then. Get well soon.
+@18
+I shall take my leave. Please get well soon.
+@19
+I'd better not give him any medicine.
+@20
+Cough, cough... Sorry, but you'll have to go for today.
+@21
+Cough, cough... Sorry, but could you go home today?
+@22
+Cough, cough... I am sorry, but could you go home for today?
+@24
+Cough, cough... Forgive me, but would you kindly go home for today?
+@25
+Then I'll take my leave.
+@26
+In that case, I'll go home for today. Excuse me.
+@27
+He might recover if only he had some medicine.
+@28
+The medicine seems to be working. I want to sleep, so go home for today.
+@29
+The medicine seems to be working. I'd like to sleep, so could you go home today?
+@30
+The medicine seems to have taken effect. I would like to sleep for a while, so would you be so kind as to leave?
+@31
+The medicine seems to be working. I want to sleep, so could you go home?
+@32
+The medicine seems to have worked. I would like to sleep for a while, so would you kindly go home for today?
+@33
+Who are you?
+@34
+Hm? We haven't met before. Who might you be?
+@35
+And who might you be, sir?
+@36
+I am {a660000} of the {p00} clan.
+@37
+I'm {a660000} of the {a730000} clan.
+@38
+My name is {a660000}.
+@39
+I am called {a660000}.
+@40
+You have some nerve coming here! Be gone as soon as your business is done.
+@41
+You serve a clan hostile to ours... Please leave as soon as your business is finished.
+@42
+When your business is done, please go. I would hate to be suspected of treason. Forgive me...
+@43
+Pleased to meet you.
+@44
+How do you do.
+@45
+It is an honour to make your acquaintance.
+@46
+So you're the Monkey! Ha, you do look the part.
+@47
+So you are {a660000}. I'll remember that.
+@48
+So you are Lord {a660000}! Forgive my rudeness. I am {p00}.
+@49
+Ah, you've come.
+@50
+Welcome, Lord {a660000}.
+@51
+Ah, so good of you to come.
+@52
+Thank you for coming.
+@53
+Welcome. Thank you so much for coming.
+@54
+Welcome. Thank you for taking the trouble to come.
+@55
+What? What do you want? I've no business with the likes of you. Be off with you.
+@56
+...Welcome.
+@57
+State your business.
+@59
+I have nothing to say to you.
+@60
+What do you want?
+@61
+Good of you to come.
+@62
+Good of you to come. You are welcome here.
+@63
+Welcome. Thank you for coming.
+@65
+That's it for this round of training.
+@66
+That is all for this round of training.
+@67
+It doesn't seem to have sunk in. A pity.
+@68
+You've got the basics of {p00} down.
+@69
+You have learned the basics of {p00}.
+@70
+With this, you're fully competent in {p00}.
+@71
+You may now call yourself competent in {p00}.
+@72
+You've mastered {p00} completely now.
+@73
+Your {p00} is now perfect.
+@74
+I have learned the basics of {p00}. Thank you.
+@75
+My {p00} is now something I can be proud of. Thank you.
+@76
+I have mastered {p00} completely. Thank you.
+@77
+Our house is in danger. Drive off the enemy, then come back to train.
+@78
+Our house is in grave danger. Let us show them the fruit of our daily training in this battle!
+@79
+Let us teach them the folly of attacking us!
+@80
+You seem to have run out of money. Come back later.
+@81
+You have run out of money. Please come again.
+@82
+What brings you here?
+@84
+What is it?
+@86
+I will be direct. Would you consider working under me from now on?
+@87
+Lord {p00} will one day rule the realm. What do you say? Would you consider serving the {p01} clan?
+@88
+Don't talk nonsense! I could never betray my duty.
+@89
+I am content with my present lord. I shall forget what you just said...
+@90
+My lord and I are like fish and water... How could I go to another house?
+@91
+Very well. From now on, I shall call you my lord.
+@92
+Then I must leave here at once and move to {p00}...
+@97
+You still seem unable to decide. Let us leave the matter for now.
+@98
+A gift for me? Gladly, I accept.
+@99
+I gratefully accept.
+@100
+A gift for me? Thank you very much.
+@101
+Oh, a gift! I'll gladly accept it.
+@103
+You have mastered {p00} as far as you can for now.
+@105
+Why must I drink tea with you? I refuse.
+@106
+I am not in the mood just now. I am sorry.
+@107
+You want to drink tea with me? I don't.
+@108
+The {p00} clan and ours are enemies. It would be awkward if word got out that you came. Stay here tonight and leave in the morning.
+@109
+The {p00} clan and our house are enemies. To avoid any misunderstanding, please stay here tonight and leave in the morning.
+@110
+I've already given him a gift this month, so another won't have any effect until the new month begins.
+@111
+What is it?
+@112
+What can I do for you?
+@115
+No, it's nothing.
+@120
+We may meet next on the battlefield. I'll show no mercy then. Farewell, ha ha!
+@121
+We may meet next on the battlefield. I shall show no mercy then. Until that day, keep well.
+@122
+It was a pleasant evening. Come again when you can.
+@123
+Oh! Y-you mean to give me this? I am grateful. My heartfelt thanks.
+@124
+To give me such a fine item... Thank you!
+@125
+Such a costly gift for me... Th-thank you!
+@126
+Ho, now this is something... I'll gladly accept it.
+@128
+You are giving me this? Thank you.
+@129
+This, eh... Well, I'll take it for now.
+@130
+This? Since you went to the trouble, I will accept it.
+@131
+This is... Thank you.
+@132
+Hmm... I see. My thanks.
+@133
+I see... Thank you for the gift.
+@134
+Well, well... I gratefully accept.
+@135
+I'd like to hear rumours about people in the clan.
+@136
+I would like to ask you about the people of the clan...
+@137
+It was a pleasant evening. Please come again when you can.
+@138
+...Dawn has come. You had better go home now.
+@139
+...Dawn has come. Please come again when you can.
+@140
+By way of thanks, I've had a feast prepared. Stay the night.
+@141
+At present, our clan has no one but our lord and myself.
+@142
+By way of thanks, I have had a meal prepared. Please stay the night.
+@143
+Then I'll tell you about {p00}{p01}.
+@144
+Then I shall tell you about {p00}{p01}.
+@145
+In that case, I will tell you about {p00}{p01}.
+@146
+Who do you want to hear about?
+@147
+Who shall I tell you about?
+@148
+Whom would you like me to tell you about?
+@149
+I have already held a tea gathering with this person this month. Nothing will come of it until the next month begins.
+@150
+Given this{p00}'s standing, a gift below value {b00} would be rude.
+@151
+The council is about to begin. I'd better stop here for now.
+@152
+{p00}{p01}? He's {p02}, I'd say.
+@153
+{p00}{p01} strikes me as {p02}.
+@154
+{p00}{p01} is {p02}, I believe.
+@155
+{p00}{p01}... let me see... He likes {p02}, and he's {p03}.
+@156
+{p00}{p01} is fond of {p02}, and is {p03}.
+@157
+{p00}{p01}... well, now... He is fond of {p02}, and he is {p03}, you see.
+@158
+What an officer should know?! I've nothing to tell you.
+@159
+What an officer should know? I have nothing in particular to tell you.
+@160
+He won't tell me until we are on closer terms.
+@161
+You surely have no need to learn skills from other warriors any more.
+@162
+You no longer need to learn skills from other officers, {a730000}{p00}.
+@163
+I would love to teach you, but I'm afraid I have nothing to teach.
+@164
+I am sorry, {a730000}{p00}, but I have no skill worth teaching you.
+@165
+{p00} is the only thing I can teach you.
+@166
+All I can teach you is {p00}.
+@167
+What will you train in?
+@168
+What would you like to train in?
+@169
+Without tea ware, I can't hold a tea gathering.
+@170
+Oh well, I'd better withdraw. {p00}{p01} may have taken offence.
+@171
+In thanks for all your kindness, I will teach you.
+@172
+That'll be {p00} a day.
+@173
+The fee is {p00} per day.
+@174
+How long will you train?
+@175
+How long would you like to train?
+@176
+How many days will you train?
+@177
+For how many days would you like to train?
+@178
+You will train for {b00} day{s}, then?
+@179
+You will train for {b00} day{s}, is that right?
+@180
+We begin training at once.
+@181
+Then let us begin training at once.
+@182
+You will train until you reach a higher level of {p00}, then?
+@183
+You will train until you reach a higher level of {p00}, is that right?
+@184
+No money, I see. Just as war needs troops, training needs money. Remember that.
+@185
+You don't have enough money, I'm afraid...
+@186
+I beg your pardon.
+@188
+Forgive me, but there seems to be no skill I can learn from you...
+@189
+This is no time for such things.
+@190
+Since you are here, please stay the night.
+@191
+You will teach me {p00}, then?
+@192
+I see... What a pity.
+@193
+What can you teach me?
+@194
+Looks like {p00} is all I can learn from you.
+@195
+It seems {p00} is all I can learn from you.
+@196
+To be honest, I'm not sure I can reach a higher level.
+@197
+I am sorry, but I cannot find the will for it. I must decline this training.
+@198
+Yes, I think that is best too.
+@199
+Then I would like about {b00} day{s}. Is that all right?
+@200
+I see. Very well.
+@201
+You're giving me this?! It is exactly what I was after! My deepest thanks!!
+@202
+This is exactly what I was after! Thank you, from the bottom of my heart!
+@205
+What, nothing for me?
+@206
+I see... Never mind, then.
+@207
+You won't give it to me? No, no, don't mind me.
+@208
+Your {p00} has improved. I'd say you've mastered it, as far as you can for now.
+@209
+Congratulations on your progress in {p00}. I believe you have now mastered {p00} as far as you can, Lord {a730000}.
+@210
+Thank you. Thanks to you, my {p00} has improved.
+@211
+I feel I have learned {p00} to the limit of what I can do now.
+@212
+You want to stop? A bit of a waste, but so be it.
+@213
+It does seem a little wasteful, but very well.
+@214
+A little disappointing, but very well. Please teach me again some time.
+@215
+...I don't think this suits you. Even if you train, it won't sink in. You had better stop.
+@216
+It is hard to say, but I believe you will improve no further. So let us stop.
+@217
+I'm afraid I have no skill I could teach you, {p00}.
+@218
+Given this{p00}'s standing, a gift below value {b00} would be rude. But I have nothing worth that much.
+@219
+Cough, cough... Ill as I am, and I must look at your face... How unpleasant! Go home!
+@220
+Cough, cough... Sorry, but I'm unwell today. Go home.
+@221
+It's time for the council.
+@222
+I'd like to ask, for my own learning: what do you think our house should do?
+@223
+Why must I tell the likes of you such things? I won't say.
+@224
+The council is about to begin. I have preparations to make, so go home today.
+@225
+I think this is a time to build up strength. We ought to avoid battle.
+@226
+I don't think we should fight right now.
+@227
+For now, we should curb our eagerness and avoid battle, I think.
+@228
+I think there are more important things to do now than building up arms.
+@229
+For the time being, there's no need to build up arms.
+@230
+There should be no need to build up arms now.
+@231
+I don't think we need to weaken the enemy by winning over his men just now.
+@232
+I think we should not fight right now.
+@233
+Winning men over is not to my taste. Besides, there's no need for it now.
+@234
+I don't think we need to work on domestic affairs now.
+@235
+Hmm... If anything, there is something that deserves more effort than domestic affairs.
+@236
+This is no time to be fussing over domestic affairs.
+@237
+Perhaps now is the time to fight. I haven't decided yet, though...
+@238
+I am considering battle as an option.
+@239
+All I will say is that I think now is the opportunity.
+@240
+I think we should prepare for battle now.
+@241
+Battle takes proper preparation. Perhaps now is the time.
+@242
+Picking fights blindly will never win. We must prepare for battle. That is all I can say for now.
+@243
+Battle is not the only road to victory. Winning men over is sometimes needed too. Perhaps now is a good time.
+@244
+To win with fewer losses, winning men over is effective. Perhaps that is best right now.
+@245
+Winning men over is not to my taste, but it is sometimes effective. Not necessarily now, though.
+@246
+For now, I think steady rule of our own lands is the wise course.
+@247
+Hmm... After all, it may be best to work on domestic affairs to firm up our footing.
+@248
+Rather than fighting, perhaps we should think of making the people prosper.
+@249
+Thank you very much. That was helpful.
+@250
+What's this?! {p00}{p01} has business with me! You're in the way. Off with you, off!
+@251
+What brought you here? {p00}{p01} has business with me. Go home!
+@252
+I am in the middle of an important talk with {p00}{p01}. Sorry, but you'll have to leave.
+@253
+I am talking with {p00}{p01} just now. Sorry, but please go.
+@254
+I came to see {p00}{p01} before you did. Bad luck. Come back another time.
+@255
+I'm in the middle of an important talk with {p00}{p01}. Sorry, but go home.
+@256
+I'm in the middle of an important talk with {p00}{p01} just now. Sorry, but come back another time.
+@257
+Ha ha ha, sorry you came all this way. {p00}{p01} is talking with me now, so try another time.
+@258
+Forgive me, but {p00}{p01} is in an important talk with me just now. I'm sorry, but please leave.
+@259
+I'm sorry, when you've come all this way. {p00}{p01} and I are talking just now. Forgive me, but you'll have to leave.
+@260
+Cough, cough... I have fallen ill today. I am very sorry.
+@261
+Thank you. I am sorry to put you to trouble.
+@262
+What are you saying? Of course an elder brother helps his younger brother!
+@263
+The medicine from before seems to be working.
+@264
+Then go to sleep. I'll leave for today. Get well soon.
+@265
+{p00}, so good of you to come.
+@266
+Your {p00} has improved. With this much mastered, I think it's quite enough for you, {p01}.
+@267
+Let us show them the fruit of our daily training.
+@268
+Attacking our own lands! For the sake of our people, let us crush them!
+@269
+How may I help you?
+@272
+Such a costly gift for me... Thank you.
+@273
+I gratefully accept.
+@274
+Would you like to hear more rumours?
+@275
+{p00}, you do not need to learn skills from other officers.
+@276
+All I can teach you is {p00}.
+@277
+What will you train in?
+@278
+{p00}{p01} is talking with me now. I am very sorry, but please leave for today.
+@279
+He seems to have opened his heart to me as far as he ever will.
+@280
+As your younger brother, let me speak frankly: this does not really suit you, {p00}. Let's stop.
+@281
+We are brothers, after all. It's no trouble at all.
+@282
+How long will you train?
+@283
+Then how many days will you train?
+@284
+After all this time, I seem to have won his considerable trust.
+@286
+Given this{p00}'s standing, I need tea ware of value {b00} or more. But I have none worth that much.
+@287
+To become close to him, I have no choice but to use {p00}.
+@288
+Now, which one shall I use?
+@289
+It should be as valuable as possible... I'll choose {p00}.
+@291
+A splendid bowl of tea.
+@292
+Your tea was splendid.
+@293
+Your tea was truly splendid.
+@295
+It seems to have had a fair effect.
+@296
+It had little effect, but it was better than doing nothing.
+@297
+What an officer should know, eh... Very well, I'll tell you what any officer ought to know.
+@298
+What an officer should know? Let me see... Then I shall tell you what I know.
+@300
+Lord Asano! Lord Asano!!
+@301
+Well, well, I thought I heard a racket. It's you, {a6d0000}. It's a small house; you needn't shout so. I can hear you.
+@302
+Ah, my apologies. But a loud voice is my only talent...
+@303
+Ha ha, true enough. Your voice echoed even at Okehazama. You did well in that battle.
+@304
+Sir! Your words are too kind.
+@305
+Your efforts have been recognised. You are to be formally taken on as an Ashigaru.
+@306
+R-really?! Me, a s-samurai?!!
+@307
+Ha ha ha! Just watching your joy makes me happy.
+@308
+But {a6d0000}, from now on you must work even harder.
+@309
+Lord {a6d0002} values those who help with strategy and tactics more than those who merely fight.
+@310
+Even someone like you may rise in rank if you work with all your might.
+@311
+Yes, sir! I will keep striving!
+@312
+With all my might... I will strive... Sniff...
+@313
+Who weeps at a joyful moment like this? Now you've set me off too...
+@314
+And there is a favour I want to ask of you, which is why I called you today.
+@315
+The fact is, Lord {a660013} has been recognised by Lord {a6d0002} for his deeds at Okehazama, and is returning to the {a730002} clan.
+@316
+Even if the other man was in the wrong, killing Lord {a6d0002}'s favourite page was a grave misstep.
+@317
+So it couldn't be helped that he was banished for angering Lord {a6d0002}...
+@318
+Yes! So I want you to deliver a gift of congratulations.
+@319
+I thought I would entrust this to you, who were friends with Lord {a730013}.
+@320
+That is wonderful! Please let me go!
+@321
+Then deliver this Ōmi Wakizashi. Come straight back once it is handed over. Whatever you do, no detours.
+@322
+You haven't gone yet? Hurry and hand it to Lord {a6d0013}.
+@323
+Lord {a6d0013}! Lord {a6d0013}!
+@324
+Oh, that voice... is it {a6d0000}? Why such a hurry?
+@325
+Why, I heard you had returned, Lord Toshiie, and flew here!
+@326
+Also, Lord Asano asked me to deliver this gift of congratulations...
+@327
+I see. Sorry to trouble you.
+@328
+More to the point, if you were back, why didn't you let Tōkichirō know?
+@329
+Ha ha ha... Sorry about that. I was injured and could not move.
+@330
+What?! You were injured?!
+@331
+Don't shout. See, I'm fine now.
+@332
+More scars only make a man better. I'm the one they call Mataza of the Spear. Have you forgotten?
+@333
+Right, to make up for the worry, let's drink our fill together today!
+@334
+I'm going home today...\nNow you're talking!
+@335
+No, I must report to Lord {a730010}, so I will take my leave for today.
+@336
+What? {a6d0000}, since when have you become so stiff?
+@337
+But if it's work, I can hardly hold you back.
+@338
+Weren't you going off to report?
+@339
+Well, never mind that... Let's drink our fill today...
+@339.1
+That's the spirit! Come on, let's drink, {a6d0000}!
+@340
+That was quicker than I expected.
+@341
+Yes, I have delivered it.
+@342
+I see. It was a reunion after a long time, so you must have wanted to talk at leisure.
+@343
+No, it was work.
+@344
+Good. That diligence is your strong point. Keep it up.
+@345
+And, though it comes one on the heels of another, I have more work for you.
+@346
+I have been given the mission of selling rice. I want you to survey the Mino prices within 10 days.
+@347
+How exactly should I go about a price survey?
+@348
+Go to the Rice Dealer and the Stables in Mino, ask the owners the prices, and report to me.
+@349
+I could go myself, but you must also learn where each town is.
+@350
+{a6d0000}! You did deliver the Ōmi Wakizashi to Lord {a6d0013} properly, I trust?
+@352
+It was a reunion after a long time, so I'll forgive you this once. From now on, report as soon as your work is done.
+@353
+I am very sorry. I will be careful in future.
+@354
+And, I have more work for you.
+@356
+Haven't you finished surveying the Mino prices yet?!
+@357
+The deadline has already passed... Not even able to survey prices... How pathetic.
+@358
+Go and survey the Mino prices once more!
+@359
+Lord {a730010}, I have surveyed the prices of Mino.
+@360
+{c01}- About the Building Screen -\n When a face is shown at the upper left of the building screen, select it to talk with that person. Press Cross to return to the castle town screen.{c09}
+@362
+I see. Well done.
+@363
+Received 500 mon.
+@364
+You must be tired from the long trip. Rest at home or at an inn until I give you your next task.
+@365
+If you don't rest properly, fatigue builds up and you will fall ill more easily.
+@366
+Thank you for your concern.
+@367
+I'll be going now\nWhere is Lady Nene?
+@369
+Oh, and don't waste your money. You'll be in trouble when you truly need it.
+@370
+By the way, where is Lady Nene?
+@371
+Hm? What business do you have with Nene?
+@372
+Oh, nothing... I only thought I might like to see her...
+@373
+Out of the question! Off home with you, and get some sleep!
+@374
+Oh, Lord {a730010} doesn't seem to be in.
+@375
+Is someone there?
+@376
+Eek!
+@377
+Why, Lady {a6d00e6}. I did not mean to startle you...
+@378
+Honestly, Lord {a6d0000}...
+@379
+If you have come to see Father, he has been summoned to the castle.
+@380
+He asked me to tell you, Lord {a6d0000}, to come again later.
+@381
+I am sorry you came all this way for nothing.
+@382
+I don't mind\nHow unfortunate...\nWhat a fine chance
+@383
+I don't mind in the least. Just speaking with Lady {a6d00e6} is happiness enough for {a6d0000}.
+@384
+Oh, Lord {a6d0000}...
+@385
+But I have an errand of my own. Why not go for a stroll?
+@386
+Oh... I was hoping to talk with Lady {a6d00e6} a little longer...
+@387
+But I would be a nuisance, so I will come back later.
+@388
+That is unfortunate... You ought to have said so sooner. I have my own plans, you know...
+@389
+Lord {a6d0000}! Such grumbling! And you call yourself a man?
+@390
+Instead of saying such things, why not take a stroll? It will lift your spirits.
+@391
+My, Lady {a6d00e6} can speak quite sharply. I am all the more smitten.
+@392
+Oh, stop! Don't tease me!
+@393
+What a fine chance. Lady {a6d00e6}, would you talk with me a little?
+@394
+And what shall we talk about?
+@395
+Tell me what interests you most these days, or what you are fond of.
+@396
+Let me think. What interests me most now is where Lord {a6d0002} will attack next.
+@397
+Hmm. Spoken like Lord {a730010}'s true daughter.
+@398
+Of course! A samurai's daughter must always keep watch on the doings of the house her family serves!
+@399
+Indeed, that is only proper.
+@400
+Now, Lord {a6d0000}, what are you interested in?
+@401
+What interests me? Why, that would be Lady {a6d00e6} herself.
+@402
+Hee hee... What a lovely thing to say.
+@403
+Lady {a6d00e6}, it is the truth. Please believe me.
+@404
+Yes... Then please come again when Father returns.
+@405
+Father has been called to the castle and is out. Please come again when he returns.
+@406
+I'm sorry I was out when you came all this way.
+@407
+Now then, for this job I want you to survey the prices of Tōtōmi within 20 days.
+@408
+I am to survey the prices of Tōtōmi, then.
+@409
+Yes. The method is the same as when you surveyed Mino.
+@410
+Understood. I will set out at once.
+@411
+Now, hurry and survey the prices of Tōtōmi.
+@412
+The deadline passed long ago! What is the meaning of this?!
+@413
+Go and survey the prices of Tōtōmi once more!
+@414
+Lord {a730010}, I have returned. I have surveyed the prices of Tōtōmi.
+@415
+I see. Well done. It is not much, but here is a reward from me. Take it.
+@417
+What an undutiful son! Take this and go home, so they can see you are well.
+@418
+Understood. Thank you.
+@419
+Good. That's the spirit.
+@420
+Oh, whoa... {a6d0000}! You... you came at just the right moment!
+@421
+What has you so flustered?
+@422
+{a6d00e6}... {a6d00e6} has fallen ill!
+@423
+What! Lady {a6d00e6}?
+@424
+And with symptoms I have never seen before.
+@425
+At any rate, go to a physician and get some medicine, will you?
+@426
+Understood. I am to get medicine from the Physician's Home. Leave it to me!
+@427
+I'm counting on you.
+@428
+Lord {a730010}! I have brought the medicine!
+@429
+Oh, you brought it! I must give it to Nene at once!
+@430
+Yes. Give her the medicine, stay calm, and see how she fares.
+@434
+I-I understand...
+@435
+Then I shall take my leave.
+@436
+{a6d00e6}... {a6d00e6}...
+@437
+Next time, be sure to come back within the deadline.
+@438
+Oh, Lady {a6d00e6}, are you feeling better now?
+@439
+Oh, Lord {a6d0000}...
+@441
+Well, I heard that you, Lord {a6d0000}, brought medicine for my sake...
+@442
+Think nothing of it\nIt was not for your sake
+@443
+Not at all. For Lady {a6d00e6}'s sake, this was nothing. Please think nothing of it.
+@445
+{d04}...
+@446
+{a6d0000}, you have my thanks for this. I bow my head to you...
+@447
+N-no, please raise your head! I only did what was proper.
+@448
+No, what would have become of us had you not been here...
+@449
+In any case, thank you. Now I must let {a6d00e6} rest. You go home and rest too.
+@450
+{a6d0000}, you go home and rest as well.
+@452
+Not at all. It was not for Lady {a6d00e6}'s sake, but for my own.
+@453
+Lady {a6d00e6}'s health is my happiness, after all.
+@455
+Lord {a730010}, {a6d0000} has come.
+@456
+{a6d0000}... I have an important matter to discuss today. Listen carefully.
+@457
+Sir... (What could it be? He is unusually serious...)
+@458
+You are a man of promise. But there is something you still lack. Do you know what it is?
+@459
+Skill\nStamina\nA bride
+@460
+The skills needed to carry out missions, perhaps?
+@461
+Yes, that is it. I intend to ask the senior retainer, Lord Niwa, to recommend you for Ashigaru Captain.
+@462
+Is it because my body is small, and I lack stamina?
+@463
+Don't talk nonsense. Stamina and spirit are all you have...
+@464
+What you need is the skill to carry out missions.
+@465
+I intend to ask the senior retainer, Lord Niwa, to recommend you for Ashigaru Captain.
+@466
+Could it be... a wife? Ah, so that is what today is about! Lady {a6d00e6}...
+@467
+I am speaking seriously, and you jest!
+@468
+Ow... ouch... F-forgive me...
+@469
+Phew... Then I shall tell you what you need. It is the skill to carry out missions.
+@471
+No, thank you. I ought to find that out for myself.
+@472
+Quite so, that is only right. Then off you go.
+@473
+Ah, {a6d0000}. You are training diligently, I trust? Come, don't waste your time.
+@474
+Yes, sir. Excuse me.
+@475
+Lord {a730010}, I have brought my younger brother, {a6d0001}.
+@476
+I am {a6d0001}.
+@477
+Hmm... Quite a steady young man, unlike {a6d0000}.
+@478
+Isn't he? I can count on him.
+@479
+I see. So now you too have a retainer of your own to treasure.
+@480
+And I have good news for you as well.
+@481
+What might it be?
+@482
+Your promotion to Ashigaru Captain has been approved!
+@483
+R-really?!
+@484
+Why would I lie to you? Unfortunately, it is true.
+@485
+What do you mean, unfortunately?!
+@486
+Naturally. At long last, I must give up my precious {a6d00e6}...
+@487
+Heh heh... Quite so. From where you stand, Father, I suppose it would.
+@488
+To think you would call me Father... I never imagined it.
+@489
+Lord and retainer share joy and hardship at all times. Help one another for many years to come.
+@490
+...Understood. I will engrave those words on my heart...
+@491
+Sir! I am fully resolved!
+@492
+Now then, once the wedding is set, many preparations will be needed.
+@494
+Well? Have you found someone to act as go-between?
+@496
+\_\_\_\_\_\_\_\_\_\_\_\_- The next day... -
+@497
+Thank you for agreeing to be our go-between.
+@498
+Not at all. I have had my eye on you, Lord Kinoshita, for some time.
+@499
+It is a good chance to get to know you, so I accepted.
+@500
+I am most grateful, sir.
+@501
+Ha ha ha, there is no need to be so formal. By the way, I hear Lord {a660013} is handling the entire wedding...
+@502
+You have a good friend. Treasure him.
+@504
+My own preparations are done already. Lord {a730000}, you had better return and make yours soon.
+@505
+I'll do that. Then I am in your hands.
+@506
+Lord {a730010}! {a660000} has arrived!
+@507
+Oh, you were quick. {a6d00e6} is still getting ready.
+@508
+Oh!
+@509
+Father.
+@510
+...What is it...?
+@511
+Father, thank you for looking after me for so long.
+@513
+Father?
+@514
+N-Ne... Nene...
+@515
+Brother, let us leave the two of them alone...
+@518
+Excuse me...
+@519
+Father, I have brought tea. Oh, why are you both crying...?
+@520
+Oh, {a6d00e6}! You came at the right moment. Come, congratulate {a6d0000} on his promotion too.
+@521
+But a return to service! That is happy news indeed!
+@522
+Let us have a good drink together again soon.
+@523
+So you did deliver the Ōmi Wakizashi to Lord {a6d0013} properly.
+@524
+Understood. Then I will be on my way.
+@525
+Yes. Take care on the road.
+@526
+Good, that is all I wanted to hear.
+@528
+Yes. Take care on your way.
+@529
+This is a reward from me. Take it.
+@530
+For a samurai, his body is everything. Look after yourself.
+@531
+Oh, it is Lady Nene.
+@532
+It's me!
+@533
+Excuse me!
+@534
+Indeed...
+@535
+You must always watch the prices of rice and horses closely. Keep that in mind.
+@536
+By the way, Lord {a730010}, you seem unusually cheerful today. Did something good happen?
+@537
+Well, yesterday {a6d00e6} made a belly wrap for me. I am so happy, so very happy.
+@538
+Truly, she has grown into a fine daughter who cares for her father.
+@539
+By the way, how are your parents doing?
+@540
+Well, I have not been home for so long that I wonder how they are...
+@541
+It came on suddenly: a high fever, and her whole body shaking...
+@542
+Why would {a6d00e6} choose someone like {a6d0000}...
+@543
+Hey! Nene! Prepare the sake!
+@544
+Gave the Ōmi Wakizashi to Maeda Toshiie.
+@545
+\_\_\_\_\_\_\_\_\_\_\_\_- Asano Nagakatsu's Home -
+@546
+\_\_\_\_\_\_\_\_\_\_\_\_- Niwa Nagahide's Home -
+@547
+\_\_\_\_\_\_\_\_\_\_\_\_- Maeda Toshiie's Home -
+@548
+What, Lord {a6d0000} is being promoted?
+@549
+Congratulations. I am sure Lord {a6d0000} will serve admirably.
+@550
+Oh, Lady {a6d00e6}! To receive such warm words from you...
+@551
+Lady {a6d00e6}, watch me! {a6d0000} will do it!
+@552
+I will surely rise higher than anyone in the {a730002} clan, and one day take Lady {a6d00e6} as my bride...
+@553
+{d02}Thump!
+@554
+Don't get carried away, Tōkichirō! As if I would ever give you Nene's hand!
+@555
+Ow... Lord Asano, that's not fair...
+@556
+Hee hee... Do make yourself at home.
+@557
+Ahem... Whatever you do, get no strange ideas about {a6d00e6}.
+@558
+Ha ha ha! So it is. That is just like you, Lord Toshiie. I am relieved you haven't changed.
+@559
+Well, off I go. But I feel sick... I seem to have drunk too much.
+@560
+Oh, Lord {a6d0000}. You do not look well.
+@561
+Well, I drank far too much with Lord Toshiie... I feel dreadful...
+@562
+Hee hee, you poor thing. But even when you look so troubled, I cannot help finding it funny.
+@563
+Is that so? Whether that is to my credit or not... Well, I was born with a funny face, so there is no use fretting over it.
+@564
+Yes. But somehow, watching you, Lord {a6d0000}, cheers me up. Father seems happier these days too.
+@565
+Is that so! If this face can cheer you up, then it was worth being born with it!
+@566
+Well then, I am off to work!
+@567
+Yes, take care.
+@568
+Lord {a6d0000}!
+@569
+{d04}W-what is it?!
+@570
+I... When I was delirious with fever, I dreamed that you, Lord {a6d0000}, saved me.
+@571
+It was so reassuring... So...
+@572
+Nene! What are you doing?! You must stay in bed!
+@573
+Come now, go to bed!
+@574
+Oh... Y-yes...
+@575
+What! Me, an Ashigaru Captain?!
+@576
+Yes, you absolutely must become one, or else...{w}{w} Er, never mind. Forget I said that.
+@577
+Now then, once you are an Ashigaru Captain, you may attend the council and receive missions from Lord {a6d0002}.
+@578
+Missions come in many kinds, such as domestic affairs and military matters, and you will need many skills to accomplish them.
+@579
+Now, I grant you 90 days' grace. Train and master as many skills as you can. You should manage at least four or so.
+@580
+And this is your funding for it. Use it for your training.
+@581
+Received the great sum of 10 kan.
+@582
+S-such a large sum... for me...
+@583
+Sniff... Th-thank you... very much...
+@584
+It is nothing, {a6d0000}. Don't worry about it.
+@585
+However, if the time runs out and you have not mastered a single skill, there will never be a recommendation. Mark my words!
+@586
+And if you squander the funds, you will not get off lightly. Understood?
+@587
+Yes, sir! I will do my best!
+@588
+Good, off you go, then. Oh, wait. Shall I first explain how training works?
+@589
+Please do\nNo, thank you
+@590
+Yes, please.
+@591
+Good, listen well. Some skills you learn from people, others at places such as the Stables.
+@592
+As for places, the Stables teach Riding, and the Dōjō Martial Arts.
+@593
+Other places for training include the Merchant House and the Smithy.
+@594
+I see, I see. The Stables, the Dōjō, the Merchant House, the Smithy...
+@595
+People can teach many skills, such as Tactics and Scheming, but they may refuse you if you are not on good terms with them.
+@596
+Well, find out the rest and think it over yourself. You ought to manage that much.
+@597
+Yes, sir. Then I will be on my way!
+@600
+Excuse me. Is Lord Toshiie in?
+@601
+Ho, {a6d0000}! Everyone's here. Come in, come in!
+@602
+Now, you may have seen them already, but these are Lords Hachiya, Ikeda, Kanamori and Okumura.
+@603
+I am {a660000}, at your service.
+@604
+Come, let us skip the stiff greetings. Now, the reason I called you here: it seems our lord has decided to move his castle.
+@605
+Oh? And where does he mean to move it?
+@606
+Well, there seem to have been many opinions, but it looks as though Komakiyama will be the choice.
+@607
+Komakiyama... It is hardly what one would call a stronghold... What do you think?
+@608
+Indeed. If he is going to the trouble of leaving Kiyosu, there must be a deeper reason...
+@609
+That's the question. What do you say, {a6d0000}? Can you guess the reason?
+@610
+A first move against Mino\nOur lord's whim
+@611
+Could it be that he is moving to Komakiyama, closer to Mino, as a first move against Mino?
+@612
+I see...
+@613
+Yes, I see it that way too. At last, our lord means to seize Mino in earnest.
+@614
+Well, perhaps it is merely our lord's whim... Maybe he has tired of hawking around Kiyosu...
+@615
+Fool! Our lord would never move his castle without good reason!
+@616
+Yes. Moving to Komakiyama, closer to Mino, means he is at last throwing his full weight behind the Mino campaign.
+@617
+Yes, Lord Hachiya is right. At last, our lord means to seize Mino in earnest.
+@618
+Yes, taking Mino has long been our dearest wish. This is welcome news.
+@619
+Yes, we must strive all the harder. It will be a busy time!
+@620
+Hm, a campaign against Mino... It may serve me later. Perhaps I should go and look around a little.
+@621
+I mean to take on the mission to buy horses at the next council.
+@622
+So I thought I would start surveying prices in each province now.
+@623
+I have already surveyed the prices of Tōtōmi.
+@624
+What! How thoughtful of you. Good, good, keep it up.
+@625
+This is a reward from me. Take it.
+@626
+Have you finished your training already?
+@627
+I'm finished\nI want to continue
+@628
+Yes, my training is finished.
+@629
+I see. Then let me hear the results of your training.
+@630
+No, I would like to continue my training a little longer.
+@631
+Excuse me! Is Lord Sakuma in?
+@632
+Hm? You're Monkey-kichirō, are you not?
+@633
+No, sir, it's Tōkichirō.
+@634
+Ah, so you are. Now, what do you want of me?
+@635
+Yes, I have come today to ask a favour of Lord Sakuma.
+@636
+A favour, from me? Well, I'll hear it, at least. Speak.
+@637
+The truth is, I am soon to be married.
+@638
+What! A m-monkey, wed?!
+@639
+...And so I have come to ask whether Lord Sakuma might do us the honour of serving as go-between...
+@640
+D-don't be absurd! If I played go-between for a monkey, I would be the laughingstock of the whole clan!
+@641
+Be gone at once! Shoo, shoo!
+@642
+I see... Then please excuse me...
+@643
+Hm! A suspicious-looking monkey!
+@644
+N-no... I am a man called Tōkichirō.
+@645
+Oh? A monkey that looks like a man...
+@646
+Lord Sakuma, it is the other way around...
+@647
+Hm, an impudent monkey! I am busy! Be gone at once!
+@700
+You scoundrel! How dare you walk into a man's house uninvited?! Do you know whose house this is? Shibata Katsuie's!
+@701
+F-forgive me. I am an Ashigaru named Tōkichirō. Please pardon my rudeness.
+@702
+A mere Ashigaru, slipping into my house...
+@703
+Hm? Who are you?
+@705
+Ho, you've got a face like a monkey. How amusing. Well, monkey, what do you want? If nothing, be off with you.
+@707
+Oh, {a6d0000}, is it? What does a monkey want with me?
+@708
+Only a word of greeting. I look forward to your favour in the future.
+@709
+...If you have no business here, then leave.
+@711
+Oh, Kinoshita Tōkichirō, is it? A fine name for a monkey.
+@712
+Well... I am not a monkey, though... I look forward to your favour in the future.
+@713
+I see. If you have no business, you are in the way. Go home at once.
+@714
+Who goes there?
+@716
+Ha ha ha... Now there's a fine monkey face. Hardly human at all.
+@717
+Oh dear... I look forward to your favour in the future.
+@718
+Hmph. If you have no business, go home at once. This is no place for the likes of you.
+@724
+How do you do. I am a man called {a660000}.
+@725
+Oh? I am called {a66000a}.
+@726
+Lord {a73000a}, is it? I look forward to your favour in the future.
+@727
+Yes, likewise. I am poor at war but good at administration. Come see me whenever you wish to know something.
+@728
+Thank you, sir. Now I should take my leave.
+@730
+Well, well. My name is {a66000a}.
+@732
+I am poor at war, but good at administration, and I serve by putting that strength to use.
+@733
+I see. That is good to know. Now, I should take my leave.
+@735
+Lord {a6d0000}, is it? I am called {a66000c}.
+@736
+I look forward to your favour in the future.
+@737
+Yes, likewise.
+@738
+Then, I will take my leave.
+@743
+Then I will take my leave for today.
+@744
+Hm? Who are you?
+@746
+Oh, {a6d0000}, is it? You seem an amusing fellow.
+@747
+Thank you. I look forward to your favour in the future.
+@748
+Good, good! Ha ha ha ha!
+@749
+Then I will take my leave for today.
+@757
+I am called {a660012}. Now, how may I help you?
+@758
+Nothing in particular. I only wished to ask for your favour in the future.
+@759
+I see. Then let us meet again.
+@760
+Thank you. Then I will take my leave.
+@766
+Hm? And who might you be?
+@768
+Ha ha ha! You look like an interesting fellow.
+@769
+Ha ha ha. I look forward to your favour in the future.
+@770
+Likewise. I am called {a660014}.
+@771
+Then I will take my leave for today.
+@778
+W-who are you? Walking right into a man's house like that?
+@779
+No, no, I am nobody suspicious. My name is {a660000}.
+@780
+O-oh, don't startle me. Well, what do you want?
+@781
+No, nothing in particular brings me here.
+@782
+Then would you kindly go home? I am busy just now.
+@783
+I understand. Please excuse me, then.
+@792
+Welcome. I am {a660018}.
+@794
+Not at all, the pleasure is mine. By the way, Lord {a6d0000}...
+@796
+Ah, no, never mind. Please forget it.
+@797
+I see. In that case, I shall take my leave.
+@799
+I am {a660000}.
+@806
+Ah, it is Lord {a6d0000}.
+@807
+Ah, Lord {a660023}, if I remember rightly.
+@808
+Is there something you want? If not, I would ask you to go home.
+@809
+Since I have come all this way, I thought we might talk...
+@810
+Heh. I have nothing in particular to say to you. Ha ha ha.
+@811
+I see. Then I shall take my leave.
+@812
+Just do your best at your work. Ha ha ha.
+@820
+Well, if it isn't Lord {a6d0000}.
+@821
+Ha ha ha. How are you faring?
+@823
+That is only natural. I shall go for today. Let us meet again.
+@824
+Yes. Gladly.
+@830
+Ah, {a6d0000}. Your face has grown more resolute, it seems.
+@831
+I see. Then train even harder until your training period is over.
+@833
+Oh, Lord {a6d0000}! Well, how did your training go?
+@834
+Well, about that... I am truly ashamed...
+@835
+Oh, no... And {a6d00e6} had such faith in you, Lord {a6d0000}...
+@836
+I hoped that once you were made Ashigaru Captain, you would take me as your bride...
+@837
+Wh-what? So that is why Lord Asano insisted I become Ashigaru Captain at all costs...
+@838
+Father said that if you became a man he could fairly recommend, he would take you into the family as my husband...
+@839
+Ngh... And I never knew any of it...
+@840
+Then there is nothing for it but to cut my belly and apologise...
+@841
+Lord {a6d0000}...
+@842
+No! Nene will not give up! Then you shall start training this very moment!
+@843
+Come, this way, before Father arrives!
+@844
+Y-yes!
+@845
+Well, well, the two of you! It's not often you call together.
+@846
+Lord Maeda! I have a favour to ask!
+@847
+H-hey... What is it? What has happened?
+@848
+Please teach this Monkey some skill. I beg you.
+@849
+Lord Toshiie, I beg you! Please help this Monkey!
+@850
+A-all right... I'll do something for you... So calm down, both of you.
+@851
+Oh... I am sorry. I lost my composure.
+@852
+Phew... I don't know what's happened, but you're clearly in a hurry.
+@853
+Well, if you work hard starting now, you might manage the basics of Tactics.
+@854
+Really?! Thank you! Thank you very much!
+@855
+Good, then let's begin at once. Doze off, and I'll throw you out!
+@856
+Yes, and I shall sit by and keep watch. If he slacks, I shall pour boiling water over him.
+@857
+H-hey... Lady Nene, that is going too far... (She is frightening when angry...)
+@858
+\_\_\_\_\_\_\_\_\_\_\_\_- The next morning -
+@859
+Phew... At least he looks the part now.
+@860
+{a6d0000}'s Tactics skill has risen!
+@861
+Lord Toshiie... I will never forget this debt as long as I live.
+@862
+Don't be so formal. Think nothing of such a small matter.
+@863
+More to the point, treat Lady Nene well. She sat formally by your side the whole night, working hard for you.
+@864
+Yes...
+@865
+Come, Lord {a6d0000}. Father is waiting.
+@866
+Yes, we shall go now. Then, Lord Toshiie, I take my leave.
+@867
+Right. Make it count, {a6d0000}!
+@868
+{a6d0000}, how did your training go?
+@869
+Sir, things did not go as I wished... I could not reach my goal. I am very sorry...
+@870
+Hmph, what a fellow you are... Do you think you can serve as an Ashigaru Captain like this?
+@871
+Well, there is no use being angry now... Still, you do seem to have a few skills. I will go and ask Lord Niwa to recommend you.
+@873
+Sir, I managed to gain a few skills. I owe it all to Lord Asano.
+@874
+Good, you did well, {a6d0000}. Now I can hold my head high when I ask Lord Niwa to recommend you.
+@875
+Thank you, sir...
+@876
+And one more thing...
+@877
+And what might that be?
+@878
+...Hmm, hmm, hmm.
+@879
+Lord {a6d0000}...
+@880
+{d04}Whoa! W-what is it?
+@881
+Please... Please take me as your bride...
+@882
+{d04}Wh... Ah... Uh...
+@883
+So she has said it at last... Then I must give in as well.
+@884
+{a6d0000}... {a6d00e6} has been thinking of you all this time.
+@885
+I too believe that you will make {a6d00e6} happy.
+@886
+{a6d0000}, I ask it of you myself. Marry into this house. Take {a6d00e6} as your wife...
+@887
+Gladly!\nMy standing is too low...
+@888
+I could not be happier... I gladly accept...
+@889
+Lord {a6d0000}...
+@890
+But Lady {a6d00e6}... Are you truly content with a monkey-faced man like me?
+@891
+Yes, of course. I am sure that with you, Lord {a6d0000}, my whole life will be happy and full of fun.
+@892
+I tried to talk her out of it... but if {a6d00e6} wants him, what can I do...
+@893
+Now that it is settled, I must hurry to Lord Niwa.
+@894
+Also, as you are joining the family, from now on you shall take the Kinoshita name of {a6d00e6}'s line.
+@895
+I would dearly like to, but Lady {a6d00e6} and I are not equal in standing...
+@896
+That will be settled once you become an Ashigaru Captain.
+@897
+Besides, as her husband joining the family, you need only take the Kinoshita name of {a6d00e6}'s line.
+@898
+Kinoshita... Kinoshita Tōkichirō... From today I am Kinoshita Tōkichirō!
+@899
+Yes, Kinoshita Tōkichirō... A fine name, is it not?
+@900
+N-not at all! Please forgive me.
+@900.1
+Hmph! You're an eyesore! Out with you, now!
+@1001
+Now then, I shall go up to the castle. And, {a6d0000}...
+@1002
+Yes, Father?
+@1003
+...It is too early to call me that!
+@1004
+S-sorry...
+@1005
+A captain without a single retainer of his own cuts a poor figure. Find someone suitable and bring him here.
+@1006
+Understood. I shall look for someone.
+@1007
+What is it? Even if you know no one, go and look anyway.
+@1008
+Good luck, Lord {a6d0000}.
+@1009
+...{a6d0000}! Since you are taking {a6d00e6} as your wife, work diligently, and be sure the two of you live happily!
+@1010
+If you ever make {a6d00e6} sad, I, Nagakatsu, will not stand for it!
+@1011
+Yes, sir! I will surely rise in the world and make Lady {a6d00e6} happy!
+@1012
+Ha ha ha! Come, tonight we drink till dawn!
+@1013
+Now I'll have my revenge on you for stealing {a6d00e6}!
+@1014
+Yes, yes, everything is already prepared.
+@1015
+Ha, that's my {a6d00e6}! {a6d0000} is a lucky man! Ha ha ha!
+@1016
+First we must decide on a go-between. I could choose one myself, but...
+@1017
+Since you will be serving the {a730002} clan from now on, you had better find one yourself.
+@1018
+There are factions in the clan, and if you are to rise from here, your relations with its people will be vital.
+@1019
+Factions, sir...
+@1020
+Well, I shall explain the hard part later. First, go round the men of the clan and ask them.
+@1022
+Excuse me! Is Lord Shibata at home?
+@1023
+Mm... Hic... Hic...
+@1024
+Ah, I am...
+@1025
+...A monkey... Why is there a monkey here...
+@1026
+Somebody! A monkey has got in! Fetch a spear!
+@1027
+Wh-what is going on?
+@1028
+There you are!!
+@1029
+{d06}Waah!! Eek!!
+@1030
+Tsk, he got away...
+@1031
+Oh, if it isn't {a6d0000}! You look cheerful. Has something good happened?
+@1032
+Well, the fact is, my wedding with Lady Nene has been happily settled.
+@1033
+What?! You and Lady Nene?! Your face is joke enough!
+@1034
+Now, now. My face may be a joke, but this news is no joke at all.
+@1035
+Is it true?!
+@1035.1
+Then this is a happy occasion! Congratulations!
+@1036
+I am delighted that you rejoice for me, Lord Toshiie.
+@1037
+I see. By the way, has the date of the wedding been set?
+@1038
+No, nothing has been decided yet. That is why I came to consult you, Lord Toshiie.
+@1039
+Hoo... I see... You came to consult me...
+@1040
+Y-yes... (W-what has come over him...?)
+@1041
+Good! I, Maeda Toshiie, shall take charge of this wedding!
+@1042
+The go-between, the date, the stewards, the gifts... Leave every last detail to me!!
+@1043
+That is reassuring... I leave it all in your hands...
+@1044
+Right, now that it's settled, no time like the present! {a6d0000}! Wait for good news!
+@1045
+Ah, Lord Toshiie! He's gone already...
+@1046
+I never knew he was so fond of this sort of thing... Well, it will be fine if I leave it to Lord Toshiie.
+@1047
+Ah, {a6d0000}. I hear Lord Niwa is to be your go-between. Go and pay your respects to him at once.
+@1300
+I am sorry to say it did not take hold.
+@1301
+My {p00} skill seems to have improved. My thanks.
+@1302
+I feel I have taken {p00} as far as I can on my own.
+@1303
+I was able to learn the basics of {p00}. My thanks.
+@1304
+My {p00} skill is higher than ever before. My thanks.
+@1305
+I believe my {p00} is now second to none. My thanks.
+@1306
+Oh, well. Teach me another time.
+@1307
+You dare invade my territory?! I will show you the fruit of my daily training!
+@1308
+What are you saying? You have no skill to teach me.
+@1309
+What will you teach me?
+@1310
+I see... What a pity.
+@1311
+It is nearly time for the council. Tell me, what do you think we should be doing now?
+@1312
+I think now is not the time to fight.
+@1313
+Doing more will not raise my skill any higher.
+@1314
+Sorry, but I have other things to do, so I must decline this time.
+@1315
+Then I shall train for about {b00} day{s}. You will teach me?
+@1316
+I believe there are more pressing matters now than building up arms.
+@1317
+Now is not the time to win men over. There are other things to be done.
+@1318
+There are matters that deserve more effort than domestic affairs now.
+@1319
+I believe now is the time to fight.
+@1320
+Given an Envoy mission, go and see the person concerned and settle your business.
+@1321
+Should you receive an Envoy mission, you need only call on the person concerned and settle the matter.
+@1322
+Given a Check Prices mission, ask the prices at the Rice Dealer and Stables of the target province. Prices are the same anywhere in one province.
+@1323
+Should you receive a Check Prices mission, please ask the prices at the Rice Dealer and Stables of the target province. Prices are the same throughout a province.
+@1326
+Given a Warrior Training mission, go and raise skills such as Accounting and Riding.
+@1327
+Should you receive a Warrior Training mission, you need only go and improve skills such as Accounting and Riding.
+@1328
+Given a Buy Rice mission, buy the rice at a Rice Dealer. A high Accounting skill helps.
+@1329
+Should you receive a Buy Rice mission, simply buy the rice at a Rice Dealer. I hear a high Accounting skill is an advantage.
+@1330
+Given a Sell Rice mission, sell the rice at a Rice Dealer. A high Accounting skill helps.
+@1331
+Should you receive a Sell Rice mission, simply sell the rice at a Rice Dealer. I hear a high Accounting skill is an advantage.
+@1332
+With Buy Rice or Sell Rice, buy where the price is low and sell where it is high, again and again. That brings good results.
+@1333
+With Buy Rice or Sell Rice, it is wise to buy at a Rice Dealer where prices are low and sell at one where they are high, again and again.
+@1334
+Given a Buy Horses mission, just go and buy horses at the Stables.
+@1335
+Horses are cheaper in the north. And they say high Riding and Accounting skills get you a better price.
+@1336
+Should you receive a Buy Horses mission, you need only go and buy horses at the Stables.
+@1337
+Horses are cheaper in the north, you know. And I hear that with high Riding and Accounting skills, you can buy them more cheaply still.
+@1338
+Given a Buy Guns mission, buy them at a Merchant House or Smithy in a town such as Sakai or Hakata.
+@1339
+They say a high Accounting skill gets you a lower price.
+@1340
+Should you receive a Buy Guns mission, you may buy them at a Merchant House or Smithy in a town such as Sakai or Hakata.
+@1341
+With a high Accounting skill, you can buy them more cheaply.
+@1342
+Given a Buy Cannon mission, buy them at a Merchant House or Smithy in Sakai or Hakata.
+@1343
+Should you receive a Buy Cannon mission, you may buy them at a Merchant House or Smithy in Sakai or Hakata.
+@1344
+Given a Hire Ashigaru mission, recruit ashigaru in a castle town.
+@1345
+The more populous and commercially developed the castle town, the more ashigaru you can gather. Your Speech skill matters too.
+@1346
+Should you receive a Hire Ashigaru mission, you need only recruit ashigaru in a castle town.
+@1347
+The more populous and commercially developed the castle town, the more ashigaru can be gathered. Speech skill plays a part too.
+@1348
+Given a Rumours mission, spread bad rumours at a House in a castle held by the target clan.
+@1349
+A high Speech skill lowers Support further and brings better results.
+@1350
+Should you receive a Rumours mission, you need only spread bad rumours at a House in a castle held by the target clan.
+@1351
+With a high Speech skill, you can lower Support further, which leads to better results.
+@1352
+Given a Find Rōnin mission, find a rōnin you have not yet reported to our lord.
+@1353
+Travellers at the inn sometimes have information about rōnin.
+@1354
+Should you receive a Find Rōnin mission, you need only find a rōnin you have not yet reported.
+@1355
+Travellers staying at the inn sometimes have information about rōnin.
+@1356
+Given a Recruit mission, bring one man into our clan, a rōnin or an officer of another clan.
+@1357
+If you want good results, recruit an officer with high abilities.
+@1358
+Should you receive a Recruit mission, you need only welcome one man into our clan, a rōnin or an officer of another clan.
+@1359
+If you wish for good results, it is best to recruit an officer with high abilities.
+@1360
+Given a Win Over Lord mission, bring the lord of the target castle into our clan.
+@1361
+Should you receive a Win Over Lord mission, you need only welcome the lord of the target castle into our clan.
+@1362
+Given a Diplomacy mission, go to the target clan's main castle and meet its head in person.
+@1363
+Negotiate with the head's character in mind: that is what counts. High Etiquette, Speech and Tea skills raise your chance of success.
+@1364
+Should you receive a Diplomacy mission, you must go to the target clan's main castle and meet its head in person.
+@1365
+It is important to negotiate with the head's character in mind. High Etiquette, Speech and Tea skills make success more likely.
+@1366
+Given a Court Lobbying mission, go to the Imperial Palace in Kyōto and make a donation to the court.
+@1367
+With high Etiquette, Speech and Tea skills, the same sum offered brings greater results, they say.
+@1368
+They also say that befriending a noble living in Kyōto and having him put in a word for you brings greater results.
+@1369
+Should you receive a Court Lobbying mission, you need only go to the Imperial Palace in Kyōto and make a donation to the court.
+@1370
+With high Etiquette, Speech and Tea skills, the same sum offered brings greater results, I hear.
+@1371
+I hear that if you befriend a noble living in Kyōto and ask him to put in a word for you, the results are greater still.
+@1372
+Given a Scout Castle mission, go to the target castle first.
+@1373
+At a House you learn about the land, such as Population and Yield; at the Tavern, military matters such as troop numbers; at the Inn, supplies such as rice.
+@1374
+For good results, gather all three kinds of information.
+@1375
+Should you receive a Scout Castle mission, please go to the target castle first.
+@1376
+At a House you can learn about the land, such as Population and Yield; at the Tavern, military matters such as troop numbers; and at the Inn, supplies such as rice.
+@1377
+For good results, you will need all three kinds of information.
+@1378
+Given a Scout Daimyō mission, gather information on the castles held by the target clan.
+@1379
+The more castles you learn about in detail, the better the results.
+@1380
+Should you receive a Scout Daimyō mission, you need only gather information on the castles held by the target clan.
+@1381
+The more castles you learn about in detail, the greater the results you will obtain.
+@1382
+Given a Guard Castle order, hold the target castle for the time set.
+@1383
+Should you receive a Guard Castle order, you need only hold the target castle for the time set.
+@1384
+Given a New Fields mission, go to the target castle and raise its Yield.
+@1385
+This mission depends mainly on the Development skill. And don't forget: it is better to spend the whole budget.
+@1386
+Should you receive a New Fields mission, you need only go to the target castle and raise its Yield.
+@1387
+It depends mainly on the Development skill. Please do not forget that it is better to spend the whole budget.
+@1388
+Given a Commerce mission, go to the target castle and raise its Commerce.
+@1389
+This mission depends mainly on the Accounting skill. And don't forget: it is better to spend the whole budget.
+@1390
+Should you receive a Commerce mission, you need only go to the target castle and raise its Commerce.
+@1391
+It depends mainly on the Accounting skill. Please do not forget that it is better to spend the whole budget.
+@1392
+Given a Mine Work mission, go to the target castle and develop its Mines.
+@1393
+Should you receive a Mine Work mission, you need only go to the target castle and develop its Mines.
+@1394
+Given a Repairs mission, go to the target castle and raise its Defence.
+@1395
+This mission depends mainly on the Building skill. And don't forget: it is better to spend the whole budget.
+@1396
+Should you receive a Repairs mission, you need only go to the target castle and raise its Defence.
+@1397
+It depends mainly on the Building skill. Please do not forget that it is better to spend the whole budget.
+@1398
+Given a Win Hearts mission, go to the target castle and raise its Support.
+@1399
+This mission depends on Martial Arts, Speech and Accounting. And don't forget: it is better to spend the whole budget.
+@1400
+Should you receive a Win Hearts mission, you need only go to the target castle and raise its Support.
+@1401
+It depends on Martial Arts, Speech and Accounting. Please do not forget that it is better to spend the whole budget.
+@1402
+Given a Land Survey mission, go to the target castle and find the hidden fields.
+@1403
+This mission depends on Accounting and Development. And don't forget: it is better to spend the whole budget.
+@1404
+Should you receive a Land Survey mission, you need only go to the target castle and find the hidden fields.
+@1405
+It depends on Accounting and Development. Please do not forget that it is better to spend the whole budget.
+@1406
+Given a Sabotage mission, go to the target castle and lower its Defence or damage its military supplies.
+@1407
+This mission depends on the Ninjutsu skill. And don't forget: it is better to spend the whole budget.
+@1408
+Should you receive a Sabotage mission, you need only go to the target castle and lower its Defence or damage its military supplies.
+@1409
+It depends on the Ninjutsu skill. Please do not forget that it is better to spend the whole budget.
+@1410
+Given a Train mission, go to the target castle and raise the training of its troops.
+@1411
+Your Martial Arts, Riding, Gunnery, Scheming and Tactics skills affect the results.
+@1412
+And remember: it is better to spend every last mon of the budget you are given.
+@1413
+Should you receive a Train mission, you need only go to the target castle and raise the training of its troops.
+@1414
+Martial Arts, Riding, Gunnery, Scheming and Tactics all have a bearing on the results.
+@1415
+Please remember, too, that it is better to spend the whole budget you are given.
+@1416
+Given a Take Castle mission, just make the target castle ours.
+@1417
+Crush it by force or win over its lord, as you like. How you take the castle is up to you.
+@1418
+Should you receive a Take Castle mission, you need only make the target castle ours.
+@1419
+How you take the castle is up to you. You may crush it by force or win over its lord, whichever you prefer.
+@1420
+Given a Take Prov. mission, just make every castle in the target province ours.
+@1421
+Should you receive a Take Prov. mission, you need only make every castle in the target province ours.
+@1422
+Given a Take Daimyō mission, just make every castle of the target clan ours.
+@1423
+Should you receive a Take Daimyō mission, you need only make every castle of the target clan ours.
+@1424
+Given a Take Region mission, just make every castle in the target region ours.
+@1425
+Should you receive a Take Region mission, you need only make every castle in the target region ours.
+@1426
+I believe building up arms is best for now.
+@1427
+I think now is the time to win men over.
+@1428
+I believe now is the time for domestic affairs.
+@1429
+Hm, so that is how it is. That was helpful. My thanks.
+@1430
+Dear, Lord {p00} is a precious friend, is he not?! Taking money from him is out of the question!
+@1431
+Omatsu, what is it, all of a sudden?
+@1432
+Don't you "what is it" me! What do you mean by squeezing money out of Lord {p00}?!
+@1433
+But I am teaching him a skill. Surely some reward is only fair...
+@1434
+{d02}Smack!!
+@1435
+Ow! (What a ferocious slap...)
+@1436
+Enough! I refuse to believe that my husband holds friendship so cheap.
+@1437
+All right, all right, I won't take any money. Is that what you want? Ouch, ouch...
+@1438
+Now that is the Lord Toshiie I know. Lord {p00}, forgive the scene. I shall leave you now.
+@1440
+It seems to have worked wonders.
+@1441
+I already held a tea gathering with this person this month. A gift will do no good until the new month.
+@1442
+I already gave this person a gift this month. A tea gathering will do no good until the new month.
+@1450
+A field battle lasts 10 days at most.
+@1451
+You win if the enemy army's leader retreats or is wiped out, or if your own leader breaks through the enemy position.
+@1452
+A field battle is fought over 10 days at the most.
+@1453
+Victory is yours when you make the enemy leader's unit retreat or wipe it out, or when your own leader breaks through the enemy position.
+@1454
+A siege lasts 90 days at most.
+@1455
+You win by making the enemy leader's unit retreat or wiping it out. If the defenders hold the castle until time runs out, they win.
+@1456
+A siege is fought over 90 days at the most.
+@1457
+Victory comes from making the leader's unit retreat or wiping it out. Should the defenders hold the castle until time runs out, the victory is theirs.
+@1458
+Every 200 troops eat 1 koku of rice a day. 1,000 men means 5 koku.
+@1459
+If the rice runs out, a unit's morale and fatigue get sharply worse, so watch out.
+@1460
+Every 200 troops consume 1 koku of rice a day, so 1,000 men would need 5 koku.
+@1461
+Should the rice run out, a unit's morale and fatigue worsen sharply, so please take care.
+@1462
+In battle, war funds pay for raising a unit's morale and for works such as flooding a castle or repairs.
+@1463
+For a battle, have about 1 kan of war funds ready per soldier.
+@1464
+War funds in battle serve to raise units' morale and to pay for works such as flooding a castle or making repairs.
+@1465
+For a battle, it would be wise to prepare about 1 kan of war funds per soldier.
+@1466
+In battle, morale is a key factor: it affects a unit's attack power, mobility and more.
+@1467
+Attacked while its morale is low, a unit may be routed.
+@1468
+In battle, morale is an important factor, affecting a unit's attack power, mobility and so on.
+@1469
+A unit attacked while its morale is low may be routed, so please take care.
+@1470
+Every action a unit takes in battle raises its fatigue.
+@1471
+High fatigue has its costs: attacks grow weaker and morale drops more easily.
+@1472
+Each time a unit acts in battle, its fatigue rises.
+@1473
+When fatigue rises, there are drawbacks, such as lower attack power and morale that drops more easily.
+@1474
+In battle, the units of a well-trained army tire more slowly, and their morale is harder to break.
+@1475
+And of course, good training makes their attacks hit harder.
+@1476
+In battle, the units of an army with high training tire less easily, and their morale is slower to fall, you see.
+@1477
+And of course, high training also makes attacks more effective.
+@1478
+Defence shows how strong a castle's defences are.
+@1479
+To restore Defence lost during a battle, order repairs.
+@1480
+Defence is a measure of how strongly a castle is defended.
+@1481
+Should you wish to restore Defence lost during a battle, you need only order repairs.
+@1482
+Infantry units are the core of any army. Put an officer with high Martial Arts in command.
+@1483
+To form a cannon unit, you need as many guns as soldiers, plus one cannon.
+@1484
+Infantry units are the core of an army. It is best to have them led by an officer with high Martial Arts.
+@1485
+To form a cannon unit, you will need as many guns as there are soldiers, and one cannon.
+@1486
+Rain puts out the fuses, so gunner units are useless on rainy days.
+@1487
+A unit led by an officer with high Gunnery has a good chance of firing volleys.
+@1488
+On rainy days the fuses go out, so gunner units cannot be used.
+@1489
+Units led by officers with high Gunnery are quite likely to fire volleys, you know.
+@1490
+Cavalry hit infantry and gunner units hard, but they are weak against gunfire.
+@1491
+Led by an officer with high Riding, cavalry grow stronger.
+@1492
+Cavalry attacks work well against infantry and gunner units. They are weak against gunfire, though.
+@1493
+Cavalry become stronger when commanded by an officer with high Riding.
+@1494
+Cannon can be used only when attacking a castle. They lower its Defence.
+@1495
+Cannon, you see, can be used only in sieges.
+@1496
+An army formed for war can pass through towns, your own castles and the castles of allied clans.
+@1497
+It cannot pass through the castles of hostile clans.
+@1498
+An army formed for war may pass through towns, your own castles, and the castles of clans you are allied with.
+@1499
+The castles of hostile clans, however, cannot be passed through.
+@1500
+The Tactics skill of the army's leader or its strategist decides which formations you can choose in a field battle.
+@1501
+Which formations you may choose in a field battle depends on the Tactics skill of the army's leader or its strategist.

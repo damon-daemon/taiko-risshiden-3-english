@@ -1,0 +1,735 @@
+# 03_sdata
+PROG:800cef54	%s clan
+PROG:800cef5c	%s Province
+PROG:800cef64	%s Region
+PROG:800cef6c	Castle Town
+PROG:800cef74	Kyōto
+PROG:800cef7c	Council
+PROG:800cef84	Training
+PROG:800cef8c	Lively
+PROG:800cef94	Sad
+PROG:800cef9c	Troubled
+PROG:800cefa4	Love
+PROG:800cefa8	Resolve
+PROG:800cefb0	Crisis
+PROG:800cefb8	Field Battle
+PROG:800cefc0	Siege
+PROG:800cefc8	Showdown
+PROG:800cefd0	At Home
+PROG:800cefd8	Urgent
+PROG:800cefe0	Crowd
+PROG:800cefe8	Birds
+PROG:800cefec	Cicadas
+PROG:800ceff4	Crows
+PROG:800ceffc	Horse
+PROG:800cf000	Smithy
+PROG:800cf008	Mokugyo
+PROG:800cf010	Confirm
+PROG:800cf018	Success
+PROG:800cf020	Failure
+PROG:800cf028	Castle Attack
+PROG:800cf030	Rain
+PROG:800cf034	Snow
+PROG:800cf038	Confusion
+PROG:800cf040	Rockfall
+PROG:800cf048	Night Raid
+PROG:800cf050	Sabotage
+PROG:800cf058	Taunt
+PROG:800cf060	Banquet
+PROG:800cf068	Gate Opens
+PROG:800cf070	Arson
+PROG:800cf078	Fire Out
+PROG:800cf080	Ninja
+PROG:800cf088	Snoring
+PROG:800cf090	Rally
+PROG:800cf098	Music
+PROG:800cf0a0	Ambience
+PROG:800cf0a8	Sounds
+PROG:800cf0b0	<
+PROG:800cf0b4	>
+PROG:800cf0b8	Play
+PROG:800cf0c0	Stop
+PROG:800cf0c8	Quit
+PROG:800cf0d4	None
+PROG:800cf0dc	Dev1
+PROG:800cf0e0	Dev1 Bld1
+PROG:800cf0e8	Dev2 Bld1
+PROG:800cf0f0	Dev1 Acc1
+PROG:800cf0f8	Dev2 Acc1
+PROG:800cf100	Acc1 Mar1
+PROG:800cf108	Acc1 Bld1
+PROG:800cf110	Acc1 Dev1
+PROG:800cf118	Acc2 Spe1
+PROG:800cf120	Acc2 Dev1
+PROG:800cf128	Acc2 Spe2
+PROG:800cf130	Dev1 Spe1
+PROG:800cf138	Dev2
+PROG:800cf13c	Dev3
+PROG:800cf140	Bld1 Dev1
+PROG:800cf148	Bld1 Acc1
+PROG:800cf150	Bld2
+PROG:800cf154	Bld1 Spe1
+PROG:800cf15c	Mar1
+PROG:800cf160	Acc1
+PROG:800cf164	Mar1 Spe1
+PROG:800cf16c	Acc1 Spe1
+PROG:800cf174	Mar2 Spe1
+PROG:800cf17c	Acc2
+PROG:800cf180	Nin1
+PROG:800cf184	Nin2
+PROG:800cf188	Rid1
+PROG:800cf18c	Gun1
+PROG:800cf190	Sch1
+PROG:800cf194	Tac1
+PROG:800cf198	OK
+PROG:800cf1a0	Cost
+PROG:800cf1a8	%4u kan
+PROG:800cf1b0	Details
+PROG:800cf1b8	Dom
+PROG:800cf1c0	Dip
+PROG:800cf1c8	Mil
+PROG:800cf1d0	Cha
+PROG:800cf1d8	Ac
+PROG:800cf1dc	Bl
+PROG:800cf1e0	Dv
+PROG:800cf1e4	Sp
+PROG:800cf1e8	Et
+PROG:800cf1ec	Te
+PROG:800cf1f0	Ma
+PROG:800cf1f4	Ri
+PROG:800cf1f8	Gu
+PROG:800cf1fc	Ni
+PROG:800cf200	Sc
+PROG:800cf204	Ta
+PROG:800cf208	Officer
+PROG:800cf210	Rank
+PROG:800cf224	Troops
+PROG:800cf22c	Funds
+PROG:800cf234	Horses
+PROG:800cf23c	Rice
+PROG:800cf244	Guns
+PROG:800cf24c	Cannon
+PROG:800cf254	OK
+PROG:800cf260	Troops
+PROG:800cf268	 men
+PROG:800cf26c	Rice
+PROG:800cf274	 koku
+PROG:800cf278	 kan
+PROG:800cf27c	Guns
+PROG:800cf284	 guns
+PROG:800cf288	Horses
+PROG:800cf290	 horses
+PROG:800cf294	Cannon
+PROG:800cf29c	 cannon
+PROG:800cf2a8	%4u
+PROG:800cf2c0	Stamina
+PROG:800cf2c8	%6u kan     
+PROG:800cf2d0	%3u mon  
+PROG:800cf2d8	Bribe
+PROG:800cf2e0	 kan
+PROG:800cf2fc	's House
+PROG:800cf300	Farmhouse
+PROG:800cf308	Home
+PROG:800cf318	Family Home
+PROG:800cf320	Daimyō
+PROG:800cf328	Castles
+PROG:800cf33c	Fallen
+PROG:800cf344	Castle
+PROG:800cf34c	Province
+PROG:800cf354	Info
+PROG:800cf35c	Independent
+PROG:800cf364	Name
+PROG:800cf36c	Castle
+PROG:800cf374	Men
+PROG:800cf37c	Rank
+PROG:800cf384	Dead
+PROG:800cf38c	-
+PROG:800cf390	None
+PROG:800cf398	Unknown
+PROG:800cf3a8	Court
+PROG:800cf3b0	Oda
+PROG:800cf3b8	Civilian
+PROG:800cf3c0	Name
+PROG:800cf3c8	Met
+PROG:800cf3d0	Gift
+PROG:800cf3d8	Tea
+PROG:800cf3e0	Faction
+PROG:800cf3e8	Home
+PROG:800cf3f0	%s
+PROG:800cf3f8	Castle Info
+PROG:800cf400	%u days
+PROG:800cf408	Province
+PROG:800cf410	Qty
+PROG:800cf418	Appraise
+PROG:800cf424	Head
+PROG:800cf42c	Power
+PROG:800cf434	Relation
+PROG:800cf43c	Feeling
+PROG:800cf444	Few
+PROG:800cf44c	Average
+PROG:800cf454	Many
+PROG:800cf45c	Low
+PROG:800cf464	High
+PROG:800cf46c	Population
+PROG:800cf474	Yield
+PROG:800cf47c	Commerce
+PROG:800cf484	Mines
+PROG:800cf48c	Support
+PROG:800cf494	Troops
+PROG:800cf49c	Morale
+PROG:800cf4a4	Fatigue
+PROG:800cf4ac	Training
+PROG:800cf4b4	Defence
+PROG:800cf4bc	Rice
+PROG:800cf4c4	Funds
+PROG:800cf4cc	Horses
+PROG:800cf4d4	Guns
+PROG:800cf4dc	Cannon
+PROG:800cf4e4	Upkeep
+PROG:800cf4ec	 Main Castle
+PROG:800cf4f4	 Direct Rule
+PROG:800cf504	Castle Lord
+PROG:800cf50c	Castellan
+PROG:800cf514	Surveyed
+PROG:800cf54c	By Province
+PROG:800cf554	Highest
+PROG:800cf55c	Lowest
+PROG:800cf564	Prev
+PROG:800cf56c	Next
+PROG:800cf574	Buy
+PROG:800cf578	Sell
+PROG:800cf594	Drink
+PROG:800cf59c	Type
+PROG:800cf5a4	Value
+PROG:800cf5b4	-
+PROG:800cf5b8	Abilities
+PROG:800cf5c0	Skills
+PROG:800cf5c8	Castle Town
+PROG:800cf5d0	Places
+PROG:800cf5d8	Mission
+PROG:800cf5e0	Economy
+PROG:800cf5e8	Society
+PROG:800cf5f0	Battle
+PROG:800cf5f8	-
+PROG:800cf5fc	Repairs
+PROG:800cf604	Land Survey
+PROG:800cf60c	Specialities
+PROG:800cf614	Work Teams
+PROG:800cf61c	Debt Relief
+PROG:800cf624	Sword Hunt
+PROG:800cf62c	Survey Rod
+PROG:800cf634	Kyō Measure
+PROG:800cf63c	%8d days
+PROG:800cf644	%8lu koku
+PROG:800cf64c	%8lu kan
+PROG:800cf654	Training
+PROG:800cf708	Castle
+PROG:800cf710	Days
+PROG:800cf718	Province
+PROG:800cf728	%3u days
+PROG:800cf730	N/A
+PROG:800cf738	Independent
+PROG:800cf740	 days
+PROG:800cf744	Mission
+PROG:800cf74c	By Province
+PROG:800cf754	By Daimyō
+PROG:800cf75c	All
+PROG:800cf764	Wait
+PROG:800cf76c	Home Castle
+PROG:800cf778	 Province
+PROG:800cf780	Vacant Lot
+PROG:800cf788	 (
+PROG:800cf78c	)
+PROG:800cf7d8	Leave
+PROG:800cf7f4	-
+PROG:800cf7f8	-
+PROG:800cf7fc	-
+PROG:800cf804	-
+PROG:800cf808	-
+PROG:800cf820	 Region
+PROG:800cf82c	-
+PROG:800cf834	-
+PROG:800cf838	-
+PROG:800cf840	-
+PROG:800cf844	-
+PROG:800cf84c	Take %s
+PROG:800cf854	Unify %s
+PROG:800cf85c	Defend %s
+PROG:800cf878	-
+PROG:800cf880	-
+PROG:800cf888	-
+PROG:800cf890	-
+PROG:800cf898	-
+PROG:800cf8a0	-
+PROG:800cf8a8	-
+PROG:800cf8b0	-
+PROG:800cf8b8	-
+PROG:800cf8c0	-
+PROG:800cf8c8	%s Province
+PROG:800cf8d0	%s Region
+PROG:800cf8d8	 kan
+PROG:800cf8dc	Dealer
+PROG:800cf8e8	Bet
+PROG:800cf8f0	
+PROG:800cf8fc	OK
+PROG:800cf914	-
+PROG:800cf91c	-
+PROG:800cf924	-
+PROG:800cf92c	-
+PROG:800cf934	-
+PROG:800cf938	-
+PROG:800cf93c	-
+PROG:800cf940	-
+PROG:800cf944	-
+PROG:800cf948	-
+PROG:800cf94c	-
+PROG:800cf950	-
+PROG:800cf954	-
+PROG:800cf958	-
+PROG:800cf95c	-
+PROG:800cf960	-
+PROG:800cf964	-
+PROG:800cf968	-
+PROG:800cf96c	-
+PROG:800cf970	-
+PROG:800cf974	-
+PROG:800cf978	-
+PROG:800cf97c	-
+PROG:800cf980	-
+PROG:800cf984	-
+PROG:800cf988	-
+PROG:800cf98c	-
+PROG:800cf990	-
+PROG:800cf994	-
+PROG:800cf998	-
+PROG:800cf99c	-
+PROG:800cf9a0	-
+PROG:800cf9a4	-
+PROG:800cf9a8	-
+PROG:800cf9ac	-
+PROG:800cf9b0	-
+PROG:800cf9b4	-
+PROG:800cf9b8	-
+PROG:800cf9bc	-
+PROG:800cf9c0	-
+PROG:800cf9c4	-
+PROG:800cf9c8	-
+PROG:800cf9cc	-
+PROG:800cf9d0	-
+PROG:800cf9d4	-
+PROG:800cf9d8	-
+PROG:800cf9dc	-
+PROG:800cf9e0	-
+PROG:800cf9e4	-
+PROG:800cf9e8	-
+PROG:800cf9ec	-
+PROG:800cf9f0	-
+PROG:800cf9f4	-
+PROG:800cfa00	OK
+PROG:800cfa08	Back
+PROG:800cfa10	Cancel
+PROG:800cfa18	Family
+PROG:800cfa1c	Given
+PROG:800cfa20	 Castle
+PROG:800cfaac	Weapon
+PROG:800cfab4	Armour
+PROG:800cfabc	Horse
+PROG:800cfac0	Tea Ware
+PROG:800cfac8	Scroll
+PROG:800cfad0	Screen
+PROG:800cfad8	War Manual
+PROG:800cfae0	History
+PROG:800cfae8	Nanban Goods
+PROG:800cfaf0	Treasure
+PROG:800cfaf8	Cheap Sake
+PROG:800cfb00	Fine Sake
+PROG:800cfb08	Foreign Wine
+PROG:800cfb10	Cold Remedy
+PROG:800cfb18	Tonic
+PROG:800cfb20	Arms
+PROG:800cfb28	Art
+PROG:800cfb30	Books
+PROG:800cfb38	Sake
+PROG:800cfb3c	Medicine
+PROG:800cfb40	 Castle
+PROG:800cfb44	-ji
+PROG:800cfb48	 Town
+PROG:800cfb4c	 Manor
+PROG:800cfb50	Jr 3rd
+PROG:800cfb58	Sr 3rd
+PROG:800cfb60	Jr 2nd
+PROG:800cfb68	Sr 2nd
+PROG:800cfb70	Jr 1st
+PROG:800cfb78	Sr 1st
+PROG:800cfb80	Rōnin
+PROG:800cfb88	Ashigaru
+PROG:800cfb90	Samurai Gen.
+PROG:800cfb98	Chief Retainer
+PROG:800cfba0	Castle Lord
+PROG:800cfba8	Province Lord
+PROG:800cfbb0	Daimyō
+PROG:800cfbb8	Emperor
+PROG:800cfbc0	Noble
+PROG:800cfbc8	Samurai
+PROG:800cfbd0	Farmer
+PROG:800cfbd8	Citizen
+PROG:800cfbe0	Artisan
+PROG:800cfbe8	Merchant
+PROG:800cfbf0	Tea Master
+PROG:800cfbf8	Monk
+PROG:800cfc00	Instructor
+PROG:800cfc08	Nanban
+PROG:800cfc10	Traveller
+PROG:800cfc18	Shopkeeper
+PROG:800cfc20	Landlady
+PROG:800cfc28	Doctor
+PROG:800cfc30	Smith
+PROG:800cfc38	Gate Guard
+PROG:800cfc40	Servant
+PROG:800cfc48	Page
+PROG:800cfc50	Ninja
+PROG:800cfc54	Girl
+PROG:800cfc58	Neutral
+PROG:800cfc60	None
+PROG:800cfc68	Allied
+PROG:800cfc70	Vassal
+PROG:800cfc78	Overlord
+PROG:800cfc80	Severed
+PROG:800cfc88	Hostile
+PROG:800cfc90	Wary
+PROG:800cfc98	Friendly
+PROG:800cfca0	Close
+PROG:800cfca8	Sworn Ally
+PROG:800cfcb0	Domestic
+PROG:800cfcb8	Diplomacy
+PROG:800cfcc0	Military
+PROG:800cfcc8	Charm
+PROG:800cfcd0	Accounting
+PROG:800cfcd8	Building
+PROG:800cfce0	Development
+PROG:800cfce8	Speech
+PROG:800cfcf0	Etiquette
+PROG:800cfcf8	Tea
+PROG:800cfd00	Martial Arts
+PROG:800cfd08	Riding
+PROG:800cfd10	Gunnery
+PROG:800cfd18	Ninjutsu
+PROG:800cfd20	Scheming
+PROG:800cfd28	Tactics
+PROG:800cfd30	Tōhoku
+PROG:800cfd38	Hokuriku
+PROG:800cfd40	Kantō
+PROG:800cfd48	Chūbu
+PROG:800cfd50	Kinki
+PROG:800cfd58	Chūgoku
+PROG:800cfd60	Shikoku
+PROG:800cfd68	Kyūshū
+PROG:800cfd9c	%s %s
+PROG:800cfda4	Interior
+PROG:800cfdac	Walls
+PROG:800cfdb4	Granary
+PROG:800cfdc4	%s
+PROG:800cfde0	Leader
+PROG:800cfdec	Infantry
+PROG:800cfdf4	Cavalry
+PROG:800cfdfc	Gunners
+PROG:800cfe04	Cannon
+PROG:800cfe0c	Troops
+PROG:800cfe14	 men
+PROG:800cfe24	Infantry %u
+PROG:800cfe2c	Rockfall
+PROG:800cfe34	Myself
+PROG:800cfe3c	Another
+PROG:800cfe44	Rockfall
+PROG:800cfe54	None
+PROG:800cfe5c	Line
+PROG:800cfe64	Fish Scale
+PROG:800cfe6c	Crane Wing
+PROG:800cfe74	Circle
+PROG:800cfe7c	Echelon
+PROG:800cfe84	Arrowhead
+PROG:800cfe8c	Crescent
+PROG:800cfe94	Wheel
+PROG:800cfe9c	Infantry
+PROG:800cfea4	Cavalry
+PROG:800cfeac	Gunners
+PROG:800cfeb4	Cannon
+PROG:800cfec8	Day %y
+PROG:800cfee0	Break Through
+PROG:800cfee8	Intercept
+PROG:800cfef0	Retreat
+PROG:800cfef8	Line
+PROG:800cff00	Fish Scale
+PROG:800cff08	Crane Wing
+PROG:800cff10	Circle
+PROG:800cff18	Echelon
+PROG:800cff20	Arrowhead
+PROG:800cff28	Crescent
+PROG:800cff30	Wheel
+PROG:800cff38	Break Through
+PROG:800cff40	Intercept
+PROG:800cff48	Retreat
+PROG:800cff50	Defensive
+PROG:800cff58	Offensive
+PROG:800cff7c	 formation
+PROG:800cff84	Night Raid
+PROG:800cff8c	False Report
+PROG:800cff94	Watch
+PROG:800cff9c	Rest
+PROG:800cffa4	Night Raid
+PROG:800cffac	False Report
+PROG:800cffb4	Watch
+PROG:800cffbc	Rest
+PROG:800cffc4	me
+PROG:800cffcc	someone else
+PROG:800cffe4	%s Army
+PROG:800cfff4	 & co.
+PROG:800d0008	End
+PROG:800d001c	Leader
+PROG:800d0024	%s
+PROG:800d0034	Type
+PROG:800d003c	Troops
+PROG:800d0044	Training
+PROG:800d004c	Morale
+PROG:800d0054	Fatigue
+PROG:800d005c	Officer
+PROG:800d0064	Type
+PROG:800d006c	Troops
+PROG:800d0074	Training
+PROG:800d007c	Morale
+PROG:800d0084	Fatigue
+PROG:800d008c	Accounting
+PROG:800d0094	Building
+PROG:800d009c	Development
+PROG:800d00a4	Speech
+PROG:800d00ac	Etiquette
+PROG:800d00b4	Tea
+PROG:800d00bc	Martial Arts
+PROG:800d00c4	Riding
+PROG:800d00cc	Gunners
+PROG:800d00d4	Ninjutsu
+PROG:800d00dc	Scheming
+PROG:800d00e4	Tactics
+PROG:800d00ec	%s
+PROG:800d0104	Functions
+PROG:800d0120	-
+PROG:800d0124	None
+PROG:800d0138	-%u
+PROG:800d0140	+%u
+PROG:800d0164	%s
+PROG:800d016c	Retreating
+PROG:800d0174	Besieged
+PROG:800d017c	Status
+PROG:800d0184	:
+PROG:800d0188	Merit
+PROG:800d0194	Settings
+PROG:800d019c	End
+PROG:800d01ac	 bottles
+PROG:800d01b0	Gambling
+PROG:800d01b8	
+PROG:800d01c0	
+PROG:800d01c4	
+PROG:800d01d4	By Province
+PROG:800d01e4	Troops
+PROG:800d01ec	 men
+PROG:800d01f0	Funds
+PROG:800d01f8	 kan
+PROG:800d01fc	Horses
+PROG:800d0204	 horses
+PROG:800d0208	Rice
+PROG:800d0210	 koku
+PROG:800d0214	Guns
+PROG:800d021c	 guns
+PROG:800d0220	Cannon
+PROG:800d0228	 cannon
+PROG:800d022c	Gift
+PROG:800d0234	Diplomacy
+PROG:800d023c	Recruit
+PROG:800d0244	Tribute
+PROG:800d024c	Vault
+PROG:800d0254	Reward
+PROG:800d025c	Threaten
+PROG:800d0264	Council
+PROG:800d026c	Personnel
+PROG:800d0274	Transport
+PROG:800d027c	 person
+PROG:800d0280	 man
+PROG:800d02a8	large
+PROG:800d02b0	Lord %s
+PROG:800d02b8	 days
+PROG:800d02bc	Withdraw
+PROG:800d02c4	Deposit
+PROG:800d02d4	Chief Retainer
+PROG:800d02dc	Province Lord
+PROG:800d02e4	Castle Lord
+PROG:800d02ec	Castellan
+PROG:800d02f4	Strategist
+PROG:800d02fc	Direct Rule
+PROG:800d0304	Move Castle
+PROG:800d0314	Promote
+PROG:800d031c	Appoint
+PROG:800d0324	Aide
+PROG:800d032c	This Castle
+PROG:800d0334	Muster
+PROG:800d033c	Distribute
+PROG:800d0344	 Castle
+PROG:800d0348	-ji
+PROG:800d034c	 Manor
+PROG:800d0350	Military
+PROG:800d0358	Resources
+PROG:800d0360	Court Rank
+PROG:800d036c	Battle
+PROG:800d0374	Armaments
+PROG:800d037c	Intrigue
+PROG:800d0384	Domestic
+PROG:800d0394	-
+PROG:800d039c	%4d
+PROG:800d03a4	
+PROG:800d03ac	
+PROG:800d03b4	, 
+PROG:800d03b8	Monkey
+PROG:800d03bc	 men
+PROG:800d03c0	 koku
+PROG:800d03c4	 kan
+PROG:800d03c8	 guns
+PROG:800d03cc	 horses
+PROG:800d03d0	 cannon
+PROG:800d03d4	By Province
+PROG:800d03dc	you
+PROG:800d03e4	Domestic
+PROG:800d03ec	Armaments
+PROG:800d03f4	Intrigue
+PROG:800d03fc	Battle
+PROG:800d0404	Revolt
+PROG:800d040c	 pcs
+PROG:800d0424	 days
+PROG:800d0428	 kan
+PROG:800d0430	 all
+PROG:800d0438	Everyone, 
+PROG:800d0440	 days
+PROG:800d0444	Withdraw
+PROG:800d044c	Deposit
+PROG:800d045c	 kan
+PROG:800d0468	Vault
+PROG:800d0480	 pcs
+PROG:800d0484	Advise
+PROG:800d0494	you
+PROG:800d049c	 kan
+PROG:800d04a8	Gift
+PROG:800d04b0	Tea
+PROG:800d04b8	Put in a Word
+PROG:800d04c8	-
+PROG:800d04d0	-
+PROG:800d04d8	-
+PROG:800d04e0	-
+PROG:800d04e8	Home
+PROG:800d04f0	greedy
+PROG:800d04f8	coward
+PROG:800d0508	Recruit
+PROG:800d0510	Gift
+PROG:800d0518	Talk
+PROG:800d0520	By Province
+PROG:800d0528	Bamboo (5 kan)
+PROG:800d0530	Plum (3 kan)
+PROG:800d0540	Brother
+PROG:800d0548	 person
+PROG:800d054c	 man
+PROG:800d0550	
+PROG:800d0558	
+PROG:800d055c	gentle
+PROG:800d0564	a keen drinker
+PROG:800d056c	Building
+PROG:800d0574	Speech
+PROG:800d057c	Scheming
+PROG:800d0584	Tactics
+PROG:800d058c	Recruit
+PROG:800d0594	Gift
+PROG:800d059c	Study
+PROG:800d05a4	Teach
+PROG:800d05ac	Tea
+PROG:800d05b4	Guns 1
+PROG:800d05bc	Guns 2
+PROG:800d05c4	Guns 3
+PROG:800d05cc	Guns
+PROG:800d05d4	Cannon
+PROG:800d05dc	 guns
+PROG:800d05e0	 cannon
+PROG:800d05ec	-
+PROG:800d05f0	rice
+PROG:800d05f4	horses
+PROG:800d05f8	 pcs
+PROG:800d05fc	splendid
+PROG:800d0604	 guns
+PROG:800d0608	 cannon
+PROG:800d0614	Guns
+PROG:800d061c	Cannon
+PROG:800d0624	Appraise
+PROG:800d0634	 days
+PROG:800d0638	%d00 mon
+PROG:800d0640	%d kan
+PROG:800d06fc	 pcs
+PROG:800d0700	
+PROG:800d0708	
+PROG:800d070c	 days
+PROG:800d0720	Officer
+PROG:800d0728	New Rank
+PROG:800d0730	Rank
+PROG:800d073c	All
+PROG:800d0744	OK
+PROG:800d074c	Province
+PROG:800d0754	Price
+PROG:800d075c	Surveying
+PROG:800d0764	Surveyed
+PROG:800d076c	Unknown
+PROG:800d0774	Castle
+PROG:800d077c	Castles
+PROG:800d0788	Failure
+PROG:800d0790	Success
+PROG:800d0798	Failure
+PROG:800d07a0	Medium damage
+PROG:800d07a8	None
+PROG:800d07b0	%u koku
+PROG:800d07b8	%d kan
+PROG:800d07c0	%d horses
+PROG:800d07c8	%d guns
+PROG:800d07d0	%d cannon
+PROG:800d07d8	%d,000 koku
+PROG:800d07e0	%d men
+PROG:800d07e8	Mission
+PROG:800d07f0	Result
+PROG:800d07f8	Troops
+PROG:800d0800	Funds
+PROG:800d0808	Horses
+PROG:800d0810	Rice
+PROG:800d0818	Guns
+PROG:800d0820	Cannon
+PROG:800d0828	From
+PROG:800d0830	To
+PROG:800d083c	Max
+PROG:800d0844	Budget
+PROG:800d0854	OK
+PROG:800d085c	Daimyō
+PROG:800d0868	Info
+PROG:800d0870	Name
+PROG:800d0878	Owned
+PROG:800d0880	Price
+PROG:800d089c	%4d kan
+PROG:800d08a4	%d00 mon
+PROG:800d08ac	%s
+PROG:800d08b4	Main Castle
+PROG:800d08bc	Direct Rule
+PROG:800d08c4	Population
+PROG:800d08cc	Yield
+PROG:800d08d4	Commerce
+PROG:800d08dc	Mines
+PROG:800d08e4	%4dk koku
+PROG:800d08f0	Rice
+PROG:800d08f8	Horses
+PROG:800d0900	Guns
+PROG:800d0908	Cannon
+PROG:800d091c	Morale
+PROG:800d0924	Fatigue
+PROG:800d092c	Training
+PROG:800d0934	Defence
+PROG:800cf2b0	/%y
+PROG:800cf2b8	/%y

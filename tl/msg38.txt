@@ -1,0 +1,156 @@
+@169
+Without tea ware, I can't hold a tea gathering.
+@242
+Picking fights at random will never bring victory. We must prepare for battle first. That is all I can say for now.
+@247
+Hmm... Perhaps it would be best to work on domestic affairs and firm up our footing first.
+@1050
+Why, my lord, and Lord {a730013} as well! What brings the two of you here together?
+@1051
+Lord {a6d0002} made a weighty announcement, but neither of us has any idea what it means. We thought we would ask you, {a6d003b}.
+@1052
+And what exactly did His Lordship say?
+@1053
+First, he said he was doing away with the name Inabayama, and the place would be called "Gifu".
+@1054
+Then he also spoke of "Tenka Fubu".
+@1055
+Oh, Gifu? That is a bold stroke.
+@1056
+The histories tell us that, long ago, King Wen of Zhou set out from Mount Qi and brought the whole realm under his rule.
+@1057
+The name Gifu surely comes from that. In other words, it declares his will to unify the realm from this very place.
+@1058
+And "Tenka Fubu" surely makes plain his resolve to unify the realm by force of arms.
+@1059
+I see! That is just like Lord {a6d0002}! Yes, I believe that is just what he said.
+@1060
+But would that not stir up the resentment of the other daimyō?
+@1061
+Yes. There must be someone to whom His Lordship wants to make known that he means to take the realm.
+@1062
+Who would gain from being told he means to take the realm?
+@1063
+Ashikaga Yoshiaki\nTakeda Shingen\nAkechi Mitsuhide
+@1064
+Lord Ashikaga Yoshiaki...?
+@1065
+Could it be Takeda Shingen?
+@1066
+What, Shingen?! If we provoke the Takeda now, we have no hope of winning, do we?
+@1067
+Gentlemen, Shingen is certainly a threat, but there would be nothing to gain by telling him.
+@1068
+The one he truly wants to tell must be Lord Ashikaga Yoshiaki.
+@1069
+Akechi Mitsuhide...
+@1070
+My lord, do you know Lord Akechi Mitsuhide?
+@1071
+No, I don't think I do... I wonder why that name came to me...
+@1072
+Surely you do not have the second sight, my lord?
+@1073
+I was about to say Lord Ashikaga Yoshiaki, and Lord Akechi Mitsuhide serves that same Lord Yoshiaki.
+@1074
+I expect you will have more chances to meet him from now on.
+@1075
+I see. So what happens when Lord Yoshiaki learns that Lord {a6d0002} means to take the realm?
+@1076
+In all likelihood, His Lordship...
+@1077
+"My march on the capital is not for selfish gain. It is to restore the rightful line of the Ashikaga shoguns and to make plain in this land who is loyal and who is not."
+@1078
+...is what he means to declare, I should think. It makes a fine pretext for marching on the capital.
+@1079
+And to have the shogun's house on his side will be a fine banner for commanding the realm.
+@1080
+I see. To Lord {a6d0002}, Lord Ashikaga Yoshiaki, who claims the shogunate by right, is a man of use.
+@1081
+Exactly so.
+@1082
+Hanbee, I've got it\nLord Toshiie, did you get it?
+@1083
+I've got it, Hanbee!
+@1084
+Lord Toshiie, did you get it? Was it a bit too hard for you?
+@1085
+What! Are you making a fool of me?! Take this!!
+@1086
+Finishing Move: Omatsu's Own Hundred-Slap Barrage!!
+@1087
+{d03}Yeowch!
+@1088
+How do you like that? My Finishing Move grows stronger by the day!
+@1089
+Th-that's Lady Omatsu's own technique for you... I yield.
+@1090
+Ha ha ha... Of course, of course.
+@1091
+My lord... Are you all right?
+@1092
+Somehow...
+@1093
+I see... Then I am glad.
+@1094
+So, what was it you wanted to talk to me about?
+@1095
+You may not know it, but... you are hated.
+@1096
+Hating others is shameful...\nBy the Saitō clan's men?\nThat is strange
+@1097
+I suppose so. To those who served the Saitō clan, I must be someone worth hating.
+@1098
+Who said anything about the Saitō? I'm talking about the Oda clan.
+@1099
+That is strange... I haven't been unfaithful lately. There is no reason to be hated...
+@1100
+What?! You have a fine wife in Lady {a6d00e6}, and you were unfaithful?!
+@1101
+N-no... that was long ago. Please keep this strictly between us...
+@1102
+Hm...? That is not it! I am saying you are hated by men of the {a730002} clan.
+@1103
+What... To think there are men in the {a730002} clan who speak ill of others behind their backs. How shameful.
+@1104
+Perhaps. But there is a problem with your attitude too.
+@1105
+What do you mean? What is wrong with my attitude?
+@1106
+Anyway, the ones who spread this sort of rumour are just envious of another man's rise.
+@1107
+Only a fool takes them seriously.
+@1108
+But if you talk like that, you will find it hard to stay in the {a730002} clan.
+@1109
+So long as Lord Nobunaga acknowledges me, that is enough for me.
+@1110
+There you go again... Don't say I didn't warn you...
+@1111
+Wait, Lord Toshiie. Can you not look at it this way?
+@1113
+If people hate and envy me, doesn't that just mean I have risen that far?
+@1114
+What cheek...
+@1115
+Then let's celebrate! Nothing could be happier! Let's drink, let's drink!
+@1116
+I can't keep up with you. Until next time.
+@1117
+Come to think of it, Lady Oichi has married Lord Azai Nagamasa.
+@1118
+What?! Is that true? I would at least have liked the duty of escorting Lady Oichi...
+@1119
+Ha ha ha... There was never a chance of you being given charge of Lady Oichi's escort.
+@1120
+Hm...? Why is that?
+@1121
+Most likely someone saw you gaping at Lady Oichi and advised His Lordship to keep you away from her.
+@1122
+Ha ha ha... Even {a6d003b} makes jokes!
+@1123
+I did not mean it as a joke...
+@1313
+Doing more will not raise my skill any higher.
+@1465
+For a battle, it would be wise to prepare about 1 kan of war funds per soldier.
