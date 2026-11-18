@@ -14,8 +14,8 @@ Shibata Katsuie. The game was only released in Japan.
 
 > **This is a beta.** All of the game's text is in English, but only the first months of the
 > first story have been played: the opening, the first missions, several councils, a promotion,
-> the buildings of Kiyosu, Iwamura and Sakai, and one siege (won and lost). Nearly all of the
-> later story and the whole second story have not been seen on screen.
+> the buildings of Kiyosu, Iwamura and Sakai, and one siege (won and lost); and the opening of
+> the Special Tale up to free play. Nearly all of the later story has not been seen on screen.
 > Expect some text that is squeezed, cut short or wrapped oddly later on.
 
 This repository contains the English text and the tools that build the patch.
@@ -149,7 +149,7 @@ helpers in `tools/dev/` only.
 - Text that is part of the scenery is unchanged: the title logo, shop signs, hanging scrolls.
   The movies have no subtitles in the Japanese game either.
 - Some names of commands and missions read stiffly inside sentences ("Is Train all right?").
-- Counts are not always matched ("1 days").
+- A few counts may still read "1 days" (messages and the quantity box handle it; some menus may not).
 - Most of the game has not been seen in play. Its text may overflow in places.
 
 Tested in DuckStation only. Bug reports with a screenshot and where it happened are welcome.
